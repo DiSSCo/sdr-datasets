@@ -1,0 +1,24 @@
+1) 250 herbarium specimen images were put through Google Cloud Vision (GCV) for text capture.
+2) Results were manually validated line by line for correctness. Some elements were ignored, such as text on the color bar and ruler.
+3) A gold standard was created for all unignored elements. These are published in a JSON format along with their bounding boxes.
+4) Bounding boxes were defined differently than the lines (which were newline separated). This causes the granularity of the GCV-provided bounding boxes
+to be greater than the values in the Gold Standard. Hence, the GCV boxes were merged to conform to the gold standard values.
+5) Ignored values still have a bounding box, just no gold standard. Text missed by GCV does not have bounding boxes.
+
+Metadata of the .json file:
+(Note that empty fields are omitted from the JSON)
+
+goldstandard:gcv	raw transcription by GCV, separated by newline characters.
+goldstandard:gold	gold standard as approximated by manual validators
+goldstandard:ignored	checked (with x) if this line was ignored for validation
+goldstandard:unint	checked (with x) if this line was considered to be unintelligible
+goldstandard:comment	free text comments by the validators
+goldstandard:id	numeric id for the line in the gold standard
+goldstandard:bb	bounding box for the gold standard (or ignored) line
+golstandard:ht	whether the line was typed (t), handwritten (h) or a combination of both (ht). for the latter category, (th) may also be used erroneously.
+goldstandard:score	line accuracy score of 0, 0.5 or 1. 0,5 may occur as well.
+######################
+gcvoutput:raw	raw output of GCV, separated by bounding box segmentation
+gcvoutput:id	numeric id for the bounding box as provided by GCV
+gcvoutput:bb	bounding box coordinates
+gcvoutput:char	number of characters in the raw output for the bounding box
