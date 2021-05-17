@@ -4,6 +4,16 @@
 4) Bounding boxes were defined differently than the lines (which were newline separated). This causes the granularity of the GCV-provided bounding boxes
 to be greater than the values in the Gold Standard. Hence, the GCV boxes were merged to conform to the gold standard values.
 5) Ignored values still have a bounding box, just no gold standard. Text missed by GCV does not have bounding boxes.
+6) Lines were annotated with 6 different entities: 
+
+location = c("locality","county","country","verbatimLocality","stateProvince","higherGeography","municipality")
+date = c("year","verbatimEventDate")
+taxon = c("genus","specificEpithet","scientificName","infraspecificEpithet","scientificNameAuthorship")
+person= c("recordedBy","identifiedBy")
+barcode = c("catalogNumber","otherCatalogNumbers")
+typestatus = c("typeStatus")
+
+These entities were inferred from Darwin Core terms as published on GBIF (at the time the dataset was published).
 
 Metadata of the .json file:
 (Note that empty fields are omitted from the JSON)
@@ -17,6 +27,8 @@ goldstandard:id	numeric id for the line in the gold standard
 goldstandard:bb	bounding box for the gold standard (or ignored) line
 golstandard:ht	whether the line was typed (t), handwritten (h) or a combination of both (ht). for the latter category, (th) may also be used erroneously.
 goldstandard:score	line accuracy score of 0, 0.5 or 1. 0,5 may occur as well.
+goldstandard:note   Darwin Core terms (|-separated) whose GBIF-published values were positively matched in the text line
+goldstandard:location|data|taxon|person|barcode|typestatus  positive presence of these entities is indicated with 'x'
 ######################
 gcvoutput:raw	raw output of GCV, separated by bounding box segmentation
 gcvoutput:id	numeric id for the bounding box as provided by GCV
