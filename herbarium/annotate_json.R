@@ -46,7 +46,9 @@ for (i in 1:length(data)) {
     filter(catalogNumber==names(data)[i]) %>%
     select(all_of(prop$dwcterm))
   for (j in 1:dim(prop)[1]) {
-    dwc_data = tolower(pull(subdwc[,j]))
+    rawvalue = pull(subdwc[,j])
+    rawvalue = gsub("|",";",rawvalue,fixed=T)
+    dwc_data = tolower(rawvalue)
     dwc_data = gsub("[[:punct:]]",
                     "",
                     dwc_data)
@@ -59,32 +61,32 @@ for (i in 1:length(data)) {
                                     sep="|")
           if (prop$dwcterm[j]%in%location) {
             src$location[resu[k]] = paste(src$location[resu[k]],
-                                          pull(subdwc[,j]),
+                                          rawvalue,
                                           sep="|")
           }
           if (prop$dwcterm[j]%in%taxon) {
             src$taxon[resu[k]] = paste(src$taxon[resu[k]],
-                                       pull(subdwc[,j]),
+                                       rawvalue,
                                        sep="|")
           }
           if (prop$dwcterm[j]%in%person) {
             src$person[resu[k]] = paste(src$person[resu[k]],
-                                        pull(subdwc[,j]),
+                                        rawvalue,
                                         sep="|")
           }
           if (prop$dwcterm[j]%in%barcode) {
             src$barcode[resu[k]] = paste(src$barcode[resu[k]],
-                                         pull(subdwc[,j]),
+                                         rawvalue,
                                          sep="|")
           }
           if (prop$dwcterm[j]%in%date) {
             src$date[resu[k]] = paste(src$date[resu[k]],
-                                      pull(subdwc[,j]),
+                                      rawvalue,
                                       sep="|")
           }
           if (prop$dwcterm[j]%in%typestatus) {
             src$typestatus[resu[k]] = paste(src$typestatus[resu[k]],
-                                            pull(subdwc[,j]),
+                                            rawvalue,
                                             sep="|")
           }
         }
