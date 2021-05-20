@@ -28,12 +28,12 @@ data2=data
 for (i in 1:length(data)) {
   src = data[[i]]$goldstandard
   src$note = ""
-  src$location = NA
-  src$date = NA
-  src$taxon = NA
-  src$person = NA
-  src$barcode = NA
-  src$typestatus = NA
+  src$location = ""
+  src$date = ""
+  src$taxon = ""
+  src$person = ""
+  src$barcode = ""
+  src$typestatus = ""
   src$goldraw = tolower(gsub("[[:punct:]]",
                              "",
                              src$gold))
@@ -53,22 +53,34 @@ for (i in 1:length(data)) {
                                     prop$dwcterm[j],
                                     sep="|")
           if (prop$dwcterm[j]%in%location) {
-            src$location[resu[k]] = "x"
+            src$location[resu[k]] = paste(src$location[resu[k]],
+                                          pull(subdwc[,j]),
+                                          sep="|")
           }
           if (prop$dwcterm[j]%in%taxon) {
-            src$taxon[resu[k]] = "x"
+            src$taxon[resu[k]] = paste(src$taxon[resu[k]],
+                                       pull(subdwc[,j]),
+                                       sep="|")
           }
           if (prop$dwcterm[j]%in%person) {
-            src$person[resu[k]] = "x"
+            src$person[resu[k]] = paste(src$person[resu[k]],
+                                        pull(subdwc[,j]),
+                                        sep="|")
           }
           if (prop$dwcterm[j]%in%barcode) {
-            src$barcode[resu[k]] = "x"
+            src$barcode[resu[k]] = paste(src$barcode[resu[k]],
+                                         pull(subdwc[,j]),
+                                         sep="|")
           }
           if (prop$dwcterm[j]%in%date) {
-            src$date[resu[k]] = "x"
+            src$date[resu[k]] = paste(src$date[resu[k]],
+                                      pull(subdwc[,j]),
+                                      sep="|")
           }
           if (prop$dwcterm[j]%in%typestatus) {
-            src$typestatus[resu[k]] = "x"
+            src$typestatus[resu[k]] = paste(src$typestatus[resu[k]],
+                                            pull(subdwc[,j]),
+                                            sep="|")
           }
         }
       }
@@ -79,6 +91,30 @@ for (i in 1:length(data)) {
                  "",
                  src$note,
                  fixed=T)
+  src$location = sub("|",
+                     "",
+                     src$location,
+                     fixed=T)
+  src$taxon = sub("|",
+                  "",
+                  src$taxon,
+                  fixed=T)
+  src$date = sub("|",
+                 "",
+                 src$date,
+                 fixed=T)
+  src$typestatus = sub("|",
+                       "",
+                       src$typestatus,
+                       fixed=T)
+  src$barcode = sub("|",
+                    "",
+                    src$barcode,
+                    fixed=T)
+  src$person = sub("|",
+                   "",
+                   src$person,
+                   fixed=T)
   data2[[i]]$goldstandard = src
 }
 
@@ -133,5 +169,5 @@ allnotes2all = notesCount(data2,all=T)
 
 #export results back to json
 write_json(data2,
-           "annotated-properties-v2.json",
+           "annotated-properties-v3.json",
            pretty=T)
