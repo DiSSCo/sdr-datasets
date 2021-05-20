@@ -23,6 +23,9 @@ barcode = c("catalogNumber","otherCatalogNumbers")
 typestatus = c("typeStatus")
 all = c(location,date,taxon,person,barcode,typestatus)
 
+dwc2 = dwc %>%
+  select(all)
+
 prop %<>% filter(dwcterm%in%all)
 
 #annotate gold standard lines with matched DwC terms and with the 6 basic categories
@@ -39,7 +42,7 @@ for (i in 1:length(data)) {
   src$goldraw = tolower(gsub("[[:punct:]]",
                              "",
                              src$gold))
-  subdwc = dwc %>%
+  subdwc = dwc2 %>%
     filter(catalogNumber==names(data)[i]) %>%
     select(all_of(prop$dwcterm))
   for (j in 1:dim(prop)[1]) {
