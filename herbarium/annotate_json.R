@@ -21,7 +21,9 @@ taxon = c("genus","specificEpithet","scientificName","infraspecificEpithet","sci
 person= c("recordedBy","identifiedBy")
 barcode = c("catalogNumber","otherCatalogNumbers")
 typestatus = c("typeStatus")
+all = c(location,date,taxon,person,barcode,typestatus)
 
+prop %<>% filter(dwcterm%in%all)
 
 #annotate gold standard lines with matched DwC terms and with the 6 basic categories
 data2=data
