@@ -1,0 +1,35 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "fbb4d5b7-9307-4a9b-89c9-6185bbd456a5",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/2e6319e5-1de2-473a-9b4b-4e50ba9409e4",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/2e6319e5-1de2-473a-9b4b-4e50ba9409e4/full/full/0/default.jpg"
+    },
+    "named_entities": [
+        {
+            "tags": "BRITISH B-location_name\nISLES I-location_name\n: I-location_name\nT B-Collection/Donation\n. I-Collection/Donation\nBainbrigge I-Collection/Donation\n- I-Collection/Donation\nFletcher I-Collection/Donation\nColl I-Collection/Donation\n. I-Collection/Donation\nB B-identifier\n. I-identifier\nM I-identifier\n. I-identifier\n1968 I-identifier\n- I-identifier\n501 I-identifier",
+            "worker_version_id": null
+        },
+        {
+            "tags": "Bombus B-taxon_name\n\u2642 B-Sex\nagrorum B-taxon_name\nRichards B-Determination\ndet I-Determination\n1943 I-Determination",
+            "worker_version_id": null
+        },
+        {
+            "tags": "Rodborough B-location_name\n17 B-date\n. I-date\nVIII I-date\n. I-date\n42 I-date\nFletcher B-person_name",
+            "worker_version_id": null
+        },
+        {
+            "tags": "B B-taxon_name\n. I-taxon_name\nagrorum I-taxon_name\n\u2642 B-Sex",
+            "worker_version_id": null
+        }
+    ],
+    "page": {
+        "id": "162b73b0-ae36-45cf-94b9-1893f8768e4d",
+        "name": "010807528__.2500x5792.jpeg",
+        "rotation_angle": 0
+    }
+}

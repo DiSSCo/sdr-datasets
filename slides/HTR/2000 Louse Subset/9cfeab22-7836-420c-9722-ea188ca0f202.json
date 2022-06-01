@@ -1,0 +1,181 @@
+{
+    "dataset_id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+    "folder": {
+        "id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+        "name": "2000 Louse Subset"
+    },
+    "image": {
+        "id": "21eb1405-f87c-4120-b7f5-de5fba3e5f5d",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fsynthesys%2Fslides_images%2F9cfeab22-7836-420c-9722-ea188ca0f202.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fsynthesys%2Fslides_images%2F9cfeab22-7836-420c-9722-ea188ca0f202.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "9cfeab22-7836-420c-9722-ea188ca0f202",
+        "name": "141",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    2204,
+                    3153
+                ],
+                [
+                    2204,
+                    3253
+                ],
+                [
+                    2613,
+                    3253
+                ],
+                [
+                    2613,
+                    3153
+                ],
+                [
+                    2204,
+                    3153
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "010672719",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    552,
+                    5754
+                ],
+                [
+                    552,
+                    6155
+                ],
+                [
+                    2615,
+                    6155
+                ],
+                [
+                    2615,
+                    5754
+                ],
+                [
+                    552,
+                    5754
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Sclerite & glands.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    646,
+                    7519
+                ],
+                [
+                    646,
+                    7962
+                ],
+                [
+                    2657,
+                    7962
+                ],
+                [
+                    2657,
+                    7519
+                ],
+                [
+                    646,
+                    7519
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Columbicola",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    585,
+                    1886
+                ],
+                [
+                    585,
+                    2369
+                ],
+                [
+                    2508,
+                    2369
+                ],
+                [
+                    2508,
+                    1886
+                ],
+                [
+                    585,
+                    1886
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Turtur capicola.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    2133,
+                    3261
+                ],
+                [
+                    2133,
+                    3603
+                ],
+                [
+                    2237,
+                    3603
+                ],
+                [
+                    2237,
+                    3261
+                ],
+                [
+                    2133,
+                    3261
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    1354,
+                    6189
+                ],
+                [
+                    1354,
+                    6538
+                ],
+                [
+                    1916,
+                    6538
+                ],
+                [
+                    1916,
+                    6189
+                ],
+                [
+                    1354,
+                    6189
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "\u2642",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        }
+    ]
+}

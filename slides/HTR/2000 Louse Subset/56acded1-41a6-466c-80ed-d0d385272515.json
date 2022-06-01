@@ -1,0 +1,316 @@
+{
+    "dataset_id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+    "folder": {
+        "id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+        "name": "2000 Louse Subset"
+    },
+    "image": {
+        "id": "350585bf-8927-4f58-92c4-1d5ab56390ab",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/08d14ab0-8def-4897-88a3-f698b00a5a62",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/08d14ab0-8def-4897-88a3-f698b00a5a62/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "56acded1-41a6-466c-80ed-d0d385272515",
+        "name": "95",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    3524,
+                    475
+                ],
+                [
+                    3524,
+                    579
+                ],
+                [
+                    3944,
+                    579
+                ],
+                [
+                    3944,
+                    475
+                ],
+                [
+                    3524,
+                    475
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    2192,
+                    694
+                ],
+                [
+                    2192,
+                    1272
+                ],
+                [
+                    2696,
+                    1272
+                ],
+                [
+                    2696,
+                    694
+                ],
+                [
+                    2192,
+                    694
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "63",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    7362,
+                    652
+                ],
+                [
+                    7362,
+                    2574
+                ],
+                [
+                    7752,
+                    2574
+                ],
+                [
+                    7752,
+                    652
+                ],
+                [
+                    7362,
+                    652
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Tungurahua.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    3877,
+                    548
+                ],
+                [
+                    3877,
+                    962
+                ],
+                [
+                    3998,
+                    962
+                ],
+                [
+                    3998,
+                    548
+                ],
+                [
+                    3877,
+                    548
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "010665315",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    835,
+                    743
+                ],
+                [
+                    835,
+                    2586
+                ],
+                [
+                    1376,
+                    2586
+                ],
+                [
+                    1376,
+                    743
+                ],
+                [
+                    835,
+                    743
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Trimenopon",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6632,
+                    688
+                ],
+                [
+                    6632,
+                    2227
+                ],
+                [
+                    7052,
+                    2227
+                ],
+                [
+                    7052,
+                    688
+                ],
+                [
+                    6632,
+                    688
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "porcellus.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    1766,
+                    749
+                ],
+                [
+                    1766,
+                    2099
+                ],
+                [
+                    2185,
+                    2099
+                ],
+                [
+                    2185,
+                    749
+                ],
+                [
+                    1766,
+                    749
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "(Burm.).",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    7600,
+                    840
+                ],
+                [
+                    7600,
+                    2483
+                ],
+                [
+                    8007,
+                    2483
+                ],
+                [
+                    8007,
+                    840
+                ],
+                [
+                    7600,
+                    840
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Ecuador.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    1334,
+                    810
+                ],
+                [
+                    1334,
+                    2361
+                ],
+                [
+                    1778,
+                    2361
+                ],
+                [
+                    1778,
+                    810
+                ],
+                [
+                    1334,
+                    810
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "hispidum",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    7003,
+                    1090
+                ],
+                [
+                    7003,
+                    2556
+                ],
+                [
+                    7393,
+                    2556
+                ],
+                [
+                    7393,
+                    1090
+                ],
+                [
+                    7003,
+                    1090
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Prov. del",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6395,
+                    1540
+                ],
+                [
+                    6395,
+                    2598
+                ],
+                [
+                    6736,
+                    2598
+                ],
+                [
+                    6736,
+                    1540
+                ],
+                [
+                    6395,
+                    1540
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Cavia",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        }
+    ]
+}

@@ -1,0 +1,208 @@
+{
+    "dataset_id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+    "folder": {
+        "id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+        "name": "2000 Louse Subset"
+    },
+    "image": {
+        "id": "d5bbc0c1-6bdd-47a8-9d16-571088e54947",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/2772bacc-912e-4b9b-8a58-e0633180a5e6",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/2772bacc-912e-4b9b-8a58-e0633180a5e6/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "1e6377f7-d581-4cef-8e60-e0525681ef59",
+        "name": "14",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    5933,
+                    2096
+                ],
+                [
+                    5933,
+                    2456
+                ],
+                [
+                    6026,
+                    2456
+                ],
+                [
+                    6026,
+                    2096
+                ],
+                [
+                    5933,
+                    2096
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6296,
+                    102
+                ],
+                [
+                    6296,
+                    508
+                ],
+                [
+                    8476,
+                    508
+                ],
+                [
+                    8476,
+                    102
+                ],
+                [
+                    6296,
+                    102
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Lanius s.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    5476,
+                    2439
+                ],
+                [
+                    5476,
+                    2536
+                ],
+                [
+                    5926,
+                    2536
+                ],
+                [
+                    5926,
+                    2439
+                ],
+                [
+                    5476,
+                    2439
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "010647336",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6599,
+                    508
+                ],
+                [
+                    6599,
+                    837
+                ],
+                [
+                    8381,
+                    837
+                ],
+                [
+                    8381,
+                    508
+                ],
+                [
+                    6599,
+                    508
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "senator",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6245,
+                    828
+                ],
+                [
+                    6245,
+                    1209
+                ],
+                [
+                    8026,
+                    1209
+                ],
+                [
+                    8026,
+                    828
+                ],
+                [
+                    6245,
+                    828
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "S.Spain.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6236,
+                    1244
+                ],
+                [
+                    6236,
+                    1572
+                ],
+                [
+                    8147,
+                    1572
+                ],
+                [
+                    8147,
+                    1244
+                ],
+                [
+                    6236,
+                    1244
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "17.iv.1961",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6288,
+                    1572
+                ],
+                [
+                    6288,
+                    2013
+                ],
+                [
+                    8614,
+                    2013
+                ],
+                [
+                    8614,
+                    1572
+                ],
+                [
+                    6288,
+                    1572
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "VarmaNo.194",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "2fe654c2-cc6b-472e-b8e8-e2f8eddd4f32",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/853920cb-cfd5-4371-9729-b0bc773380bb",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/853920cb-cfd5-4371-9729-b0bc773380bb/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "3cbe5698-02fa-4e99-854c-584e73434bae",
+        "name": "012540541_136866_1082981.2500x5792.jpeg",
+        "rotation_angle": 0
+    },
+    "polygons": {
+        "text_line": [
+            [
+                [
+                    1793,
+                    768
+                ],
+                [
+                    1793,
+                    850
+                ],
+                [
+                    2002,
+                    850
+                ],
+                [
+                    2002,
+                    768
+                ],
+                [
+                    1793,
+                    768
+                ]
+            ],
+            [
+                [
+                    1821,
+                    853
+                ],
+                [
+                    1821,
+                    942
+                ],
+                [
+                    2019,
+                    942
+                ],
+                [
+                    2019,
+                    853
+                ],
+                [
+                    1821,
+                    853
+                ]
+            ],
+            [
+                [
+                    1782,
+                    1199
+                ],
+                [
+                    1782,
+                    1261
+                ],
+                [
+                    2358,
+                    1261
+                ],
+                [
+                    2359,
+                    1192
+                ],
+                [
+                    1782,
+                    1199
+                ]
+            ]
+        ]
+    }
+}

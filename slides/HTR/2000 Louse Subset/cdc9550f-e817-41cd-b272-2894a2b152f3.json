@@ -1,0 +1,343 @@
+{
+    "dataset_id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+    "folder": {
+        "id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+        "name": "2000 Louse Subset"
+    },
+    "image": {
+        "id": "2d91ac2d-ff6f-4281-90f8-b7f546ea0423",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/aac4fa4d-f933-49a7-82e7-52fc0665fa89",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/aac4fa4d-f933-49a7-82e7-52fc0665fa89/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "cdc9550f-e817-41cd-b272-2894a2b152f3",
+        "name": "76",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    5894,
+                    432
+                ],
+                [
+                    5894,
+                    806
+                ],
+                [
+                    6038,
+                    806
+                ],
+                [
+                    6038,
+                    432
+                ],
+                [
+                    5894,
+                    432
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6278,
+                    422
+                ],
+                [
+                    6278,
+                    787
+                ],
+                [
+                    7766,
+                    787
+                ],
+                [
+                    7766,
+                    422
+                ],
+                [
+                    6278,
+                    422
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Saltator",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    614,
+                    451
+                ],
+                [
+                    614,
+                    998
+                ],
+                [
+                    2246,
+                    998
+                ],
+                [
+                    2246,
+                    451
+                ],
+                [
+                    614,
+                    451
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Myrsidea",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    5520,
+                    758
+                ],
+                [
+                    5520,
+                    883
+                ],
+                [
+                    5961,
+                    883
+                ],
+                [
+                    5961,
+                    758
+                ],
+                [
+                    5520,
+                    758
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "010660572",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6547,
+                    748
+                ],
+                [
+                    6547,
+                    1027
+                ],
+                [
+                    8457,
+                    1027
+                ],
+                [
+                    8457,
+                    748
+                ],
+                [
+                    6547,
+                    748
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "coerulescens",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    2294,
+                    2323
+                ],
+                [
+                    2294,
+                    2707
+                ],
+                [
+                    2755,
+                    2707
+                ],
+                [
+                    2755,
+                    2323
+                ],
+                [
+                    2294,
+                    2323
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "\u2642\u2640",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6326,
+                    988
+                ],
+                [
+                    6326,
+                    1324
+                ],
+                [
+                    7670,
+                    1324
+                ],
+                [
+                    7670,
+                    988
+                ],
+                [
+                    6326,
+                    988
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Fort Read,",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6259,
+                    1305
+                ],
+                [
+                    6259,
+                    1603
+                ],
+                [
+                    7795,
+                    1603
+                ],
+                [
+                    7795,
+                    1305
+                ],
+                [
+                    6259,
+                    1305
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Trinidad.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6336,
+                    1564
+                ],
+                [
+                    6336,
+                    1958
+                ],
+                [
+                    8092,
+                    1958
+                ],
+                [
+                    8092,
+                    1564
+                ],
+                [
+                    6336,
+                    1564
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "18. iii. 1966.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6240,
+                    1920
+                ],
+                [
+                    6240,
+                    2236
+                ],
+                [
+                    8448,
+                    2236
+                ],
+                [
+                    8448,
+                    1920
+                ],
+                [
+                    6240,
+                    1920
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "T.H.G. Aitken.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6278,
+                    2227
+                ],
+                [
+                    6278,
+                    2467
+                ],
+                [
+                    8227,
+                    2467
+                ],
+                [
+                    8227,
+                    2227
+                ],
+                [
+                    6278,
+                    2227
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "TRVL. 11420.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6278,
+                    2448
+                ],
+                [
+                    6278,
+                    2668
+                ],
+                [
+                    8428,
+                    2668
+                ],
+                [
+                    8428,
+                    2448
+                ],
+                [
+                    6278,
+                    2448
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Brit. Mus. 1974-636",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "c6921fde-1698-47a6-b8bc-e8f701a3c3ab",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/d4d23f00-8e26-46a0-badc-1c9d93786ef6",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/d4d23f00-8e26-46a0-badc-1c9d93786ef6/full/full/0/default.jpg"
+    },
+    "named_entities": [
+        {
+            "tags": "Pempelia B-taxon_name\ndilutella I-taxon_name\nH\u00fcbn B-person_name\ndet B-Determination\n. I-Determination\nM I-Determination\n. I-Determination\nShaffer I-Determination\n. I-Determination\n1962 I-Determination",
+            "worker_version_id": null
+        },
+        {
+            "tags": "COULSDON B-location_name\n13 B-date\n. I-date\nVII I-date\n. I-date\n1962 I-date\nA B-person_name\n. I-person_name\nS I-person_name\n. I-person_name\nWHEELER I-person_name",
+            "worker_version_id": null
+        },
+        {
+            "tags": "NHMUK010619110 B-identifier",
+            "worker_version_id": null
+        }
+    ],
+    "page": {
+        "id": "d737bd97-e413-4357-ae11-ea29d3264fbc",
+        "name": "010619110_151498_1875548.2500x5792.jpeg",
+        "rotation_angle": 0
+    }
+}

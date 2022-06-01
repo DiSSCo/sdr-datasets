@@ -1,0 +1,586 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "479c24a2-d399-4074-b47f-7c82c51a95d8",
+        "name": "RBGE"
+    },
+    "image": {
+        "id": "7449b681-eb33-4f7c-ae7f-a4f852b468a1",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FE00259663.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FE00259663.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "cbfd1e44-719a-4ea9-baa6-f990c135a160",
+        "name": "E00259663",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    5899,
+                    39
+                ],
+                [
+                    5899,
+                    288
+                ],
+                [
+                    6108,
+                    288
+                ],
+                [
+                    6108,
+                    39
+                ],
+                [
+                    5899,
+                    39
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "N",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2227,
+                    9894
+                ],
+                [
+                    2227,
+                    9969
+                ],
+                [
+                    2575,
+                    9969
+                ],
+                [
+                    2575,
+                    9894
+                ],
+                [
+                    2227,
+                    9894
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "E00259663",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2227,
+                    9894
+                ],
+                [
+                    2227,
+                    9969
+                ],
+                [
+                    2575,
+                    9969
+                ],
+                [
+                    2575,
+                    9894
+                ],
+                [
+                    2227,
+                    9894
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "E00259663",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2256,
+                    9603
+                ],
+                [
+                    2256,
+                    9658
+                ],
+                [
+                    2567,
+                    9658
+                ],
+                [
+                    2567,
+                    9603
+                ],
+                [
+                    2256,
+                    9603
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "EDINBURGH",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2256,
+                    9603
+                ],
+                [
+                    2256,
+                    9658
+                ],
+                [
+                    2567,
+                    9658
+                ],
+                [
+                    2567,
+                    9603
+                ],
+                [
+                    2256,
+                    9603
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "EDINBURGH",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2096,
+                    9556
+                ],
+                [
+                    2096,
+                    9603
+                ],
+                [
+                    2740,
+                    9603
+                ],
+                [
+                    2740,
+                    9556
+                ],
+                [
+                    2096,
+                    9556
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ROYAL BOTANIC GARDEN",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2096,
+                    9556
+                ],
+                [
+                    2096,
+                    9603
+                ],
+                [
+                    2740,
+                    9603
+                ],
+                [
+                    2740,
+                    9556
+                ],
+                [
+                    2096,
+                    9556
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ROYAL BOTANIC GARDEN",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3118,
+                    9697
+                ],
+                [
+                    3118,
+                    9861
+                ],
+                [
+                    5843,
+                    9861
+                ],
+                [
+                    5843,
+                    9697
+                ],
+                [
+                    3118,
+                    9697
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Datum 17 Okt . / 928 leg . Jos\u00e9 Steinbach son .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3118,
+                    9697
+                ],
+                [
+                    3118,
+                    9861
+                ],
+                [
+                    5843,
+                    9861
+                ],
+                [
+                    5843,
+                    9697
+                ],
+                [
+                    3118,
+                    9697
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Datum 17 Okt. 1928 leg. Jos\u00e9 Steinbach",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3320,
+                    9532
+                ],
+                [
+                    3320,
+                    9648
+                ],
+                [
+                    4778,
+                    9648
+                ],
+                [
+                    4778,
+                    9532
+                ],
+                [
+                    3320,
+                    9532
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Meeresh\u00f6he des",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3320,
+                    9532
+                ],
+                [
+                    3320,
+                    9648
+                ],
+                [
+                    4778,
+                    9648
+                ],
+                [
+                    4778,
+                    9532
+                ],
+                [
+                    3320,
+                    9532
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Meeresh\u00f6he 1600m",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4307,
+                    9330
+                ],
+                [
+                    4307,
+                    9483
+                ],
+                [
+                    5626,
+                    9483
+                ],
+                [
+                    5626,
+                    9330
+                ],
+                [
+                    4307,
+                    9330
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Mairana Depart . Santa Cruz TUZ",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4307,
+                    9330
+                ],
+                [
+                    4307,
+                    9483
+                ],
+                [
+                    5626,
+                    9483
+                ],
+                [
+                    5626,
+                    9330
+                ],
+                [
+                    4307,
+                    9330
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Mairana Depart. Santa Cruz",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3100,
+                    9147
+                ],
+                [
+                    3100,
+                    9315
+                ],
+                [
+                    5047,
+                    9315
+                ],
+                [
+                    5047,
+                    9147
+                ],
+                [
+                    3100,
+                    9147
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Standort hockene Sandsteinberge",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3100,
+                    9147
+                ],
+                [
+                    3100,
+                    9315
+                ],
+                [
+                    5047,
+                    9315
+                ],
+                [
+                    5047,
+                    9147
+                ],
+                [
+                    3100,
+                    9147
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Standort hockene Sandsteinberge",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3103,
+                    8556
+                ],
+                [
+                    3103,
+                    8680
+                ],
+                [
+                    3578,
+                    8680
+                ],
+                [
+                    3578,
+                    8556
+                ],
+                [
+                    3103,
+                    8556
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Nr . 8303",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3103,
+                    8556
+                ],
+                [
+                    3103,
+                    8680
+                ],
+                [
+                    3578,
+                    8680
+                ],
+                [
+                    3578,
+                    8556
+                ],
+                [
+                    3103,
+                    8556
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Nr. 8303",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3660,
+                    8740
+                ],
+                [
+                    3660,
+                    8960
+                ],
+                [
+                    5952,
+                    8960
+                ],
+                [
+                    5952,
+                    8740
+                ],
+                [
+                    3660,
+                    8740
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Salvia choranthos Ep . . . ISOTYPUS",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3660,
+                    8740
+                ],
+                [
+                    3660,
+                    8960
+                ],
+                [
+                    5952,
+                    8960
+                ],
+                [
+                    5952,
+                    8740
+                ],
+                [
+                    3660,
+                    8740
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Salvia chorianthos Epl . . . ISOTYPUS",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3459,
+                    8340
+                ],
+                [
+                    3459,
+                    8456
+                ],
+                [
+                    5574,
+                    8456
+                ],
+                [
+                    5574,
+                    8340
+                ],
+                [
+                    3459,
+                    8340
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "J . STEINBACH : HERBARIUM BOLIVIANUM",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3459,
+                    8340
+                ],
+                [
+                    3459,
+                    8456
+                ],
+                [
+                    5574,
+                    8456
+                ],
+                [
+                    5574,
+                    8340
+                ],
+                [
+                    3459,
+                    8340
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "J. STEINBACH: HERBARIUM BOLIVIANUM",
+            "worker_version": null
+        }
+    ]
+}

@@ -1,0 +1,127 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "6f913832-9c42-4663-b6ca-b93e3498e64b",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/78f218de-c2b4-4b7c-8578-0d1727557dc3",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/78f218de-c2b4-4b7c-8578-0d1727557dc3/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "66ab4584-8daa-40b9-9f6b-e45dc9c12e94",
+        "name": "010618609_136814_1083189.2500x5792.jpeg",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    1618,
+                    682
+                ],
+                [
+                    1621,
+                    747
+                ],
+                [
+                    2311,
+                    734
+                ],
+                [
+                    2311,
+                    669
+                ],
+                [
+                    1618,
+                    682
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Berkhamsted,Herts",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1721,
+                    755
+                ],
+                [
+                    1722,
+                    812
+                ],
+                [
+                    2241,
+                    815
+                ],
+                [
+                    2239,
+                    751
+                ],
+                [
+                    1721,
+                    755
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "5.VII.1945",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1766,
+                    827
+                ],
+                [
+                    1767,
+                    885
+                ],
+                [
+                    2238,
+                    877
+                ],
+                [
+                    2235,
+                    819
+                ],
+                [
+                    1766,
+                    827
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "A.L.Goodson",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1648,
+                    1203
+                ],
+                [
+                    1652,
+                    1257
+                ],
+                [
+                    2229,
+                    1248
+                ],
+                [
+                    2227,
+                    1194
+                ],
+                [
+                    1648,
+                    1203
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK010618609",
+            "worker_version": null
+        }
+    ]
+}

@@ -1,0 +1,818 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "01461701-dd48-4a27-ab96-27ee9853e15d",
+        "name": "NHM London"
+    },
+    "image": {
+        "id": "66f0366d-61a2-427a-9041-418af840a2df",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FBM000619481.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FBM000619481.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "8c16f089-acb5-4608-8b8f-ddba77a26fad",
+        "name": "BM000619481",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    816,
+                    93
+                ],
+                [
+                    817,
+                    107
+                ],
+                [
+                    1029,
+                    102
+                ],
+                [
+                    1028,
+                    89
+                ],
+                [
+                    816,
+                    93
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "THE NATURAL HISTORY MUSEUM, LONDON",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    816,
+                    93
+                ],
+                [
+                    817,
+                    107
+                ],
+                [
+                    1029,
+                    102
+                ],
+                [
+                    1028,
+                    89
+                ],
+                [
+                    816,
+                    93
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "THE NATURAL HISTORY MUSEUM , LONDON",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    861,
+                    107
+                ],
+                [
+                    862,
+                    120
+                ],
+                [
+                    1003,
+                    117
+                ],
+                [
+                    1005,
+                    105
+                ],
+                [
+                    861,
+                    107
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "DEPARTMENT OF BOTANY",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    861,
+                    107
+                ],
+                [
+                    862,
+                    120
+                ],
+                [
+                    1003,
+                    117
+                ],
+                [
+                    1005,
+                    105
+                ],
+                [
+                    861,
+                    107
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "DEPARTMENT OF BOTANY",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    869,
+                    159
+                ],
+                [
+                    873,
+                    176
+                ],
+                [
+                    995,
+                    173
+                ],
+                [
+                    995,
+                    156
+                ],
+                [
+                    869,
+                    159
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BM000619481",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    869,
+                    159
+                ],
+                [
+                    873,
+                    176
+                ],
+                [
+                    995,
+                    173
+                ],
+                [
+                    995,
+                    156
+                ],
+                [
+                    869,
+                    159
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BM000619481",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    72,
+                    1518
+                ],
+                [
+                    72,
+                    1540
+                ],
+                [
+                    265,
+                    1536
+                ],
+                [
+                    264,
+                    1515
+                ],
+                [
+                    72,
+                    1518
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Key West. Florida",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    72,
+                    1518
+                ],
+                [
+                    72,
+                    1540
+                ],
+                [
+                    265,
+                    1536
+                ],
+                [
+                    264,
+                    1515
+                ],
+                [
+                    72,
+                    1518
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Key West . Florida",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    59,
+                    1576
+                ],
+                [
+                    59,
+                    1590
+                ],
+                [
+                    270,
+                    1602
+                ],
+                [
+                    273,
+                    1587
+                ],
+                [
+                    59,
+                    1576
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "THE NATURAL HISTORY MUSEUM, LONDON",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    59,
+                    1576
+                ],
+                [
+                    59,
+                    1590
+                ],
+                [
+                    270,
+                    1602
+                ],
+                [
+                    273,
+                    1587
+                ],
+                [
+                    59,
+                    1576
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "THE NATURAL HISTORY MUSEUM , LONDON",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    103,
+                    1607
+                ],
+                [
+                    248,
+                    1614
+                ],
+                [
+                    249,
+                    1603
+                ],
+                [
+                    104,
+                    1594
+                ],
+                [
+                    103,
+                    1607
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "DEPARTMENT OF BOTANY",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    103,
+                    1607
+                ],
+                [
+                    248,
+                    1614
+                ],
+                [
+                    249,
+                    1603
+                ],
+                [
+                    104,
+                    1594
+                ],
+                [
+                    103,
+                    1607
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "DEPARTMENT OF BOTANY",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    109,
+                    1644
+                ],
+                [
+                    109,
+                    1662
+                ],
+                [
+                    232,
+                    1669
+                ],
+                [
+                    234,
+                    1651
+                ],
+                [
+                    109,
+                    1644
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BM000619480",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    109,
+                    1644
+                ],
+                [
+                    109,
+                    1662
+                ],
+                [
+                    232,
+                    1669
+                ],
+                [
+                    234,
+                    1651
+                ],
+                [
+                    109,
+                    1644
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BM000619480",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    416,
+                    1532
+                ],
+                [
+                    704,
+                    1532
+                ],
+                [
+                    707,
+                    1503
+                ],
+                [
+                    418,
+                    1505
+                ],
+                [
+                    416,
+                    1532
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Chondria littoralis",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    813,
+                    1113
+                ],
+                [
+                    813,
+                    1148
+                ],
+                [
+                    876,
+                    1149
+                ],
+                [
+                    980,
+                    1152
+                ],
+                [
+                    980,
+                    1121
+                ],
+                [
+                    813,
+                    1113
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Key West",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    813,
+                    1113
+                ],
+                [
+                    813,
+                    1148
+                ],
+                [
+                    876,
+                    1149
+                ],
+                [
+                    980,
+                    1152
+                ],
+                [
+                    980,
+                    1121
+                ],
+                [
+                    813,
+                    1113
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Key West",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    826,
+                    1152
+                ],
+                [
+                    826,
+                    1177
+                ],
+                [
+                    957,
+                    1179
+                ],
+                [
+                    954,
+                    1155
+                ],
+                [
+                    826,
+                    1152
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Feb. 1850",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    826,
+                    1152
+                ],
+                [
+                    826,
+                    1177
+                ],
+                [
+                    957,
+                    1179
+                ],
+                [
+                    954,
+                    1155
+                ],
+                [
+                    826,
+                    1152
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Zeb . 1850",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1043,
+                    1234
+                ],
+                [
+                    1043,
+                    1260
+                ],
+                [
+                    1241,
+                    1256
+                ],
+                [
+                    1241,
+                    1230
+                ],
+                [
+                    1043,
+                    1234
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Ex Herb. Harv.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1043,
+                    1234
+                ],
+                [
+                    1043,
+                    1260
+                ],
+                [
+                    1241,
+                    1256
+                ],
+                [
+                    1241,
+                    1230
+                ],
+                [
+                    1043,
+                    1234
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Ex verb . Warw .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    972,
+                    1350
+                ],
+                [
+                    1292,
+                    1356
+                ],
+                [
+                    1294,
+                    1323
+                ],
+                [
+                    974,
+                    1317
+                ],
+                [
+                    972,
+                    1350
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Chondria littoralis",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    972,
+                    1350
+                ],
+                [
+                    1292,
+                    1356
+                ],
+                [
+                    1294,
+                    1323
+                ],
+                [
+                    974,
+                    1317
+                ],
+                [
+                    972,
+                    1350
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Chondria litoralis",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1280,
+                    1064
+                ],
+                [
+                    1281,
+                    1093
+                ],
+                [
+                    1371,
+                    1094
+                ],
+                [
+                    1370,
+                    1064
+                ],
+                [
+                    1280,
+                    1064
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Harvey",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1280,
+                    1064
+                ],
+                [
+                    1281,
+                    1093
+                ],
+                [
+                    1371,
+                    1094
+                ],
+                [
+                    1370,
+                    1064
+                ],
+                [
+                    1280,
+                    1064
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Harvey",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1223,
+                    1156
+                ],
+                [
+                    1328,
+                    1163
+                ],
+                [
+                    1448,
+                    1166
+                ],
+                [
+                    1450,
+                    1132
+                ],
+                [
+                    1225,
+                    1124
+                ],
+                [
+                    1223,
+                    1156
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Chondria littoralis H",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1223,
+                    1156
+                ],
+                [
+                    1328,
+                    1163
+                ],
+                [
+                    1448,
+                    1166
+                ],
+                [
+                    1450,
+                    1132
+                ],
+                [
+                    1225,
+                    1124
+                ],
+                [
+                    1223,
+                    1156
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Chondrica littoralis",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    968,
+                    2255
+                ],
+                [
+                    971,
+                    2291
+                ],
+                [
+                    1460,
+                    2292
+                ],
+                [
+                    1462,
+                    2261
+                ],
+                [
+                    968,
+                    2255
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Chondria littoralis Harv.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    968,
+                    2255
+                ],
+                [
+                    971,
+                    2291
+                ],
+                [
+                    1460,
+                    2292
+                ],
+                [
+                    1462,
+                    2261
+                ],
+                [
+                    968,
+                    2255
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ittoralis Haw",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        }
+    ]
+}

@@ -1,0 +1,292 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "438d96cb-88a1-4786-a83a-08301ba7e92a",
+        "name": "BGBM"
+    },
+    "image": {
+        "id": "7c9fc56e-5009-4f90-a751-9ba7413b22e6",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FB_10_0847806.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FB_10_0847806.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "2177b268-c4d8-46b9-acc4-5ad91ef7d211",
+        "name": "B_10_0847806",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    148,
+                    4759
+                ],
+                [
+                    148,
+                    4828
+                ],
+                [
+                    259,
+                    4847
+                ],
+                [
+                    523,
+                    4845
+                ],
+                [
+                    906,
+                    4816
+                ],
+                [
+                    900,
+                    4749
+                ],
+                [
+                    148,
+                    4759
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Campanula glomerata L.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    127,
+                    4911
+                ],
+                [
+                    750,
+                    4899
+                ],
+                [
+                    753,
+                    4922
+                ],
+                [
+                    853,
+                    4932
+                ],
+                [
+                    888,
+                    4840
+                ],
+                [
+                    578,
+                    4847
+                ],
+                [
+                    280,
+                    4857
+                ],
+                [
+                    207,
+                    4843
+                ],
+                [
+                    136,
+                    4840
+                ],
+                [
+                    127,
+                    4911
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Freienwalde a/o: Amalienhof.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    389,
+                    4932
+                ],
+                [
+                    402,
+                    4953
+                ],
+                [
+                    412,
+                    4976
+                ],
+                [
+                    450,
+                    4937
+                ],
+                [
+                    471,
+                    4932
+                ],
+                [
+                    471,
+                    4957
+                ],
+                [
+                    496,
+                    4955
+                ],
+                [
+                    516,
+                    4957
+                ],
+                [
+                    562,
+                    4957
+                ],
+                [
+                    567,
+                    4926
+                ],
+                [
+                    485,
+                    4909
+                ],
+                [
+                    394,
+                    4909
+                ],
+                [
+                    389,
+                    4932
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "13/ 92.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    85,
+                    5016
+                ],
+                [
+                    623,
+                    5012
+                ],
+                [
+                    633,
+                    4960
+                ],
+                [
+                    466,
+                    4960
+                ],
+                [
+                    469,
+                    4934
+                ],
+                [
+                    450,
+                    4941
+                ],
+                [
+                    410,
+                    4978
+                ],
+                [
+                    387,
+                    4939
+                ],
+                [
+                    373,
+                    4924
+                ],
+                [
+                    100,
+                    4930
+                ],
+                [
+                    85,
+                    5016
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ex Herb. R. Sch\u016dlz",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1933,
+                    4878
+                ],
+                [
+                    1933,
+                    4958
+                ],
+                [
+                    2237,
+                    4958
+                ],
+                [
+                    2237,
+                    4878
+                ],
+                [
+                    1933,
+                    4878
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Image 2014",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2608,
+                    4846
+                ],
+                [
+                    2608,
+                    4898
+                ],
+                [
+                    2963,
+                    4898
+                ],
+                [
+                    2963,
+                    4846
+                ],
+                [
+                    2608,
+                    4846
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Mus. Bot. Berol.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2660,
+                    4977
+                ],
+                [
+                    2660,
+                    5006
+                ],
+                [
+                    2902,
+                    5009
+                ],
+                [
+                    2902,
+                    4977
+                ],
+                [
+                    2660,
+                    4977
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "B 10 0847806",
+            "worker_version": null
+        }
+    ]
+}

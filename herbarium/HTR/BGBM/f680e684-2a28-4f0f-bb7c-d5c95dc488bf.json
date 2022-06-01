@@ -1,0 +1,550 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "438d96cb-88a1-4786-a83a-08301ba7e92a",
+        "name": "BGBM"
+    },
+    "image": {
+        "id": "ab25b83a-43d8-4ff0-9e03-5438bc563fae",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FB_10_0124024.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FB_10_0124024.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "f680e684-2a28-4f0f-bb7c-d5c95dc488bf",
+        "name": "B_10_0124024",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    162,
+                    4157
+                ],
+                [
+                    366,
+                    4157
+                ],
+                [
+                    368,
+                    4093
+                ],
+                [
+                    165,
+                    4086
+                ],
+                [
+                    162,
+                    4157
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Ex BHU",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    5,
+                    4272
+                ],
+                [
+                    29,
+                    4298
+                ],
+                [
+                    72,
+                    4284
+                ],
+                [
+                    72,
+                    4314
+                ],
+                [
+                    90,
+                    4320
+                ],
+                [
+                    115,
+                    4282
+                ],
+                [
+                    332,
+                    4278
+                ],
+                [
+                    336,
+                    4295
+                ],
+                [
+                    353,
+                    4295
+                ],
+                [
+                    362,
+                    4284
+                ],
+                [
+                    572,
+                    4291
+                ],
+                [
+                    589,
+                    4243
+                ],
+                [
+                    519,
+                    4223
+                ],
+                [
+                    443,
+                    4223
+                ],
+                [
+                    366,
+                    4225
+                ],
+                [
+                    271,
+                    4217
+                ],
+                [
+                    153,
+                    4228
+                ],
+                [
+                    32,
+                    4213
+                ],
+                [
+                    5,
+                    4272
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Triglochin palustre",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    72,
+                    4332
+                ],
+                [
+                    87,
+                    4344
+                ],
+                [
+                    103,
+                    4350
+                ],
+                [
+                    199,
+                    4350
+                ],
+                [
+                    200,
+                    4369
+                ],
+                [
+                    247,
+                    4373
+                ],
+                [
+                    285,
+                    4356
+                ],
+                [
+                    468,
+                    4352
+                ],
+                [
+                    546,
+                    4347
+                ],
+                [
+                    569,
+                    4304
+                ],
+                [
+                    546,
+                    4290
+                ],
+                [
+                    401,
+                    4290
+                ],
+                [
+                    348,
+                    4296
+                ],
+                [
+                    332,
+                    4291
+                ],
+                [
+                    220,
+                    4295
+                ],
+                [
+                    150,
+                    4287
+                ],
+                [
+                    119,
+                    4284
+                ],
+                [
+                    99,
+                    4316
+                ],
+                [
+                    81,
+                    4320
+                ],
+                [
+                    72,
+                    4332
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Sumpf Dreizack",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    32,
+                    4367
+                ],
+                [
+                    40,
+                    4411
+                ],
+                [
+                    91,
+                    4417
+                ],
+                [
+                    226,
+                    4417
+                ],
+                [
+                    312,
+                    4412
+                ],
+                [
+                    335,
+                    4366
+                ],
+                [
+                    282,
+                    4364
+                ],
+                [
+                    250,
+                    4375
+                ],
+                [
+                    196,
+                    4370
+                ],
+                [
+                    184,
+                    4352
+                ],
+                [
+                    90,
+                    4352
+                ],
+                [
+                    76,
+                    4344
+                ],
+                [
+                    32,
+                    4367
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Mellensee",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    407,
+                    4440
+                ],
+                [
+                    437,
+                    4459
+                ],
+                [
+                    709,
+                    4435
+                ],
+                [
+                    743,
+                    4375
+                ],
+                [
+                    740,
+                    4335
+                ],
+                [
+                    717,
+                    4322
+                ],
+                [
+                    567,
+                    4358
+                ],
+                [
+                    474,
+                    4358
+                ],
+                [
+                    457,
+                    4353
+                ],
+                [
+                    434,
+                    4356
+                ],
+                [
+                    407,
+                    4440
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "(um 1960)",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    515,
+                    4107
+                ],
+                [
+                    1125,
+                    4096
+                ],
+                [
+                    1121,
+                    4025
+                ],
+                [
+                    516,
+                    4028
+                ],
+                [
+                    515,
+                    4107
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "leg. Erwin Koch Berlin",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    37,
+                    3829
+                ],
+                [
+                    37,
+                    3953
+                ],
+                [
+                    475,
+                    3941
+                ],
+                [
+                    484,
+                    3841
+                ],
+                [
+                    37,
+                    3829
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "\u00a9BGBM2003",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1688,
+                    4213
+                ],
+                [
+                    1948,
+                    4211
+                ],
+                [
+                    1948,
+                    4139
+                ],
+                [
+                    1691,
+                    4146
+                ],
+                [
+                    1688,
+                    4213
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Image 2003",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1682,
+                    4304
+                ],
+                [
+                    1685,
+                    4358
+                ],
+                [
+                    1995,
+                    4358
+                ],
+                [
+                    1986,
+                    4304
+                ],
+                [
+                    1682,
+                    4304
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Mus. Bot. Berol.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1739,
+                    4419
+                ],
+                [
+                    1739,
+                    4459
+                ],
+                [
+                    1933,
+                    4455
+                ],
+                [
+                    1934,
+                    4419
+                ],
+                [
+                    1739,
+                    4419
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "B 10 0124024",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2289,
+                    4328
+                ],
+                [
+                    2454,
+                    4322
+                ],
+                [
+                    2528,
+                    4317
+                ],
+                [
+                    2744,
+                    4313
+                ],
+                [
+                    2764,
+                    4243
+                ],
+                [
+                    2298,
+                    4240
+                ],
+                [
+                    2289,
+                    4328
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "0147/2003-288",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2321,
+                    4351
+                ],
+                [
+                    2322,
+                    4435
+                ],
+                [
+                    2700,
+                    4432
+                ],
+                [
+                    2694,
+                    4341
+                ],
+                [
+                    2321,
+                    4351
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Mus. bot. Berol.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2705,
+                    2109
+                ],
+                [
+                    2705,
+                    2260
+                ],
+                [
+                    2782,
+                    2278
+                ],
+                [
+                    2782,
+                    2126
+                ],
+                [
+                    2705,
+                    2109
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "5 cm",
+            "worker_version": null
+        }
+    ]
+}

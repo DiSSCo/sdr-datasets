@@ -1,0 +1,235 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "438d96cb-88a1-4786-a83a-08301ba7e92a",
+        "name": "BGBM"
+    },
+    "image": {
+        "id": "50adef15-d01e-4e5a-952f-c3702e525a7d",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FB_10_0506202.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FB_10_0506202.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "cdf1a041-c6f7-4488-9317-a92217431bd3",
+        "name": "B_10_0506202",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    1424,
+                    2008
+                ],
+                [
+                    1424,
+                    2079
+                ],
+                [
+                    1664,
+                    2079
+                ],
+                [
+                    1664,
+                    2008
+                ],
+                [
+                    1424,
+                    2008
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Ex BHU",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1950,
+                    3109
+                ],
+                [
+                    2483,
+                    3117
+                ],
+                [
+                    2483,
+                    3049
+                ],
+                [
+                    1952,
+                    3035
+                ],
+                [
+                    1950,
+                    3109
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herb. S. Fr\u00f6hner",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2271,
+                    3507
+                ],
+                [
+                    2276,
+                    3546
+                ],
+                [
+                    2634,
+                    3515
+                ],
+                [
+                    2634,
+                    3476
+                ],
+                [
+                    2271,
+                    3507
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "S. FR\u00d6HNER 1958",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    395,
+                    3631
+                ],
+                [
+                    395,
+                    3713
+                ],
+                [
+                    581,
+                    3713
+                ],
+                [
+                    581,
+                    3631
+                ],
+                [
+                    395,
+                    3631
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "n. 1858",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    148,
+                    1349
+                ],
+                [
+                    154,
+                    2571
+                ],
+                [
+                    199,
+                    2571
+                ],
+                [
+                    194,
+                    1349
+                ],
+                [
+                    148,
+                    1349
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "0    1    2    3    4    5    6    7    8    9    10",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2746,
+                    4692
+                ],
+                [
+                    3048,
+                    4699
+                ],
+                [
+                    3048,
+                    4626
+                ],
+                [
+                    2752,
+                    4618
+                ],
+                [
+                    2746,
+                    4692
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Image 2014",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2537,
+                    4808
+                ],
+                [
+                    2876,
+                    4818
+                ],
+                [
+                    2882,
+                    4769
+                ],
+                [
+                    2539,
+                    4761
+                ],
+                [
+                    2537,
+                    4808
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Mus. Bot. Berol.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2593,
+                    4887
+                ],
+                [
+                    2598,
+                    4918
+                ],
+                [
+                    2816,
+                    4926
+                ],
+                [
+                    2818,
+                    4894
+                ],
+                [
+                    2593,
+                    4887
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "B 10 0506202",
+            "worker_version": null
+        }
+    ]
+}

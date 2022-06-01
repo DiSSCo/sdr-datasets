@@ -1,0 +1,613 @@
+{
+    "dataset_id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+    "folder": {
+        "id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+        "name": "2000 Louse Subset"
+    },
+    "image": {
+        "id": "ab04691a-c185-4096-b988-35302e273dac",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/2811e0da-57be-4749-9b9f-893318a68fa5",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/2811e0da-57be-4749-9b9f-893318a68fa5/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "bb9e5e58-32d3-49e5-9635-8fc9a3ddded7",
+        "name": "22",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    8010,
+                    261
+                ],
+                [
+                    8010,
+                    2180
+                ],
+                [
+                    8315,
+                    2222
+                ],
+                [
+                    8315,
+                    303
+                ],
+                [
+                    8010,
+                    261
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "R. Rec R. (Col)",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    4265,
+                    362
+                ],
+                [
+                    4265,
+                    753
+                ],
+                [
+                    5275,
+                    753
+                ],
+                [
+                    5275,
+                    362
+                ],
+                [
+                    4265,
+                    362
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "1505/88",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    614,
+                    745
+                ],
+                [
+                    614,
+                    2387
+                ],
+                [
+                    883,
+                    2387
+                ],
+                [
+                    883,
+                    745
+                ],
+                [
+                    614,
+                    745
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "COLL. NO. 13132",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    1628,
+                    1035
+                ],
+                [
+                    1628,
+                    2222
+                ],
+                [
+                    1933,
+                    2222
+                ],
+                [
+                    1933,
+                    1035
+                ],
+                [
+                    1628,
+                    1035
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "2\u2642\u2642 1\u0298",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    2077,
+                    914
+                ],
+                [
+                    2077,
+                    2114
+                ],
+                [
+                    2311,
+                    2114
+                ],
+                [
+                    2311,
+                    914
+                ],
+                [
+                    2077,
+                    914
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "B M 1953-331",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    1383,
+                    393
+                ],
+                [
+                    1383,
+                    481
+                ],
+                [
+                    1819,
+                    481
+                ],
+                [
+                    1819,
+                    393
+                ],
+                [
+                    1383,
+                    393
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "010648267",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    5920,
+                    462
+                ],
+                [
+                    5920,
+                    2746
+                ],
+                [
+                    6183,
+                    2746
+                ],
+                [
+                    6183,
+                    462
+                ],
+                [
+                    5920,
+                    462
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Animal Health Station",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    1288,
+                    471
+                ],
+                [
+                    1288,
+                    807
+                ],
+                [
+                    1397,
+                    807
+                ],
+                [
+                    1397,
+                    471
+                ],
+                [
+                    1288,
+                    471
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    862,
+                    759
+                ],
+                [
+                    862,
+                    2422
+                ],
+                [
+                    1069,
+                    2422
+                ],
+                [
+                    1069,
+                    759
+                ],
+                [
+                    862,
+                    759
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "COM. INST. ENT.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    1235,
+                    1228
+                ],
+                [
+                    1235,
+                    1959
+                ],
+                [
+                    1725,
+                    1959
+                ],
+                [
+                    1725,
+                    1228
+                ],
+                [
+                    1235,
+                    1228
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "4",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    2322,
+                    928
+                ],
+                [
+                    2322,
+                    2135
+                ],
+                [
+                    2516,
+                    2135
+                ],
+                [
+                    2516,
+                    928
+                ],
+                [
+                    2322,
+                    928
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Com Inst Ent",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    7273,
+                    531
+                ],
+                [
+                    7273,
+                    807
+                ],
+                [
+                    7997,
+                    807
+                ],
+                [
+                    7997,
+                    531
+                ],
+                [
+                    7273,
+                    531
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "1505/88",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    2482,
+                    1179
+                ],
+                [
+                    2482,
+                    1905
+                ],
+                [
+                    2669,
+                    1909
+                ],
+                [
+                    2669,
+                    1183
+                ],
+                [
+                    2482,
+                    1179
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Pres by",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6479,
+                    538
+                ],
+                [
+                    6479,
+                    2718
+                ],
+                [
+                    6852,
+                    2718
+                ],
+                [
+                    6852,
+                    538
+                ],
+                [
+                    6479,
+                    538
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Boopia P.T.O.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6997,
+                    558
+                ],
+                [
+                    6997,
+                    2435
+                ],
+                [
+                    7245,
+                    2435
+                ],
+                [
+                    7245,
+                    558
+                ],
+                [
+                    6997,
+                    558
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Harr & John..",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6769,
+                    634
+                ],
+                [
+                    6769,
+                    2622
+                ],
+                [
+                    7135,
+                    2622
+                ],
+                [
+                    7135,
+                    634
+                ],
+                [
+                    6769,
+                    634
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "phanerocerata",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    7652,
+                    828
+                ],
+                [
+                    7652,
+                    1186
+                ],
+                [
+                    7956,
+                    1186
+                ],
+                [
+                    7956,
+                    828
+                ],
+                [
+                    7652,
+                    828
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "\u2642",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6217,
+                    910
+                ],
+                [
+                    6217,
+                    2318
+                ],
+                [
+                    6493,
+                    2318
+                ],
+                [
+                    6493,
+                    910
+                ],
+                [
+                    6217,
+                    910
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Yeerongpilly",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    7480,
+                    1042
+                ],
+                [
+                    7480,
+                    2249
+                ],
+                [
+                    7701,
+                    2249
+                ],
+                [
+                    7701,
+                    1042
+                ],
+                [
+                    7480,
+                    1042
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "obesula",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    7849,
+                    1119
+                ],
+                [
+                    7849,
+                    2354
+                ],
+                [
+                    8004,
+                    2366
+                ],
+                [
+                    8004,
+                    1131
+                ],
+                [
+                    7849,
+                    1119
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "27.x.1953",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    7673,
+                    1276
+                ],
+                [
+                    7673,
+                    2677
+                ],
+                [
+                    7887,
+                    2677
+                ],
+                [
+                    7887,
+                    1276
+                ],
+                [
+                    7673,
+                    1276
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Tomborine",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    7266,
+                    1511
+                ],
+                [
+                    7266,
+                    2691
+                ],
+                [
+                    7521,
+                    2691
+                ],
+                [
+                    7521,
+                    1511
+                ],
+                [
+                    7266,
+                    1511
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Isoodon",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        }
+    ]
+}

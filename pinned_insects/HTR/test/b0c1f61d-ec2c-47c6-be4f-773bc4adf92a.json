@@ -1,0 +1,208 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6ebebd79-2a28-464f-b60a-aa47a864a586",
+        "name": "test"
+    },
+    "image": {
+        "id": "23bf6d25-c355-4a6b-be82-e5efbad563eb",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/18216e0d-10b6-4058-9d33-39b2e4eac755",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/18216e0d-10b6-4058-9d33-39b2e4eac755/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "b0c1f61d-ec2c-47c6-be4f-773bc4adf92a",
+        "name": "010609642_151528_1083481.2500x5792.jpeg",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    1681,
+                    599
+                ],
+                [
+                    1685,
+                    649
+                ],
+                [
+                    2050,
+                    637
+                ],
+                [
+                    2047,
+                    584
+                ],
+                [
+                    1681,
+                    599
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Epping Forest",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1748,
+                    649
+                ],
+                [
+                    1748,
+                    702
+                ],
+                [
+                    2000,
+                    702
+                ],
+                [
+                    2000,
+                    649
+                ],
+                [
+                    1748,
+                    649
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "VIII 1936",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1680,
+                    707
+                ],
+                [
+                    1680,
+                    752
+                ],
+                [
+                    2016,
+                    752
+                ],
+                [
+                    2016,
+                    707
+                ],
+                [
+                    1680,
+                    707
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "H. D. Smart.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1742,
+                    945
+                ],
+                [
+                    1742,
+                    998
+                ],
+                [
+                    2060,
+                    998
+                ],
+                [
+                    2060,
+                    945
+                ],
+                [
+                    1742,
+                    945
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Christie Coll.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1738,
+                    1013
+                ],
+                [
+                    1738,
+                    1064
+                ],
+                [
+                    1998,
+                    1064
+                ],
+                [
+                    1998,
+                    1013
+                ],
+                [
+                    1738,
+                    1013
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BMNH (E)",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1745,
+                    1075
+                ],
+                [
+                    1745,
+                    1124
+                ],
+                [
+                    1950,
+                    1124
+                ],
+                [
+                    1950,
+                    1075
+                ],
+                [
+                    1745,
+                    1075
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "2010-62",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1747,
+                    1447
+                ],
+                [
+                    1747,
+                    1502
+                ],
+                [
+                    2239,
+                    1502
+                ],
+                [
+                    2239,
+                    1447
+                ],
+                [
+                    1747,
+                    1447
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK010609642",
+            "worker_version": null
+        }
+    ]
+}

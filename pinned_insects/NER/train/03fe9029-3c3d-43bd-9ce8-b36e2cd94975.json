@@ -1,0 +1,27 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "a147cc04-4825-4b62-8d2e-233d3884b9d9",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/dedcb9de-c9bd-4281-8ac5-9897aa6c9697",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/dedcb9de-c9bd-4281-8ac5-9897aa6c9697/full/full/0/default.jpg"
+    },
+    "named_entities": [
+        {
+            "tags": "Bright B-person_name",
+            "worker_version_id": null
+        },
+        {
+            "tags": "Rannoch B-location_name\nA B-person_name\n. I-person_name\nE I-person_name\n. I-person_name\nGibbs I-person_name\nVII B-date\n/ I-date\n06 I-date",
+            "worker_version_id": null
+        }
+    ],
+    "page": {
+        "id": "03fe9029-3c3d-43bd-9ce8-b36e2cd94975",
+        "name": "011236094_151407_1856911.2500x3456.jpeg",
+        "rotation_angle": 0
+    }
+}

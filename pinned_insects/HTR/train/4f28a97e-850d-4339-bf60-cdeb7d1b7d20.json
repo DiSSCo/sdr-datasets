@@ -1,0 +1,374 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "92cb45be-1cd0-440c-b479-caacc0613064",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/fce16f67-e86a-4c6d-aa39-518ff7e5039d",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/fce16f67-e86a-4c6d-aa39-518ff7e5039d/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "4f28a97e-850d-4339-bf60-cdeb7d1b7d20",
+        "name": "010516659_136908_1084407.2500x5792.jpeg",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    1577,
+                    557
+                ],
+                [
+                    1949,
+                    575
+                ],
+                [
+                    1953,
+                    499
+                ],
+                [
+                    1579,
+                    470
+                ],
+                [
+                    1577,
+                    557
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Salt marsh",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1564,
+                    634
+                ],
+                [
+                    1679,
+                    646
+                ],
+                [
+                    1868,
+                    694
+                ],
+                [
+                    1903,
+                    579
+                ],
+                [
+                    1571,
+                    566
+                ],
+                [
+                    1564,
+                    634
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Worthing",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1570,
+                    700
+                ],
+                [
+                    1829,
+                    746
+                ],
+                [
+                    1862,
+                    694
+                ],
+                [
+                    1588,
+                    637
+                ],
+                [
+                    1570,
+                    700
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Fletcher",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1585,
+                    735
+                ],
+                [
+                    1585,
+                    803
+                ],
+                [
+                    1863,
+                    803
+                ],
+                [
+                    1863,
+                    735
+                ],
+                [
+                    1585,
+                    735
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "19.8.87",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1631,
+                    914
+                ],
+                [
+                    1631,
+                    975
+                ],
+                [
+                    2019,
+                    975
+                ],
+                [
+                    2019,
+                    914
+                ],
+                [
+                    1631,
+                    914
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Stainton Coll.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1553,
+                    987
+                ],
+                [
+                    1553,
+                    1069
+                ],
+                [
+                    1944,
+                    1069
+                ],
+                [
+                    1944,
+                    987
+                ],
+                [
+                    1553,
+                    987
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Crambus",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1582,
+                    1068
+                ],
+                [
+                    1582,
+                    1131
+                ],
+                [
+                    2100,
+                    1131
+                ],
+                [
+                    2100,
+                    1068
+                ],
+                [
+                    1582,
+                    1068
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "contaminellus",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1564,
+                    1208
+                ],
+                [
+                    1564,
+                    1284
+                ],
+                [
+                    2019,
+                    1284
+                ],
+                [
+                    2019,
+                    1208
+                ],
+                [
+                    1564,
+                    1208
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "named by Stn",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2064,
+                    449
+                ],
+                [
+                    2064,
+                    507
+                ],
+                [
+                    2312,
+                    507
+                ],
+                [
+                    2312,
+                    449
+                ],
+                [
+                    2064,
+                    449
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Stephens/",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2062,
+                    514
+                ],
+                [
+                    2062,
+                    559
+                ],
+                [
+                    2362,
+                    559
+                ],
+                [
+                    2362,
+                    514
+                ],
+                [
+                    2062,
+                    514
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Stainton coll.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2067,
+                    564
+                ],
+                [
+                    2067,
+                    618
+                ],
+                [
+                    2375,
+                    618
+                ],
+                [
+                    2375,
+                    564
+                ],
+                [
+                    2067,
+                    564
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BM 1893-134",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1558,
+                    1534
+                ],
+                [
+                    1558,
+                    1593
+                ],
+                [
+                    2028,
+                    1593
+                ],
+                [
+                    2028,
+                    1534
+                ],
+                [
+                    1558,
+                    1534
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK010516659",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1555,
+                    1194
+                ],
+                [
+                    2074,
+                    1194
+                ],
+                [
+                    2074,
+                    1131
+                ],
+                [
+                    1558,
+                    1137
+                ],
+                [
+                    1555,
+                    1194
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "C. H\u00fcbn.",
+            "worker_version": null
+        }
+    ]
+}

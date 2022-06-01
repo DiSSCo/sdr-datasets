@@ -1,0 +1,208 @@
+{
+    "dataset_id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+    "folder": {
+        "id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+        "name": "2000 Louse Subset"
+    },
+    "image": {
+        "id": "20401abb-21d8-4dc1-8acf-d82585af1715",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/33608e59-88f2-44f1-9e3c-4a0376a5c9ee",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/33608e59-88f2-44f1-9e3c-4a0376a5c9ee/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "9944883f-c88b-475a-8ad6-caa5ae580c7b",
+        "name": "102",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    632,
+                    738
+                ],
+                [
+                    632,
+                    2698
+                ],
+                [
+                    1013,
+                    2698
+                ],
+                [
+                    1013,
+                    738
+                ],
+                [
+                    632,
+                    738
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Castle Eden",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    332,
+                    2961
+                ],
+                [
+                    332,
+                    3100
+                ],
+                [
+                    705,
+                    3100
+                ],
+                [
+                    705,
+                    2961
+                ],
+                [
+                    332,
+                    2961
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    1020,
+                    782
+                ],
+                [
+                    1020,
+                    2632
+                ],
+                [
+                    1408,
+                    2632
+                ],
+                [
+                    1408,
+                    782
+                ],
+                [
+                    1020,
+                    782
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Dene",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    691,
+                    3071
+                ],
+                [
+                    691,
+                    3473
+                ],
+                [
+                    822,
+                    3473
+                ],
+                [
+                    822,
+                    3071
+                ],
+                [
+                    691,
+                    3071
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "010671211",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    2037,
+                    782
+                ],
+                [
+                    2037,
+                    2683
+                ],
+                [
+                    2417,
+                    2683
+                ],
+                [
+                    2417,
+                    782
+                ],
+                [
+                    2037,
+                    782
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Brueelia merulensis",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    1408,
+                    1074
+                ],
+                [
+                    1408,
+                    2595
+                ],
+                [
+                    1722,
+                    2595
+                ],
+                [
+                    1722,
+                    1074
+                ],
+                [
+                    1408,
+                    1074
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "20-2-78",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    1744,
+                    1198
+                ],
+                [
+                    1744,
+                    2676
+                ],
+                [
+                    2058,
+                    2676
+                ],
+                [
+                    2058,
+                    1198
+                ],
+                [
+                    1744,
+                    1198
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Badger faeces",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        }
+    ]
+}

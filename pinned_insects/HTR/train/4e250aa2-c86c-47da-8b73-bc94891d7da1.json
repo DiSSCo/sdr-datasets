@@ -1,0 +1,208 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "1069c297-3427-4563-a0bc-ae562d7521d6",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/dbb17b36-0126-4086-ba25-251db64b229a",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/dbb17b36-0126-4086-ba25-251db64b229a/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "4e250aa2-c86c-47da-8b73-bc94891d7da1",
+        "name": "012495948_reverse.2500x3992.jpeg",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    2143,
+                    404
+                ],
+                [
+                    2143,
+                    442
+                ],
+                [
+                    2424,
+                    442
+                ],
+                [
+                    2424,
+                    404
+                ],
+                [
+                    2143,
+                    404
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK012495948",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2135,
+                    535
+                ],
+                [
+                    2136,
+                    573
+                ],
+                [
+                    2239,
+                    570
+                ],
+                [
+                    2239,
+                    535
+                ],
+                [
+                    2135,
+                    535
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Raffles",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2132,
+                    581
+                ],
+                [
+                    2136,
+                    612
+                ],
+                [
+                    2247,
+                    612
+                ],
+                [
+                    2247,
+                    581
+                ],
+                [
+                    2132,
+                    581
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Museum",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2107,
+                    626
+                ],
+                [
+                    2109,
+                    662
+                ],
+                [
+                    2255,
+                    656
+                ],
+                [
+                    2253,
+                    622
+                ],
+                [
+                    2107,
+                    626
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Singapore.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2045,
+                    801
+                ],
+                [
+                    2197,
+                    796
+                ],
+                [
+                    2194,
+                    765
+                ],
+                [
+                    2046,
+                    771
+                ],
+                [
+                    2045,
+                    801
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Ex F.M.S.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2046,
+                    806
+                ],
+                [
+                    2051,
+                    837
+                ],
+                [
+                    2194,
+                    831
+                ],
+                [
+                    2193,
+                    803
+                ],
+                [
+                    2046,
+                    806
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Museum.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2012,
+                    839
+                ],
+                [
+                    2014,
+                    871
+                ],
+                [
+                    2231,
+                    866
+                ],
+                [
+                    2229,
+                    831
+                ],
+                [
+                    2012,
+                    839
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "B.M. 1955-354.",
+            "worker_version": null
+        }
+    ]
+}

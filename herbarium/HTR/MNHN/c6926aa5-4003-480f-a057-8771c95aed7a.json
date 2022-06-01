@@ -1,0 +1,964 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "c301e3ce-a988-469d-afb1-5af714a7123b",
+        "name": "MNHN"
+    },
+    "image": {
+        "id": "9eb1f6b7-2700-43a6-87d4-d8b59cbab9cd",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FP00168597.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FP00168597.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "c6926aa5-4003-480f-a057-8771c95aed7a",
+        "name": "P00168597",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    214,
+                    140
+                ],
+                [
+                    214,
+                    179
+                ],
+                [
+                    329,
+                    179
+                ],
+                [
+                    329,
+                    140
+                ],
+                [
+                    214,
+                    140
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "PL02596224",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    214,
+                    140
+                ],
+                [
+                    214,
+                    179
+                ],
+                [
+                    329,
+                    179
+                ],
+                [
+                    329,
+                    140
+                ],
+                [
+                    214,
+                    140
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "PL02596224",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2063,
+                    3482
+                ],
+                [
+                    2063,
+                    3586
+                ],
+                [
+                    2253,
+                    3586
+                ],
+                [
+                    2253,
+                    3482
+                ],
+                [
+                    2063,
+                    3482
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Robion",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2063,
+                    3482
+                ],
+                [
+                    2063,
+                    3586
+                ],
+                [
+                    2253,
+                    3586
+                ],
+                [
+                    2253,
+                    3482
+                ],
+                [
+                    2063,
+                    3482
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Robion",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2045,
+                    3677
+                ],
+                [
+                    2045,
+                    3835
+                ],
+                [
+                    2971,
+                    3835
+                ],
+                [
+                    2971,
+                    3677
+                ],
+                [
+                    2045,
+                    3677
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Campanula glomerata L.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2045,
+                    3677
+                ],
+                [
+                    2045,
+                    3835
+                ],
+                [
+                    2971,
+                    3835
+                ],
+                [
+                    2971,
+                    3677
+                ],
+                [
+                    2045,
+                    3677
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Campanula glomerata L",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2028,
+                    3864
+                ],
+                [
+                    2028,
+                    3979
+                ],
+                [
+                    3140,
+                    3979
+                ],
+                [
+                    3140,
+                    3864
+                ],
+                [
+                    2028,
+                    3864
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Base nord du Luberon entre Rob\u00edon",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2028,
+                    3864
+                ],
+                [
+                    2028,
+                    3979
+                ],
+                [
+                    3140,
+                    3979
+                ],
+                [
+                    3140,
+                    3864
+                ],
+                [
+                    2028,
+                    3864
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Dace du Lurkerow , entre Robion",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2081,
+                    3983
+                ],
+                [
+                    2081,
+                    4084
+                ],
+                [
+                    2515,
+                    4084
+                ],
+                [
+                    2515,
+                    3983
+                ],
+                [
+                    2081,
+                    3983
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "& Maubec",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2081,
+                    3983
+                ],
+                [
+                    2081,
+                    4084
+                ],
+                [
+                    2515,
+                    4084
+                ],
+                [
+                    2515,
+                    3983
+                ],
+                [
+                    2081,
+                    3983
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "& Maubee",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2584,
+                    3982
+                ],
+                [
+                    2584,
+                    4069
+                ],
+                [
+                    3062,
+                    4069
+                ],
+                [
+                    3062,
+                    3982
+                ],
+                [
+                    2584,
+                    3982
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Vaucluse",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2584,
+                    3982
+                ],
+                [
+                    2584,
+                    4069
+                ],
+                [
+                    3062,
+                    4069
+                ],
+                [
+                    3062,
+                    3982
+                ],
+                [
+                    2584,
+                    3982
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Vaucluse",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2338,
+                    4089
+                ],
+                [
+                    2338,
+                    4253
+                ],
+                [
+                    2910,
+                    4253
+                ],
+                [
+                    2910,
+                    4089
+                ],
+                [
+                    2338,
+                    4089
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "20 Juin 1864!",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2338,
+                    4089
+                ],
+                [
+                    2338,
+                    4253
+                ],
+                [
+                    2910,
+                    4253
+                ],
+                [
+                    2910,
+                    4089
+                ],
+                [
+                    2338,
+                    4089
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Yo fuis 1964",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3011,
+                    4079
+                ],
+                [
+                    3041,
+                    4164
+                ],
+                [
+                    3163,
+                    4134
+                ],
+                [
+                    3125,
+                    4045
+                ],
+                [
+                    3011,
+                    4079
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Hg",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3011,
+                    4079
+                ],
+                [
+                    3041,
+                    4164
+                ],
+                [
+                    3163,
+                    4134
+                ],
+                [
+                    3125,
+                    4045
+                ],
+                [
+                    3011,
+                    4079
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HE",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3039,
+                    4235
+                ],
+                [
+                    3152,
+                    4273
+                ],
+                [
+                    3203,
+                    4187
+                ],
+                [
+                    3087,
+                    4162
+                ],
+                [
+                    3039,
+                    4235
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "64",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2321,
+                    4374
+                ],
+                [
+                    2321,
+                    4442
+                ],
+                [
+                    2882,
+                    4442
+                ],
+                [
+                    2882,
+                    4374
+                ],
+                [
+                    2321,
+                    4374
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB . MUS . PARIS .",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2321,
+                    4374
+                ],
+                [
+                    2321,
+                    4442
+                ],
+                [
+                    2882,
+                    4442
+                ],
+                [
+                    2882,
+                    4374
+                ],
+                [
+                    2321,
+                    4374
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB . MUS . PARIS .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2762,
+                    4471
+                ],
+                [
+                    2762,
+                    4522
+                ],
+                [
+                    3119,
+                    4522
+                ],
+                [
+                    3119,
+                    4471
+                ],
+                [
+                    2762,
+                    4471
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herb . Mus\u00e9um Paris",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2762,
+                    4471
+                ],
+                [
+                    2762,
+                    4522
+                ],
+                [
+                    3119,
+                    4522
+                ],
+                [
+                    3119,
+                    4471
+                ],
+                [
+                    2762,
+                    4471
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herb . Mus\u00e9um Paris",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2849,
+                    4639
+                ],
+                [
+                    2849,
+                    4688
+                ],
+                [
+                    3049,
+                    4688
+                ],
+                [
+                    3049,
+                    4639
+                ],
+                [
+                    2849,
+                    4639
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "PO0168597",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2849,
+                    4639
+                ],
+                [
+                    2849,
+                    4688
+                ],
+                [
+                    3049,
+                    4688
+                ],
+                [
+                    3049,
+                    4639
+                ],
+                [
+                    2849,
+                    4639
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "PO0168597",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1740,
+                    4584
+                ],
+                [
+                    1740,
+                    4637
+                ],
+                [
+                    2154,
+                    4637
+                ],
+                [
+                    2154,
+                    4584
+                ],
+                [
+                    1740,
+                    4584
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "CAMPANULACEAE",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1740,
+                    4584
+                ],
+                [
+                    1740,
+                    4637
+                ],
+                [
+                    2154,
+                    4637
+                ],
+                [
+                    2154,
+                    4584
+                ],
+                [
+                    1740,
+                    4584
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "CAMPANULACEAE",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1742,
+                    4641
+                ],
+                [
+                    1742,
+                    4701
+                ],
+                [
+                    2600,
+                    4701
+                ],
+                [
+                    2600,
+                    4641
+                ],
+                [
+                    1742,
+                    4641
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Campanula glomerata Linnaeus",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1742,
+                    4641
+                ],
+                [
+                    1742,
+                    4701
+                ],
+                [
+                    2600,
+                    4701
+                ],
+                [
+                    2600,
+                    4641
+                ],
+                [
+                    1742,
+                    4641
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Campanula glomerata Linnaeus",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1742,
+                    4739
+                ],
+                [
+                    1742,
+                    4790
+                ],
+                [
+                    2543,
+                    4790
+                ],
+                [
+                    2543,
+                    4739
+                ],
+                [
+                    1742,
+                    4739
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Det . N . R . Morin ( MO ) , 1995",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1742,
+                    4739
+                ],
+                [
+                    1742,
+                    4790
+                ],
+                [
+                    2543,
+                    4790
+                ],
+                [
+                    2543,
+                    4739
+                ],
+                [
+                    1742,
+                    4739
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Det . N . R . Morin ( MO ) , 1995",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1744,
+                    4792
+                ],
+                [
+                    1744,
+                    4839
+                ],
+                [
+                    2961,
+                    4839
+                ],
+                [
+                    2961,
+                    4792
+                ],
+                [
+                    1744,
+                    4792
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Missouri Botanical Garden Herbarium ( MO )",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1744,
+                    4792
+                ],
+                [
+                    1744,
+                    4839
+                ],
+                [
+                    2961,
+                    4839
+                ],
+                [
+                    2961,
+                    4792
+                ],
+                [
+                    1744,
+                    4792
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Missouri Botanical Garden Herbarium ( MO )",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2057,
+                    4928
+                ],
+                [
+                    2057,
+                    4979
+                ],
+                [
+                    2521,
+                    4979
+                ],
+                [
+                    2521,
+                    4928
+                ],
+                [
+                    2057,
+                    4928
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herbier Th . DELACOUR",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2057,
+                    4928
+                ],
+                [
+                    2057,
+                    4979
+                ],
+                [
+                    2521,
+                    4979
+                ],
+                [
+                    2521,
+                    4928
+                ],
+                [
+                    2057,
+                    4928
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herbier Th . DELACOUR",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2063,
+                    5000
+                ],
+                [
+                    2063,
+                    5046
+                ],
+                [
+                    2933,
+                    5046
+                ],
+                [
+                    2933,
+                    5000
+                ],
+                [
+                    2063,
+                    5000
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Re\u00e7u le 10 Avril 1970 , de la Facult\u00e9 de Pharmacie , Paris .",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2063,
+                    5000
+                ],
+                [
+                    2063,
+                    5046
+                ],
+                [
+                    2933,
+                    5046
+                ],
+                [
+                    2933,
+                    5000
+                ],
+                [
+                    2063,
+                    5000
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Re\u00e7u le 10 Avril 1970 , de la Facult\u00e9 de Pharmacie , Paris .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        }
+    ]
+}

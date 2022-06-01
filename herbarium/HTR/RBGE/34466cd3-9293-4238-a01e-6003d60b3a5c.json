@@ -1,0 +1,977 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "479c24a2-d399-4074-b47f-7c82c51a95d8",
+        "name": "RBGE"
+    },
+    "image": {
+        "id": "b2bdd4d3-7590-4939-8943-742ac5af4a93",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FE00369537.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FE00369537.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "34466cd3-9293-4238-a01e-6003d60b3a5c",
+        "name": "E00369537",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    272,
+                    7561
+                ],
+                [
+                    272,
+                    7611
+                ],
+                [
+                    547,
+                    7611
+                ],
+                [
+                    547,
+                    7561
+                ],
+                [
+                    272,
+                    7561
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "E00369537",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    272,
+                    7561
+                ],
+                [
+                    272,
+                    7611
+                ],
+                [
+                    547,
+                    7611
+                ],
+                [
+                    547,
+                    7561
+                ],
+                [
+                    272,
+                    7561
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "E00369537",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    272,
+                    7344
+                ],
+                [
+                    272,
+                    7392
+                ],
+                [
+                    559,
+                    7392
+                ],
+                [
+                    559,
+                    7344
+                ],
+                [
+                    272,
+                    7344
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "EDINBURGH",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    272,
+                    7344
+                ],
+                [
+                    272,
+                    7392
+                ],
+                [
+                    559,
+                    7392
+                ],
+                [
+                    559,
+                    7344
+                ],
+                [
+                    272,
+                    7344
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "EDINBURGH",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    107,
+                    7293
+                ],
+                [
+                    107,
+                    7338
+                ],
+                [
+                    726,
+                    7338
+                ],
+                [
+                    726,
+                    7293
+                ],
+                [
+                    107,
+                    7293
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ROYAL BOTANIC GARDEN",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    107,
+                    7293
+                ],
+                [
+                    107,
+                    7338
+                ],
+                [
+                    726,
+                    7338
+                ],
+                [
+                    726,
+                    7293
+                ],
+                [
+                    107,
+                    7293
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ROYAL BOTANIC GARDEN",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    843,
+                    5340
+                ],
+                [
+                    843,
+                    5449
+                ],
+                [
+                    1572,
+                    5449
+                ],
+                [
+                    1572,
+                    5340
+                ],
+                [
+                    843,
+                    5340
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "P. canariensis",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1483,
+                    5475
+                ],
+                [
+                    1483,
+                    5575
+                ],
+                [
+                    2310,
+                    5575
+                ],
+                [
+                    2310,
+                    5475
+                ],
+                [
+                    1483,
+                    5475
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "tersea \u0633\u06d2 \u0648\u0631\u06a9",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1483,
+                    5475
+                ],
+                [
+                    1483,
+                    5575
+                ],
+                [
+                    2310,
+                    5575
+                ],
+                [
+                    2310,
+                    5475
+                ],
+                [
+                    1483,
+                    5475
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Battersea fields",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1661,
+                    5618
+                ],
+                [
+                    1661,
+                    5739
+                ],
+                [
+                    2287,
+                    5739
+                ],
+                [
+                    2287,
+                    5618
+                ],
+                [
+                    1661,
+                    5618
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "angt 1828",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1661,
+                    5618
+                ],
+                [
+                    1661,
+                    5739
+                ],
+                [
+                    2287,
+                    5739
+                ],
+                [
+                    2287,
+                    5618
+                ],
+                [
+                    1661,
+                    5618
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Aug 2 1828",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3956,
+                    6335
+                ],
+                [
+                    3956,
+                    6395
+                ],
+                [
+                    4235,
+                    6395
+                ],
+                [
+                    4235,
+                    6335
+                ],
+                [
+                    3956,
+                    6335
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "E00699041",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3956,
+                    6335
+                ],
+                [
+                    3956,
+                    6395
+                ],
+                [
+                    4235,
+                    6395
+                ],
+                [
+                    4235,
+                    6335
+                ],
+                [
+                    3956,
+                    6335
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "E00699041",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3950,
+                    6180
+                ],
+                [
+                    4237,
+                    6180
+                ],
+                [
+                    4237,
+                    6142
+                ],
+                [
+                    3952,
+                    6136
+                ],
+                [
+                    3950,
+                    6180
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "EDINBURGH",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3950,
+                    6180
+                ],
+                [
+                    4237,
+                    6180
+                ],
+                [
+                    4237,
+                    6142
+                ],
+                [
+                    3952,
+                    6136
+                ],
+                [
+                    3950,
+                    6180
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "EDINBURGH",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3787,
+                    6130
+                ],
+                [
+                    4408,
+                    6138
+                ],
+                [
+                    4408,
+                    6080
+                ],
+                [
+                    3793,
+                    6080
+                ],
+                [
+                    3787,
+                    6130
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ROYAL BOTANIC GARDEN",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3787,
+                    6130
+                ],
+                [
+                    4408,
+                    6138
+                ],
+                [
+                    4408,
+                    6080
+                ],
+                [
+                    3793,
+                    6080
+                ],
+                [
+                    3787,
+                    6130
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ROYAL BOTANIC GARDEN",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3998,
+                    5833
+                ],
+                [
+                    3998,
+                    5959
+                ],
+                [
+                    4666,
+                    5959
+                ],
+                [
+                    4666,
+                    5833
+                ],
+                [
+                    3998,
+                    5833
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Det : Magarivaus",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3998,
+                    5833
+                ],
+                [
+                    3998,
+                    5959
+                ],
+                [
+                    4666,
+                    5959
+                ],
+                [
+                    4666,
+                    5833
+                ],
+                [
+                    3998,
+                    5833
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Det: W.Edgar Evans",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3132,
+                    5761
+                ],
+                [
+                    3132,
+                    5826
+                ],
+                [
+                    4769,
+                    5826
+                ],
+                [
+                    4764,
+                    5695
+                ],
+                [
+                    3132,
+                    5761
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "This specimen is Phalaris brachystachys ,",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3132,
+                    5761
+                ],
+                [
+                    3132,
+                    5826
+                ],
+                [
+                    4769,
+                    5826
+                ],
+                [
+                    4764,
+                    5695
+                ],
+                [
+                    3132,
+                    5761
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "This specimen is Phalaris brachystachys Link.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4335,
+                    4972
+                ],
+                [
+                    4375,
+                    5062
+                ],
+                [
+                    4714,
+                    4924
+                ],
+                [
+                    4684,
+                    4844
+                ],
+                [
+                    4337,
+                    4967
+                ],
+                [
+                    4335,
+                    4972
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "brachys",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3308,
+                    5449
+                ],
+                [
+                    3313,
+                    5452
+                ],
+                [
+                    3323,
+                    5517
+                ],
+                [
+                    3767,
+                    5497
+                ],
+                [
+                    3788,
+                    5437
+                ],
+                [
+                    3308,
+                    5449
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "1827 . Fleischer .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3308,
+                    5449
+                ],
+                [
+                    3313,
+                    5452
+                ],
+                [
+                    3323,
+                    5517
+                ],
+                [
+                    3767,
+                    5497
+                ],
+                [
+                    3788,
+                    5437
+                ],
+                [
+                    3308,
+                    5449
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "1827. Fleischer.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3315,
+                    5359
+                ],
+                [
+                    3315,
+                    5427
+                ],
+                [
+                    3770,
+                    5409
+                ],
+                [
+                    3765,
+                    5349
+                ],
+                [
+                    3315,
+                    5359
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Unio itineraria .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3315,
+                    5359
+                ],
+                [
+                    3315,
+                    5427
+                ],
+                [
+                    3770,
+                    5409
+                ],
+                [
+                    3765,
+                    5349
+                ],
+                [
+                    3315,
+                    5359
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Unio itineraria.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4423,
+                    5404
+                ],
+                [
+                    4435,
+                    5401
+                ],
+                [
+                    4443,
+                    5464
+                ],
+                [
+                    4631,
+                    5464
+                ],
+                [
+                    4631,
+                    5404
+                ],
+                [
+                    4423,
+                    5404
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Majo ,",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4423,
+                    5404
+                ],
+                [
+                    4435,
+                    5401
+                ],
+                [
+                    4443,
+                    5464
+                ],
+                [
+                    4631,
+                    5464
+                ],
+                [
+                    4631,
+                    5404
+                ],
+                [
+                    4423,
+                    5404
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Majo,",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3908,
+                    5334
+                ],
+                [
+                    3936,
+                    5391
+                ],
+                [
+                    3933,
+                    5396
+                ],
+                [
+                    4624,
+                    5374
+                ],
+                [
+                    4616,
+                    5324
+                ],
+                [
+                    3908,
+                    5334
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Inter segetes Smyrnae .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3908,
+                    5334
+                ],
+                [
+                    3936,
+                    5391
+                ],
+                [
+                    3933,
+                    5396
+                ],
+                [
+                    4624,
+                    5374
+                ],
+                [
+                    4616,
+                    5324
+                ],
+                [
+                    3908,
+                    5334
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Inter segetes Smyrnae.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3579,
+                    5194
+                ],
+                [
+                    3581,
+                    5194
+                ],
+                [
+                    3583,
+                    5252
+                ],
+                [
+                    4347,
+                    5228
+                ],
+                [
+                    4345,
+                    5166
+                ],
+                [
+                    3579,
+                    5194
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Phalaris canariensis Lin ,",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3579,
+                    5194
+                ],
+                [
+                    3581,
+                    5194
+                ],
+                [
+                    3583,
+                    5252
+                ],
+                [
+                    4347,
+                    5228
+                ],
+                [
+                    4345,
+                    5166
+                ],
+                [
+                    3579,
+                    5194
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Phalaris canariensis Lin.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4213,
+                    7643
+                ],
+                [
+                    4779,
+                    7689
+                ],
+                [
+                    4787,
+                    7603
+                ],
+                [
+                    4228,
+                    7565
+                ],
+                [
+                    4213,
+                    7643
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "canariensis",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4024,
+                    7485
+                ],
+                [
+                    4650,
+                    7497
+                ],
+                [
+                    4681,
+                    7410
+                ],
+                [
+                    4101,
+                    7310
+                ],
+                [
+                    4027,
+                    7479
+                ],
+                [
+                    4024,
+                    7485
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Phalaris",
+            "worker_version": null
+        }
+    ]
+}

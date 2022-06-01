@@ -1,0 +1,586 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "438d96cb-88a1-4786-a83a-08301ba7e92a",
+        "name": "BGBM"
+    },
+    "image": {
+        "id": "bd18a35a-8920-4d68-b57e-a9b6739311ca",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FB_10_0190461.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FB_10_0190461.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "c0c15a2c-0829-4447-a809-1dc3e2ea8c9b",
+        "name": "B_10_0190461",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    11,
+                    2978
+                ],
+                [
+                    744,
+                    2974
+                ],
+                [
+                    756,
+                    2907
+                ],
+                [
+                    13,
+                    2913
+                ],
+                [
+                    11,
+                    2978
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Station: Mohesa (48 Km. v. Tanga)",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    758,
+                    2903
+                ],
+                [
+                    758,
+                    2956
+                ],
+                [
+                    977,
+                    2956
+                ],
+                [
+                    977,
+                    2903
+                ],
+                [
+                    758,
+                    2903
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "\u2116: 114",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    6,
+                    3179
+                ],
+                [
+                    6,
+                    3254
+                ],
+                [
+                    863,
+                    3210
+                ],
+                [
+                    863,
+                    3140
+                ],
+                [
+                    6,
+                    3179
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Blthfarbe: gelb in\u2019s r\u00f6tliche \u017fpielend.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    6,
+                    3259
+                ],
+                [
+                    9,
+                    3302
+                ],
+                [
+                    878,
+                    3277
+                ],
+                [
+                    873,
+                    3220
+                ],
+                [
+                    6,
+                    3259
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Ortsname: Mohesa in Usambara",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    6,
+                    3371
+                ],
+                [
+                    415,
+                    3363
+                ],
+                [
+                    421,
+                    3300
+                ],
+                [
+                    8,
+                    3311
+                ],
+                [
+                    6,
+                    3371
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "H\u00f6he \u00fc. d. M: ?",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    11,
+                    3679
+                ],
+                [
+                    11,
+                    3757
+                ],
+                [
+                    441,
+                    3757
+                ],
+                [
+                    441,
+                    3679
+                ],
+                [
+                    11,
+                    3679
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Gefd: d. 16. Sept. 1895",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    443,
+                    3679
+                ],
+                [
+                    443,
+                    3750
+                ],
+                [
+                    998,
+                    3750
+                ],
+                [
+                    998,
+                    3679
+                ],
+                [
+                    443,
+                    3679
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Sammler: E. Heinsen.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2072,
+                    3157
+                ],
+                [
+                    2072,
+                    3256
+                ],
+                [
+                    2682,
+                    3256
+                ],
+                [
+                    2682,
+                    3157
+                ],
+                [
+                    2072,
+                    3157
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "209/2006 \u2013  24",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    119,
+                    3848
+                ],
+                [
+                    119,
+                    3922
+                ],
+                [
+                    1037,
+                    3922
+                ],
+                [
+                    1037,
+                    3848
+                ],
+                [
+                    119,
+                    3848
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Museum botanicum Berolinense",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    73,
+                    3953
+                ],
+                [
+                    73,
+                    4095
+                ],
+                [
+                    1079,
+                    4095
+                ],
+                [
+                    1079,
+                    3953
+                ],
+                [
+                    73,
+                    3953
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Barleria Prionitis L. det Linron",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1256,
+                    4218
+                ],
+                [
+                    1256,
+                    4295
+                ],
+                [
+                    1851,
+                    4295
+                ],
+                [
+                    1851,
+                    4218
+                ],
+                [
+                    1256,
+                    4218
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Barleria brivispina R. Br",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1436,
+                    4357
+                ],
+                [
+                    1826,
+                    4353
+                ],
+                [
+                    1826,
+                    4300
+                ],
+                [
+                    1438,
+                    4302
+                ],
+                [
+                    1436,
+                    4357
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "det. CB Clarke",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1557,
+                    4358
+                ],
+                [
+                    1557,
+                    4422
+                ],
+                [
+                    1808,
+                    4422
+                ],
+                [
+                    1808,
+                    4358
+                ],
+                [
+                    1557,
+                    4358
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Aug. 1897",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2150,
+                    3346
+                ],
+                [
+                    2463,
+                    3337
+                ],
+                [
+                    2464,
+                    3292
+                ],
+                [
+                    2154,
+                    3300
+                ],
+                [
+                    2150,
+                    3346
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Mus. Bot. Berol.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2198,
+                    3413
+                ],
+                [
+                    2207,
+                    3443
+                ],
+                [
+                    2415,
+                    3438
+                ],
+                [
+                    2417,
+                    3406
+                ],
+                [
+                    2198,
+                    3413
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "B 10 0190461",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2672,
+                    4314
+                ],
+                [
+                    2758,
+                    4321
+                ],
+                [
+                    2761,
+                    4246
+                ],
+                [
+                    2679,
+                    4241
+                ],
+                [
+                    2672,
+                    4314
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "84",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2053,
+                    4344
+                ],
+                [
+                    2053,
+                    4412
+                ],
+                [
+                    2319,
+                    4384
+                ],
+                [
+                    2317,
+                    4323
+                ],
+                [
+                    2053,
+                    4344
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Image 2006",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2362,
+                    4417
+                ],
+                [
+                    2727,
+                    4424
+                ],
+                [
+                    2729,
+                    4347
+                ],
+                [
+                    2364,
+                    4338
+                ],
+                [
+                    2362,
+                    4417
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Mus. bot. Berol.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    71,
+                    410
+                ],
+                [
+                    405,
+                    421
+                ],
+                [
+                    405,
+                    365
+                ],
+                [
+                    76,
+                    356
+                ],
+                [
+                    71,
+                    410
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "- 3 JUL 1972",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    127,
+                    1766
+                ],
+                [
+                    127,
+                    2865
+                ],
+                [
+                    187,
+                    2865
+                ],
+                [
+                    187,
+                    1766
+                ],
+                [
+                    127,
+                    1766
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "0    1    2    3    4    5    6    7    8    9    10",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    191,
+                    1778
+                ],
+                [
+                    191,
+                    2196
+                ],
+                [
+                    250,
+                    2196
+                ],
+                [
+                    250,
+                    1778
+                ],
+                [
+                    191,
+                    1778
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "copyright reserved",
+            "worker_version": null
+        }
+    ]
+}

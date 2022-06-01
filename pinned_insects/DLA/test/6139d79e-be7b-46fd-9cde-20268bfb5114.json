@@ -1,0 +1,65 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6ebebd79-2a28-464f-b60a-aa47a864a586",
+        "name": "test"
+    },
+    "image": {
+        "id": "3a89f705-8177-43ac-be37-65de8f9878b3",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/513eeacc-bd72-41b2-90fb-f9de347bd34a",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/513eeacc-bd72-41b2-90fb-f9de347bd34a/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "6139d79e-be7b-46fd-9cde-20268bfb5114",
+        "name": "010810209_additional.2500x5792.jpeg",
+        "rotation_angle": 0
+    },
+    "polygons": {
+        "text_line": [
+            [
+                [
+                    1720,
+                    1022
+                ],
+                [
+                    1720,
+                    1149
+                ],
+                [
+                    2192,
+                    1136
+                ],
+                [
+                    2192,
+                    1017
+                ],
+                [
+                    1720,
+                    1022
+                ]
+            ],
+            [
+                [
+                    1801,
+                    1407
+                ],
+                [
+                    1803,
+                    1478
+                ],
+                [
+                    2315,
+                    1462
+                ],
+                [
+                    2315,
+                    1392
+                ],
+                [
+                    1801,
+                    1407
+                ]
+            ]
+        ]
+    }
+}

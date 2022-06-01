@@ -1,0 +1,235 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "106e539c-82ff-4ff0-a5db-b12e1ae5e9f7",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/22f20f3d-8f98-4537-ab14-b764913cfd41",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/22f20f3d-8f98-4537-ab14-b764913cfd41/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "a7d40c95-3571-4bc7-98f1-d7e25280167f",
+        "name": "010806670__.2500x5792.jpeg",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    1783,
+                    1409
+                ],
+                [
+                    1783,
+                    1479
+                ],
+                [
+                    2361,
+                    1479
+                ],
+                [
+                    2361,
+                    1409
+                ],
+                [
+                    1783,
+                    1409
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK010806670",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1717,
+                    950
+                ],
+                [
+                    1717,
+                    1005
+                ],
+                [
+                    2174,
+                    1018
+                ],
+                [
+                    2175,
+                    960
+                ],
+                [
+                    1717,
+                    950
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BRITISH ISLES:",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1682,
+                    1069
+                ],
+                [
+                    2205,
+                    1086
+                ],
+                [
+                    2207,
+                    1030
+                ],
+                [
+                    1686,
+                    1014
+                ],
+                [
+                    1682,
+                    1069
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Le Marchant Coll.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1715,
+                    1142
+                ],
+                [
+                    2164,
+                    1153
+                ],
+                [
+                    2163,
+                    1097
+                ],
+                [
+                    1716,
+                    1084
+                ],
+                [
+                    1715,
+                    1142
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "B.M. 1933-129.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1758,
+                    664
+                ],
+                [
+                    1759,
+                    711
+                ],
+                [
+                    2021,
+                    703
+                ],
+                [
+                    2020,
+                    658
+                ],
+                [
+                    1758,
+                    664
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Beaulieu,",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1801,
+                    718
+                ],
+                [
+                    1803,
+                    757
+                ],
+                [
+                    1977,
+                    755
+                ],
+                [
+                    1974,
+                    713
+                ],
+                [
+                    1801,
+                    718
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Hants",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1722,
+                    767
+                ],
+                [
+                    1723,
+                    808
+                ],
+                [
+                    2062,
+                    802
+                ],
+                [
+                    2062,
+                    762
+                ],
+                [
+                    1722,
+                    767
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Le Marchant.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1757,
+                    813
+                ],
+                [
+                    1759,
+                    885
+                ],
+                [
+                    2048,
+                    879
+                ],
+                [
+                    2045,
+                    807
+                ],
+                [
+                    1757,
+                    813
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "17.4.14",
+            "worker_version": null
+        }
+    ]
+}

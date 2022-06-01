@@ -1,0 +1,1159 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "479c24a2-d399-4074-b47f-7c82c51a95d8",
+        "name": "RBGE"
+    },
+    "image": {
+        "id": "082e5d40-ab4e-42a4-b93b-a99b88e7de3b",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FE00144488.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FE00144488.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "3c04b213-dc5c-424d-a9f8-7117ddbfabd3",
+        "name": "E00144488",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    3833,
+                    112
+                ],
+                [
+                    3833,
+                    360
+                ],
+                [
+                    5125,
+                    360
+                ],
+                [
+                    5125,
+                    112
+                ],
+                [
+                    3833,
+                    112
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB. HORT. EDINB.",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3833,
+                    112
+                ],
+                [
+                    3833,
+                    360
+                ],
+                [
+                    5125,
+                    360
+                ],
+                [
+                    5125,
+                    112
+                ],
+                [
+                    3833,
+                    112
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB . HORT . EDINB .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3501,
+                    6482
+                ],
+                [
+                    3501,
+                    6563
+                ],
+                [
+                    4798,
+                    6563
+                ],
+                [
+                    4798,
+                    6482
+                ],
+                [
+                    3501,
+                    6482
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Royal Botanic Garden Edinburgh",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3501,
+                    6482
+                ],
+                [
+                    3501,
+                    6563
+                ],
+                [
+                    4798,
+                    6563
+                ],
+                [
+                    4798,
+                    6482
+                ],
+                [
+                    3501,
+                    6482
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Royal Botanic Garden Edinburgh",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3748,
+                    6560
+                ],
+                [
+                    3748,
+                    6631
+                ],
+                [
+                    4487,
+                    6631
+                ],
+                [
+                    4487,
+                    6560
+                ],
+                [
+                    3748,
+                    6560
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Cultivated Plants",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3748,
+                    6560
+                ],
+                [
+                    3748,
+                    6631
+                ],
+                [
+                    4487,
+                    6631
+                ],
+                [
+                    4487,
+                    6560
+                ],
+                [
+                    3748,
+                    6560
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Cultivated Plants",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4332,
+                    6794
+                ],
+                [
+                    4338,
+                    6872
+                ],
+                [
+                    5057,
+                    6895
+                ],
+                [
+                    5060,
+                    6813
+                ],
+                [
+                    4332,
+                    6794
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Aceraceae (51.03)",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    4332,
+                    6794
+                ],
+                [
+                    4338,
+                    6872
+                ],
+                [
+                    5057,
+                    6895
+                ],
+                [
+                    5060,
+                    6813
+                ],
+                [
+                    4332,
+                    6794
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Aceraceae ( 51 . 03 )",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3189,
+                    6959
+                ],
+                [
+                    4897,
+                    6976
+                ],
+                [
+                    4888,
+                    6889
+                ],
+                [
+                    3208,
+                    6892
+                ],
+                [
+                    3189,
+                    6959
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Acer davidii Franch. ssp. grosseri (Pax)",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3189,
+                    6959
+                ],
+                [
+                    4897,
+                    6976
+                ],
+                [
+                    4888,
+                    6889
+                ],
+                [
+                    3208,
+                    6892
+                ],
+                [
+                    3189,
+                    6959
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Acer davidii Franch . ssp . grosseri ( Pax )",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3203,
+                    6971
+                ],
+                [
+                    3203,
+                    7049
+                ],
+                [
+                    3517,
+                    7049
+                ],
+                [
+                    3517,
+                    6971
+                ],
+                [
+                    3203,
+                    6971
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "de Jong",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3203,
+                    6971
+                ],
+                [
+                    3203,
+                    7049
+                ],
+                [
+                    3517,
+                    7049
+                ],
+                [
+                    3517,
+                    6971
+                ],
+                [
+                    3203,
+                    6971
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "de Jong",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3203,
+                    7198
+                ],
+                [
+                    4543,
+                    7209
+                ],
+                [
+                    4692,
+                    7192
+                ],
+                [
+                    4638,
+                    7134
+                ],
+                [
+                    4034,
+                    7128
+                ],
+                [
+                    3217,
+                    7136
+                ],
+                [
+                    3203,
+                    7198
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Cult. info.: Acc. num.: 19991805*A.",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3203,
+                    7198
+                ],
+                [
+                    4543,
+                    7209
+                ],
+                [
+                    4692,
+                    7192
+                ],
+                [
+                    4638,
+                    7134
+                ],
+                [
+                    4034,
+                    7128
+                ],
+                [
+                    3217,
+                    7136
+                ],
+                [
+                    3203,
+                    7198
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Cult . info . : Acc . num . : 19991805 * A .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3192,
+                    7277
+                ],
+                [
+                    3767,
+                    7288
+                ],
+                [
+                    4307,
+                    7288
+                ],
+                [
+                    5060,
+                    7308
+                ],
+                [
+                    5043,
+                    7240
+                ],
+                [
+                    4371,
+                    7207
+                ],
+                [
+                    3223,
+                    7212
+                ],
+                [
+                    3192,
+                    7277
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "collected 12 Jul 2001. Verified by Martin F.",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3192,
+                    7277
+                ],
+                [
+                    3767,
+                    7288
+                ],
+                [
+                    4307,
+                    7288
+                ],
+                [
+                    5060,
+                    7308
+                ],
+                [
+                    5043,
+                    7240
+                ],
+                [
+                    4371,
+                    7207
+                ],
+                [
+                    3223,
+                    7212
+                ],
+                [
+                    3192,
+                    7277
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "collected 12 Jul 2001 . Verified by Martin F .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3200,
+                    7355
+                ],
+                [
+                    3624,
+                    7369
+                ],
+                [
+                    4102,
+                    7355
+                ],
+                [
+                    4939,
+                    7392
+                ],
+                [
+                    4953,
+                    7325
+                ],
+                [
+                    4540,
+                    7316
+                ],
+                [
+                    4009,
+                    7299
+                ],
+                [
+                    3217,
+                    7302
+                ],
+                [
+                    3200,
+                    7355
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Gardner & Richard J. Eden as Acer davidii",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3200,
+                    7355
+                ],
+                [
+                    3624,
+                    7369
+                ],
+                [
+                    4102,
+                    7355
+                ],
+                [
+                    4939,
+                    7392
+                ],
+                [
+                    4953,
+                    7325
+                ],
+                [
+                    4540,
+                    7316
+                ],
+                [
+                    4009,
+                    7299
+                ],
+                [
+                    3217,
+                    7302
+                ],
+                [
+                    3200,
+                    7355
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Gardner & Richard J . Eden as Acer davidii",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3206,
+                    7434
+                ],
+                [
+                    3737,
+                    7454
+                ],
+                [
+                    3804,
+                    7440
+                ],
+                [
+                    4902,
+                    7471
+                ],
+                [
+                    4905,
+                    7403
+                ],
+                [
+                    4647,
+                    7395
+                ],
+                [
+                    4214,
+                    7375
+                ],
+                [
+                    3635,
+                    7381
+                ],
+                [
+                    3214,
+                    7372
+                ],
+                [
+                    3206,
+                    7434
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Franch. ssp. grosseri (Pax) de Jong on 3",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3206,
+                    7434
+                ],
+                [
+                    3737,
+                    7454
+                ],
+                [
+                    3804,
+                    7440
+                ],
+                [
+                    4902,
+                    7471
+                ],
+                [
+                    4905,
+                    7403
+                ],
+                [
+                    4647,
+                    7395
+                ],
+                [
+                    4214,
+                    7375
+                ],
+                [
+                    3635,
+                    7381
+                ],
+                [
+                    3214,
+                    7372
+                ],
+                [
+                    3206,
+                    7434
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Franch . ssp . grosseri ( Pax ) de Jong on 3",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3194,
+                    7530
+                ],
+                [
+                    3619,
+                    7524
+                ],
+                [
+                    4245,
+                    7535
+                ],
+                [
+                    4902,
+                    7546
+                ],
+                [
+                    4885,
+                    7487
+                ],
+                [
+                    3773,
+                    7462
+                ],
+                [
+                    3228,
+                    7468
+                ],
+                [
+                    3206,
+                    7496
+                ],
+                [
+                    3194,
+                    7530
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Aug 2001 (verif. level 3). Source/donor:",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3194,
+                    7530
+                ],
+                [
+                    3619,
+                    7524
+                ],
+                [
+                    4245,
+                    7535
+                ],
+                [
+                    4902,
+                    7546
+                ],
+                [
+                    4885,
+                    7487
+                ],
+                [
+                    3773,
+                    7462
+                ],
+                [
+                    3228,
+                    7468
+                ],
+                [
+                    3206,
+                    7496
+                ],
+                [
+                    3194,
+                    7530
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Aug 2001 ( verif . level 3 ) . Source / donor :",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3197,
+                    7608
+                ],
+                [
+                    3841,
+                    7605
+                ],
+                [
+                    3852,
+                    7549
+                ],
+                [
+                    3208,
+                    7544
+                ],
+                [
+                    3197,
+                    7608
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Howick Trustees",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3197,
+                    7608
+                ],
+                [
+                    3841,
+                    7605
+                ],
+                [
+                    3852,
+                    7549
+                ],
+                [
+                    3208,
+                    7544
+                ],
+                [
+                    3197,
+                    7608
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Howick Trustees",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3193,
+                    7695
+                ],
+                [
+                    3216,
+                    7763
+                ],
+                [
+                    3553,
+                    7769
+                ],
+                [
+                    4034,
+                    7782
+                ],
+                [
+                    4696,
+                    7795
+                ],
+                [
+                    5046,
+                    7817
+                ],
+                [
+                    5030,
+                    7724
+                ],
+                [
+                    3193,
+                    7695
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Wild info.: China: Sichuan: Daba Shan. 1270",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3193,
+                    7695
+                ],
+                [
+                    3216,
+                    7763
+                ],
+                [
+                    3553,
+                    7769
+                ],
+                [
+                    4034,
+                    7782
+                ],
+                [
+                    4696,
+                    7795
+                ],
+                [
+                    5046,
+                    7817
+                ],
+                [
+                    5030,
+                    7724
+                ],
+                [
+                    3193,
+                    7695
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Wild info . : China : Sichuan : Daba Shan . 1270",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3193,
+                    7804
+                ],
+                [
+                    3193,
+                    7849
+                ],
+                [
+                    3306,
+                    7849
+                ],
+                [
+                    3306,
+                    7804
+                ],
+                [
+                    3193,
+                    7804
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "m.",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3193,
+                    7804
+                ],
+                [
+                    3193,
+                    7849
+                ],
+                [
+                    3306,
+                    7849
+                ],
+                [
+                    3306,
+                    7804
+                ],
+                [
+                    3193,
+                    7804
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "m .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3190,
+                    7929
+                ],
+                [
+                    3190,
+                    8045
+                ],
+                [
+                    4673,
+                    8045
+                ],
+                [
+                    4673,
+                    7929
+                ],
+                [
+                    3190,
+                    7929
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Sichuan Expedition (1994) No. 1788",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3190,
+                    7929
+                ],
+                [
+                    3190,
+                    8045
+                ],
+                [
+                    4673,
+                    8045
+                ],
+                [
+                    4673,
+                    7929
+                ],
+                [
+                    3190,
+                    7929
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Sichuan Expedition ( 1994 ) No . 1788",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1575,
+                    7681
+                ],
+                [
+                    1575,
+                    7735
+                ],
+                [
+                    2101,
+                    7735
+                ],
+                [
+                    2101,
+                    7681
+                ],
+                [
+                    1575,
+                    7681
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ROYAL BOTANIC GARDEN",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    1575,
+                    7681
+                ],
+                [
+                    1575,
+                    7735
+                ],
+                [
+                    2101,
+                    7735
+                ],
+                [
+                    2101,
+                    7681
+                ],
+                [
+                    1575,
+                    7681
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ROYAL BOTANIC GARDEN",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1712,
+                    7737
+                ],
+                [
+                    1712,
+                    7782
+                ],
+                [
+                    1955,
+                    7782
+                ],
+                [
+                    1955,
+                    7737
+                ],
+                [
+                    1712,
+                    7737
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "EDINBURGH",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    1712,
+                    7737
+                ],
+                [
+                    1712,
+                    7782
+                ],
+                [
+                    1955,
+                    7782
+                ],
+                [
+                    1955,
+                    7737
+                ],
+                [
+                    1712,
+                    7737
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "EDINBURGH",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1629,
+                    7926
+                ],
+                [
+                    1629,
+                    7986
+                ],
+                [
+                    2058,
+                    7986
+                ],
+                [
+                    2058,
+                    7926
+                ],
+                [
+                    1629,
+                    7926
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "E00144488",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    1629,
+                    7926
+                ],
+                [
+                    1629,
+                    7986
+                ],
+                [
+                    2058,
+                    7986
+                ],
+                [
+                    2058,
+                    7926
+                ],
+                [
+                    1629,
+                    7926
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "E00144488",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        }
+    ]
+}

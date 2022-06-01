@@ -1,0 +1,27 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "7e2c2919-cb05-4284-8c8d-5c1a51ef76e3",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/e616def0-101e-4005-9ed6-2dcd9fcf519b",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/e616def0-101e-4005-9ed6-2dcd9fcf519b/full/full/0/default.jpg"
+    },
+    "named_entities": [
+        {
+            "tags": "K B-Collection/Donation\n. I-Collection/Donation\nU I-Collection/Donation\n. I-Collection/Donation\nClarke I-Collection/Donation\ncoll I-Collection/Donation\n. I-Collection/Donation\nBMNH B-identifier\n- I-identifier\nENT I-identifier\n- I-identifier\n2011 I-identifier\n- I-identifier\n160 I-identifier",
+            "worker_version_id": null
+        },
+        {
+            "tags": "LANCS B-location_name\nRoanhead I-location_name\nnr I-location_name\nBarrow I-location_name\n4 B-date\nAug I-date\n63 I-date",
+            "worker_version_id": null
+        }
+    ],
+    "page": {
+        "id": "6ac2db87-6569-4290-8fd6-b2ee2fc6be7a",
+        "name": "010811477__.2500x5792.jpeg",
+        "rotation_angle": 0
+    }
+}

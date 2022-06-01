@@ -1,0 +1,888 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "479c24a2-d399-4074-b47f-7c82c51a95d8",
+        "name": "RBGE"
+    },
+    "image": {
+        "id": "f92d9ff9-a0d6-4a3d-ac6f-b16f162c4058",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FE00279745.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FE00279745.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "0567e9ab-e5fb-44ad-adc0-6583fc27e37f",
+        "name": "E00279745",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    5992,
+                    13
+                ],
+                [
+                    5993,
+                    164
+                ],
+                [
+                    6143,
+                    164
+                ],
+                [
+                    6147,
+                    18
+                ],
+                [
+                    5992,
+                    13
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "P",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4342,
+                    8008
+                ],
+                [
+                    4342,
+                    8092
+                ],
+                [
+                    5283,
+                    8092
+                ],
+                [
+                    5285,
+                    7987
+                ],
+                [
+                    4342,
+                    8008
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "P . puberilum Efronta Epling",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4342,
+                    8008
+                ],
+                [
+                    4342,
+                    8092
+                ],
+                [
+                    5283,
+                    8092
+                ],
+                [
+                    5285,
+                    7987
+                ],
+                [
+                    4342,
+                    8008
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "P. puberulum E Grant & Epling",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4224,
+                    7879
+                ],
+                [
+                    4224,
+                    7987
+                ],
+                [
+                    5021,
+                    7987
+                ],
+                [
+                    5021,
+                    7879
+                ],
+                [
+                    4224,
+                    7879
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Iso Type Specimen",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4224,
+                    7879
+                ],
+                [
+                    4224,
+                    7987
+                ],
+                [
+                    5021,
+                    7987
+                ],
+                [
+                    5021,
+                    7879
+                ],
+                [
+                    4224,
+                    7879
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ISO Type Specimen",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3318,
+                    8163
+                ],
+                [
+                    3318,
+                    8373
+                ],
+                [
+                    5406,
+                    8373
+                ],
+                [
+                    5406,
+                    8163
+                ],
+                [
+                    3318,
+                    8163
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Pycnanthemum puberulum Granttepling",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3318,
+                    8163
+                ],
+                [
+                    3318,
+                    8373
+                ],
+                [
+                    5406,
+                    8373
+                ],
+                [
+                    5406,
+                    8163
+                ],
+                [
+                    3318,
+                    8163
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Pycnanthemum puberulum Grant + Epling",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3501,
+                    8388
+                ],
+                [
+                    3501,
+                    8579
+                ],
+                [
+                    4489,
+                    8579
+                ],
+                [
+                    4489,
+                    8388
+                ],
+                [
+                    3501,
+                    8388
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Fide Grant repling in",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3501,
+                    8388
+                ],
+                [
+                    3501,
+                    8579
+                ],
+                [
+                    4489,
+                    8579
+                ],
+                [
+                    4489,
+                    8388
+                ],
+                [
+                    3501,
+                    8388
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Fide Grant + Epling in",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3325,
+                    8601
+                ],
+                [
+                    3325,
+                    8725
+                ],
+                [
+                    5369,
+                    8725
+                ],
+                [
+                    5365,
+                    8541
+                ],
+                [
+                    3325,
+                    8601
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Uniu , Calif . Publ , Bot . 20 . 3 . 212 ( 1943 )",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3325,
+                    8601
+                ],
+                [
+                    3325,
+                    8725
+                ],
+                [
+                    5369,
+                    8725
+                ],
+                [
+                    5365,
+                    8541
+                ],
+                [
+                    3325,
+                    8601
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Univ. Calif. Publ. Bot. 20,  3: 212 (1943)",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4033,
+                    8826
+                ],
+                [
+                    4033,
+                    8972
+                ],
+                [
+                    5126,
+                    8972
+                ],
+                [
+                    5126,
+                    8826
+                ],
+                [
+                    4033,
+                    8826
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "GEORGIA PLANTS",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4033,
+                    8826
+                ],
+                [
+                    4033,
+                    8972
+                ],
+                [
+                    5126,
+                    8972
+                ],
+                [
+                    5126,
+                    8826
+                ],
+                [
+                    4033,
+                    8826
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "GEORGIA PLANTS",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3611,
+                    9735
+                ],
+                [
+                    3611,
+                    9859
+                ],
+                [
+                    5400,
+                    9859
+                ],
+                [
+                    5419,
+                    9642
+                ],
+                [
+                    3611,
+                    9735
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Altitude feet Sept . 5 .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3611,
+                    9735
+                ],
+                [
+                    3611,
+                    9859
+                ],
+                [
+                    5400,
+                    9859
+                ],
+                [
+                    5419,
+                    9642
+                ],
+                [
+                    3611,
+                    9735
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Altitude feet Sept. 5.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3663,
+                    9511
+                ],
+                [
+                    3663,
+                    9619
+                ],
+                [
+                    5434,
+                    9619
+                ],
+                [
+                    5437,
+                    9559
+                ],
+                [
+                    3663,
+                    9511
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Geological formation : Middle Eocene , overlaid by Lafayette",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3663,
+                    9511
+                ],
+                [
+                    3663,
+                    9619
+                ],
+                [
+                    5434,
+                    9619
+                ],
+                [
+                    5437,
+                    9559
+                ],
+                [
+                    3663,
+                    9511
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Geological formation: Middle Eocene, overlaid by Lafayette.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3768,
+                    9350
+                ],
+                [
+                    3768,
+                    9500
+                ],
+                [
+                    3775,
+                    9500
+                ],
+                [
+                    5130,
+                    9537
+                ],
+                [
+                    5127,
+                    9410
+                ],
+                [
+                    3768,
+                    9350
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Leslie , Cumter bo",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3768,
+                    9350
+                ],
+                [
+                    3768,
+                    9500
+                ],
+                [
+                    3775,
+                    9500
+                ],
+                [
+                    5130,
+                    9537
+                ],
+                [
+                    5127,
+                    9410
+                ],
+                [
+                    3768,
+                    9350
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Leslie, Sumter Co.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3577,
+                    9211
+                ],
+                [
+                    3584,
+                    9357
+                ],
+                [
+                    3592,
+                    9354
+                ],
+                [
+                    5374,
+                    9413
+                ],
+                [
+                    5419,
+                    9249
+                ],
+                [
+                    3577,
+                    9211
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Border of rich woods ,",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3577,
+                    9211
+                ],
+                [
+                    3584,
+                    9357
+                ],
+                [
+                    3592,
+                    9354
+                ],
+                [
+                    5374,
+                    9413
+                ],
+                [
+                    5419,
+                    9249
+                ],
+                [
+                    3577,
+                    9211
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Border of rich woods,",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3438,
+                    9185
+                ],
+                [
+                    3453,
+                    9193
+                ],
+                [
+                    4382,
+                    9189
+                ],
+                [
+                    4385,
+                    9050
+                ],
+                [
+                    3476,
+                    9043
+                ],
+                [
+                    3438,
+                    9185
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "586 . Koellia",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3438,
+                    9185
+                ],
+                [
+                    3453,
+                    9193
+                ],
+                [
+                    4382,
+                    9189
+                ],
+                [
+                    4385,
+                    9050
+                ],
+                [
+                    3476,
+                    9043
+                ],
+                [
+                    3438,
+                    9185
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "586. Koellia",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3648,
+                    9035
+                ],
+                [
+                    3652,
+                    9032
+                ],
+                [
+                    5535,
+                    9092
+                ],
+                [
+                    5527,
+                    9017
+                ],
+                [
+                    3652,
+                    8968
+                ],
+                [
+                    3648,
+                    9035
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Collected by ROLAND M . HARPER , Summer of 1900",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3648,
+                    9035
+                ],
+                [
+                    3652,
+                    9032
+                ],
+                [
+                    5535,
+                    9092
+                ],
+                [
+                    5527,
+                    9017
+                ],
+                [
+                    3652,
+                    8968
+                ],
+                [
+                    3648,
+                    9035
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Collected by ROLAND M. HARPER, Summer of 1900",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2425,
+                    9872
+                ],
+                [
+                    2425,
+                    9946
+                ],
+                [
+                    2778,
+                    9946
+                ],
+                [
+                    2778,
+                    9872
+                ],
+                [
+                    2425,
+                    9872
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "E00279745",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2425,
+                    9872
+                ],
+                [
+                    2425,
+                    9946
+                ],
+                [
+                    2778,
+                    9946
+                ],
+                [
+                    2778,
+                    9872
+                ],
+                [
+                    2425,
+                    9872
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "E00279745",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2453,
+                    9581
+                ],
+                [
+                    2453,
+                    9631
+                ],
+                [
+                    2765,
+                    9631
+                ],
+                [
+                    2765,
+                    9581
+                ],
+                [
+                    2453,
+                    9581
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "EDINBURGH",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2453,
+                    9581
+                ],
+                [
+                    2453,
+                    9631
+                ],
+                [
+                    2765,
+                    9631
+                ],
+                [
+                    2765,
+                    9581
+                ],
+                [
+                    2453,
+                    9581
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "EDINBURGH",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2291,
+                    9526
+                ],
+                [
+                    2291,
+                    9581
+                ],
+                [
+                    2949,
+                    9581
+                ],
+                [
+                    2949,
+                    9526
+                ],
+                [
+                    2291,
+                    9526
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ROYAL BOTANIC GARDEN",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2291,
+                    9526
+                ],
+                [
+                    2291,
+                    9581
+                ],
+                [
+                    2949,
+                    9581
+                ],
+                [
+                    2949,
+                    9526
+                ],
+                [
+                    2291,
+                    9526
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ROYAL BOTANIC GARDEN",
+            "worker_version": null
+        }
+    ]
+}

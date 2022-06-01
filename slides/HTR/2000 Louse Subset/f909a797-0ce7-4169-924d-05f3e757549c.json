@@ -1,0 +1,235 @@
+{
+    "dataset_id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+    "folder": {
+        "id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+        "name": "2000 Louse Subset"
+    },
+    "image": {
+        "id": "164b6040-8c2a-4b9e-a1e4-e794f3c4d8de",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fsynthesys%2Fslides_images%2Ff909a797-0ce7-4169-924d-05f3e757549c.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fsynthesys%2Fslides_images%2Ff909a797-0ce7-4169-924d-05f3e757549c.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "f909a797-0ce7-4169-924d-05f3e757549c",
+        "name": "137",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    505,
+                    5086
+                ],
+                [
+                    505,
+                    5187
+                ],
+                [
+                    935,
+                    5187
+                ],
+                [
+                    935,
+                    5086
+                ],
+                [
+                    505,
+                    5086
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "010672683",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    624,
+                    407
+                ],
+                [
+                    624,
+                    777
+                ],
+                [
+                    2526,
+                    777
+                ],
+                [
+                    2526,
+                    407
+                ],
+                [
+                    624,
+                    407
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Brit.Mus.1955-332",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    433,
+                    5190
+                ],
+                [
+                    433,
+                    5543
+                ],
+                [
+                    530,
+                    5543
+                ],
+                [
+                    530,
+                    5190
+                ],
+                [
+                    433,
+                    5190
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    654,
+                    777
+                ],
+                [
+                    654,
+                    1126
+                ],
+                [
+                    2541,
+                    1126
+                ],
+                [
+                    2541,
+                    777
+                ],
+                [
+                    654,
+                    777
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "W.W.A.Phillips.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    629,
+                    1116
+                ],
+                [
+                    629,
+                    1431
+                ],
+                [
+                    2556,
+                    1431
+                ],
+                [
+                    2556,
+                    1116
+                ],
+                [
+                    629,
+                    1116
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Ceylon.13.iii.1955.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    649,
+                    1376
+                ],
+                [
+                    649,
+                    1725
+                ],
+                [
+                    2546,
+                    1725
+                ],
+                [
+                    2546,
+                    1376
+                ],
+                [
+                    649,
+                    1376
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Bibile, Uva Prov.,",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    876,
+                    1618
+                ],
+                [
+                    876,
+                    2000
+                ],
+                [
+                    1999,
+                    2000
+                ],
+                [
+                    1999,
+                    1618
+                ],
+                [
+                    876,
+                    1618
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "pusilla.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    645,
+                    1982
+                ],
+                [
+                    645,
+                    2273
+                ],
+                [
+                    2533,
+                    2273
+                ],
+                [
+                    2533,
+                    1982
+                ],
+                [
+                    645,
+                    1982
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Ducula aenea",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        }
+    ]
+}

@@ -1,0 +1,1096 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "01461701-dd48-4a27-ab96-27ee9853e15d",
+        "name": "NHM London"
+    },
+    "image": {
+        "id": "8fa234b1-df13-45f0-81e3-8024ea8dce71",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FBM000842241.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FBM000842241.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "ddfda351-c472-4b96-a8ad-acda6e70047e",
+        "name": "BM000842241",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    136,
+                    14
+                ],
+                [
+                    136,
+                    30
+                ],
+                [
+                    230,
+                    30
+                ],
+                [
+                    230,
+                    14
+                ],
+                [
+                    136,
+                    14
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Photographed",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    155,
+                    39
+                ],
+                [
+                    155,
+                    70
+                ],
+                [
+                    371,
+                    70
+                ],
+                [
+                    371,
+                    39
+                ],
+                [
+                    155,
+                    39
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "SEE BACK OF SHEET",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    490,
+                    68
+                ],
+                [
+                    490,
+                    87
+                ],
+                [
+                    802,
+                    87
+                ],
+                [
+                    802,
+                    68
+                ],
+                [
+                    490,
+                    68
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "MAYUMBE, PORTUGUESE CONGO.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    485,
+                    97
+                ],
+                [
+                    485,
+                    116
+                ],
+                [
+                    807,
+                    116
+                ],
+                [
+                    807,
+                    97
+                ],
+                [
+                    485,
+                    97
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "JOHN GOSSWEILER, Purchased, 1919.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    481,
+                    158
+                ],
+                [
+                    481,
+                    170
+                ],
+                [
+                    665,
+                    170
+                ],
+                [
+                    665,
+                    158
+                ],
+                [
+                    481,
+                    158
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "THE NATURAL HISTORY MUSEUM, LONDON",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    513,
+                    172
+                ],
+                [
+                    513,
+                    183
+                ],
+                [
+                    629,
+                    183
+                ],
+                [
+                    629,
+                    172
+                ],
+                [
+                    513,
+                    172
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "DEPARTMENT  OF BOTANY",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    524,
+                    222
+                ],
+                [
+                    524,
+                    239
+                ],
+                [
+                    624,
+                    239
+                ],
+                [
+                    624,
+                    222
+                ],
+                [
+                    524,
+                    222
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BM000842241",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    156,
+                    1036
+                ],
+                [
+                    156,
+                    1057
+                ],
+                [
+                    395,
+                    1057
+                ],
+                [
+                    395,
+                    1036
+                ],
+                [
+                    156,
+                    1036
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Conspectus Florae Angolensis",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    114,
+                    1070
+                ],
+                [
+                    114,
+                    1096
+                ],
+                [
+                    416,
+                    1096
+                ],
+                [
+                    416,
+                    1070
+                ],
+                [
+                    114,
+                    1070
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Macrolobium fragrans Bak. f.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    168,
+                    1117
+                ],
+                [
+                    168,
+                    1138
+                ],
+                [
+                    205,
+                    1138
+                ],
+                [
+                    205,
+                    1117
+                ],
+                [
+                    168,
+                    1117
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Det.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    768,
+                    1717
+                ],
+                [
+                    768,
+                    1746
+                ],
+                [
+                    1172,
+                    1746
+                ],
+                [
+                    1172,
+                    1717
+                ],
+                [
+                    768,
+                    1717
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERBARIUM VADENSE - WAGENINGEN",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    782,
+                    1750
+                ],
+                [
+                    782,
+                    1785
+                ],
+                [
+                    1078,
+                    1785
+                ],
+                [
+                    1078,
+                    1750
+                ],
+                [
+                    782,
+                    1750
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Anthonotha fragrans",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    936,
+                    1786
+                ],
+                [
+                    936,
+                    1814
+                ],
+                [
+                    1180,
+                    1814
+                ],
+                [
+                    1180,
+                    1786
+                ],
+                [
+                    936,
+                    1786
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "(Baker f.) Exell & Hillcoat",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    763,
+                    1824
+                ],
+                [
+                    763,
+                    1851
+                ],
+                [
+                    797,
+                    1851
+                ],
+                [
+                    797,
+                    1824
+                ],
+                [
+                    763,
+                    1824
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "det.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    846,
+                    1822
+                ],
+                [
+                    846,
+                    1849
+                ],
+                [
+                    962,
+                    1849
+                ],
+                [
+                    962,
+                    1822
+                ],
+                [
+                    846,
+                    1822
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Voorhoevc",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1018,
+                    1825
+                ],
+                [
+                    1018,
+                    1866
+                ],
+                [
+                    1180,
+                    1866
+                ],
+                [
+                    1180,
+                    1825
+                ],
+                [
+                    1018,
+                    1825
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "23/4 1964",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    603,
+                    2073
+                ],
+                [
+                    603,
+                    2115
+                ],
+                [
+                    1459,
+                    2115
+                ],
+                [
+                    1459,
+                    2073
+                ],
+                [
+                    603,
+                    2073
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Macrolobium fragrans Bak. fil. in Journ. Bot. LXVI. 140 (July 1st 1928)",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    177,
+                    1182
+                ],
+                [
+                    424,
+                    1185
+                ],
+                [
+                    464,
+                    1193
+                ],
+                [
+                    465,
+                    1169
+                ],
+                [
+                    435,
+                    1167
+                ],
+                [
+                    437,
+                    1156
+                ],
+                [
+                    185,
+                    1153
+                ],
+                [
+                    177,
+                    1182
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Bracteoles ovate \u00b18 mm L",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    439,
+                    1165
+                ],
+                [
+                    467,
+                    1168
+                ],
+                [
+                    471,
+                    1183
+                ],
+                [
+                    478,
+                    1182
+                ],
+                [
+                    479,
+                    1153
+                ],
+                [
+                    442,
+                    1150
+                ],
+                [
+                    439,
+                    1165
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "long",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    161,
+                    1205
+                ],
+                [
+                    479,
+                    1218
+                ],
+                [
+                    475,
+                    1198
+                ],
+                [
+                    413,
+                    1188
+                ],
+                [
+                    165,
+                    1183
+                ],
+                [
+                    161,
+                    1205
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Sepals 5, acute, upper 2 partly",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    165,
+                    1227
+                ],
+                [
+                    474,
+                    1238
+                ],
+                [
+                    470,
+                    1219
+                ],
+                [
+                    168,
+                    1210
+                ],
+                [
+                    165,
+                    1227
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Calyx \u00b15-6 mm long connated",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    159,
+                    1248
+                ],
+                [
+                    470,
+                    1261
+                ],
+                [
+                    473,
+                    1243
+                ],
+                [
+                    164,
+                    1230
+                ],
+                [
+                    159,
+                    1248
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Posterior petal largest, deeply",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    160,
+                    1273
+                ],
+                [
+                    470,
+                    1285
+                ],
+                [
+                    468,
+                    1263
+                ],
+                [
+                    163,
+                    1252
+                ],
+                [
+                    160,
+                    1273
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "bilobed, elevated 7-8 mm long (?)",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    399,
+                    1323
+                ],
+                [
+                    528,
+                    1327
+                ],
+                [
+                    526,
+                    1304
+                ],
+                [
+                    401,
+                    1295
+                ],
+                [
+                    399,
+                    1323
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Fertile stamens",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    410,
+                    1339
+                ],
+                [
+                    433,
+                    1338
+                ],
+                [
+                    434,
+                    1326
+                ],
+                [
+                    412,
+                    1325
+                ],
+                [
+                    410,
+                    1339
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "3",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    127,
+                    1469
+                ],
+                [
+                    127,
+                    1507
+                ],
+                [
+                    520,
+                    1507
+                ],
+                [
+                    520,
+                    1469
+                ],
+                [
+                    127,
+                    1469
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "7577. Macrolobium",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    163,
+                    1512
+                ],
+                [
+                    163,
+                    1545
+                ],
+                [
+                    610,
+                    1545
+                ],
+                [
+                    610,
+                    1512
+                ],
+                [
+                    163,
+                    1512
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "a tree of 28 meters height",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    128,
+                    1588
+                ],
+                [
+                    128,
+                    1618
+                ],
+                [
+                    563,
+                    1618
+                ],
+                [
+                    563,
+                    1588
+                ],
+                [
+                    128,
+                    1588
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "dusky, alburno white, back",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    124,
+                    1625
+                ],
+                [
+                    124,
+                    1657
+                ],
+                [
+                    632,
+                    1657
+                ],
+                [
+                    632,
+                    1625
+                ],
+                [
+                    124,
+                    1625
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "asperans outer layer separating in",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    126,
+                    1660
+                ],
+                [
+                    126,
+                    1691
+                ],
+                [
+                    566,
+                    1691
+                ],
+                [
+                    566,
+                    1660
+                ],
+                [
+                    126,
+                    1660
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "small irregular pieces. Head",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    127,
+                    1693
+                ],
+                [
+                    127,
+                    1725
+                ],
+                [
+                    643,
+                    1725
+                ],
+                [
+                    643,
+                    1693
+                ],
+                [
+                    127,
+                    1693
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "diluted branches spreading, extreme",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    128,
+                    1734
+                ],
+                [
+                    128,
+                    1763
+                ],
+                [
+                    620,
+                    1763
+                ],
+                [
+                    620,
+                    1734
+                ],
+                [
+                    128,
+                    1734
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "dies red brown tomentosa same",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    132,
+                    1772
+                ],
+                [
+                    132,
+                    1804
+                ],
+                [
+                    624,
+                    1804
+                ],
+                [
+                    624,
+                    1772
+                ],
+                [
+                    132,
+                    1772
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "as anter 2 .... of calyx. Petals",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    131,
+                    1807
+                ],
+                [
+                    131,
+                    1838
+                ],
+                [
+                    637,
+                    1838
+                ],
+                [
+                    637,
+                    1807
+                ],
+                [
+                    131,
+                    1807
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "yellowish, very fragrant. Native",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    128,
+                    1845
+                ],
+                [
+                    128,
+                    1875
+                ],
+                [
+                    608,
+                    1875
+                ],
+                [
+                    608,
+                    1845
+                ],
+                [
+                    128,
+                    1845
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "name \"Quifusa\"-\"Quifusa\"",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    136,
+                    1881
+                ],
+                [
+                    136,
+                    1913
+                ],
+                [
+                    638,
+                    1913
+                ],
+                [
+                    638,
+                    1881
+                ],
+                [
+                    136,
+                    1881
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Here & these amongst other forest trees",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    130,
+                    1920
+                ],
+                [
+                    130,
+                    1955
+                ],
+                [
+                    563,
+                    1955
+                ],
+                [
+                    563,
+                    1920
+                ],
+                [
+                    130,
+                    1920
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "on the Hill near official",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    122,
+                    1962
+                ],
+                [
+                    122,
+                    2000
+                ],
+                [
+                    636,
+                    2000
+                ],
+                [
+                    636,
+                    1962
+                ],
+                [
+                    122,
+                    1962
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "residence at Belize-Maiambe",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    123,
+                    2004
+                ],
+                [
+                    123,
+                    2037
+                ],
+                [
+                    304,
+                    2037
+                ],
+                [
+                    304,
+                    2004
+                ],
+                [
+                    123,
+                    2004
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "26-11-918",
+            "worker_version": null
+        }
+    ]
+}

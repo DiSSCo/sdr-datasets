@@ -1,0 +1,1394 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "635f3d84-ced6-4b17-b64a-86be7aa87304",
+        "name": "Naturalis"
+    },
+    "image": {
+        "id": "0ef4d3ed-6d3d-44b8-a026-5df84a9be410",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FL.2053996.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FL.2053996.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "3a3a5f97-13d3-4cf2-b8fb-becc46409ec7",
+        "name": "L.2053996",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    143,
+                    174
+                ],
+                [
+                    143,
+                    237
+                ],
+                [
+                    554,
+                    237
+                ],
+                [
+                    554,
+                    174
+                ],
+                [
+                    143,
+                    174
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "KEW NEGATIVE",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    111,
+                    247
+                ],
+                [
+                    111,
+                    321
+                ],
+                [
+                    534,
+                    321
+                ],
+                [
+                    534,
+                    247
+                ],
+                [
+                    111,
+                    247
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "No. 17231",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    176,
+                    347
+                ],
+                [
+                    176,
+                    385
+                ],
+                [
+                    280,
+                    385
+                ],
+                [
+                    280,
+                    347
+                ],
+                [
+                    176,
+                    347
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "DATE",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    391,
+                    346
+                ],
+                [
+                    391,
+                    386
+                ],
+                [
+                    513,
+                    386
+                ],
+                [
+                    513,
+                    346
+                ],
+                [
+                    391,
+                    346
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "INTLS.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    174,
+                    394
+                ],
+                [
+                    174,
+                    480
+                ],
+                [
+                    502,
+                    480
+                ],
+                [
+                    502,
+                    394
+                ],
+                [
+                    174,
+                    394
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "- - MAY 1977",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2297,
+                    106
+                ],
+                [
+                    2297,
+                    191
+                ],
+                [
+                    2739,
+                    191
+                ],
+                [
+                    2739,
+                    106
+                ],
+                [
+                    2297,
+                    106
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB. LUGD. BAT.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2795,
+                    116
+                ],
+                [
+                    2795,
+                    193
+                ],
+                [
+                    3298,
+                    193
+                ],
+                [
+                    3298,
+                    116
+                ],
+                [
+                    2795,
+                    116
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "\u2116 961 72 517",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2601,
+                    369
+                ],
+                [
+                    2601,
+                    446
+                ],
+                [
+                    3041,
+                    446
+                ],
+                [
+                    3041,
+                    369
+                ],
+                [
+                    2601,
+                    369
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Gesublimatiseerd",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2493,
+                    548
+                ],
+                [
+                    2493,
+                    637
+                ],
+                [
+                    3290,
+                    637
+                ],
+                [
+                    3290,
+                    548
+                ],
+                [
+                    2493,
+                    548
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Revised for Flora Malesiana",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2510,
+                    663
+                ],
+                [
+                    2510,
+                    748
+                ],
+                [
+                    3071,
+                    748
+                ],
+                [
+                    3071,
+                    663
+                ],
+                [
+                    2510,
+                    663
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Maniltoa spec. B",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2503,
+                    876
+                ],
+                [
+                    2503,
+                    955
+                ],
+                [
+                    3041,
+                    955
+                ],
+                [
+                    3041,
+                    876
+                ],
+                [
+                    2503,
+                    876
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "det. Mrs. M.S.Knaap",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3085,
+                    839
+                ],
+                [
+                    3085,
+                    929
+                ],
+                [
+                    3322,
+                    929
+                ],
+                [
+                    3322,
+                    839
+                ],
+                [
+                    3085,
+                    839
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "1/19 70.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2835,
+                    3528
+                ],
+                [
+                    2835,
+                    3597
+                ],
+                [
+                    3015,
+                    3597
+                ],
+                [
+                    3015,
+                    3528
+                ],
+                [
+                    2835,
+                    3528
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "L.2053996",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2726,
+                    3836
+                ],
+                [
+                    2726,
+                    3918
+                ],
+                [
+                    3075,
+                    3918
+                ],
+                [
+                    3075,
+                    3836
+                ],
+                [
+                    2726,
+                    3836
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BOSWEZEN",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2437,
+                    3925
+                ],
+                [
+                    2437,
+                    3990
+                ],
+                [
+                    3407,
+                    3990
+                ],
+                [
+                    3407,
+                    3925
+                ],
+                [
+                    2437,
+                    3925
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NEDERLANDS NIEUW-GUINEA",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3340,
+                    3871
+                ],
+                [
+                    3340,
+                    3918
+                ],
+                [
+                    3397,
+                    3918
+                ],
+                [
+                    3397,
+                    3871
+                ],
+                [
+                    3340,
+                    3871
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "P",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2504,
+                    3995
+                ],
+                [
+                    2504,
+                    4051
+                ],
+                [
+                    3305,
+                    4051
+                ],
+                [
+                    3305,
+                    3995
+                ],
+                [
+                    2504,
+                    3995
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "(Forestry Division Neth. New Guinea)",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3146,
+                    4090
+                ],
+                [
+                    3146,
+                    4167
+                ],
+                [
+                    3509,
+                    4167
+                ],
+                [
+                    3509,
+                    4090
+                ],
+                [
+                    3146,
+                    4090
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "No.: BW 9070.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2306,
+                    4094
+                ],
+                [
+                    2306,
+                    4150
+                ],
+                [
+                    2445,
+                    4150
+                ],
+                [
+                    2445,
+                    4094
+                ],
+                [
+                    2306,
+                    4094
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Coll.:",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2304,
+                    4191
+                ],
+                [
+                    2304,
+                    4252
+                ],
+                [
+                    2437,
+                    4252
+                ],
+                [
+                    2437,
+                    4191
+                ],
+                [
+                    2304,
+                    4191
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "d.d.:",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2486,
+                    4119
+                ],
+                [
+                    2486,
+                    4194
+                ],
+                [
+                    2851,
+                    4194
+                ],
+                [
+                    2851,
+                    4119
+                ],
+                [
+                    2486,
+                    4119
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "G. Iwanggin.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2525,
+                    4199
+                ],
+                [
+                    2525,
+                    4272
+                ],
+                [
+                    2872,
+                    4272
+                ],
+                [
+                    2872,
+                    4199
+                ],
+                [
+                    2525,
+                    4199
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "10.VI.1959.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2295,
+                    4295
+                ],
+                [
+                    2295,
+                    4371
+                ],
+                [
+                    2668,
+                    4371
+                ],
+                [
+                    2668,
+                    4295
+                ],
+                [
+                    2295,
+                    4295
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Fam.: Leg.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2291,
+                    4385
+                ],
+                [
+                    2291,
+                    4463
+                ],
+                [
+                    2823,
+                    4463
+                ],
+                [
+                    2823,
+                    4385
+                ],
+                [
+                    2291,
+                    4385
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Nomen.: Maniltoa",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2287,
+                    4496
+                ],
+                [
+                    2287,
+                    4573
+                ],
+                [
+                    2437,
+                    4573
+                ],
+                [
+                    2437,
+                    4496
+                ],
+                [
+                    2287,
+                    4496
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Det.:",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2301,
+                    4624
+                ],
+                [
+                    2301,
+                    4687
+                ],
+                [
+                    2443,
+                    4687
+                ],
+                [
+                    2443,
+                    4624
+                ],
+                [
+                    2301,
+                    4624
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Loc.:",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2527,
+                    4622
+                ],
+                [
+                    2527,
+                    4687
+                ],
+                [
+                    3284,
+                    4687
+                ],
+                [
+                    3284,
+                    4622
+                ],
+                [
+                    2527,
+                    4622
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Near Bier-river, north of",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2525,
+                    4685
+                ],
+                [
+                    2525,
+                    4731
+                ],
+                [
+                    3117,
+                    4731
+                ],
+                [
+                    3117,
+                    4685
+                ],
+                [
+                    2525,
+                    4685
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Sidoarsi mountains.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2519,
+                    4732
+                ],
+                [
+                    2519,
+                    4788
+                ],
+                [
+                    3299,
+                    4788
+                ],
+                [
+                    3299,
+                    4732
+                ],
+                [
+                    2519,
+                    4732
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "200 km West of Hollandia.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2524,
+                    4792
+                ],
+                [
+                    2524,
+                    4844
+                ],
+                [
+                    2995,
+                    4844
+                ],
+                [
+                    2995,
+                    4792
+                ],
+                [
+                    2524,
+                    4792
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Div. Hollandia.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2301,
+                    4888
+                ],
+                [
+                    2301,
+                    4956
+                ],
+                [
+                    2434,
+                    4956
+                ],
+                [
+                    2434,
+                    4888
+                ],
+                [
+                    2301,
+                    4888
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Hab.:",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2515,
+                    4899
+                ],
+                [
+                    2515,
+                    4961
+                ],
+                [
+                    3454,
+                    4961
+                ],
+                [
+                    3454,
+                    4899
+                ],
+                [
+                    2515,
+                    4899
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Primary forest on rocky, clayey",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2517,
+                    4963
+                ],
+                [
+                    2517,
+                    5008
+                ],
+                [
+                    2682,
+                    5008
+                ],
+                [
+                    2682,
+                    4963
+                ],
+                [
+                    2517,
+                    4963
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "soil;",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2517,
+                    5011
+                ],
+                [
+                    2517,
+                    5058
+                ],
+                [
+                    2901,
+                    5058
+                ],
+                [
+                    2901,
+                    5011
+                ],
+                [
+                    2517,
+                    5011
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "alt. \u00b1 50 m.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2310,
+                    5037
+                ],
+                [
+                    2310,
+                    5120
+                ],
+                [
+                    2498,
+                    5120
+                ],
+                [
+                    2498,
+                    5037
+                ],
+                [
+                    2310,
+                    5037
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Vern:",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2504,
+                    5062
+                ],
+                [
+                    2504,
+                    5120
+                ],
+                [
+                    3527,
+                    5120
+                ],
+                [
+                    3527,
+                    5062
+                ],
+                [
+                    2504,
+                    5062
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "\"SEKAIDJAKKA\" (Manikiong language)",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2504,
+                    5122
+                ],
+                [
+                    2504,
+                    5178
+                ],
+                [
+                    3328,
+                    5178
+                ],
+                [
+                    3328,
+                    5122
+                ],
+                [
+                    2504,
+                    5122
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "\"GWIENFON\" (Berik language)",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2295,
+                    5157
+                ],
+                [
+                    2295,
+                    5211
+                ],
+                [
+                    2490,
+                    5211
+                ],
+                [
+                    2490,
+                    5157
+                ],
+                [
+                    2295,
+                    5157
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Observ.:",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2512,
+                    5186
+                ],
+                [
+                    2512,
+                    5245
+                ],
+                [
+                    3433,
+                    5245
+                ],
+                [
+                    3433,
+                    5186
+                ],
+                [
+                    2512,
+                    5186
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Rather common; tree 28 m high,",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2515,
+                    5248
+                ],
+                [
+                    2515,
+                    5289
+                ],
+                [
+                    3359,
+                    5289
+                ],
+                [
+                    3359,
+                    5248
+                ],
+                [
+                    2515,
+                    5248
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "bole 15 m, diam. 40 cm; outer",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2519,
+                    5293
+                ],
+                [
+                    2519,
+                    5347
+                ],
+                [
+                    3527,
+                    5347
+                ],
+                [
+                    3527,
+                    5293
+                ],
+                [
+                    2519,
+                    5293
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "bark white-green; inner bark light",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2515,
+                    5349
+                ],
+                [
+                    2515,
+                    5404
+                ],
+                [
+                    3312,
+                    5404
+                ],
+                [
+                    3312,
+                    5349
+                ],
+                [
+                    2515,
+                    5349
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "brown within, slashd brown;",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2301,
+                    5702
+                ],
+                [
+                    2301,
+                    5751
+                ],
+                [
+                    3503,
+                    5751
+                ],
+                [
+                    3503,
+                    5702
+                ],
+                [
+                    2301,
+                    5702
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Please send new identification to the Rijksherbarium, Leiden or to Forestry Division, Manokwarl, Neth. New Guinea",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1892,
+                    5819
+                ],
+                [
+                    1892,
+                    5928
+                ],
+                [
+                    2193,
+                    5928
+                ],
+                [
+                    2193,
+                    5819
+                ],
+                [
+                    1892,
+                    5819
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "201280",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    364,
+                    5664
+                ],
+                [
+                    381,
+                    5748
+                ],
+                [
+                    434,
+                    5750
+                ],
+                [
+                    426,
+                    5687
+                ],
+                [
+                    455,
+                    5625
+                ],
+                [
+                    531,
+                    5580
+                ],
+                [
+                    614,
+                    5599
+                ],
+                [
+                    653,
+                    5633
+                ],
+                [
+                    682,
+                    5708
+                ],
+                [
+                    754,
+                    5690
+                ],
+                [
+                    698,
+                    5586
+                ],
+                [
+                    656,
+                    5529
+                ],
+                [
+                    531,
+                    5520
+                ],
+                [
+                    415,
+                    5567
+                ],
+                [
+                    364,
+                    5664
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "RIJKSHERBARIUM",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    465,
+                    5876
+                ],
+                [
+                    608,
+                    5891
+                ],
+                [
+                    711,
+                    5811
+                ],
+                [
+                    669,
+                    5776
+                ],
+                [
+                    587,
+                    5828
+                ],
+                [
+                    496,
+                    5816
+                ],
+                [
+                    465,
+                    5876
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "LEIDEN",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    452,
+                    5657
+                ],
+                [
+                    462,
+                    5711
+                ],
+                [
+                    643,
+                    5685
+                ],
+                [
+                    621,
+                    5623
+                ],
+                [
+                    452,
+                    5657
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "L.4554",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    441,
+                    5721
+                ],
+                [
+                    457,
+                    5763
+                ],
+                [
+                    522,
+                    5751
+                ],
+                [
+                    517,
+                    5706
+                ],
+                [
+                    441,
+                    5721
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "No.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    523,
+                    5727
+                ],
+                [
+                    528,
+                    5785
+                ],
+                [
+                    551,
+                    5816
+                ],
+                [
+                    609,
+                    5803
+                ],
+                [
+                    603,
+                    5725
+                ],
+                [
+                    523,
+                    5727
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "29",
+            "worker_version": null
+        }
+    ]
+}

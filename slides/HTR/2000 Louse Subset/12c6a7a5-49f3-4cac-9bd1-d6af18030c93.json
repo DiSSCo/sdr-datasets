@@ -1,0 +1,262 @@
+{
+    "dataset_id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+    "folder": {
+        "id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+        "name": "2000 Louse Subset"
+    },
+    "image": {
+        "id": "271794b7-c775-4434-954f-c680c6038eb7",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/060a9362-1b46-40f9-b5f4-fb23c02ff3d7",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/060a9362-1b46-40f9-b5f4-fb23c02ff3d7/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "12c6a7a5-49f3-4cac-9bd1-d6af18030c93",
+        "name": "18",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    3430,
+                    2384
+                ],
+                [
+                    3430,
+                    2778
+                ],
+                [
+                    3541,
+                    2778
+                ],
+                [
+                    3541,
+                    2384
+                ],
+                [
+                    3430,
+                    2384
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    3035,
+                    2778
+                ],
+                [
+                    3035,
+                    2854
+                ],
+                [
+                    3471,
+                    2854
+                ],
+                [
+                    3471,
+                    2778
+                ],
+                [
+                    3035,
+                    2778
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "010648222",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6219,
+                    420
+                ],
+                [
+                    6219,
+                    838
+                ],
+                [
+                    8471,
+                    838
+                ],
+                [
+                    8471,
+                    420
+                ],
+                [
+                    6219,
+                    420
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Rhinopomastus",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    492,
+                    420
+                ],
+                [
+                    492,
+                    872
+                ],
+                [
+                    2450,
+                    872
+                ],
+                [
+                    2450,
+                    420
+                ],
+                [
+                    492,
+                    420
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Philopterus",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6423,
+                    782
+                ],
+                [
+                    6423,
+                    1178
+                ],
+                [
+                    8449,
+                    1178
+                ],
+                [
+                    8449,
+                    782
+                ],
+                [
+                    6423,
+                    782
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "cyanomelas",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    2431,
+                    2267
+                ],
+                [
+                    2431,
+                    2598
+                ],
+                [
+                    2821,
+                    2598
+                ],
+                [
+                    2821,
+                    2267
+                ],
+                [
+                    2431,
+                    2267
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "\u0298",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6196,
+                    1201
+                ],
+                [
+                    6196,
+                    1574
+                ],
+                [
+                    8483,
+                    1574
+                ],
+                [
+                    8483,
+                    1201
+                ],
+                [
+                    6196,
+                    1201
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Potchefstroom",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6174,
+                    1585
+                ],
+                [
+                    6174,
+                    1902
+                ],
+                [
+                    8268,
+                    1902
+                ],
+                [
+                    8268,
+                    1585
+                ],
+                [
+                    6174,
+                    1585
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Transvaal",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6174,
+                    1936
+                ],
+                [
+                    6174,
+                    2412
+                ],
+                [
+                    8053,
+                    2412
+                ],
+                [
+                    8053,
+                    1936
+                ],
+                [
+                    6174,
+                    1936
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "15.v.1953.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        }
+    ]
+}

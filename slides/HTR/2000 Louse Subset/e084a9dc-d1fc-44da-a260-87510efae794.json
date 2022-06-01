@@ -1,0 +1,208 @@
+{
+    "dataset_id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+    "folder": {
+        "id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+        "name": "2000 Louse Subset"
+    },
+    "image": {
+        "id": "d1e15d90-b5f7-469e-9016-da4b389a2760",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fsynthesys%2Fslides_images%2Fe084a9dc-d1fc-44da-a260-87510efae794.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fsynthesys%2Fslides_images%2Fe084a9dc-d1fc-44da-a260-87510efae794.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "e084a9dc-d1fc-44da-a260-87510efae794",
+        "name": "122",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    949,
+                    220
+                ],
+                [
+                    949,
+                    617
+                ],
+                [
+                    2092,
+                    617
+                ],
+                [
+                    2092,
+                    220
+                ],
+                [
+                    949,
+                    220
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "10796.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    468,
+                    5100
+                ],
+                [
+                    468,
+                    5234
+                ],
+                [
+                    933,
+                    5234
+                ],
+                [
+                    933,
+                    5100
+                ],
+                [
+                    468,
+                    5100
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "010672697",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    726,
+                    849
+                ],
+                [
+                    726,
+                    1251
+                ],
+                [
+                    2631,
+                    1251
+                ],
+                [
+                    2631,
+                    849
+                ],
+                [
+                    726,
+                    849
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Queensland.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    416,
+                    5182
+                ],
+                [
+                    416,
+                    5613
+                ],
+                [
+                    554,
+                    5613
+                ],
+                [
+                    554,
+                    5182
+                ],
+                [
+                    416,
+                    5182
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    329,
+                    1300
+                ],
+                [
+                    329,
+                    1594
+                ],
+                [
+                    2596,
+                    1594
+                ],
+                [
+                    2596,
+                    1300
+                ],
+                [
+                    329,
+                    1300
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "m. magnifica.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    780,
+                    1581
+                ],
+                [
+                    780,
+                    1996
+                ],
+                [
+                    2658,
+                    1996
+                ],
+                [
+                    2658,
+                    1581
+                ],
+                [
+                    780,
+                    1581
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Megaloprepia",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    423,
+                    1973
+                ],
+                [
+                    423,
+                    2549
+                ],
+                [
+                    2654,
+                    2549
+                ],
+                [
+                    2654,
+                    1973
+                ],
+                [
+                    423,
+                    1973
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "MEINERTZHAGEN",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        }
+    ]
+}

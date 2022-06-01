@@ -1,0 +1,27 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "7444dc47-1380-471f-b399-de62d2148df8",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/2f1410eb-556a-4147-9ccd-981cb53deeb6",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/2f1410eb-556a-4147-9ccd-981cb53deeb6/full/full/0/default.jpg"
+    },
+    "named_entities": [
+        {
+            "tags": "Bright B-Collection/Donation",
+            "worker_version_id": null
+        },
+        {
+            "tags": "NHMUK010619970 B-identifier",
+            "worker_version_id": null
+        }
+    ],
+    "page": {
+        "id": "56d24df2-b707-48f4-aaf5-0fa3ebfacb06",
+        "name": "010619970_136831_1856546.2500x3456.jpeg",
+        "rotation_angle": 0
+    }
+}

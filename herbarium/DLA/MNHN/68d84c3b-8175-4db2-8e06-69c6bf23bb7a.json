@@ -1,0 +1,43 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "c301e3ce-a988-469d-afb1-5af714a7123b",
+        "name": "MNHN"
+    },
+    "image": {
+        "id": "fbc81715-4fbb-4f60-81fb-7c3c68f7104f",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FPC0584227.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FPC0584227.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "68d84c3b-8175-4db2-8e06-69c6bf23bb7a",
+        "name": "PC0584227",
+        "rotation_angle": 0
+    },
+    "polygons": {
+        "text_line": [
+            [
+                [
+                    760,
+                    2375
+                ],
+                [
+                    760,
+                    2531
+                ],
+                [
+                    1311,
+                    2531
+                ],
+                [
+                    1311,
+                    2375
+                ],
+                [
+                    760,
+                    2375
+                ]
+            ]
+        ]
+    }
+}

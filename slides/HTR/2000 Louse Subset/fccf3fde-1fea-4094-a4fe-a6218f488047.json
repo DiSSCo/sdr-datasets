@@ -1,0 +1,397 @@
+{
+    "dataset_id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+    "folder": {
+        "id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+        "name": "2000 Louse Subset"
+    },
+    "image": {
+        "id": "a36303e2-b750-4f08-8474-a45486ca67f7",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/897fbf86-146f-4f7c-b322-d7ae3920715f",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/897fbf86-146f-4f7c-b322-d7ae3920715f/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "fccf3fde-1fea-4094-a4fe-a6218f488047",
+        "name": "61",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    6136,
+                    501
+                ],
+                [
+                    6136,
+                    789
+                ],
+                [
+                    8033,
+                    789
+                ],
+                [
+                    8033,
+                    501
+                ],
+                [
+                    6136,
+                    501
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Collocalia",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    611,
+                    587
+                ],
+                [
+                    611,
+                    954
+                ],
+                [
+                    2355,
+                    954
+                ],
+                [
+                    2355,
+                    587
+                ],
+                [
+                    611,
+                    587
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Dennyus",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    3524,
+                    2257
+                ],
+                [
+                    3524,
+                    2722
+                ],
+                [
+                    3719,
+                    2722
+                ],
+                [
+                    3719,
+                    2257
+                ],
+                [
+                    3524,
+                    2257
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6222,
+                    777
+                ],
+                [
+                    6222,
+                    991
+                ],
+                [
+                    7855,
+                    991
+                ],
+                [
+                    7855,
+                    777
+                ],
+                [
+                    6222,
+                    777
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "esculenta",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    556,
+                    893
+                ],
+                [
+                    556,
+                    1339
+                ],
+                [
+                    2600,
+                    1339
+                ],
+                [
+                    2600,
+                    893
+                ],
+                [
+                    556,
+                    893
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "distinctus",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    3150,
+                    2606
+                ],
+                [
+                    3150,
+                    2808
+                ],
+                [
+                    3695,
+                    2808
+                ],
+                [
+                    3695,
+                    2606
+                ],
+                [
+                    3150,
+                    2606
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "010656207",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6350,
+                    917
+                ],
+                [
+                    6350,
+                    1180
+                ],
+                [
+                    8265,
+                    1180
+                ],
+                [
+                    8265,
+                    917
+                ],
+                [
+                    6350,
+                    917
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "cyanoptila",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    593,
+                    1278
+                ],
+                [
+                    593,
+                    1658
+                ],
+                [
+                    2912,
+                    1658
+                ],
+                [
+                    2912,
+                    1278
+                ],
+                [
+                    593,
+                    1278
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Ferris, 1916",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    5989,
+                    1119
+                ],
+                [
+                    5989,
+                    1480
+                ],
+                [
+                    8559,
+                    1480
+                ],
+                [
+                    8559,
+                    1119
+                ],
+                [
+                    5989,
+                    1119
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Ampang Reservoir",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    2441,
+                    2380
+                ],
+                [
+                    2441,
+                    2802
+                ],
+                [
+                    2893,
+                    2802
+                ],
+                [
+                    2893,
+                    2380
+                ],
+                [
+                    2441,
+                    2380
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "\u2642",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6209,
+                    1510
+                ],
+                [
+                    6215,
+                    1882
+                ],
+                [
+                    7696,
+                    1882
+                ],
+                [
+                    7690,
+                    1510
+                ],
+                [
+                    6209,
+                    1510
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Selangor",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6185,
+                    1841
+                ],
+                [
+                    6185,
+                    2178
+                ],
+                [
+                    7800,
+                    2178
+                ],
+                [
+                    7800,
+                    1841
+                ],
+                [
+                    6185,
+                    1841
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Malaysia",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6063,
+                    2208
+                ],
+                [
+                    6063,
+                    2514
+                ],
+                [
+                    6883,
+                    2514
+                ],
+                [
+                    6883,
+                    2208
+                ],
+                [
+                    6063,
+                    2208
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "1967",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6081,
+                    2477
+                ],
+                [
+                    6081,
+                    2826
+                ],
+                [
+                    8443,
+                    2826
+                ],
+                [
+                    8443,
+                    2477
+                ],
+                [
+                    6081,
+                    2477
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Brit. mus. 1972-578",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        }
+    ]
+}

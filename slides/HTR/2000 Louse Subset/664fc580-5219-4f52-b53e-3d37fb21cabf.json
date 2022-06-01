@@ -1,0 +1,289 @@
+{
+    "dataset_id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+    "folder": {
+        "id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+        "name": "2000 Louse Subset"
+    },
+    "image": {
+        "id": "f8d8bc76-1dae-4d42-a5fb-c9f9f25dbcab",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fsynthesys%2Fslides_images%2F664fc580-5219-4f52-b53e-3d37fb21cabf.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fsynthesys%2Fslides_images%2F664fc580-5219-4f52-b53e-3d37fb21cabf.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "664fc580-5219-4f52-b53e-3d37fb21cabf",
+        "name": "153",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    409,
+                    465
+                ],
+                [
+                    409,
+                    2433
+                ],
+                [
+                    828,
+                    2433
+                ],
+                [
+                    828,
+                    465
+                ],
+                [
+                    409,
+                    465
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Carduiceps",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    607,
+                    5801
+                ],
+                [
+                    607,
+                    7951
+                ],
+                [
+                    970,
+                    7951
+                ],
+                [
+                    970,
+                    5801
+                ],
+                [
+                    607,
+                    5801
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Philomachus",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    2273,
+                    2776
+                ],
+                [
+                    2273,
+                    2903
+                ],
+                [
+                    2651,
+                    2903
+                ],
+                [
+                    2651,
+                    2776
+                ],
+                [
+                    2273,
+                    2776
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    2423,
+                    3610
+                ],
+                [
+                    2423,
+                    4421
+                ],
+                [
+                    2600,
+                    4421
+                ],
+                [
+                    2600,
+                    3610
+                ],
+                [
+                    2423,
+                    3610
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Brit.Mus.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    2579,
+                    3631
+                ],
+                [
+                    2579,
+                    4400
+                ],
+                [
+                    2816,
+                    4400
+                ],
+                [
+                    2816,
+                    3631
+                ],
+                [
+                    2579,
+                    3631
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "1954-619",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    1460,
+                    5809
+                ],
+                [
+                    1460,
+                    7982
+                ],
+                [
+                    1887,
+                    7982
+                ],
+                [
+                    1887,
+                    5809
+                ],
+                [
+                    1460,
+                    5809
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Hardoi (U.P.)",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    2631,
+                    2857
+                ],
+                [
+                    2631,
+                    3282
+                ],
+                [
+                    2733,
+                    3282
+                ],
+                [
+                    2733,
+                    2857
+                ],
+                [
+                    2631,
+                    2857
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "010673235",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    963,
+                    6070
+                ],
+                [
+                    963,
+                    7603
+                ],
+                [
+                    1437,
+                    7603
+                ],
+                [
+                    1437,
+                    6070
+                ],
+                [
+                    963,
+                    6070
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "pugnax",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    1848,
+                    6173
+                ],
+                [
+                    1848,
+                    7682
+                ],
+                [
+                    2211,
+                    7682
+                ],
+                [
+                    2211,
+                    6173
+                ],
+                [
+                    1848,
+                    6173
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "INDIA",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    2353,
+                    6513
+                ],
+                [
+                    2353,
+                    7967
+                ],
+                [
+                    2669,
+                    7967
+                ],
+                [
+                    2669,
+                    6513
+                ],
+                [
+                    2353,
+                    6513
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "8.XII.50",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        }
+    ]
+}

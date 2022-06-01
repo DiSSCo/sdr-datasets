@@ -1,0 +1,235 @@
+{
+    "dataset_id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+    "folder": {
+        "id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+        "name": "2000 Louse Subset"
+    },
+    "image": {
+        "id": "0166ad99-e092-4f29-ad27-46959713d0a0",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/06eb9dc8-6a3e-4385-8850-b789b8221eaf",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/06eb9dc8-6a3e-4385-8850-b789b8221eaf/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "2b951769-2a65-4935-8654-4db2b5f8ad9a",
+        "name": "9",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    7549,
+                    324
+                ],
+                [
+                    7549,
+                    2822
+                ],
+                [
+                    7970,
+                    2822
+                ],
+                [
+                    7970,
+                    324
+                ],
+                [
+                    7549,
+                    324
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Suffolk. May 1935",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    630,
+                    724
+                ],
+                [
+                    630,
+                    2681
+                ],
+                [
+                    1093,
+                    2681
+                ],
+                [
+                    1093,
+                    724
+                ],
+                [
+                    630,
+                    724
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Philopterus",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    3221,
+                    465
+                ],
+                [
+                    3221,
+                    565
+                ],
+                [
+                    3574,
+                    565
+                ],
+                [
+                    3574,
+                    465
+                ],
+                [
+                    3221,
+                    465
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6341,
+                    531
+                ],
+                [
+                    6341,
+                    2656
+                ],
+                [
+                    6735,
+                    2656
+                ],
+                [
+                    6735,
+                    531
+                ],
+                [
+                    6341,
+                    531
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "MEINERTZHAGEN",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    3579,
+                    526
+                ],
+                [
+                    3579,
+                    946
+                ],
+                [
+                    3662,
+                    946
+                ],
+                [
+                    3662,
+                    526
+                ],
+                [
+                    3579,
+                    526
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "010646806",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6990,
+                    614
+                ],
+                [
+                    6990,
+                    2725
+                ],
+                [
+                    7507,
+                    2725
+                ],
+                [
+                    7507,
+                    614
+                ],
+                [
+                    6990,
+                    614
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Pica. p. pica.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    8272,
+                    1012
+                ],
+                [
+                    8272,
+                    1977
+                ],
+                [
+                    8641,
+                    1977
+                ],
+                [
+                    8641,
+                    1012
+                ],
+                [
+                    8272,
+                    1012
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "3708.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6824,
+                    1490
+                ],
+                [
+                    6824,
+                    1980
+                ],
+                [
+                    7038,
+                    1980
+                ],
+                [
+                    7038,
+                    1490
+                ],
+                [
+                    6824,
+                    1490
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "\u2642",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        }
+    ]
+}

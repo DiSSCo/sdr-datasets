@@ -1,0 +1,262 @@
+{
+    "dataset_id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+    "folder": {
+        "id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+        "name": "2000 Louse Subset"
+    },
+    "image": {
+        "id": "f8c08964-8020-470c-88e8-d13818f88065",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/03242e93-cda1-43f0-9aca-ec74f710f0d2",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/03242e93-cda1-43f0-9aca-ec74f710f0d2/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "24ab7426-5a23-4d6b-9c32-0584ce6b98a0",
+        "name": "48",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    662,
+                    316
+                ],
+                [
+                    662,
+                    758
+                ],
+                [
+                    2726,
+                    758
+                ],
+                [
+                    2726,
+                    316
+                ],
+                [
+                    662,
+                    316
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Ciconiphilus",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6172,
+                    307
+                ],
+                [
+                    6172,
+                    835
+                ],
+                [
+                    8198,
+                    835
+                ],
+                [
+                    8198,
+                    307
+                ],
+                [
+                    6172,
+                    307
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Leptoptilus",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    5788,
+                    451
+                ],
+                [
+                    5788,
+                    835
+                ],
+                [
+                    5932,
+                    835
+                ],
+                [
+                    5932,
+                    451
+                ],
+                [
+                    5788,
+                    451
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    787,
+                    700
+                ],
+                [
+                    787,
+                    1104
+                ],
+                [
+                    2438,
+                    1104
+                ],
+                [
+                    2438,
+                    700
+                ],
+                [
+                    787,
+                    700
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "africanus",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6364,
+                    748
+                ],
+                [
+                    6364,
+                    1104
+                ],
+                [
+                    8563,
+                    1104
+                ],
+                [
+                    8563,
+                    748
+                ],
+                [
+                    6364,
+                    748
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "crumeniferus",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    5414,
+                    748
+                ],
+                [
+                    5414,
+                    902
+                ],
+                [
+                    5827,
+                    902
+                ],
+                [
+                    5827,
+                    748
+                ],
+                [
+                    5414,
+                    748
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "010652988",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    912,
+                    1065
+                ],
+                [
+                    912,
+                    1507
+                ],
+                [
+                    2928,
+                    1507
+                ],
+                [
+                    2928,
+                    1065
+                ],
+                [
+                    912,
+                    1065
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Bedford,1939",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6182,
+                    1180
+                ],
+                [
+                    6182,
+                    1564
+                ],
+                [
+                    7718,
+                    1564
+                ],
+                [
+                    7718,
+                    1180
+                ],
+                [
+                    6182,
+                    1180
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "S.Sudan.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6883,
+                    1507
+                ],
+                [
+                    6883,
+                    1939
+                ],
+                [
+                    8524,
+                    1939
+                ],
+                [
+                    8524,
+                    1507
+                ],
+                [
+                    6883,
+                    1507
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "24.iv.1954.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        }
+    ]
+}

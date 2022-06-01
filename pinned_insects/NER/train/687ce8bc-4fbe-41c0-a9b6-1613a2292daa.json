@@ -1,0 +1,43 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "f3ff0f95-127f-4b57-bce0-8906d2c6bccd",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/5c5dc56e-46f1-415d-8cb9-3293f1de886e",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/5c5dc56e-46f1-415d-8cb9-3293f1de886e/full/full/0/default.jpg"
+    },
+    "named_entities": [
+        {
+            "tags": "Quadrimacula B-taxon_name\n. I-taxon_name\nB I-taxon_name\n. I-taxon_name\nmadag B-location_name\n. I-location_name",
+            "worker_version_id": null
+        },
+        {
+            "tags": "Ex B-Collection/Donation\nOberth\u00fcr I-Collection/Donation\nColl I-Collection/Donation\n. I-Collection/Donation\nBrit B-identifier\n. I-identifier\nMus I-identifier\n. I-identifier\n1927 I-identifier\n- I-identifier\n3 I-identifier\n. I-identifier",
+            "worker_version_id": null
+        },
+        {
+            "tags": "Holo B-identifier\n- I-identifier\ntype I-identifier",
+            "worker_version_id": null
+        },
+        {
+            "tags": "NHMUK010620991 B-identifier",
+            "worker_version_id": null
+        },
+        {
+            "tags": "EX B-Collection/Donation\nMUS\u00c6O I-Collection/Donation\nDris I-Collection/Donation\nBOISDUVAL I-Collection/Donation",
+            "worker_version_id": null
+        },
+        {
+            "tags": "Syntomes B-taxon_name\nquadrimacula I-taxon_name\nMobille O\n\u2642 B-Sex\nHolotype B-type_status\ndet B-Determination\n. I-Determination\nD I-Determination\n. I-Determination\nS I-Determination\n. I-Determination\nFletcher I-Determination\n1966 I-Determination",
+            "worker_version_id": null
+        }
+    ],
+    "page": {
+        "id": "687ce8bc-4fbe-41c0-a9b6-1613a2292daa",
+        "name": "010620991_D_Thyrosticta_quadrimacula_Mabille_1879_3.1.3.8.2500x3456.jpeg",
+        "rotation_angle": 0
+    }
+}

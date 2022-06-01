@@ -1,0 +1,27 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "94558e99-714d-411a-977b-c2a5c2224711",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/41530922-f834-4068-91c7-bc8842513213",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/41530922-f834-4068-91c7-bc8842513213/full/full/0/default.jpg"
+    },
+    "named_entities": [
+        {
+            "tags": "Davidson B-Collection/Donation\nColl I-Collection/Donation\n. I-Collection/Donation\nB B-identifier\n. I-identifier\nM I-identifier\n. I-identifier\n1925 I-identifier\n- I-identifier\n574 I-identifier\n. I-identifier",
+            "worker_version_id": null
+        },
+        {
+            "tags": "NHMUK B-identifier\n012541351 I-identifier",
+            "worker_version_id": null
+        }
+    ],
+    "page": {
+        "id": "c42d5095-8dea-4aac-a7d8-e8464f9e0b6d",
+        "name": "012541351_151495_1084648.2500x5792.jpeg",
+        "rotation_angle": 0
+    }
+}

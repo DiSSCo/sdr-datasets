@@ -1,0 +1,1605 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "479c24a2-d399-4074-b47f-7c82c51a95d8",
+        "name": "RBGE"
+    },
+    "image": {
+        "id": "5f8e5448-052b-47ef-b0d7-647ee39fa874",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FE00202326.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FE00202326.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "248d0315-c3ae-4a6a-85eb-96e860d30e06",
+        "name": "E00202326",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    4467,
+                    25
+                ],
+                [
+                    4467,
+                    306
+                ],
+                [
+                    5945,
+                    306
+                ],
+                [
+                    5945,
+                    25
+                ],
+                [
+                    4467,
+                    25
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB . HORT . EDINB .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4467,
+                    25
+                ],
+                [
+                    4467,
+                    306
+                ],
+                [
+                    5945,
+                    306
+                ],
+                [
+                    5945,
+                    25
+                ],
+                [
+                    4467,
+                    25
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB. HORT. EDINB.",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    4467,
+                    25
+                ],
+                [
+                    4467,
+                    306
+                ],
+                [
+                    5945,
+                    306
+                ],
+                [
+                    5945,
+                    25
+                ],
+                [
+                    4467,
+                    25
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB . HORT . EDINB .",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    4688,
+                    7051
+                ],
+                [
+                    4688,
+                    7146
+                ],
+                [
+                    5205,
+                    7146
+                ],
+                [
+                    5205,
+                    7051
+                ],
+                [
+                    4688,
+                    7051
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HOLOTYPE",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4688,
+                    7051
+                ],
+                [
+                    4688,
+                    7146
+                ],
+                [
+                    5205,
+                    7146
+                ],
+                [
+                    5205,
+                    7051
+                ],
+                [
+                    4688,
+                    7051
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HOLOTYPE",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    4688,
+                    7051
+                ],
+                [
+                    4688,
+                    7146
+                ],
+                [
+                    5205,
+                    7146
+                ],
+                [
+                    5205,
+                    7051
+                ],
+                [
+                    4688,
+                    7051
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HOLOTYPE",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    3927,
+                    7087
+                ],
+                [
+                    3927,
+                    7328
+                ],
+                [
+                    5488,
+                    7426
+                ],
+                [
+                    5791,
+                    7386
+                ],
+                [
+                    5780,
+                    7098
+                ],
+                [
+                    5368,
+                    7062
+                ],
+                [
+                    5252,
+                    7157
+                ],
+                [
+                    4720,
+                    7153
+                ],
+                [
+                    4659,
+                    7160
+                ],
+                [
+                    4211,
+                    7142
+                ],
+                [
+                    4102,
+                    7058
+                ],
+                [
+                    3927,
+                    7087
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "of Rhododendron reerei Argent",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3927,
+                    7087
+                ],
+                [
+                    3927,
+                    7328
+                ],
+                [
+                    5488,
+                    7426
+                ],
+                [
+                    5791,
+                    7386
+                ],
+                [
+                    5780,
+                    7098
+                ],
+                [
+                    5368,
+                    7062
+                ],
+                [
+                    5252,
+                    7157
+                ],
+                [
+                    4720,
+                    7153
+                ],
+                [
+                    4659,
+                    7160
+                ],
+                [
+                    4211,
+                    7142
+                ],
+                [
+                    4102,
+                    7058
+                ],
+                [
+                    3927,
+                    7087
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "a Rhndodendion reevei Hrgent .",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3512,
+                    7765
+                ],
+                [
+                    3512,
+                    7925
+                ],
+                [
+                    4589,
+                    7925
+                ],
+                [
+                    4589,
+                    7765
+                ],
+                [
+                    3512,
+                    7765
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "FLORA OF NEW GUINEA",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3512,
+                    7765
+                ],
+                [
+                    3512,
+                    7925
+                ],
+                [
+                    4589,
+                    7925
+                ],
+                [
+                    4589,
+                    7765
+                ],
+                [
+                    3512,
+                    7765
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "FLORA OF NEW GUINEA",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3512,
+                    7765
+                ],
+                [
+                    3512,
+                    7925
+                ],
+                [
+                    4589,
+                    7925
+                ],
+                [
+                    4589,
+                    7765
+                ],
+                [
+                    3512,
+                    7765
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "FLORA OF NEW GUINEA",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    4924,
+                    7765
+                ],
+                [
+                    4924,
+                    7896
+                ],
+                [
+                    5623,
+                    7896
+                ],
+                [
+                    5623,
+                    7765
+                ],
+                [
+                    4924,
+                    7765
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ERCCACEAE",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4924,
+                    7765
+                ],
+                [
+                    4924,
+                    7896
+                ],
+                [
+                    5623,
+                    7896
+                ],
+                [
+                    5623,
+                    7765
+                ],
+                [
+                    4924,
+                    7765
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ERICACEAE",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3495,
+                    7972
+                ],
+                [
+                    3495,
+                    8151
+                ],
+                [
+                    5879,
+                    8151
+                ],
+                [
+                    5879,
+                    7972
+                ],
+                [
+                    3495,
+                    7972
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NAME Rhododendron maius ( 5 . 5 . Sm . ) Sleum ,",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3495,
+                    7972
+                ],
+                [
+                    3495,
+                    8151
+                ],
+                [
+                    5879,
+                    8151
+                ],
+                [
+                    5879,
+                    7972
+                ],
+                [
+                    3495,
+                    7972
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NamE Rhododendron maius (J.J.Sm.) Sleum.",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3516,
+                    8231
+                ],
+                [
+                    3527,
+                    8366
+                ],
+                [
+                    3880,
+                    8384
+                ],
+                [
+                    4241,
+                    8380
+                ],
+                [
+                    4303,
+                    8468
+                ],
+                [
+                    4361,
+                    8377
+                ],
+                [
+                    4554,
+                    8398
+                ],
+                [
+                    4605,
+                    8442
+                ],
+                [
+                    4638,
+                    8380
+                ],
+                [
+                    5180,
+                    8384
+                ],
+                [
+                    5358,
+                    8380
+                ],
+                [
+                    5413,
+                    8427
+                ],
+                [
+                    5580,
+                    8395
+                ],
+                [
+                    5810,
+                    8366
+                ],
+                [
+                    5777,
+                    8231
+                ],
+                [
+                    3516,
+                    8231
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "LOCALITY porgera Mt rd Maip , Enga ( Tipinini Province side ) , , Laiagam P . N . E . -",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3516,
+                    8231
+                ],
+                [
+                    3527,
+                    8366
+                ],
+                [
+                    3880,
+                    8384
+                ],
+                [
+                    4241,
+                    8380
+                ],
+                [
+                    4303,
+                    8468
+                ],
+                [
+                    4361,
+                    8377
+                ],
+                [
+                    4554,
+                    8398
+                ],
+                [
+                    4605,
+                    8442
+                ],
+                [
+                    4638,
+                    8380
+                ],
+                [
+                    5180,
+                    8384
+                ],
+                [
+                    5358,
+                    8380
+                ],
+                [
+                    5413,
+                    8427
+                ],
+                [
+                    5580,
+                    8395
+                ],
+                [
+                    5810,
+                    8366
+                ],
+                [
+                    5777,
+                    8231
+                ],
+                [
+                    3516,
+                    8231
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Locaury Mt Maig (Tiginini side), haiagam-",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3538,
+                    8373
+                ],
+                [
+                    3538,
+                    8471
+                ],
+                [
+                    3717,
+                    8475
+                ],
+                [
+                    3746,
+                    8529
+                ],
+                [
+                    3797,
+                    8526
+                ],
+                [
+                    3822,
+                    8478
+                ],
+                [
+                    4208,
+                    8504
+                ],
+                [
+                    4314,
+                    8515
+                ],
+                [
+                    4445,
+                    8478
+                ],
+                [
+                    4474,
+                    8566
+                ],
+                [
+                    4539,
+                    8588
+                ],
+                [
+                    4576,
+                    8497
+                ],
+                [
+                    4761,
+                    8518
+                ],
+                [
+                    5253,
+                    8526
+                ],
+                [
+                    5566,
+                    8508
+                ],
+                [
+                    5566,
+                    8406
+                ],
+                [
+                    5482,
+                    8420
+                ],
+                [
+                    5413,
+                    8435
+                ],
+                [
+                    5362,
+                    8398
+                ],
+                [
+                    5245,
+                    8406
+                ],
+                [
+                    4710,
+                    8384
+                ],
+                [
+                    4608,
+                    8471
+                ],
+                [
+                    4561,
+                    8420
+                ],
+                [
+                    4368,
+                    8384
+                ],
+                [
+                    4299,
+                    8478
+                ],
+                [
+                    4208,
+                    8402
+                ],
+                [
+                    3899,
+                    8384
+                ],
+                [
+                    3538,
+                    8373
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "forgera rd, ' Enga' Province , P.N.B.",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3516,
+                    8679
+                ],
+                [
+                    4397,
+                    8679
+                ],
+                [
+                    4386,
+                    8526
+                ],
+                [
+                    3527,
+                    8526
+                ],
+                [
+                    3516,
+                    8679
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HABITAT Terrestrial",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3516,
+                    8679
+                ],
+                [
+                    4397,
+                    8679
+                ],
+                [
+                    4386,
+                    8526
+                ],
+                [
+                    3527,
+                    8526
+                ],
+                [
+                    3516,
+                    8679
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HABITAT errestrial",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    5224,
+                    8548
+                ],
+                [
+                    5224,
+                    8664
+                ],
+                [
+                    5864,
+                    8664
+                ],
+                [
+                    5864,
+                    8548
+                ],
+                [
+                    5224,
+                    8548
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ALT . 2600 m",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    5224,
+                    8548
+                ],
+                [
+                    5224,
+                    8664
+                ],
+                [
+                    5864,
+                    8664
+                ],
+                [
+                    5864,
+                    8548
+                ],
+                [
+                    5224,
+                    8548
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ALT. 2600 m.",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3516,
+                    8719
+                ],
+                [
+                    3516,
+                    8904
+                ],
+                [
+                    5690,
+                    8904
+                ],
+                [
+                    5690,
+                    8719
+                ],
+                [
+                    3516,
+                    8719
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NOTES Large trusses of white flowers",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3516,
+                    8719
+                ],
+                [
+                    3516,
+                    8904
+                ],
+                [
+                    5690,
+                    8904
+                ],
+                [
+                    5690,
+                    8719
+                ],
+                [
+                    3516,
+                    8719
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NOTES Large trusses: of white Flowers.",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3520,
+                    8904
+                ],
+                [
+                    3520,
+                    9024
+                ],
+                [
+                    5682,
+                    9024
+                ],
+                [
+                    5682,
+                    8904
+                ],
+                [
+                    3520,
+                    8904
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "with slight pink coloration on corolla tubes ,",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3520,
+                    8904
+                ],
+                [
+                    3520,
+                    9024
+                ],
+                [
+                    5682,
+                    9024
+                ],
+                [
+                    5682,
+                    8904
+                ],
+                [
+                    3520,
+                    8904
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "with slight pink coloration on corolla tubes  :",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3520,
+                    9024
+                ],
+                [
+                    3520,
+                    9134
+                ],
+                [
+                    5322,
+                    9134
+                ],
+                [
+                    5322,
+                    9024
+                ],
+                [
+                    3520,
+                    9024
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "pedicels red ; carnation - scented .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3520,
+                    9024
+                ],
+                [
+                    3520,
+                    9134
+                ],
+                [
+                    5322,
+                    9134
+                ],
+                [
+                    5322,
+                    9024
+                ],
+                [
+                    3520,
+                    9024
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "pedicels red; carnation - scentad .",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3505,
+                    9142
+                ],
+                [
+                    3505,
+                    9284
+                ],
+                [
+                    5194,
+                    9284
+                ],
+                [
+                    5194,
+                    9142
+                ],
+                [
+                    3505,
+                    9142
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Robust shrubs up to 3 m tall .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3505,
+                    9142
+                ],
+                [
+                    3505,
+                    9284
+                ],
+                [
+                    5194,
+                    9284
+                ],
+                [
+                    5194,
+                    9142
+                ],
+                [
+                    3505,
+                    9142
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Robust sbruss up to 3 m tall.",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3480,
+                    9451
+                ],
+                [
+                    3480,
+                    9615
+                ],
+                [
+                    4393,
+                    9615
+                ],
+                [
+                    4393,
+                    9451
+                ],
+                [
+                    3480,
+                    9451
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "T . M . REEVE No . 6772",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3480,
+                    9451
+                ],
+                [
+                    3480,
+                    9615
+                ],
+                [
+                    4393,
+                    9615
+                ],
+                [
+                    4393,
+                    9451
+                ],
+                [
+                    3480,
+                    9451
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "T. M. REEVE No. 6772.",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    5227,
+                    9513
+                ],
+                [
+                    5227,
+                    9644
+                ],
+                [
+                    5871,
+                    9644
+                ],
+                [
+                    5871,
+                    9513
+                ],
+                [
+                    5227,
+                    9513
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "DATE 30 . ix . 1983",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    5227,
+                    9513
+                ],
+                [
+                    5227,
+                    9644
+                ],
+                [
+                    5871,
+                    9644
+                ],
+                [
+                    5871,
+                    9513
+                ],
+                [
+                    5227,
+                    9513
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "DATE 30. ix. 1983",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    5227,
+                    9513
+                ],
+                [
+                    5227,
+                    9644
+                ],
+                [
+                    5871,
+                    9644
+                ],
+                [
+                    5871,
+                    9513
+                ],
+                [
+                    5227,
+                    9513
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "DATE 30 . ix . 1983",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    3490,
+                    9651
+                ],
+                [
+                    3490,
+                    9753
+                ],
+                [
+                    5580,
+                    9753
+                ],
+                [
+                    5580,
+                    9651
+                ],
+                [
+                    3490,
+                    9651
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "DUPLICATES LAE , E , NSW , L , K , A , CANB , BO , UPNG",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3490,
+                    9651
+                ],
+                [
+                    3490,
+                    9753
+                ],
+                [
+                    5580,
+                    9753
+                ],
+                [
+                    5580,
+                    9651
+                ],
+                [
+                    3490,
+                    9651
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "DUPLICATES UAE . E, NSW. L. K. A. CANE. 8O, UPNG",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3913,
+                    9761
+                ],
+                [
+                    3913,
+                    9873
+                ],
+                [
+                    4553,
+                    9873
+                ],
+                [
+                    4553,
+                    9761
+                ],
+                [
+                    3913,
+                    9761
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BISH , CBG . .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3913,
+                    9761
+                ],
+                [
+                    3913,
+                    9873
+                ],
+                [
+                    4553,
+                    9873
+                ],
+                [
+                    4553,
+                    9761
+                ],
+                [
+                    3913,
+                    9761
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BISH , c86.",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    365,
+                    9239
+                ],
+                [
+                    365,
+                    9307
+                ],
+                [
+                    1015,
+                    9307
+                ],
+                [
+                    1015,
+                    9239
+                ],
+                [
+                    365,
+                    9239
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ROYAL BOTANIC GARDEN",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    365,
+                    9239
+                ],
+                [
+                    365,
+                    9307
+                ],
+                [
+                    1015,
+                    9307
+                ],
+                [
+                    1015,
+                    9239
+                ],
+                [
+                    365,
+                    9239
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ROYAL BOTANIC GARDEN",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    365,
+                    9239
+                ],
+                [
+                    365,
+                    9307
+                ],
+                [
+                    1015,
+                    9307
+                ],
+                [
+                    1015,
+                    9239
+                ],
+                [
+                    365,
+                    9239
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ROYAL BOTANIC GARDEN",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    513,
+                    9313
+                ],
+                [
+                    513,
+                    9376
+                ],
+                [
+                    859,
+                    9376
+                ],
+                [
+                    859,
+                    9313
+                ],
+                [
+                    513,
+                    9313
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "EDINBURGH",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    513,
+                    9313
+                ],
+                [
+                    513,
+                    9376
+                ],
+                [
+                    859,
+                    9376
+                ],
+                [
+                    859,
+                    9313
+                ],
+                [
+                    513,
+                    9313
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "EDINBURGH",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    513,
+                    9313
+                ],
+                [
+                    513,
+                    9376
+                ],
+                [
+                    859,
+                    9376
+                ],
+                [
+                    859,
+                    9313
+                ],
+                [
+                    513,
+                    9313
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "EDINBURGH",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    427,
+                    9534
+                ],
+                [
+                    427,
+                    9621
+                ],
+                [
+                    977,
+                    9621
+                ],
+                [
+                    972,
+                    9537
+                ],
+                [
+                    427,
+                    9534
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "E00202326",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    427,
+                    9534
+                ],
+                [
+                    427,
+                    9621
+                ],
+                [
+                    977,
+                    9621
+                ],
+                [
+                    972,
+                    9537
+                ],
+                [
+                    427,
+                    9534
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "E00202326",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    427,
+                    9534
+                ],
+                [
+                    427,
+                    9621
+                ],
+                [
+                    977,
+                    9621
+                ],
+                [
+                    972,
+                    9537
+                ],
+                [
+                    427,
+                    9534
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "E00202326",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    485,
+                    9667
+                ],
+                [
+                    485,
+                    9850
+                ],
+                [
+                    1007,
+                    9850
+                ],
+                [
+                    1007,
+                    9667
+                ],
+                [
+                    485,
+                    9667
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "of 2",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    485,
+                    9667
+                ],
+                [
+                    485,
+                    9850
+                ],
+                [
+                    1007,
+                    9850
+                ],
+                [
+                    1007,
+                    9667
+                ],
+                [
+                    485,
+                    9667
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "2of2",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        }
+    ]
+}

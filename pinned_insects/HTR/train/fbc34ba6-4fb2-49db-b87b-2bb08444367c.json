@@ -1,0 +1,127 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "bb423eb3-3dcf-4560-a56b-e8ee7603f5d2",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/5e97cc58-8e40-46b2-b512-e1d523297524",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/5e97cc58-8e40-46b2-b512-e1d523297524/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "fbc34ba6-4fb2-49db-b87b-2bb08444367c",
+        "name": "012538971_151414_1856920.2500x3456.jpeg",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    1710,
+                    696
+                ],
+                [
+                    1710,
+                    785
+                ],
+                [
+                    2178,
+                    785
+                ],
+                [
+                    2178,
+                    696
+                ],
+                [
+                    1710,
+                    696
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "W.R.B. Hynd",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1701,
+                    773
+                ],
+                [
+                    1701,
+                    856
+                ],
+                [
+                    2055,
+                    856
+                ],
+                [
+                    2055,
+                    773
+                ],
+                [
+                    1701,
+                    773
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Collection",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1710,
+                    862
+                ],
+                [
+                    1710,
+                    945
+                ],
+                [
+                    2323,
+                    945
+                ],
+                [
+                    2323,
+                    862
+                ],
+                [
+                    1710,
+                    862
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BMNH(E) 1998-129",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1722,
+                    1413
+                ],
+                [
+                    1722,
+                    1512
+                ],
+                [
+                    2375,
+                    1512
+                ],
+                [
+                    2375,
+                    1413
+                ],
+                [
+                    1722,
+                    1413
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK012538971",
+            "worker_version": null
+        }
+    ]
+}

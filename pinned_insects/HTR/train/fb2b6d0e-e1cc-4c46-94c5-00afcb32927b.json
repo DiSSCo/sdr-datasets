@@ -1,0 +1,235 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "a8aa7c86-dffd-4ec3-9b44-10412ab24056",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/609ae3f6-4094-45d5-bc13-aed62324171d",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/609ae3f6-4094-45d5-bc13-aed62324171d/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "fb2b6d0e-e1cc-4c46-94c5-00afcb32927b",
+        "name": "010810209__.2500x5792.jpeg",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    1767,
+                    573
+                ],
+                [
+                    1767,
+                    643
+                ],
+                [
+                    2197,
+                    627
+                ],
+                [
+                    2189,
+                    553
+                ],
+                [
+                    1767,
+                    573
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Aylesford G.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1761,
+                    637
+                ],
+                [
+                    1761,
+                    700
+                ],
+                [
+                    2269,
+                    700
+                ],
+                [
+                    2269,
+                    637
+                ],
+                [
+                    1761,
+                    637
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "KENT. TQ-7359",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1767,
+                    752
+                ],
+                [
+                    2242,
+                    768
+                ],
+                [
+                    2242,
+                    688
+                ],
+                [
+                    1769,
+                    688
+                ],
+                [
+                    1767,
+                    752
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "20 April 1996.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1759,
+                    752
+                ],
+                [
+                    1759,
+                    817
+                ],
+                [
+                    2068,
+                    817
+                ],
+                [
+                    2068,
+                    752
+                ],
+                [
+                    1759,
+                    752
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "E.G. Philp",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1738,
+                    887
+                ],
+                [
+                    1738,
+                    967
+                ],
+                [
+                    2232,
+                    967
+                ],
+                [
+                    2232,
+                    887
+                ],
+                [
+                    1738,
+                    887
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "E.G. Philp bequest",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1738,
+                    973
+                ],
+                [
+                    1738,
+                    1044
+                ],
+                [
+                    2091,
+                    1044
+                ],
+                [
+                    2091,
+                    973
+                ],
+                [
+                    1738,
+                    973
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BMNH-ENT-",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1744,
+                    1055
+                ],
+                [
+                    1744,
+                    1143
+                ],
+                [
+                    2168,
+                    1143
+                ],
+                [
+                    2168,
+                    1055
+                ],
+                [
+                    1744,
+                    1055
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "2013-35 (ACQ)",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1822,
+                    1376
+                ],
+                [
+                    1822,
+                    1423
+                ],
+                [
+                    2332,
+                    1423
+                ],
+                [
+                    2332,
+                    1376
+                ],
+                [
+                    1822,
+                    1376
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK010810209",
+            "worker_version": null
+        }
+    ]
+}

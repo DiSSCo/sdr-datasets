@@ -1,0 +1,27 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "6f913832-9c42-4663-b6ca-b93e3498e64b",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/78f218de-c2b4-4b7c-8578-0d1727557dc3",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/78f218de-c2b4-4b7c-8578-0d1727557dc3/full/full/0/default.jpg"
+    },
+    "named_entities": [
+        {
+            "tags": "NHMUK010618609 B-identifier",
+            "worker_version_id": null
+        },
+        {
+            "tags": "Berkhamsted B-location_name\n, I-location_name\nHerts I-location_name\n5 B-date\n. I-date\nVII I-date\n. I-date\n1945 I-date\nA B-person_name\n. I-person_name\nL I-person_name\n. I-person_name\nGoodson I-person_name",
+            "worker_version_id": null
+        }
+    ],
+    "page": {
+        "id": "66ab4584-8daa-40b9-9f6b-e45dc9c12e94",
+        "name": "010618609_136814_1083189.2500x5792.jpeg",
+        "rotation_angle": 0
+    }
+}

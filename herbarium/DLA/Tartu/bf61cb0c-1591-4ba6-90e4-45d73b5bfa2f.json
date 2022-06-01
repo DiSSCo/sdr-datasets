@@ -1,0 +1,65 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "70771f04-7915-4ea6-ab09-1ef9009105f3",
+        "name": "Tartu"
+    },
+    "image": {
+        "id": "ceb5a397-b280-4bef-b2d1-ec69170ee3a5",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FTU251269.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FTU251269.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "bf61cb0c-1591-4ba6-90e4-45d73b5bfa2f",
+        "name": "TU251269",
+        "rotation_angle": 0
+    },
+    "polygons": {
+        "text_line": [
+            [
+                [
+                    1780,
+                    209
+                ],
+                [
+                    1784,
+                    291
+                ],
+                [
+                    3248,
+                    302
+                ],
+                [
+                    3252,
+                    217
+                ],
+                [
+                    1780,
+                    209
+                ]
+            ],
+            [
+                [
+                    1791,
+                    302
+                ],
+                [
+                    1791,
+                    372
+                ],
+                [
+                    3211,
+                    394
+                ],
+                [
+                    3215,
+                    317
+                ],
+                [
+                    1791,
+                    302
+                ]
+            ]
+        ]
+    }
+}

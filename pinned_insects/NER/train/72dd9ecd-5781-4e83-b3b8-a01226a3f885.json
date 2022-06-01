@@ -1,0 +1,31 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "515d4dfb-80cd-4ca4-b6b8-4c5aece9aee5",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/280e1f3d-5cb5-4034-8c1d-2bba4d923ef9",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/280e1f3d-5cb5-4034-8c1d-2bba4d923ef9/full/full/0/default.jpg"
+    },
+    "named_entities": [
+        {
+            "tags": "NHMUK B-identifier\n012542564 I-identifier",
+            "worker_version_id": null
+        },
+        {
+            "tags": "1913 B-identifier\n- I-identifier\n382 I-identifier\n. I-identifier",
+            "worker_version_id": null
+        },
+        {
+            "tags": "St B-location_name\n. I-location_name\nHelens I-location_name\nI I-location_name\n. I-location_name\nof I-location_name\nWight I-location_name\n13 B-date\n. I-date\nViii I-date\n. I-date\n1910 I-date",
+            "worker_version_id": null
+        }
+    ],
+    "page": {
+        "id": "72dd9ecd-5781-4e83-b3b8-a01226a3f885",
+        "name": "012542564_136909_1084408.2500x5792.jpeg",
+        "rotation_angle": 0
+    }
+}

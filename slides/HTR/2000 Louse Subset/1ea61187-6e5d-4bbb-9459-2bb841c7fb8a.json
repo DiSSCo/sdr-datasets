@@ -1,0 +1,343 @@
+{
+    "dataset_id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+    "folder": {
+        "id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+        "name": "2000 Louse Subset"
+    },
+    "image": {
+        "id": "9b30c170-fb46-41ad-aa6f-9721fc6ee686",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/cc27c2aa-5212-4cb9-a737-f8e6a7d862f4",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/cc27c2aa-5212-4cb9-a737-f8e6a7d862f4/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "1ea61187-6e5d-4bbb-9459-2bb841c7fb8a",
+        "name": "5",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    2224,
+                    233
+                ],
+                [
+                    2224,
+                    2894
+                ],
+                [
+                    2726,
+                    2864
+                ],
+                [
+                    2726,
+                    203
+                ],
+                [
+                    2224,
+                    233
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "[As fig. in Nitzsch",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6873,
+                    317
+                ],
+                [
+                    6873,
+                    2767
+                ],
+                [
+                    7357,
+                    2767
+                ],
+                [
+                    7357,
+                    317
+                ],
+                [
+                    6873,
+                    317
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Corvus albicollis.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    5108,
+                    435
+                ],
+                [
+                    5108,
+                    519
+                ],
+                [
+                    5484,
+                    519
+                ],
+                [
+                    5484,
+                    435
+                ],
+                [
+                    5108,
+                    435
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    1804,
+                    243
+                ],
+                [
+                    1804,
+                    2305
+                ],
+                [
+                    2340,
+                    2305
+                ],
+                [
+                    2340,
+                    243
+                ],
+                [
+                    1804,
+                    243
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "(Nitzsch)",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    7914,
+                    317
+                ],
+                [
+                    7914,
+                    685
+                ],
+                [
+                    8609,
+                    685
+                ],
+                [
+                    8609,
+                    317
+                ],
+                [
+                    7914,
+                    317
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "2\u2640\u2642",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    5464,
+                    512
+                ],
+                [
+                    5464,
+                    921
+                ],
+                [
+                    5568,
+                    921
+                ],
+                [
+                    5568,
+                    512
+                ],
+                [
+                    5464,
+                    512
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "010646749",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    699,
+                    306
+                ],
+                [
+                    699,
+                    2883
+                ],
+                [
+                    1425,
+                    2883
+                ],
+                [
+                    1425,
+                    306
+                ],
+                [
+                    699,
+                    306
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Philopterus",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    7525,
+                    338
+                ],
+                [
+                    7525,
+                    2736
+                ],
+                [
+                    7946,
+                    2736
+                ],
+                [
+                    7946,
+                    338
+                ],
+                [
+                    7525,
+                    338
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Kenya. Feb. 1936",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    2707,
+                    474
+                ],
+                [
+                    2707,
+                    1436
+                ],
+                [
+                    3014,
+                    1436
+                ],
+                [
+                    3014,
+                    474
+                ],
+                [
+                    2707,
+                    474
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "MS].",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6368,
+                    432
+                ],
+                [
+                    6368,
+                    2515
+                ],
+                [
+                    6778,
+                    2515
+                ],
+                [
+                    6778,
+                    432
+                ],
+                [
+                    6368,
+                    432
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "MEINERTZHAGEN",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    1246,
+                    527
+                ],
+                [
+                    1246,
+                    2883
+                ],
+                [
+                    1972,
+                    2883
+                ],
+                [
+                    1972,
+                    527
+                ],
+                [
+                    1246,
+                    527
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "leptomelas",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    8167,
+                    916
+                ],
+                [
+                    8167,
+                    2031
+                ],
+                [
+                    8609,
+                    2031
+                ],
+                [
+                    8609,
+                    916
+                ],
+                [
+                    8167,
+                    916
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "6470.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        }
+    ]
+}

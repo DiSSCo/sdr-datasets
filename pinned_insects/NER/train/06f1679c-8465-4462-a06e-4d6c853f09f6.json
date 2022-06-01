@@ -1,0 +1,31 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "3af7886a-aa02-455e-8b54-96a206082bd7",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/23e5edf0-6a7b-4a86-95fc-9956dbbed969",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/23e5edf0-6a7b-4a86-95fc-9956dbbed969/full/full/0/default.jpg"
+    },
+    "named_entities": [
+        {
+            "tags": "R B-Collection/Donation\n. I-Collection/Donation\nE I-Collection/Donation\n. I-Collection/Donation\nM I-Collection/Donation\n. I-Collection/Donation\nPilcher I-Collection/Donation\nCollection I-Collection/Donation\nB B-identifier\n. I-identifier\nM I-identifier\n. I-identifier\n1990 I-identifier\n- I-identifier\n19 I-identifier",
+            "worker_version_id": null
+        },
+        {
+            "tags": "NHMUK010617658 B-identifier",
+            "worker_version_id": null
+        },
+        {
+            "tags": "S B-location_name\n. I-location_name\nThoresby I-location_name\nLincs I-location_name\n. I-location_name\n13 B-date\n- I-date\n7 I-date\n- I-date\n1983 I-date\nR B-person_name\n. I-person_name\nE I-person_name\n. I-person_name\nM I-person_name\n. I-person_name\nPilcher I-person_name",
+            "worker_version_id": null
+        }
+    ],
+    "page": {
+        "id": "06f1679c-8465-4462-a06e-4d6c853f09f6",
+        "name": "010617658_137018_1084171.2500x5792.jpeg",
+        "rotation_angle": 0
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "c759c3c7-e3f3-4368-8d06-ea12e51a9869",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/79ce22ba-b0e7-450e-ae9c-22b0550a1b6b",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/79ce22ba-b0e7-450e-ae9c-22b0550a1b6b/full/full/0/default.jpg"
+    },
+    "named_entities": [
+        {
+            "tags": "Ex B-Collection/Donation\nOberth\u00fcr I-Collection/Donation\nColl I-Collection/Donation\n. I-Collection/Donation\nBrit B-identifier\n. I-identifier\nMus I-identifier\n1927 I-identifier\n- I-identifier\n3 I-identifier\n. I-identifier",
+            "worker_version_id": null
+        },
+        {
+            "tags": "NHMUK010622079 B-identifier",
+            "worker_version_id": null
+        },
+        {
+            "tags": "Madagascar B-location_name\nAntsianaka I-location_name\nPerrot B-person_name\nFr\u00e8res I-person_name\n2 B-date\ne I-date\nSemestre I-date\n1893 I-date",
+            "worker_version_id": null
+        }
+    ],
+    "page": {
+        "id": "d50bd69c-8a95-4604-aed7-cb317e6bc1c9",
+        "name": "010622079_D_Culapa_pauper_Oberthur_1916.2500x5792.jpeg",
+        "rotation_angle": 0
+    }
+}

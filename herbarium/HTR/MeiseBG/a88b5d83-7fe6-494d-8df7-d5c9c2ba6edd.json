@@ -1,0 +1,913 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "40737841-bfc1-4187-b1f6-3328e53d3aa3",
+        "name": "MeiseBG"
+    },
+    "image": {
+        "id": "f5060e46-b431-42f2-8eed-243d6c64f34e",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FBR0000006250690.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FBR0000006250690.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "a88b5d83-7fe6-494d-8df7-d5c9c2ba6edd",
+        "name": "BR0000006250690",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    4500,
+                    90
+                ],
+                [
+                    4500,
+                    234
+                ],
+                [
+                    5891,
+                    234
+                ],
+                [
+                    5891,
+                    90
+                ],
+                [
+                    4500,
+                    90
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herb. Horti Bot. Nat. Belg. (BR)",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    4500,
+                    90
+                ],
+                [
+                    4500,
+                    234
+                ],
+                [
+                    5891,
+                    234
+                ],
+                [
+                    5891,
+                    90
+                ],
+                [
+                    4500,
+                    90
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herb . Horti Bot . Nat . Belg . ( BR )",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    5348,
+                    252
+                ],
+                [
+                    5348,
+                    369
+                ],
+                [
+                    5756,
+                    369
+                ],
+                [
+                    5756,
+                    252
+                ],
+                [
+                    5348,
+                    252
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BR - S.P.",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    5348,
+                    252
+                ],
+                [
+                    5348,
+                    369
+                ],
+                [
+                    5756,
+                    369
+                ],
+                [
+                    5756,
+                    252
+                ],
+                [
+                    5348,
+                    252
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BR - S . P .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    5267,
+                    454
+                ],
+                [
+                    5267,
+                    593
+                ],
+                [
+                    5873,
+                    593
+                ],
+                [
+                    5873,
+                    454
+                ],
+                [
+                    5267,
+                    454
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "625 069",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    5267,
+                    454
+                ],
+                [
+                    5267,
+                    593
+                ],
+                [
+                    5873,
+                    593
+                ],
+                [
+                    5873,
+                    454
+                ],
+                [
+                    5267,
+                    454
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "625 069",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4416,
+                    582
+                ],
+                [
+                    4416,
+                    674
+                ],
+                [
+                    5245,
+                    674
+                ],
+                [
+                    5245,
+                    582
+                ],
+                [
+                    4416,
+                    582
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": ") \"000006\"25069 \"o",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    4416,
+                    582
+                ],
+                [
+                    4416,
+                    674
+                ],
+                [
+                    5245,
+                    674
+                ],
+                [
+                    5245,
+                    582
+                ],
+                [
+                    4416,
+                    582
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": ") \" 000006 \" 25069 \" o",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    5249,
+                    696
+                ],
+                [
+                    5249,
+                    781
+                ],
+                [
+                    5961,
+                    781
+                ],
+                [
+                    5961,
+                    696
+                ],
+                [
+                    5249,
+                    696
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "databased and imaged",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    5249,
+                    696
+                ],
+                [
+                    5249,
+                    781
+                ],
+                [
+                    5961,
+                    781
+                ],
+                [
+                    5961,
+                    696
+                ],
+                [
+                    5249,
+                    696
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "databased and imaged",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    5253,
+                    792
+                ],
+                [
+                    5253,
+                    854
+                ],
+                [
+                    5972,
+                    854
+                ],
+                [
+                    5972,
+                    792
+                ],
+                [
+                    5253,
+                    792
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "African Plant Initiative",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    5253,
+                    792
+                ],
+                [
+                    5253,
+                    854
+                ],
+                [
+                    5972,
+                    854
+                ],
+                [
+                    5972,
+                    792
+                ],
+                [
+                    5253,
+                    792
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "African Plant Initiative",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    5524,
+                    869
+                ],
+                [
+                    5524,
+                    942
+                ],
+                [
+                    5697,
+                    942
+                ],
+                [
+                    5697,
+                    869
+                ],
+                [
+                    5524,
+                    869
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "2005",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    5524,
+                    869
+                ],
+                [
+                    5524,
+                    942
+                ],
+                [
+                    5697,
+                    942
+                ],
+                [
+                    5697,
+                    869
+                ],
+                [
+                    5524,
+                    869
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "2005",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3926,
+                    9491
+                ],
+                [
+                    4592,
+                    9524
+                ],
+                [
+                    5037,
+                    9519
+                ],
+                [
+                    5055,
+                    9464
+                ],
+                [
+                    6249,
+                    9459
+                ],
+                [
+                    6249,
+                    9271
+                ],
+                [
+                    3931,
+                    9276
+                ],
+                [
+                    3940,
+                    9294
+                ],
+                [
+                    3926,
+                    9491
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Lavandula galgalloensis A.G.MILLER ISOTYPUS",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3926,
+                    9491
+                ],
+                [
+                    4592,
+                    9524
+                ],
+                [
+                    5037,
+                    9519
+                ],
+                [
+                    5055,
+                    9464
+                ],
+                [
+                    6249,
+                    9459
+                ],
+                [
+                    6249,
+                    9271
+                ],
+                [
+                    3931,
+                    9276
+                ],
+                [
+                    3940,
+                    9294
+                ],
+                [
+                    3926,
+                    9491
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Lavandula IS\u00d3T\u00ddPUS galgalloensis A . G . MILLER",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3922,
+                    9680
+                ],
+                [
+                    3922,
+                    9693
+                ],
+                [
+                    3922,
+                    9895
+                ],
+                [
+                    6322,
+                    9836
+                ],
+                [
+                    6313,
+                    9661
+                ],
+                [
+                    3922,
+                    9680
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Cit\u00e9 in",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    794,
+                    9302
+                ],
+                [
+                    794,
+                    9509
+                ],
+                [
+                    2207,
+                    9509
+                ],
+                [
+                    2207,
+                    9302
+                ],
+                [
+                    794,
+                    9302
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Lavandula Somaliensis Chaytor",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    794,
+                    9302
+                ],
+                [
+                    794,
+                    9509
+                ],
+                [
+                    2207,
+                    9509
+                ],
+                [
+                    2207,
+                    9302
+                ],
+                [
+                    794,
+                    9302
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Lavandula Somaliensis Choijtor",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2437,
+                    9472
+                ],
+                [
+                    2437,
+                    9637
+                ],
+                [
+                    2730,
+                    9637
+                ],
+                [
+                    2730,
+                    9472
+                ],
+                [
+                    2437,
+                    9472
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "3",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    453,
+                    7169
+                ],
+                [
+                    453,
+                    7313
+                ],
+                [
+                    1970,
+                    7313
+                ],
+                [
+                    1970,
+                    7169
+                ],
+                [
+                    453,
+                    7169
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "EX HERB. HORT. BOT. REG. KEW.",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    453,
+                    7169
+                ],
+                [
+                    453,
+                    7313
+                ],
+                [
+                    1970,
+                    7313
+                ],
+                [
+                    1970,
+                    7169
+                ],
+                [
+                    453,
+                    7169
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "EX HERB . HORT . BOT . REG . KEW .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    373,
+                    7731
+                ],
+                [
+                    2362,
+                    7694
+                ],
+                [
+                    2362,
+                    7599
+                ],
+                [
+                    380,
+                    7636
+                ],
+                [
+                    376,
+                    7639
+                ],
+                [
+                    373,
+                    7731
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "at eastern end of Al Mado Range",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    373,
+                    7731
+                ],
+                [
+                    2362,
+                    7694
+                ],
+                [
+                    2362,
+                    7599
+                ],
+                [
+                    380,
+                    7636
+                ],
+                [
+                    376,
+                    7639
+                ],
+                [
+                    373,
+                    7731
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "at Somalia eastern : end of Al Mado Range",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    365,
+                    7981
+                ],
+                [
+                    2322,
+                    7940
+                ],
+                [
+                    2326,
+                    7834
+                ],
+                [
+                    380,
+                    7885
+                ],
+                [
+                    369,
+                    7893
+                ],
+                [
+                    365,
+                    7981
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "escarpment.",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    365,
+                    7981
+                ],
+                [
+                    2322,
+                    7940
+                ],
+                [
+                    2326,
+                    7834
+                ],
+                [
+                    380,
+                    7885
+                ],
+                [
+                    369,
+                    7893
+                ],
+                [
+                    365,
+                    7981
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Near escarpment water , . between",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    362,
+                    8142
+                ],
+                [
+                    373,
+                    8219
+                ],
+                [
+                    1408,
+                    8230
+                ],
+                [
+                    2432,
+                    8201
+                ],
+                [
+                    2436,
+                    8084
+                ],
+                [
+                    369,
+                    8124
+                ],
+                [
+                    362,
+                    8142
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "blue.",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    362,
+                    8142
+                ],
+                [
+                    373,
+                    8219
+                ],
+                [
+                    1408,
+                    8230
+                ],
+                [
+                    2432,
+                    8201
+                ],
+                [
+                    2436,
+                    8084
+                ],
+                [
+                    369,
+                    8124
+                ],
+                [
+                    362,
+                    8142
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "blue Stems . 18ins . - 2ft . high",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    373,
+                    8473
+                ],
+                [
+                    1856,
+                    8469
+                ],
+                [
+                    2311,
+                    8447
+                ],
+                [
+                    2304,
+                    8344
+                ],
+                [
+                    380,
+                    8377
+                ],
+                [
+                    380,
+                    8385
+                ],
+                [
+                    373,
+                    8473
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "10 Jan. 1973",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    373,
+                    8473
+                ],
+                [
+                    1856,
+                    8469
+                ],
+                [
+                    2311,
+                    8447
+                ],
+                [
+                    2304,
+                    8344
+                ],
+                [
+                    380,
+                    8377
+                ],
+                [
+                    380,
+                    8385
+                ],
+                [
+                    373,
+                    8473
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "10 Jan . 1973",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        }
+    ]
+}

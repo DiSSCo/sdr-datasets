@@ -1,0 +1,802 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "c301e3ce-a988-469d-afb1-5af714a7123b",
+        "name": "MNHN"
+    },
+    "image": {
+        "id": "937544c1-df5b-4df8-8e00-9ad3d7528570",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FP00109897.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FP00109897.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "8828b5b9-c9cc-49e2-ad09-53771d38c2bc",
+        "name": "P00109897",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    498,
+                    4077
+                ],
+                [
+                    498,
+                    4126
+                ],
+                [
+                    631,
+                    4126
+                ],
+                [
+                    631,
+                    4077
+                ],
+                [
+                    498,
+                    4077
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Iso",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    470,
+                    4126
+                ],
+                [
+                    470,
+                    4206
+                ],
+                [
+                    762,
+                    4206
+                ],
+                [
+                    762,
+                    4126
+                ],
+                [
+                    470,
+                    4126
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "TYPE",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    470,
+                    4126
+                ],
+                [
+                    470,
+                    4206
+                ],
+                [
+                    762,
+                    4206
+                ],
+                [
+                    762,
+                    4126
+                ],
+                [
+                    470,
+                    4126
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "TYPE",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    369,
+                    4682
+                ],
+                [
+                    369,
+                    4782
+                ],
+                [
+                    570,
+                    4782
+                ],
+                [
+                    570,
+                    4682
+                ],
+                [
+                    369,
+                    4682
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "3547",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    369,
+                    4682
+                ],
+                [
+                    369,
+                    4782
+                ],
+                [
+                    570,
+                    4782
+                ],
+                [
+                    570,
+                    4682
+                ],
+                [
+                    369,
+                    4682
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "7",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    580,
+                    4706
+                ],
+                [
+                    580,
+                    4767
+                ],
+                [
+                    857,
+                    4767
+                ],
+                [
+                    857,
+                    4706
+                ],
+                [
+                    580,
+                    4706
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Rev . R . BARON .",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    580,
+                    4706
+                ],
+                [
+                    580,
+                    4767
+                ],
+                [
+                    857,
+                    4767
+                ],
+                [
+                    857,
+                    4706
+                ],
+                [
+                    580,
+                    4706
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Rev . R . BARON .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    365,
+                    4775
+                ],
+                [
+                    365,
+                    4834
+                ],
+                [
+                    703,
+                    4834
+                ],
+                [
+                    703,
+                    4775
+                ],
+                [
+                    365,
+                    4775
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "CENTRAL MADAGASCAR",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    365,
+                    4775
+                ],
+                [
+                    365,
+                    4834
+                ],
+                [
+                    703,
+                    4834
+                ],
+                [
+                    703,
+                    4775
+                ],
+                [
+                    365,
+                    4775
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "CENTR\u00c1L XIADAGASCAR .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    739,
+                    4765
+                ],
+                [
+                    739,
+                    4824
+                ],
+                [
+                    1081,
+                    4824
+                ],
+                [
+                    1081,
+                    4765
+                ],
+                [
+                    739,
+                    4765
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "RECEIVED Nov . , 1885 .",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    739,
+                    4765
+                ],
+                [
+                    739,
+                    4824
+                ],
+                [
+                    1081,
+                    4824
+                ],
+                [
+                    1081,
+                    4765
+                ],
+                [
+                    739,
+                    4765
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "RECEIVED Nov . , 1885 .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    350,
+                    4885
+                ],
+                [
+                    350,
+                    5120
+                ],
+                [
+                    1299,
+                    5120
+                ],
+                [
+                    1299,
+                    4885
+                ],
+                [
+                    350,
+                    4885
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Ficus (Corellia)",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    350,
+                    4885
+                ],
+                [
+                    350,
+                    5120
+                ],
+                [
+                    1299,
+                    5120
+                ],
+                [
+                    1299,
+                    4885
+                ],
+                [
+                    350,
+                    4885
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Seins ( Corellia )",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2408,
+                    4122
+                ],
+                [
+                    2408,
+                    4335
+                ],
+                [
+                    3565,
+                    4335
+                ],
+                [
+                    3565,
+                    4122
+                ],
+                [
+                    2408,
+                    4122
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Ficus polyphlebia Bak.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2408,
+                    4122
+                ],
+                [
+                    2408,
+                    4335
+                ],
+                [
+                    3565,
+                    4335
+                ],
+                [
+                    3565,
+                    4122
+                ],
+                [
+                    2408,
+                    4122
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Ficus polyphlebia Bath",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2132,
+                    4352
+                ],
+                [
+                    2132,
+                    4394
+                ],
+                [
+                    2487,
+                    4394
+                ],
+                [
+                    2487,
+                    4352
+                ],
+                [
+                    2132,
+                    4352
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herb . Mus\u00e9um Paris",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2132,
+                    4352
+                ],
+                [
+                    2132,
+                    4394
+                ],
+                [
+                    2487,
+                    4394
+                ],
+                [
+                    2487,
+                    4352
+                ],
+                [
+                    2132,
+                    4352
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herb . Mus\u00e9um Paris",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2218,
+                    4513
+                ],
+                [
+                    2218,
+                    4574
+                ],
+                [
+                    2430,
+                    4574
+                ],
+                [
+                    2430,
+                    4513
+                ],
+                [
+                    2218,
+                    4513
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "P00109897",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2218,
+                    4513
+                ],
+                [
+                    2218,
+                    4574
+                ],
+                [
+                    2430,
+                    4574
+                ],
+                [
+                    2430,
+                    4513
+                ],
+                [
+                    2218,
+                    4513
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "P00109897",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2639,
+                    4443
+                ],
+                [
+                    2639,
+                    4515
+                ],
+                [
+                    3106,
+                    4515
+                ],
+                [
+                    3106,
+                    4443
+                ],
+                [
+                    2639,
+                    4443
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB . MUS . PARIS .",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2639,
+                    4443
+                ],
+                [
+                    2639,
+                    4515
+                ],
+                [
+                    3106,
+                    4515
+                ],
+                [
+                    3106,
+                    4443
+                ],
+                [
+                    2639,
+                    4443
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB . MUS . PARIS .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2457,
+                    4654
+                ],
+                [
+                    2457,
+                    4777
+                ],
+                [
+                    3282,
+                    4777
+                ],
+                [
+                    3282,
+                    4654
+                ],
+                [
+                    2457,
+                    4654
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Ficus trichoclada Baker",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2457,
+                    4654
+                ],
+                [
+                    2457,
+                    4777
+                ],
+                [
+                    3282,
+                    4777
+                ],
+                [
+                    3282,
+                    4654
+                ],
+                [
+                    2457,
+                    4654
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Treus trichocfada Bahor",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2394,
+                    4769
+                ],
+                [
+                    2394,
+                    4868
+                ],
+                [
+                    2673,
+                    4868
+                ],
+                [
+                    2673,
+                    4769
+                ],
+                [
+                    2394,
+                    4769
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Isotype",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2394,
+                    4769
+                ],
+                [
+                    2394,
+                    4868
+                ],
+                [
+                    2673,
+                    4868
+                ],
+                [
+                    2673,
+                    4769
+                ],
+                [
+                    2394,
+                    4769
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Isotope",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2406,
+                    4885
+                ],
+                [
+                    2406,
+                    4980
+                ],
+                [
+                    2829,
+                    4980
+                ],
+                [
+                    2829,
+                    4885
+                ],
+                [
+                    2406,
+                    4885
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "DET. C. C. Berg",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2406,
+                    4885
+                ],
+                [
+                    2406,
+                    4980
+                ],
+                [
+                    2829,
+                    4980
+                ],
+                [
+                    2829,
+                    4885
+                ],
+                [
+                    2406,
+                    4885
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "DET . C . c . Bevs",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2926,
+                    4878
+                ],
+                [
+                    2926,
+                    4963
+                ],
+                [
+                    3246,
+                    4963
+                ],
+                [
+                    3246,
+                    4878
+                ],
+                [
+                    2926,
+                    4878
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "14/2 1985",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2926,
+                    4878
+                ],
+                [
+                    2926,
+                    4963
+                ],
+                [
+                    3246,
+                    4963
+                ],
+                [
+                    3246,
+                    4878
+                ],
+                [
+                    2926,
+                    4878
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "14 / 2 198 je",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        }
+    ]
+}

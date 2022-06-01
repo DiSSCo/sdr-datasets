@@ -1,0 +1,1392 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "01461701-dd48-4a27-ab96-27ee9853e15d",
+        "name": "NHM London"
+    },
+    "image": {
+        "id": "cba35d61-1c2e-4457-b630-def34655b9ee",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FBM000637970.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FBM000637970.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "c997a28a-5bb5-4f2d-ab3f-49211b9880bf",
+        "name": "BM000637970",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    477,
+                    614
+                ],
+                [
+                    693,
+                    623
+                ],
+                [
+                    694,
+                    608
+                ],
+                [
+                    478,
+                    597
+                ],
+                [
+                    477,
+                    614
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "THE NATURAL HISTORY MUSEUM, LONDON",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    520,
+                    616
+                ],
+                [
+                    520,
+                    628
+                ],
+                [
+                    669,
+                    634
+                ],
+                [
+                    669,
+                    621
+                ],
+                [
+                    520,
+                    616
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "DEPARTMENT OF BOTANY",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    521,
+                    665
+                ],
+                [
+                    521,
+                    685
+                ],
+                [
+                    649,
+                    690
+                ],
+                [
+                    650,
+                    670
+                ],
+                [
+                    521,
+                    665
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BM000637967",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    38,
+                    616
+                ],
+                [
+                    38,
+                    650
+                ],
+                [
+                    364,
+                    650
+                ],
+                [
+                    364,
+                    616
+                ],
+                [
+                    38,
+                    616
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Coll. J. Bracebridge Wilson. Recd. 1896.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    780,
+                    896
+                ],
+                [
+                    780,
+                    913
+                ],
+                [
+                    994,
+                    913
+                ],
+                [
+                    994,
+                    896
+                ],
+                [
+                    780,
+                    896
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "THE NATURAL HISTORY MUSEUM, LONDON",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    819,
+                    912
+                ],
+                [
+                    822,
+                    924
+                ],
+                [
+                    971,
+                    926
+                ],
+                [
+                    972,
+                    914
+                ],
+                [
+                    819,
+                    912
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "DEPARTMENT OF BOTANY",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    820,
+                    962
+                ],
+                [
+                    820,
+                    982
+                ],
+                [
+                    953,
+                    982
+                ],
+                [
+                    953,
+                    962
+                ],
+                [
+                    820,
+                    962
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BM000637970",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1251,
+                    484
+                ],
+                [
+                    1471,
+                    490
+                ],
+                [
+                    1473,
+                    473
+                ],
+                [
+                    1253,
+                    467
+                ],
+                [
+                    1251,
+                    484
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "THE NATURAL HISTORY MUSEUM, LONDON",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1289,
+                    497
+                ],
+                [
+                    1443,
+                    501
+                ],
+                [
+                    1445,
+                    488
+                ],
+                [
+                    1290,
+                    484
+                ],
+                [
+                    1289,
+                    497
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "DEPARTMENT OF BOTANY",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1293,
+                    559
+                ],
+                [
+                    1432,
+                    562
+                ],
+                [
+                    1432,
+                    540
+                ],
+                [
+                    1296,
+                    537
+                ],
+                [
+                    1293,
+                    559
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BM000637969",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1100,
+                    524
+                ],
+                [
+                    1100,
+                    545
+                ],
+                [
+                    1226,
+                    545
+                ],
+                [
+                    1226,
+                    524
+                ],
+                [
+                    1100,
+                    524
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "George Clifton.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1084,
+                    545
+                ],
+                [
+                    1084,
+                    562
+                ],
+                [
+                    1242,
+                    562
+                ],
+                [
+                    1242,
+                    545
+                ],
+                [
+                    1084,
+                    545
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Western Australia.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1101,
+                    562
+                ],
+                [
+                    1101,
+                    579
+                ],
+                [
+                    1223,
+                    579
+                ],
+                [
+                    1223,
+                    562
+                ],
+                [
+                    1101,
+                    562
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Recd. 1889.-90.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1101,
+                    368
+                ],
+                [
+                    1162,
+                    446
+                ],
+                [
+                    1283,
+                    368
+                ],
+                [
+                    1221,
+                    284
+                ],
+                [
+                    1101,
+                    368
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Type?",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1143,
+                    861
+                ],
+                [
+                    1143,
+                    905
+                ],
+                [
+                    1402,
+                    905
+                ],
+                [
+                    1402,
+                    861
+                ],
+                [
+                    1143,
+                    861
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "160. Dictyosphaeria sericea",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    224,
+                    1087
+                ],
+                [
+                    224,
+                    1150
+                ],
+                [
+                    560,
+                    1150
+                ],
+                [
+                    560,
+                    1087
+                ],
+                [
+                    224,
+                    1087
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Genus Dictyosphaeria",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    224,
+                    1150
+                ],
+                [
+                    224,
+                    1183
+                ],
+                [
+                    570,
+                    1183
+                ],
+                [
+                    570,
+                    1150
+                ],
+                [
+                    224,
+                    1150
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Species Sericea Harv.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    224,
+                    1191
+                ],
+                [
+                    224,
+                    1234
+                ],
+                [
+                    667,
+                    1234
+                ],
+                [
+                    667,
+                    1191
+                ],
+                [
+                    224,
+                    1191
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Locality - Port Phillip Heads. Bream Ck.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    225,
+                    1249
+                ],
+                [
+                    225,
+                    1286
+                ],
+                [
+                    612,
+                    1286
+                ],
+                [
+                    612,
+                    1249
+                ],
+                [
+                    225,
+                    1249
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Collected by J. BRACEBRIDGE WILSON.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    227,
+                    1297
+                ],
+                [
+                    227,
+                    1333
+                ],
+                [
+                    558,
+                    1333
+                ],
+                [
+                    558,
+                    1297
+                ],
+                [
+                    227,
+                    1297
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Date 3. 12. 1890.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    104,
+                    1208
+                ],
+                [
+                    104,
+                    1247
+                ],
+                [
+                    164,
+                    1247
+                ],
+                [
+                    164,
+                    1208
+                ],
+                [
+                    104,
+                    1208
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "14",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    109,
+                    1254
+                ],
+                [
+                    109,
+                    1298
+                ],
+                [
+                    170,
+                    1298
+                ],
+                [
+                    170,
+                    1254
+                ],
+                [
+                    109,
+                    1254
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "91",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    42,
+                    1365
+                ],
+                [
+                    42,
+                    1407
+                ],
+                [
+                    371,
+                    1407
+                ],
+                [
+                    371,
+                    1365
+                ],
+                [
+                    42,
+                    1365
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Coll. J. Bracebridge Wilson. Recd. 1896.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    898,
+                    1228
+                ],
+                [
+                    898,
+                    1274
+                ],
+                [
+                    1303,
+                    1274
+                ],
+                [
+                    1303,
+                    1228
+                ],
+                [
+                    898,
+                    1228
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "563. DYCTYOSPHAERIA sericea, n. sp.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    878,
+                    1272
+                ],
+                [
+                    878,
+                    1351
+                ],
+                [
+                    1325,
+                    1351
+                ],
+                [
+                    1325,
+                    1272
+                ],
+                [
+                    878,
+                    1272
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Dictyosphaeria sericea,",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    801,
+                    1352
+                ],
+                [
+                    801,
+                    1429
+                ],
+                [
+                    1463,
+                    1429
+                ],
+                [
+                    1463,
+                    1352
+                ],
+                [
+                    801,
+                    1352
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "N. Holland, Fremantle, W. Australia",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    857,
+                    1432
+                ],
+                [
+                    857,
+                    1504
+                ],
+                [
+                    1394,
+                    1504
+                ],
+                [
+                    1394,
+                    1432
+                ],
+                [
+                    857,
+                    1432
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Dr_ Harvey, List, No. 563 A",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    788,
+                    1531
+                ],
+                [
+                    788,
+                    1579
+                ],
+                [
+                    1013,
+                    1579
+                ],
+                [
+                    1013,
+                    1531
+                ],
+                [
+                    788,
+                    1531
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB. ALG. DICKIE: 1884.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1261,
+                    1557
+                ],
+                [
+                    1475,
+                    1549
+                ],
+                [
+                    1475,
+                    1532
+                ],
+                [
+                    1262,
+                    1538
+                ],
+                [
+                    1261,
+                    1557
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "THE NATURAL HISTORY MUSEUM, LONDON",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1298,
+                    1556
+                ],
+                [
+                    1300,
+                    1568
+                ],
+                [
+                    1455,
+                    1563
+                ],
+                [
+                    1453,
+                    1550
+                ],
+                [
+                    1298,
+                    1556
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "DEPARTMENT OF BOTANY",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1306,
+                    1606
+                ],
+                [
+                    1308,
+                    1628
+                ],
+                [
+                    1442,
+                    1623
+                ],
+                [
+                    1438,
+                    1602
+                ],
+                [
+                    1306,
+                    1606
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BM000637971",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1026,
+                    2044
+                ],
+                [
+                    1052,
+                    2042
+                ],
+                [
+                    1086,
+                    2048
+                ],
+                [
+                    1112,
+                    2036
+                ],
+                [
+                    1115,
+                    2050
+                ],
+                [
+                    1138,
+                    2038
+                ],
+                [
+                    1305,
+                    2037
+                ],
+                [
+                    1321,
+                    2043
+                ],
+                [
+                    1346,
+                    2034
+                ],
+                [
+                    1426,
+                    2044
+                ],
+                [
+                    1424,
+                    1999
+                ],
+                [
+                    1038,
+                    1995
+                ],
+                [
+                    1026,
+                    2044
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Dictyosphaeria sericea, Harv.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1016,
+                    2078
+                ],
+                [
+                    1390,
+                    2072
+                ],
+                [
+                    1391,
+                    2043
+                ],
+                [
+                    1349,
+                    2033
+                ],
+                [
+                    1325,
+                    2043
+                ],
+                [
+                    1307,
+                    2037
+                ],
+                [
+                    1137,
+                    2039
+                ],
+                [
+                    1118,
+                    2049
+                ],
+                [
+                    1112,
+                    2036
+                ],
+                [
+                    1084,
+                    2049
+                ],
+                [
+                    1049,
+                    2041
+                ],
+                [
+                    1024,
+                    2044
+                ],
+                [
+                    1016,
+                    2078
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Cape Riche _ W. Australia",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1263,
+                    2098
+                ],
+                [
+                    1263,
+                    2154
+                ],
+                [
+                    1404,
+                    2154
+                ],
+                [
+                    1404,
+                    2098
+                ],
+                [
+                    1263,
+                    2098
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Type ?",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1440,
+                    2131
+                ],
+                [
+                    1440,
+                    2199
+                ],
+                [
+                    1497,
+                    2199
+                ],
+                [
+                    1497,
+                    2131
+                ],
+                [
+                    1440,
+                    2131
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "2",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    352,
+                    2114
+                ],
+                [
+                    352,
+                    2199
+                ],
+                [
+                    1073,
+                    2199
+                ],
+                [
+                    1073,
+                    2114
+                ],
+                [
+                    352,
+                    2114
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Dictyosphaeria sericea Harv.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    219,
+                    1875
+                ],
+                [
+                    323,
+                    1874
+                ],
+                [
+                    371,
+                    1893
+                ],
+                [
+                    392,
+                    1884
+                ],
+                [
+                    414,
+                    1892
+                ],
+                [
+                    434,
+                    1875
+                ],
+                [
+                    543,
+                    1871
+                ],
+                [
+                    546,
+                    1824
+                ],
+                [
+                    225,
+                    1822
+                ],
+                [
+                    219,
+                    1875
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Genus Dictyosphaeria",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    215,
+                    1929
+                ],
+                [
+                    559,
+                    1927
+                ],
+                [
+                    559,
+                    1879
+                ],
+                [
+                    444,
+                    1876
+                ],
+                [
+                    413,
+                    1891
+                ],
+                [
+                    392,
+                    1882
+                ],
+                [
+                    371,
+                    1893
+                ],
+                [
+                    326,
+                    1875
+                ],
+                [
+                    219,
+                    1879
+                ],
+                [
+                    215,
+                    1929
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Species sericea Harv.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    215,
+                    1984
+                ],
+                [
+                    739,
+                    1974
+                ],
+                [
+                    738,
+                    1924
+                ],
+                [
+                    218,
+                    1935
+                ],
+                [
+                    215,
+                    1984
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Locality - Port Phillip Heads. Bream Creek H.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    215,
+                    1988
+                ],
+                [
+                    215,
+                    2030
+                ],
+                [
+                    599,
+                    2030
+                ],
+                [
+                    599,
+                    1988
+                ],
+                [
+                    215,
+                    1988
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Collected by J. BRACEBRIDGE WILSON.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    220,
+                    2039
+                ],
+                [
+                    220,
+                    2090
+                ],
+                [
+                    461,
+                    2090
+                ],
+                [
+                    461,
+                    2039
+                ],
+                [
+                    220,
+                    2039
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Date 28.2.91",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    101,
+                    1966
+                ],
+                [
+                    101,
+                    2008
+                ],
+                [
+                    175,
+                    2008
+                ],
+                [
+                    175,
+                    1966
+                ],
+                [
+                    101,
+                    1966
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "14",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    107,
+                    2013
+                ],
+                [
+                    107,
+                    2059
+                ],
+                [
+                    172,
+                    2059
+                ],
+                [
+                    172,
+                    2013
+                ],
+                [
+                    107,
+                    2013
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "91",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    73,
+                    2088
+                ],
+                [
+                    75,
+                    2108
+                ],
+                [
+                    289,
+                    2115
+                ],
+                [
+                    292,
+                    2097
+                ],
+                [
+                    73,
+                    2088
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "THE NATURAL HISTORY MUSEUM, LONDON",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    113,
+                    2123
+                ],
+                [
+                    266,
+                    2125
+                ],
+                [
+                    267,
+                    2114
+                ],
+                [
+                    114,
+                    2109
+                ],
+                [
+                    113,
+                    2123
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "DEPARTMENT OF BOTANY",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    115,
+                    2178
+                ],
+                [
+                    251,
+                    2182
+                ],
+                [
+                    254,
+                    2165
+                ],
+                [
+                    119,
+                    2161
+                ],
+                [
+                    115,
+                    2178
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BM000637968",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    822,
+                    2035
+                ],
+                [
+                    822,
+                    2077
+                ],
+                [
+                    924,
+                    2077
+                ],
+                [
+                    924,
+                    2035
+                ],
+                [
+                    822,
+                    2035
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "563. C",
+            "worker_version": null
+        }
+    ]
+}

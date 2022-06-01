@@ -1,0 +1,235 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "a134d4a4-5a40-4562-8a61-333a1851f656",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/2817c1df-6361-4b01-8afc-8e84bbd7975b",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/2817c1df-6361-4b01-8afc-8e84bbd7975b/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "cfee01d4-5d13-42cb-b6fd-d9049c24d627",
+        "name": "010610142_151458_1083262.2500x5792.jpeg",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    1886,
+                    666
+                ],
+                [
+                    1890,
+                    726
+                ],
+                [
+                    2210,
+                    722
+                ],
+                [
+                    2206,
+                    678
+                ],
+                [
+                    1886,
+                    666
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Dungeness",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1960,
+                    731
+                ],
+                [
+                    1960,
+                    783
+                ],
+                [
+                    2122,
+                    783
+                ],
+                [
+                    2122,
+                    731
+                ],
+                [
+                    1960,
+                    731
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Kent",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1884,
+                    825
+                ],
+                [
+                    1884,
+                    876
+                ],
+                [
+                    2277,
+                    855
+                ],
+                [
+                    2272,
+                    794
+                ],
+                [
+                    1884,
+                    825
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "7 :8 :1965",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1887,
+                    873
+                ],
+                [
+                    1887,
+                    922
+                ],
+                [
+                    2221,
+                    922
+                ],
+                [
+                    2221,
+                    873
+                ],
+                [
+                    1887,
+                    873
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "D.G. Marsh",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1905,
+                    967
+                ],
+                [
+                    1905,
+                    1021
+                ],
+                [
+                    2221,
+                    1021
+                ],
+                [
+                    2221,
+                    967
+                ],
+                [
+                    1905,
+                    967
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Christie Coll.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1900,
+                    1030
+                ],
+                [
+                    1900,
+                    1090
+                ],
+                [
+                    2156,
+                    1090
+                ],
+                [
+                    2156,
+                    1030
+                ],
+                [
+                    1900,
+                    1030
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BMNH (E)",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1905,
+                    1101
+                ],
+                [
+                    1905,
+                    1148
+                ],
+                [
+                    2113,
+                    1148
+                ],
+                [
+                    2113,
+                    1101
+                ],
+                [
+                    1905,
+                    1101
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "2010-62",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1882,
+                    1370
+                ],
+                [
+                    1882,
+                    1420
+                ],
+                [
+                    2382,
+                    1420
+                ],
+                [
+                    2382,
+                    1370
+                ],
+                [
+                    1882,
+                    1370
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK010610142",
+            "worker_version": null
+        }
+    ]
+}

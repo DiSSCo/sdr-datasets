@@ -1,0 +1,262 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "d5bb8e86-4a03-4142-a328-6a9079d9ec9f",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/0e79c885-09be-4753-97de-3d357d633700",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/0e79c885-09be-4753-97de-3d357d633700/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "783fe5f9-c1f4-443e-9221-b285fd50ccda",
+        "name": "010620630_D_Culapa_houlbertiana_Oberthur_1923_2.32.4.12.2500x3456.jpeg",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    1974,
+                    1153
+                ],
+                [
+                    1974,
+                    1219
+                ],
+                [
+                    2416,
+                    1223
+                ],
+                [
+                    2416,
+                    1157
+                ],
+                [
+                    1974,
+                    1153
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK010620630",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1818,
+                    805
+                ],
+                [
+                    1818,
+                    875
+                ],
+                [
+                    2277,
+                    875
+                ],
+                [
+                    2277,
+                    805
+                ],
+                [
+                    1818,
+                    805
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Ex Oberth\u00fcr Coll.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1810,
+                    866
+                ],
+                [
+                    1810,
+                    932
+                ],
+                [
+                    2293,
+                    932
+                ],
+                [
+                    2297,
+                    866
+                ],
+                [
+                    1810,
+                    866
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Brit. Mus: 1927-3.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1978,
+                    576
+                ],
+                [
+                    1978,
+                    629
+                ],
+                [
+                    2301,
+                    633
+                ],
+                [
+                    2301,
+                    576
+                ],
+                [
+                    1978,
+                    576
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Madagascar",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1965,
+                    625
+                ],
+                [
+                    1965,
+                    682
+                ],
+                [
+                    2309,
+                    686
+                ],
+                [
+                    2305,
+                    625
+                ],
+                [
+                    1965,
+                    625
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Fianarantsoa",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1834,
+                    674
+                ],
+                [
+                    1834,
+                    739
+                ],
+                [
+                    2436,
+                    748
+                ],
+                [
+                    2436,
+                    678
+                ],
+                [
+                    1834,
+                    674
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ex Lamberton, 1922",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1882,
+                    338
+                ],
+                [
+                    1882,
+                    396
+                ],
+                [
+                    2018,
+                    396
+                ],
+                [
+                    2018,
+                    338
+                ],
+                [
+                    1882,
+                    338
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "PARA-",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1855,
+                    393
+                ],
+                [
+                    1855,
+                    439
+                ],
+                [
+                    2045,
+                    439
+                ],
+                [
+                    2045,
+                    393
+                ],
+                [
+                    1855,
+                    393
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "LECTO-",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1876,
+                    443
+                ],
+                [
+                    1876,
+                    492
+                ],
+                [
+                    2015,
+                    495
+                ],
+                [
+                    2015,
+                    443
+                ],
+                [
+                    1876,
+                    443
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "TYPE",
+            "worker_version": null
+        }
+    ]
+}

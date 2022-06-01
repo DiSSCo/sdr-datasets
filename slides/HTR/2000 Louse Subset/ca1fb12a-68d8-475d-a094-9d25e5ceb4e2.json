@@ -1,0 +1,208 @@
+{
+    "dataset_id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+    "folder": {
+        "id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+        "name": "2000 Louse Subset"
+    },
+    "image": {
+        "id": "1936b3bd-df0a-4c18-bb6f-c1d3d0b84b3f",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/49ffd51c-c116-46f5-82c3-ae56d75b3306",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/49ffd51c-c116-46f5-82c3-ae56d75b3306/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "ca1fb12a-68d8-475d-a094-9d25e5ceb4e2",
+        "name": "15",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    7433,
+                    271
+                ],
+                [
+                    7433,
+                    2338
+                ],
+                [
+                    7718,
+                    2338
+                ],
+                [
+                    7718,
+                    271
+                ],
+                [
+                    7433,
+                    271
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Masthead 16.10.10",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    5960,
+                    215
+                ],
+                [
+                    5960,
+                    332
+                ],
+                [
+                    6299,
+                    332
+                ],
+                [
+                    6299,
+                    215
+                ],
+                [
+                    5960,
+                    215
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    8103,
+                    433
+                ],
+                [
+                    8103,
+                    2113
+                ],
+                [
+                    8371,
+                    2113
+                ],
+                [
+                    8371,
+                    433
+                ],
+                [
+                    8103,
+                    433
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "L. HARRISON.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6284,
+                    316
+                ],
+                [
+                    6284,
+                    721
+                ],
+                [
+                    6397,
+                    721
+                ],
+                [
+                    6397,
+                    316
+                ],
+                [
+                    6284,
+                    316
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "010647362",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    1198,
+                    1345
+                ],
+                [
+                    1198,
+                    2112
+                ],
+                [
+                    1456,
+                    2112
+                ],
+                [
+                    1456,
+                    1345
+                ],
+                [
+                    1198,
+                    1345
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "13-13",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    7070,
+                    883
+                ],
+                [
+                    7070,
+                    2374
+                ],
+                [
+                    7379,
+                    2374
+                ],
+                [
+                    7379,
+                    883
+                ],
+                [
+                    7070,
+                    883
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Sterna bergii",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6696,
+                    1055
+                ],
+                [
+                    6696,
+                    2409
+                ],
+                [
+                    7035,
+                    2409
+                ],
+                [
+                    7035,
+                    1055
+                ],
+                [
+                    6696,
+                    1055
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Philopterus",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        }
+    ]
+}

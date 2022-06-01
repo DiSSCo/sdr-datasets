@@ -1,0 +1,262 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "698eca92-2431-40db-b926-2bbd49e5a6e4",
+        "name": "dev"
+    },
+    "image": {
+        "id": "5af6e7f2-6097-4473-b6b6-dd30f8ea3350",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/dfb1ff79-7d57-4fa7-8a0f-37f803160d03",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/dfb1ff79-7d57-4fa7-8a0f-37f803160d03/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "196b09e9-e947-4439-b414-63c736642729",
+        "name": "010809593__.2500x5792.jpeg",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    1709,
+                    875
+                ],
+                [
+                    1709,
+                    932
+                ],
+                [
+                    1994,
+                    932
+                ],
+                [
+                    1994,
+                    875
+                ],
+                [
+                    1709,
+                    875
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Rothschild",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1708,
+                    943
+                ],
+                [
+                    1708,
+                    1002
+                ],
+                [
+                    1921,
+                    1002
+                ],
+                [
+                    1921,
+                    943
+                ],
+                [
+                    1708,
+                    943
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Bequest",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1707,
+                    1005
+                ],
+                [
+                    1707,
+                    1060
+                ],
+                [
+                    2016,
+                    1060
+                ],
+                [
+                    2016,
+                    1005
+                ],
+                [
+                    1707,
+                    1005
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "B.M. 1939-1",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1686,
+                    1128
+                ],
+                [
+                    1686,
+                    1187
+                ],
+                [
+                    2061,
+                    1187
+                ],
+                [
+                    2061,
+                    1128
+                ],
+                [
+                    1686,
+                    1128
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Megabombus",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1681,
+                    1196
+                ],
+                [
+                    1681,
+                    1263
+                ],
+                [
+                    2233,
+                    1263
+                ],
+                [
+                    2233,
+                    1196
+                ],
+                [
+                    1681,
+                    1196
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "B# 677. HJ/ PHW",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1775,
+                    1475
+                ],
+                [
+                    1775,
+                    1529
+                ],
+                [
+                    2284,
+                    1529
+                ],
+                [
+                    2284,
+                    1475
+                ],
+                [
+                    1775,
+                    1475
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK010809593",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1687,
+                    651
+                ],
+                [
+                    1687,
+                    711
+                ],
+                [
+                    2079,
+                    711
+                ],
+                [
+                    2079,
+                    651
+                ],
+                [
+                    1687,
+                    651
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Ashton Wold,",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1772,
+                    698
+                ],
+                [
+                    1772,
+                    764
+                ],
+                [
+                    1997,
+                    764
+                ],
+                [
+                    1997,
+                    698
+                ],
+                [
+                    1772,
+                    698
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Oundle,",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1671,
+                    801
+                ],
+                [
+                    2076,
+                    810
+                ],
+                [
+                    2072,
+                    760
+                ],
+                [
+                    1674,
+                    744
+                ],
+                [
+                    1671,
+                    801
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "13. viii. 1921.",
+            "worker_version": null
+        }
+    ]
+}

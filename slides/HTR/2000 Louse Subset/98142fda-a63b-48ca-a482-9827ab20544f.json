@@ -1,0 +1,262 @@
+{
+    "dataset_id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+    "folder": {
+        "id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+        "name": "2000 Louse Subset"
+    },
+    "image": {
+        "id": "43a5df21-28f1-4b54-8ed3-829e8572add3",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/a0207f3e-68a4-4fbd-9260-9a2fd5264530",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/a0207f3e-68a4-4fbd-9260-9a2fd5264530/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "98142fda-a63b-48ca-a482-9827ab20544f",
+        "name": "11",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    6895,
+                    98
+                ],
+                [
+                    6895,
+                    2464
+                ],
+                [
+                    7292,
+                    2464
+                ],
+                [
+                    7292,
+                    98
+                ],
+                [
+                    6895,
+                    98
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Lanius excubitor",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    657,
+                    344
+                ],
+                [
+                    657,
+                    2493
+                ],
+                [
+                    1177,
+                    2493
+                ],
+                [
+                    1177,
+                    344
+                ],
+                [
+                    657,
+                    344
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Philopterus",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    3266,
+                    220
+                ],
+                [
+                    3266,
+                    335
+                ],
+                [
+                    3630,
+                    335
+                ],
+                [
+                    3630,
+                    220
+                ],
+                [
+                    3266,
+                    220
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    7576,
+                    107
+                ],
+                [
+                    7576,
+                    2531
+                ],
+                [
+                    8059,
+                    2531
+                ],
+                [
+                    8059,
+                    107
+                ],
+                [
+                    7576,
+                    107
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Rajputana. March",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    3610,
+                    325
+                ],
+                [
+                    3610,
+                    718
+                ],
+                [
+                    3706,
+                    718
+                ],
+                [
+                    3706,
+                    325
+                ],
+                [
+                    3610,
+                    325
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "010647292",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    7936,
+                    155
+                ],
+                [
+                    7936,
+                    808
+                ],
+                [
+                    8201,
+                    808
+                ],
+                [
+                    8201,
+                    155
+                ],
+                [
+                    7936,
+                    155
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "1937",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    8211,
+                    164
+                ],
+                [
+                    8211,
+                    2464
+                ],
+                [
+                    8627,
+                    2464
+                ],
+                [
+                    8627,
+                    164
+                ],
+                [
+                    8211,
+                    164
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "8921 8962-3.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6365,
+                    211
+                ],
+                [
+                    6365,
+                    2351
+                ],
+                [
+                    6677,
+                    2351
+                ],
+                [
+                    6677,
+                    211
+                ],
+                [
+                    6365,
+                    211
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "MEINERTZHAGEN",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    7283,
+                    495
+                ],
+                [
+                    7283,
+                    1944
+                ],
+                [
+                    7595,
+                    1944
+                ],
+                [
+                    7595,
+                    495
+                ],
+                [
+                    7283,
+                    495
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Lahtora.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        }
+    ]
+}

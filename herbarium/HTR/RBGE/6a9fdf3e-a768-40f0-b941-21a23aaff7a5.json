@@ -1,0 +1,586 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "479c24a2-d399-4074-b47f-7c82c51a95d8",
+        "name": "RBGE"
+    },
+    "image": {
+        "id": "66af1d0b-f0ea-49cd-b07d-96f9d0f8348b",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FE00438365.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FE00438365.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "6a9fdf3e-a768-40f0-b941-21a23aaff7a5",
+        "name": "E00438365",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    5198,
+                    7769
+                ],
+                [
+                    5198,
+                    7827
+                ],
+                [
+                    5966,
+                    7827
+                ],
+                [
+                    5966,
+                    7769
+                ],
+                [
+                    5198,
+                    7769
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ROYAL BOTANIC GARDEN",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    5198,
+                    7769
+                ],
+                [
+                    5198,
+                    7827
+                ],
+                [
+                    5966,
+                    7827
+                ],
+                [
+                    5966,
+                    7769
+                ],
+                [
+                    5198,
+                    7769
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ROYAL BOTANIC GARDEN",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    5412,
+                    7831
+                ],
+                [
+                    5412,
+                    7880
+                ],
+                [
+                    5774,
+                    7880
+                ],
+                [
+                    5774,
+                    7831
+                ],
+                [
+                    5412,
+                    7831
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "EDINBURGH",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    5412,
+                    7831
+                ],
+                [
+                    5412,
+                    7880
+                ],
+                [
+                    5774,
+                    7880
+                ],
+                [
+                    5774,
+                    7831
+                ],
+                [
+                    5412,
+                    7831
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "EDINBURGH",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    5412,
+                    8090
+                ],
+                [
+                    5412,
+                    8157
+                ],
+                [
+                    5769,
+                    8157
+                ],
+                [
+                    5769,
+                    8090
+                ],
+                [
+                    5412,
+                    8090
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "E00438365",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    5412,
+                    8090
+                ],
+                [
+                    5412,
+                    8157
+                ],
+                [
+                    5769,
+                    8157
+                ],
+                [
+                    5769,
+                    8090
+                ],
+                [
+                    5412,
+                    8090
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "E00438365",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3133,
+                    8467
+                ],
+                [
+                    3133,
+                    8634
+                ],
+                [
+                    5467,
+                    8634
+                ],
+                [
+                    5467,
+                    8467
+                ],
+                [
+                    3133,
+                    8467
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "FLORA GRAECA EXSICCATA .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3133,
+                    8467
+                ],
+                [
+                    3133,
+                    8634
+                ],
+                [
+                    5467,
+                    8634
+                ],
+                [
+                    5467,
+                    8467
+                ],
+                [
+                    3133,
+                    8467
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "No FLORA GRAECA EXSICCATA.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3124,
+                    8693
+                ],
+                [
+                    3130,
+                    8903
+                ],
+                [
+                    5848,
+                    8884
+                ],
+                [
+                    5842,
+                    8706
+                ],
+                [
+                    3124,
+                    8693
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": ", Alyssum urgenteum",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3124,
+                    8693
+                ],
+                [
+                    3130,
+                    8903
+                ],
+                [
+                    5848,
+                    8884
+                ],
+                [
+                    5842,
+                    8706
+                ],
+                [
+                    3124,
+                    8693
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "294. Alyssum argenteum",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    5357,
+                    8884
+                ],
+                [
+                    5357,
+                    9025
+                ],
+                [
+                    5880,
+                    9025
+                ],
+                [
+                    5880,
+                    8884
+                ],
+                [
+                    5357,
+                    8884
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Vittm .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    5357,
+                    8884
+                ],
+                [
+                    5357,
+                    9025
+                ],
+                [
+                    5880,
+                    9025
+                ],
+                [
+                    5880,
+                    8884
+                ],
+                [
+                    5357,
+                    8884
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Vittm.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3309,
+                    8923
+                ],
+                [
+                    3309,
+                    9018
+                ],
+                [
+                    3513,
+                    9018
+                ],
+                [
+                    3513,
+                    8923
+                ],
+                [
+                    3309,
+                    8923
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Habit .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3309,
+                    8923
+                ],
+                [
+                    3309,
+                    9018
+                ],
+                [
+                    3513,
+                    9018
+                ],
+                [
+                    3513,
+                    8923
+                ],
+                [
+                    3309,
+                    8923
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Habit.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3124,
+                    9037
+                ],
+                [
+                    3124,
+                    9248
+                ],
+                [
+                    5976,
+                    9248
+                ],
+                [
+                    5976,
+                    9037
+                ],
+                [
+                    3124,
+                    9037
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "veg . media m . Kyllenes Acka",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3124,
+                    9037
+                ],
+                [
+                    3124,
+                    9248
+                ],
+                [
+                    5976,
+                    9248
+                ],
+                [
+                    5976,
+                    9037
+                ],
+                [
+                    3124,
+                    9037
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "In veg. media m. Kyllenes Achaiae",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3437,
+                    9267
+                ],
+                [
+                    3437,
+                    9388
+                ],
+                [
+                    5491,
+                    9388
+                ],
+                [
+                    5491,
+                    9267
+                ],
+                [
+                    3437,
+                    9267
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Hl . Muu - Aug e alt . 3500",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3437,
+                    9267
+                ],
+                [
+                    3437,
+                    9388
+                ],
+                [
+                    5491,
+                    9388
+                ],
+                [
+                    5491,
+                    9267
+                ],
+                [
+                    3437,
+                    9267
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Hl . Muu - Aug e alt . 3500",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3443,
+                    9382
+                ],
+                [
+                    3443,
+                    9573
+                ],
+                [
+                    4885,
+                    9573
+                ],
+                [
+                    4885,
+                    9382
+                ],
+                [
+                    3443,
+                    9382
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Legit / Pren . 1847",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4880,
+                    9582
+                ],
+                [
+                    4880,
+                    9667
+                ],
+                [
+                    5666,
+                    9667
+                ],
+                [
+                    5666,
+                    9582
+                ],
+                [
+                    4880,
+                    9582
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "THEODORUS G . ORPHANIDES .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4786,
+                    9680
+                ],
+                [
+                    4786,
+                    9739
+                ],
+                [
+                    5791,
+                    9739
+                ],
+                [
+                    5791,
+                    9680
+                ],
+                [
+                    4786,
+                    9680
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Universitatis Athenarum Bot an . Professor .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        }
+    ]
+}

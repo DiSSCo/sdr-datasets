@@ -1,0 +1,31 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6ebebd79-2a28-464f-b60a-aa47a864a586",
+        "name": "test"
+    },
+    "image": {
+        "id": "23bf6d25-c355-4a6b-be82-e5efbad563eb",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/18216e0d-10b6-4058-9d33-39b2e4eac755",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/18216e0d-10b6-4058-9d33-39b2e4eac755/full/full/0/default.jpg"
+    },
+    "named_entities": [
+        {
+            "tags": "Epping B-location_name\nForest I-location_name\nVIII B-date\n1936 I-date\nH B-person_name\n. I-person_name\nD I-person_name\n. I-person_name\nSmart I-person_name\n. O",
+            "worker_version_id": null
+        },
+        {
+            "tags": "Christie B-Collection/Donation\nColl I-Collection/Donation\n. I-Collection/Donation\nBMNH B-identifier\n( I-identifier\nE I-identifier\n) I-identifier\n2010 I-identifier\n- I-identifier\n62 I-identifier",
+            "worker_version_id": null
+        },
+        {
+            "tags": "NHMUK010609642 B-identifier",
+            "worker_version_id": null
+        }
+    ],
+    "page": {
+        "id": "b0c1f61d-ec2c-47c6-be4f-773bc4adf92a",
+        "name": "010609642_151528_1083481.2500x5792.jpeg",
+        "rotation_angle": 0
+    }
+}

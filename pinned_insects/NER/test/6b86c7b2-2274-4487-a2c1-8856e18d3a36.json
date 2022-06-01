@@ -1,0 +1,39 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6ebebd79-2a28-464f-b60a-aa47a864a586",
+        "name": "test"
+    },
+    "image": {
+        "id": "8b0efb45-93b7-46a2-8fc7-08e098d1caba",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/492fb0fc-dac4-4fe1-9e6f-b2fc9bbf32b4",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/492fb0fc-dac4-4fe1-9e6f-b2fc9bbf32b4/full/full/0/default.jpg"
+    },
+    "named_entities": [
+        {
+            "tags": "BMNH B-identifier\n( I-identifier\nE I-identifier\n) I-identifier\n# I-identifier\n526572 I-identifier",
+            "worker_version_id": null
+        },
+        {
+            "tags": "PARA B-type_status\n- I-type_status\nLECTO I-type_status\n- I-type_status\nTYPE I-type_status",
+            "worker_version_id": null
+        },
+        {
+            "tags": "NHMUK012499245 B-identifier",
+            "worker_version_id": null
+        },
+        {
+            "tags": "Brit B-identifier\n. I-identifier\nMus I-identifier\n. I-identifier\n1927 I-identifier\n- I-identifier\n113 I-identifier",
+            "worker_version_id": null
+        },
+        {
+            "tags": "Madagascar B-location_name\nFianarantsoa I-location_name\nPerrot I-location_name\nFr\u00e8res I-location_name\n2 B-date\ne I-date\nSemestre I-date\n1892 I-date",
+            "worker_version_id": null
+        }
+    ],
+    "page": {
+        "id": "6b86c7b2-2274-4487-a2c1-8856e18d3a36",
+        "name": "012499245_D_Heteropterus_disparilis_Oberthur_1916.2500x5792.jpeg",
+        "rotation_angle": 0
+    }
+}

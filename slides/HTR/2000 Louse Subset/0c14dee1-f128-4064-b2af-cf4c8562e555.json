@@ -1,0 +1,208 @@
+{
+    "dataset_id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+    "folder": {
+        "id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+        "name": "2000 Louse Subset"
+    },
+    "image": {
+        "id": "86fe6324-12e6-4cf0-9f95-1df762aa8135",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/56f2273a-36d6-4694-916c-b64d57beb04f",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/56f2273a-36d6-4694-916c-b64d57beb04f/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "0c14dee1-f128-4064-b2af-cf4c8562e555",
+        "name": "74",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    6729,
+                    288
+                ],
+                [
+                    6729,
+                    2822
+                ],
+                [
+                    7132,
+                    2822
+                ],
+                [
+                    7132,
+                    288
+                ],
+                [
+                    6729,
+                    288
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Anthus p. pratensis",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    3158,
+                    384
+                ],
+                [
+                    3158,
+                    518
+                ],
+                [
+                    3532,
+                    518
+                ],
+                [
+                    3532,
+                    384
+                ],
+                [
+                    3158,
+                    384
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    748,
+                    432
+                ],
+                [
+                    748,
+                    2774
+                ],
+                [
+                    1180,
+                    2774
+                ],
+                [
+                    1180,
+                    432
+                ],
+                [
+                    748,
+                    432
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Menacanthus",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    7257,
+                    345
+                ],
+                [
+                    7257,
+                    2755
+                ],
+                [
+                    7593,
+                    2755
+                ],
+                [
+                    7593,
+                    345
+                ],
+                [
+                    7257,
+                    345
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Ushant. Apr. 1947.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    3504,
+                    441
+                ],
+                [
+                    3504,
+                    873
+                ],
+                [
+                    3657,
+                    873
+                ],
+                [
+                    3657,
+                    441
+                ],
+                [
+                    3504,
+                    441
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "010659092",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6230,
+                    528
+                ],
+                [
+                    6230,
+                    2553
+                ],
+                [
+                    6499,
+                    2553
+                ],
+                [
+                    6499,
+                    528
+                ],
+                [
+                    6230,
+                    528
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "MEINERTZHAGEN",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    8131,
+                    547
+                ],
+                [
+                    8131,
+                    2592
+                ],
+                [
+                    8438,
+                    2592
+                ],
+                [
+                    8438,
+                    547
+                ],
+                [
+                    8131,
+                    547
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "16556. 16582.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        }
+    ]
+}

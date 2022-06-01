@@ -1,0 +1,1029 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "438d96cb-88a1-4786-a83a-08301ba7e92a",
+        "name": "BGBM"
+    },
+    "image": {
+        "id": "7b752814-0bb3-4183-822f-da37a3f46bd1",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FB_10_0069205.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FB_10_0069205.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "3a61e8ae-6cc6-491f-b2d2-b1849c9b7c10",
+        "name": "B_10_0069205",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    92,
+                    3029
+                ],
+                [
+                    101,
+                    3109
+                ],
+                [
+                    686,
+                    3061
+                ],
+                [
+                    684,
+                    2990
+                ],
+                [
+                    92,
+                    3029
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "WEBER 13 JUILLET 1910",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    47,
+                    3167
+                ],
+                [
+                    47,
+                    3234
+                ],
+                [
+                    267,
+                    3232
+                ],
+                [
+                    267,
+                    3167
+                ],
+                [
+                    47,
+                    3167
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "No 509.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    36,
+                    3259
+                ],
+                [
+                    38,
+                    3346
+                ],
+                [
+                    163,
+                    3325
+                ],
+                [
+                    163,
+                    3359
+                ],
+                [
+                    199,
+                    3352
+                ],
+                [
+                    234,
+                    3327
+                ],
+                [
+                    274,
+                    3315
+                ],
+                [
+                    259,
+                    3279
+                ],
+                [
+                    136,
+                    3286
+                ],
+                [
+                    134,
+                    3257
+                ],
+                [
+                    36,
+                    3259
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Comp.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    701,
+                    3150
+                ],
+                [
+                    701,
+                    3190
+                ],
+                [
+                    936,
+                    3190
+                ],
+                [
+                    936,
+                    3150
+                ],
+                [
+                    701,
+                    3150
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ex herbario",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    759,
+                    3192
+                ],
+                [
+                    759,
+                    3242
+                ],
+                [
+                    893,
+                    3242
+                ],
+                [
+                    893,
+                    3192
+                ],
+                [
+                    759,
+                    3192
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "musei",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    728,
+                    3238
+                ],
+                [
+                    728,
+                    3292
+                ],
+                [
+                    938,
+                    3292
+                ],
+                [
+                    938,
+                    3238
+                ],
+                [
+                    728,
+                    3238
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "parisiensis",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    361,
+                    3350
+                ],
+                [
+                    361,
+                    3425
+                ],
+                [
+                    1105,
+                    3415
+                ],
+                [
+                    1105,
+                    3350
+                ],
+                [
+                    795,
+                    3342
+                ],
+                [
+                    361,
+                    3350
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NICOLASIA QUINQUESETA",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    611,
+                    3434
+                ],
+                [
+                    615,
+                    3500
+                ],
+                [
+                    720,
+                    3500
+                ],
+                [
+                    724,
+                    3515
+                ],
+                [
+                    776,
+                    3515
+                ],
+                [
+                    778,
+                    3498
+                ],
+                [
+                    1061,
+                    3490
+                ],
+                [
+                    1068,
+                    3419
+                ],
+                [
+                    953,
+                    3427
+                ],
+                [
+                    851,
+                    3446
+                ],
+                [
+                    774,
+                    3442
+                ],
+                [
+                    757,
+                    3421
+                ],
+                [
+                    611,
+                    3434
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "O. Hoffm. ex Thell.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    474,
+                    3502
+                ],
+                [
+                    476,
+                    3580
+                ],
+                [
+                    1118,
+                    3573
+                ],
+                [
+                    1118,
+                    3500
+                ],
+                [
+                    793,
+                    3509
+                ],
+                [
+                    791,
+                    3525
+                ],
+                [
+                    713,
+                    3525
+                ],
+                [
+                    474,
+                    3502
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "det.: J.-P. VEBRUN, May 1995.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    38,
+                    3619
+                ],
+                [
+                    40,
+                    3692
+                ],
+                [
+                    526,
+                    3696
+                ],
+                [
+                    551,
+                    3634
+                ],
+                [
+                    534,
+                    3621
+                ],
+                [
+                    38,
+                    3619
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "15 Mai 1907.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    770,
+                    3878
+                ],
+                [
+                    770,
+                    3962
+                ],
+                [
+                    1010,
+                    3965
+                ],
+                [
+                    1022,
+                    3905
+                ],
+                [
+                    884,
+                    3875
+                ],
+                [
+                    770,
+                    3878
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Dinter.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    132,
+                    3999
+                ],
+                [
+                    139,
+                    4076
+                ],
+                [
+                    957,
+                    4069
+                ],
+                [
+                    944,
+                    3986
+                ],
+                [
+                    132,
+                    3999
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "DUP: B, G, K, MO, S, WAG",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    132,
+                    3999
+                ],
+                [
+                    139,
+                    4076
+                ],
+                [
+                    957,
+                    4069
+                ],
+                [
+                    944,
+                    3986
+                ],
+                [
+                    132,
+                    3999
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "DUP: B, G, K, 510, S, WAG",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    31,
+                    4151
+                ],
+                [
+                    31,
+                    4249
+                ],
+                [
+                    1004,
+                    4249
+                ],
+                [
+                    1004,
+                    4151
+                ],
+                [
+                    31,
+                    4151
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERBARIUM MUSEI PARISIENSIS",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    31,
+                    4268
+                ],
+                [
+                    31,
+                    4349
+                ],
+                [
+                    837,
+                    4343
+                ],
+                [
+                    837,
+                    4364
+                ],
+                [
+                    879,
+                    4366
+                ],
+                [
+                    900,
+                    4351
+                ],
+                [
+                    1073,
+                    4351
+                ],
+                [
+                    1060,
+                    4276
+                ],
+                [
+                    31,
+                    4268
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "DINTER 509. Gr. Baruren, 1300 m",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    64,
+                    4366
+                ],
+                [
+                    66,
+                    4449
+                ],
+                [
+                    802,
+                    4445
+                ],
+                [
+                    802,
+                    4357
+                ],
+                [
+                    64,
+                    4366
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NAMIBIE: 15 mai 1907",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    39,
+                    4575
+                ],
+                [
+                    45,
+                    4660
+                ],
+                [
+                    170,
+                    4652
+                ],
+                [
+                    162,
+                    4702
+                ],
+                [
+                    226,
+                    4687
+                ],
+                [
+                    226,
+                    4656
+                ],
+                [
+                    253,
+                    4654
+                ],
+                [
+                    251,
+                    4689
+                ],
+                [
+                    301,
+                    4679
+                ],
+                [
+                    307,
+                    4652
+                ],
+                [
+                    560,
+                    4648
+                ],
+                [
+                    720,
+                    4648
+                ],
+                [
+                    735,
+                    4681
+                ],
+                [
+                    766,
+                    4679
+                ],
+                [
+                    766,
+                    4660
+                ],
+                [
+                    847,
+                    4646
+                ],
+                [
+                    853,
+                    4671
+                ],
+                [
+                    883,
+                    4669
+                ],
+                [
+                    1045,
+                    4654
+                ],
+                [
+                    1051,
+                    4585
+                ],
+                [
+                    583,
+                    4573
+                ],
+                [
+                    39,
+                    4575
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Isosyntype de Nicolasia quinqueseta",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    470,
+                    4667
+                ],
+                [
+                    472,
+                    4729
+                ],
+                [
+                    578,
+                    4729
+                ],
+                [
+                    585,
+                    4754
+                ],
+                [
+                    639,
+                    4754
+                ],
+                [
+                    643,
+                    4729
+                ],
+                [
+                    962,
+                    4746
+                ],
+                [
+                    970,
+                    4677
+                ],
+                [
+                    889,
+                    4671
+                ],
+                [
+                    847,
+                    4673
+                ],
+                [
+                    824,
+                    4662
+                ],
+                [
+                    778,
+                    4679
+                ],
+                [
+                    730,
+                    4692
+                ],
+                [
+                    649,
+                    4679
+                ],
+                [
+                    645,
+                    4658
+                ],
+                [
+                    608,
+                    4652
+                ],
+                [
+                    545,
+                    4662
+                ],
+                [
+                    470,
+                    4667
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "O. Hoffm. ex Thell.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    34,
+                    4802
+                ],
+                [
+                    307,
+                    4821
+                ],
+                [
+                    307,
+                    4846
+                ],
+                [
+                    428,
+                    4837
+                ],
+                [
+                    437,
+                    4752
+                ],
+                [
+                    45,
+                    4704
+                ],
+                [
+                    34,
+                    4802
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "(non lectotype)",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    132,
+                    4925
+                ],
+                [
+                    943,
+                    4925
+                ],
+                [
+                    1035,
+                    4906
+                ],
+                [
+                    1037,
+                    4837
+                ],
+                [
+                    891,
+                    4823
+                ],
+                [
+                    701,
+                    4821
+                ],
+                [
+                    610,
+                    4844
+                ],
+                [
+                    424,
+                    4858
+                ],
+                [
+                    376,
+                    4846
+                ],
+                [
+                    280,
+                    4846
+                ],
+                [
+                    137,
+                    4846
+                ],
+                [
+                    132,
+                    4925
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "- Nicolasia nitens (o. Hoffm.) Leins",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1444,
+                    4605
+                ],
+                [
+                    1452,
+                    4693
+                ],
+                [
+                    1490,
+                    4705
+                ],
+                [
+                    1744,
+                    4703
+                ],
+                [
+                    1748,
+                    4609
+                ],
+                [
+                    1444,
+                    4605
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "TYPUS",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1190,
+                    4777
+                ],
+                [
+                    1497,
+                    4772
+                ],
+                [
+                    1503,
+                    4714
+                ],
+                [
+                    1478,
+                    4704
+                ],
+                [
+                    1430,
+                    4694
+                ],
+                [
+                    1403,
+                    4709
+                ],
+                [
+                    1356,
+                    4695
+                ],
+                [
+                    1338,
+                    4742
+                ],
+                [
+                    1316,
+                    4750
+                ],
+                [
+                    1311,
+                    4727
+                ],
+                [
+                    1213,
+                    4702
+                ],
+                [
+                    1190,
+                    4777
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "(non Lecto-)",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1213,
+                    4700
+                ],
+                [
+                    1315,
+                    4719
+                ],
+                [
+                    1318,
+                    4740
+                ],
+                [
+                    1336,
+                    4737
+                ],
+                [
+                    1350,
+                    4692
+                ],
+                [
+                    1381,
+                    4699
+                ],
+                [
+                    1393,
+                    4670
+                ],
+                [
+                    1341,
+                    4645
+                ],
+                [
+                    1343,
+                    4612
+                ],
+                [
+                    1216,
+                    4592
+                ],
+                [
+                    1213,
+                    4700
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "IsoSyn",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2652,
+                    4554
+                ],
+                [
+                    2656,
+                    4629
+                ],
+                [
+                    3018,
+                    4643
+                ],
+                [
+                    3018,
+                    4570
+                ],
+                [
+                    2652,
+                    4554
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "IMAGE 2017",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2502,
+                    4779
+                ],
+                [
+                    2504,
+                    4835
+                ],
+                [
+                    2854,
+                    4837
+                ],
+                [
+                    2854,
+                    4777
+                ],
+                [
+                    2502,
+                    4779
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Mus. Bot. Berol.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2566,
+                    4906
+                ],
+                [
+                    2566,
+                    4945
+                ],
+                [
+                    2802,
+                    4948
+                ],
+                [
+                    2789,
+                    4904
+                ],
+                [
+                    2566,
+                    4906
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "B 10 0069205",
+            "worker_version": null
+        }
+    ]
+}

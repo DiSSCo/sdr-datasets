@@ -1,0 +1,289 @@
+{
+    "dataset_id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+    "folder": {
+        "id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+        "name": "2000 Louse Subset"
+    },
+    "image": {
+        "id": "75ba0500-a190-4d1d-a51a-c7a038f6c6a2",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/b8a37e06-5bb3-4928-84b1-cf4c0fe89012",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/b8a37e06-5bb3-4928-84b1-cf4c0fe89012/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "062688bd-75d9-4257-a73f-bdf55a6f3169",
+        "name": "29",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    6678,
+                    283
+                ],
+                [
+                    6678,
+                    2794
+                ],
+                [
+                    7047,
+                    2794
+                ],
+                [
+                    7047,
+                    283
+                ],
+                [
+                    6678,
+                    283
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Arenaria i. interpres.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    479,
+                    151
+                ],
+                [
+                    479,
+                    2742
+                ],
+                [
+                    1059,
+                    2742
+                ],
+                [
+                    1059,
+                    151
+                ],
+                [
+                    479,
+                    151
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Actornithophilus",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    5302,
+                    264
+                ],
+                [
+                    5302,
+                    390
+                ],
+                [
+                    5676,
+                    390
+                ],
+                [
+                    5676,
+                    264
+                ],
+                [
+                    5302,
+                    264
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    7126,
+                    327
+                ],
+                [
+                    7126,
+                    2777
+                ],
+                [
+                    7565,
+                    2777
+                ],
+                [
+                    7565,
+                    327
+                ],
+                [
+                    7126,
+                    327
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Arran. Scotland.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    1305,
+                    775
+                ],
+                [
+                    1305,
+                    2715
+                ],
+                [
+                    1910,
+                    2715
+                ],
+                [
+                    1910,
+                    775
+                ],
+                [
+                    1305,
+                    775
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "bicolor",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    5667,
+                    340
+                ],
+                [
+                    5667,
+                    791
+                ],
+                [
+                    5784,
+                    791
+                ],
+                [
+                    5784,
+                    340
+                ],
+                [
+                    5667,
+                    340
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "010649764",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6239,
+                    424
+                ],
+                [
+                    6239,
+                    2513
+                ],
+                [
+                    6564,
+                    2513
+                ],
+                [
+                    6564,
+                    424
+                ],
+                [
+                    6239,
+                    424
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "MEINERTZHAGEN",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    927,
+                    1460
+                ],
+                [
+                    927,
+                    2742
+                ],
+                [
+                    1340,
+                    2742
+                ],
+                [
+                    1340,
+                    1460
+                ],
+                [
+                    927,
+                    1460
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "(Piaget)",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    7547,
+                    599
+                ],
+                [
+                    7547,
+                    2513
+                ],
+                [
+                    7960,
+                    2513
+                ],
+                [
+                    7960,
+                    599
+                ],
+                [
+                    7547,
+                    599
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Oct. 1943.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    8206,
+                    959
+                ],
+                [
+                    8206,
+                    2065
+                ],
+                [
+                    8566,
+                    2065
+                ],
+                [
+                    8566,
+                    959
+                ],
+                [
+                    8206,
+                    959
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "14879.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        }
+    ]
+}

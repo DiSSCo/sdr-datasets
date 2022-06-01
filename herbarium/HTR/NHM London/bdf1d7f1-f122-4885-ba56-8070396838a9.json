@@ -1,0 +1,937 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "01461701-dd48-4a27-ab96-27ee9853e15d",
+        "name": "NHM London"
+    },
+    "image": {
+        "id": "79fe84f8-b0b6-40c2-b954-d2fb4153e7c6",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FBM000810206.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FBM000810206.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "bdf1d7f1-f122-4885-ba56-8070396838a9",
+        "name": "BM000810206",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    180,
+                    1234
+                ],
+                [
+                    181,
+                    1260
+                ],
+                [
+                    512,
+                    1291
+                ],
+                [
+                    516,
+                    1268
+                ],
+                [
+                    180,
+                    1234
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "THE NATURAL HISTORY MUSEUM, LONDON",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    233,
+                    1266
+                ],
+                [
+                    234,
+                    1288
+                ],
+                [
+                    442,
+                    1309
+                ],
+                [
+                    448,
+                    1286
+                ],
+                [
+                    233,
+                    1266
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "DEPARTMENT OF BOTANY",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    245,
+                    1388
+                ],
+                [
+                    426,
+                    1409
+                ],
+                [
+                    426,
+                    1375
+                ],
+                [
+                    252,
+                    1359
+                ],
+                [
+                    245,
+                    1388
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BM000810206",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    751,
+                    1081
+                ],
+                [
+                    751,
+                    1228
+                ],
+                [
+                    1715,
+                    1228
+                ],
+                [
+                    1715,
+                    1081
+                ],
+                [
+                    751,
+                    1081
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Hypericum japonicum Thunb.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    865,
+                    1237
+                ],
+                [
+                    865,
+                    1281
+                ],
+                [
+                    1174,
+                    1281
+                ],
+                [
+                    1174,
+                    1237
+                ],
+                [
+                    865,
+                    1237
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Ad lacum Rotorua",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    796,
+                    1336
+                ],
+                [
+                    796,
+                    1394
+                ],
+                [
+                    1037,
+                    1394
+                ],
+                [
+                    1037,
+                    1336
+                ],
+                [
+                    796,
+                    1336
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Januario 1875.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1196,
+                    1308
+                ],
+                [
+                    1196,
+                    1350
+                ],
+                [
+                    1653,
+                    1350
+                ],
+                [
+                    1653,
+                    1308
+                ],
+                [
+                    1196,
+                    1308
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Ins. boreal. Novae Zelandiae.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1351,
+                    1388
+                ],
+                [
+                    1351,
+                    1436
+                ],
+                [
+                    1587,
+                    1436
+                ],
+                [
+                    1587,
+                    1388
+                ],
+                [
+                    1351,
+                    1388
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "S. Berggren.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1725,
+                    1555
+                ],
+                [
+                    1725,
+                    1610
+                ],
+                [
+                    2119,
+                    1610
+                ],
+                [
+                    2119,
+                    1555
+                ],
+                [
+                    1725,
+                    1555
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Hypericum japonicum",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1988,
+                    1611
+                ],
+                [
+                    1988,
+                    1663
+                ],
+                [
+                    2317,
+                    1663
+                ],
+                [
+                    2317,
+                    1611
+                ],
+                [
+                    1988,
+                    1611
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Thunb. ex. Murray",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1731,
+                    1666
+                ],
+                [
+                    1731,
+                    1726
+                ],
+                [
+                    2110,
+                    1726
+                ],
+                [
+                    2110,
+                    1666
+                ],
+                [
+                    1731,
+                    1666
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Det. N. K. B. ROBSON",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2246,
+                    1682
+                ],
+                [
+                    2246,
+                    1737
+                ],
+                [
+                    2363,
+                    1737
+                ],
+                [
+                    2363,
+                    1682
+                ],
+                [
+                    2246,
+                    1682
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "1972",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1277,
+                    2401
+                ],
+                [
+                    1277,
+                    2456
+                ],
+                [
+                    1654,
+                    2456
+                ],
+                [
+                    1654,
+                    2401
+                ],
+                [
+                    1277,
+                    2401
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Hypericum japonicum",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1531,
+                    2456
+                ],
+                [
+                    1531,
+                    2504
+                ],
+                [
+                    1853,
+                    2504
+                ],
+                [
+                    1853,
+                    2456
+                ],
+                [
+                    1531,
+                    2456
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Thunb. ex Murray",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1792,
+                    2518
+                ],
+                [
+                    1792,
+                    2582
+                ],
+                [
+                    1910,
+                    2582
+                ],
+                [
+                    1910,
+                    2518
+                ],
+                [
+                    1792,
+                    2518
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "1972",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1277,
+                    2512
+                ],
+                [
+                    1277,
+                    2567
+                ],
+                [
+                    1665,
+                    2567
+                ],
+                [
+                    1665,
+                    2512
+                ],
+                [
+                    1277,
+                    2512
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Det. N. K. B. ROBSON",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1203,
+                    2669
+                ],
+                [
+                    1203,
+                    2696
+                ],
+                [
+                    1534,
+                    2696
+                ],
+                [
+                    1534,
+                    2669
+                ],
+                [
+                    1203,
+                    2669
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "THE NATURAL HISTORY MUSEUM, LONDON",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1255,
+                    2696
+                ],
+                [
+                    1255,
+                    2719
+                ],
+                [
+                    1474,
+                    2719
+                ],
+                [
+                    1474,
+                    2696
+                ],
+                [
+                    1255,
+                    2696
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "DEPARTMENT OF BOTANY",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1277,
+                    2790
+                ],
+                [
+                    1277,
+                    2815
+                ],
+                [
+                    1466,
+                    2815
+                ],
+                [
+                    1466,
+                    2790
+                ],
+                [
+                    1277,
+                    2790
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BM000810205",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    364,
+                    3086
+                ],
+                [
+                    364,
+                    3142
+                ],
+                [
+                    1071,
+                    3142
+                ],
+                [
+                    1071,
+                    3086
+                ],
+                [
+                    364,
+                    3086
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "JOSEPHINE E. TILDEN. South Pacific Plants.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    69,
+                    3165
+                ],
+                [
+                    69,
+                    3262
+                ],
+                [
+                    1335,
+                    3262
+                ],
+                [
+                    1335,
+                    3165
+                ],
+                [
+                    69,
+                    3165
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "150. Hypericum japonicum Thunb.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    330,
+                    3264
+                ],
+                [
+                    330,
+                    3352
+                ],
+                [
+                    1423,
+                    3352
+                ],
+                [
+                    1423,
+                    3264
+                ],
+                [
+                    330,
+                    3264
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "muddy stream from Fairy spring",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    512,
+                    3360
+                ],
+                [
+                    512,
+                    3465
+                ],
+                [
+                    1060,
+                    3465
+                ],
+                [
+                    1060,
+                    3360
+                ],
+                [
+                    512,
+                    3360
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Rotorua, N. Z.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    373,
+                    3538
+                ],
+                [
+                    373,
+                    3626
+                ],
+                [
+                    1343,
+                    3626
+                ],
+                [
+                    1343,
+                    3538
+                ],
+                [
+                    373,
+                    3538
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Chase, Leland and Tilden",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    776,
+                    3652
+                ],
+                [
+                    776,
+                    3722
+                ],
+                [
+                    1290,
+                    3722
+                ],
+                [
+                    1290,
+                    3652
+                ],
+                [
+                    776,
+                    3652
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "November 1909",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1236,
+                    3370
+                ],
+                [
+                    1236,
+                    3394
+                ],
+                [
+                    1575,
+                    3394
+                ],
+                [
+                    1575,
+                    3370
+                ],
+                [
+                    1236,
+                    3370
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "THE NATURAL HISTORY MUSEUM, LONDON",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1294,
+                    3395
+                ],
+                [
+                    1294,
+                    3413
+                ],
+                [
+                    1509,
+                    3413
+                ],
+                [
+                    1509,
+                    3395
+                ],
+                [
+                    1294,
+                    3395
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "DEPARTMENT OF BOTANY",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1313,
+                    3485
+                ],
+                [
+                    1313,
+                    3521
+                ],
+                [
+                    1507,
+                    3521
+                ],
+                [
+                    1507,
+                    3485
+                ],
+                [
+                    1313,
+                    3485
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BM000810207",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1553,
+                    3582
+                ],
+                [
+                    1553,
+                    3639
+                ],
+                [
+                    1932,
+                    3639
+                ],
+                [
+                    1932,
+                    3582
+                ],
+                [
+                    1553,
+                    3582
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Hypericum japonicum",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1810,
+                    3640
+                ],
+                [
+                    1810,
+                    3686
+                ],
+                [
+                    2139,
+                    3686
+                ],
+                [
+                    2139,
+                    3640
+                ],
+                [
+                    1810,
+                    3640
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Thunb. ex Murray",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1538,
+                    3697
+                ],
+                [
+                    1538,
+                    3757
+                ],
+                [
+                    1942,
+                    3757
+                ],
+                [
+                    1942,
+                    3697
+                ],
+                [
+                    1538,
+                    3697
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Det. N. K. B. ROBSON",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2067,
+                    3694
+                ],
+                [
+                    2067,
+                    3768
+                ],
+                [
+                    2201,
+                    3768
+                ],
+                [
+                    2201,
+                    3694
+                ],
+                [
+                    2067,
+                    3694
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "1972",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    826,
+                    3820
+                ],
+                [
+                    826,
+                    3931
+                ],
+                [
+                    1681,
+                    3931
+                ],
+                [
+                    1681,
+                    3820
+                ],
+                [
+                    826,
+                    3820
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Hypericum japonicum Thb.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2353,
+                    3816
+                ],
+                [
+                    2353,
+                    3937
+                ],
+                [
+                    2470,
+                    3937
+                ],
+                [
+                    2470,
+                    3816
+                ],
+                [
+                    2353,
+                    3816
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "57",
+            "worker_version": null
+        }
+    ]
+}

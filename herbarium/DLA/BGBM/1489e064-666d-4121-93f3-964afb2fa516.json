@@ -1,0 +1,47 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "438d96cb-88a1-4786-a83a-08301ba7e92a",
+        "name": "BGBM"
+    },
+    "image": {
+        "id": "483aa438-1a51-4f5a-9d5b-999a6f86e744",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FB_10_0002521.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FB_10_0002521.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "1489e064-666d-4121-93f3-964afb2fa516",
+        "name": "B_10_0002521",
+        "rotation_angle": 0
+    },
+    "polygons": {
+        "text_line": [
+            [
+                [
+                    796,
+                    4317
+                ],
+                [
+                    899,
+                    4319
+                ],
+                [
+                    899,
+                    4265
+                ],
+                [
+                    806,
+                    4270
+                ],
+                [
+                    798,
+                    4270
+                ],
+                [
+                    796,
+                    4317
+                ]
+            ]
+        ]
+    }
+}

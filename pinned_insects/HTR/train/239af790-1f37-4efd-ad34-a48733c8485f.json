@@ -1,0 +1,127 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "8935d0b0-cde6-4632-9d00-c18fa59d063a",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/d53bbd7b-dbfa-468a-9c3a-9eab62e90017",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/d53bbd7b-dbfa-468a-9c3a-9eab62e90017/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "239af790-1f37-4efd-ad34-a48733c8485f",
+        "name": "010620380_136854_1083188.2500x5792.jpeg",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    1760,
+                    793
+                ],
+                [
+                    1760,
+                    854
+                ],
+                [
+                    2203,
+                    858
+                ],
+                [
+                    2199,
+                    789
+                ],
+                [
+                    1760,
+                    793
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Folkestone",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1850,
+                    862
+                ],
+                [
+                    1852,
+                    916
+                ],
+                [
+                    2054,
+                    921
+                ],
+                [
+                    2054,
+                    864
+                ],
+                [
+                    1850,
+                    862
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "1890.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1732,
+                    916
+                ],
+                [
+                    1737,
+                    982
+                ],
+                [
+                    2240,
+                    976
+                ],
+                [
+                    2238,
+                    913
+                ],
+                [
+                    1732,
+                    916
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "(Purdey Coll).",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1765,
+                    1391
+                ],
+                [
+                    1765,
+                    1456
+                ],
+                [
+                    2387,
+                    1460
+                ],
+                [
+                    2387,
+                    1378
+                ],
+                [
+                    1765,
+                    1391
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK010620380",
+            "worker_version": null
+        }
+    ]
+}

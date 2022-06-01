@@ -1,0 +1,2524 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "01461701-dd48-4a27-ab96-27ee9853e15d",
+        "name": "NHM London"
+    },
+    "image": {
+        "id": "2e3903bd-12dc-41a6-9ef1-a678b18f57a5",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FBM000521755.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FBM000521755.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "d0c12323-c430-4a9b-860d-563c46319e58",
+        "name": "BM000521755",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    37,
+                    10
+                ],
+                [
+                    37,
+                    23
+                ],
+                [
+                    271,
+                    23
+                ],
+                [
+                    271,
+                    10
+                ],
+                [
+                    37,
+                    10
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "THE NATURAL HISTORY MUSEUM, LONDON",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    37,
+                    10
+                ],
+                [
+                    37,
+                    23
+                ],
+                [
+                    271,
+                    23
+                ],
+                [
+                    271,
+                    10
+                ],
+                [
+                    37,
+                    10
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "THE NATURAL HISTORY MUSEUM, LONDON",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    37,
+                    10
+                ],
+                [
+                    37,
+                    23
+                ],
+                [
+                    271,
+                    23
+                ],
+                [
+                    271,
+                    10
+                ],
+                [
+                    37,
+                    10
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "THE NATURAL HISTORY MUSEUM , LONDON",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    82,
+                    25
+                ],
+                [
+                    82,
+                    36
+                ],
+                [
+                    226,
+                    36
+                ],
+                [
+                    226,
+                    25
+                ],
+                [
+                    82,
+                    25
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "DEPARTMENT OF BOTANY",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    82,
+                    25
+                ],
+                [
+                    82,
+                    36
+                ],
+                [
+                    226,
+                    36
+                ],
+                [
+                    226,
+                    25
+                ],
+                [
+                    82,
+                    25
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "DEPARTMENT OF BOTANY",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    82,
+                    25
+                ],
+                [
+                    82,
+                    36
+                ],
+                [
+                    226,
+                    36
+                ],
+                [
+                    226,
+                    25
+                ],
+                [
+                    82,
+                    25
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "DEPARTMENT OF BOTANY",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    73,
+                    75
+                ],
+                [
+                    73,
+                    91
+                ],
+                [
+                    237,
+                    91
+                ],
+                [
+                    237,
+                    75
+                ],
+                [
+                    73,
+                    75
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "000521755 (BM)",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    73,
+                    75
+                ],
+                [
+                    73,
+                    91
+                ],
+                [
+                    237,
+                    91
+                ],
+                [
+                    237,
+                    75
+                ],
+                [
+                    73,
+                    75
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "000521755 (BM)",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    73,
+                    75
+                ],
+                [
+                    73,
+                    91
+                ],
+                [
+                    237,
+                    91
+                ],
+                [
+                    237,
+                    75
+                ],
+                [
+                    73,
+                    75
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "000521755 ( BM )",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    839,
+                    1512
+                ],
+                [
+                    839,
+                    1535
+                ],
+                [
+                    1022,
+                    1535
+                ],
+                [
+                    1022,
+                    1512
+                ],
+                [
+                    839,
+                    1512
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "TYPE SPECIMEN",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    839,
+                    1512
+                ],
+                [
+                    839,
+                    1535
+                ],
+                [
+                    1022,
+                    1535
+                ],
+                [
+                    1022,
+                    1512
+                ],
+                [
+                    839,
+                    1512
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "TYPE SPECIMEN",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    839,
+                    1512
+                ],
+                [
+                    839,
+                    1535
+                ],
+                [
+                    1022,
+                    1535
+                ],
+                [
+                    1022,
+                    1512
+                ],
+                [
+                    839,
+                    1512
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "TYPE SPECIMEN",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    901,
+                    1547
+                ],
+                [
+                    901,
+                    1567
+                ],
+                [
+                    930,
+                    1567
+                ],
+                [
+                    930,
+                    1547
+                ],
+                [
+                    901,
+                    1547
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "of",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    901,
+                    1547
+                ],
+                [
+                    901,
+                    1567
+                ],
+                [
+                    930,
+                    1567
+                ],
+                [
+                    930,
+                    1547
+                ],
+                [
+                    901,
+                    1547
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "of",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    901,
+                    1547
+                ],
+                [
+                    901,
+                    1567
+                ],
+                [
+                    930,
+                    1567
+                ],
+                [
+                    930,
+                    1547
+                ],
+                [
+                    901,
+                    1547
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "of",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    758,
+                    1578
+                ],
+                [
+                    758,
+                    1605
+                ],
+                [
+                    1102,
+                    1605
+                ],
+                [
+                    1102,
+                    1578
+                ],
+                [
+                    758,
+                    1578
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Poa alpigena subsp.staintonii",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    758,
+                    1578
+                ],
+                [
+                    758,
+                    1605
+                ],
+                [
+                    1102,
+                    1605
+                ],
+                [
+                    1102,
+                    1578
+                ],
+                [
+                    758,
+                    1578
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Poa alpigena subsp. staintonii",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    758,
+                    1578
+                ],
+                [
+                    758,
+                    1605
+                ],
+                [
+                    1102,
+                    1605
+                ],
+                [
+                    1102,
+                    1578
+                ],
+                [
+                    758,
+                    1578
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Poa alpigena subsp . staintonii",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1014,
+                    1609
+                ],
+                [
+                    1014,
+                    1633
+                ],
+                [
+                    1114,
+                    1633
+                ],
+                [
+                    1114,
+                    1609
+                ],
+                [
+                    1014,
+                    1609
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Melderis",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    1014,
+                    1609
+                ],
+                [
+                    1014,
+                    1633
+                ],
+                [
+                    1114,
+                    1633
+                ],
+                [
+                    1114,
+                    1609
+                ],
+                [
+                    1014,
+                    1609
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Melderis",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1014,
+                    1609
+                ],
+                [
+                    1014,
+                    1633
+                ],
+                [
+                    1114,
+                    1633
+                ],
+                [
+                    1114,
+                    1609
+                ],
+                [
+                    1014,
+                    1609
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Melderis",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1043,
+                    1952
+                ],
+                [
+                    1043,
+                    1978
+                ],
+                [
+                    1224,
+                    1978
+                ],
+                [
+                    1224,
+                    1952
+                ],
+                [
+                    1043,
+                    1952
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "FLORA OF NEPAL",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    1043,
+                    1952
+                ],
+                [
+                    1043,
+                    1978
+                ],
+                [
+                    1224,
+                    1978
+                ],
+                [
+                    1224,
+                    1952
+                ],
+                [
+                    1043,
+                    1952
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "FLORA OF NEPAL",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1043,
+                    1952
+                ],
+                [
+                    1043,
+                    1978
+                ],
+                [
+                    1224,
+                    1978
+                ],
+                [
+                    1224,
+                    1952
+                ],
+                [
+                    1043,
+                    1952
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "FLORA OF NEPAL",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    962,
+                    1989
+                ],
+                [
+                    962,
+                    2015
+                ],
+                [
+                    1049,
+                    2015
+                ],
+                [
+                    1049,
+                    1989
+                ],
+                [
+                    962,
+                    1989
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Poa sp.",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    962,
+                    1989
+                ],
+                [
+                    962,
+                    2015
+                ],
+                [
+                    1049,
+                    2015
+                ],
+                [
+                    1049,
+                    1989
+                ],
+                [
+                    962,
+                    1989
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Poa sp.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    962,
+                    1989
+                ],
+                [
+                    962,
+                    2015
+                ],
+                [
+                    1049,
+                    2015
+                ],
+                [
+                    1049,
+                    1989
+                ],
+                [
+                    962,
+                    1989
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Poa sp .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    893,
+                    2024
+                ],
+                [
+                    893,
+                    2053
+                ],
+                [
+                    1227,
+                    2053
+                ],
+                [
+                    1227,
+                    2024
+                ],
+                [
+                    893,
+                    2024
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Alpine meadow, among stones,",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    893,
+                    2024
+                ],
+                [
+                    893,
+                    2053
+                ],
+                [
+                    1227,
+                    2053
+                ],
+                [
+                    1227,
+                    2024
+                ],
+                [
+                    893,
+                    2024
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Alpine meadow, among stones,",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    893,
+                    2024
+                ],
+                [
+                    893,
+                    2053
+                ],
+                [
+                    1227,
+                    2053
+                ],
+                [
+                    1227,
+                    2024
+                ],
+                [
+                    893,
+                    2024
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Alpine meadow , among stones ,",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    893,
+                    2060
+                ],
+                [
+                    893,
+                    2087
+                ],
+                [
+                    1156,
+                    2087
+                ],
+                [
+                    1156,
+                    2060
+                ],
+                [
+                    893,
+                    2060
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Basta Basia/Banjang.",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    893,
+                    2060
+                ],
+                [
+                    893,
+                    2087
+                ],
+                [
+                    1156,
+                    2087
+                ],
+                [
+                    1156,
+                    2060
+                ],
+                [
+                    893,
+                    2060
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Basta  (Basia?) Banjang.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    893,
+                    2060
+                ],
+                [
+                    893,
+                    2087
+                ],
+                [
+                    1156,
+                    2087
+                ],
+                [
+                    1156,
+                    2060
+                ],
+                [
+                    893,
+                    2060
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Basta Basia / Banjang .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    857,
+                    2129
+                ],
+                [
+                    857,
+                    2151
+                ],
+                [
+                    967,
+                    2151
+                ],
+                [
+                    967,
+                    2129
+                ],
+                [
+                    857,
+                    2129
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Alt.: 4600 m.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    857,
+                    2129
+                ],
+                [
+                    857,
+                    2151
+                ],
+                [
+                    967,
+                    2151
+                ],
+                [
+                    967,
+                    2129
+                ],
+                [
+                    857,
+                    2129
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Alt . : 4600 m .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    986,
+                    2131
+                ],
+                [
+                    986,
+                    2155
+                ],
+                [
+                    1094,
+                    2155
+                ],
+                [
+                    1094,
+                    2131
+                ],
+                [
+                    986,
+                    2131
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "No. 2769.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    986,
+                    2131
+                ],
+                [
+                    986,
+                    2155
+                ],
+                [
+                    1094,
+                    2155
+                ],
+                [
+                    1094,
+                    2131
+                ],
+                [
+                    986,
+                    2131
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "No . 2769 . .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1179,
+                    2128
+                ],
+                [
+                    1179,
+                    2160
+                ],
+                [
+                    1408,
+                    2160
+                ],
+                [
+                    1408,
+                    2128
+                ],
+                [
+                    1179,
+                    2128
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "6th August / 1973",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1179,
+                    2128
+                ],
+                [
+                    1179,
+                    2160
+                ],
+                [
+                    1408,
+                    2160
+                ],
+                [
+                    1408,
+                    2128
+                ],
+                [
+                    1179,
+                    2128
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": ". 6th August . . . . 1973",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    856,
+                    2167
+                ],
+                [
+                    856,
+                    2199
+                ],
+                [
+                    1217,
+                    2199
+                ],
+                [
+                    1217,
+                    2167
+                ],
+                [
+                    856,
+                    2167
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Leg.: S. Einarsson, L. Sk\u00e4rby, B. Wetterhall Det.:.",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    856,
+                    2167
+                ],
+                [
+                    856,
+                    2199
+                ],
+                [
+                    1217,
+                    2199
+                ],
+                [
+                    1217,
+                    2167
+                ],
+                [
+                    856,
+                    2167
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Leg.: S. Einarsson, L. Sk\u00e4rby, B. Wetterhall",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    856,
+                    2167
+                ],
+                [
+                    856,
+                    2199
+                ],
+                [
+                    1217,
+                    2199
+                ],
+                [
+                    1217,
+                    2167
+                ],
+                [
+                    856,
+                    2167
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Leg . : S . Einarsson , L . Sk\u00e4rby , B . Wetterhall",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1264,
+                    2171
+                ],
+                [
+                    1264,
+                    2199
+                ],
+                [
+                    1316,
+                    2199
+                ],
+                [
+                    1316,
+                    2171
+                ],
+                [
+                    1264,
+                    2171
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Det.:",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1264,
+                    2171
+                ],
+                [
+                    1264,
+                    2199
+                ],
+                [
+                    1316,
+                    2199
+                ],
+                [
+                    1316,
+                    2171
+                ],
+                [
+                    1264,
+                    2171
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Det . : .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    687,
+                    2264
+                ],
+                [
+                    687,
+                    2303
+                ],
+                [
+                    1155,
+                    2303
+                ],
+                [
+                    1155,
+                    2264
+                ],
+                [
+                    687,
+                    2264
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "P. alpigena subsp. staintoni",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    687,
+                    2264
+                ],
+                [
+                    687,
+                    2303
+                ],
+                [
+                    1155,
+                    2303
+                ],
+                [
+                    1155,
+                    2264
+                ],
+                [
+                    687,
+                    2264
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "P. alpigena subsp. staintonii",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    687,
+                    2264
+                ],
+                [
+                    687,
+                    2303
+                ],
+                [
+                    1155,
+                    2303
+                ],
+                [
+                    1155,
+                    2264
+                ],
+                [
+                    687,
+                    2264
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "P . alpigrova subsp . staintoni",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1154,
+                    2312
+                ],
+                [
+                    1154,
+                    2343
+                ],
+                [
+                    1304,
+                    2343
+                ],
+                [
+                    1304,
+                    2312
+                ],
+                [
+                    1154,
+                    2312
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "(Holotype)",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1154,
+                    2312
+                ],
+                [
+                    1154,
+                    2343
+                ],
+                [
+                    1304,
+                    2343
+                ],
+                [
+                    1304,
+                    2312
+                ],
+                [
+                    1154,
+                    2312
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "( Holotype )",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    158,
+                    2236
+                ],
+                [
+                    158,
+                    2261
+                ],
+                [
+                    467,
+                    2261
+                ],
+                [
+                    467,
+                    2236
+                ],
+                [
+                    158,
+                    2236
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Poa pratensis subsp. alpigena (Blytt) Hitt.",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    158,
+                    2236
+                ],
+                [
+                    158,
+                    2261
+                ],
+                [
+                    467,
+                    2261
+                ],
+                [
+                    467,
+                    2236
+                ],
+                [
+                    158,
+                    2236
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Poa pratensis subsp. alpigena (Blytt) Hitt.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    158,
+                    2236
+                ],
+                [
+                    158,
+                    2261
+                ],
+                [
+                    467,
+                    2261
+                ],
+                [
+                    467,
+                    2236
+                ],
+                [
+                    158,
+                    2236
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Poa pratensis subsp . alpigena ( Blytt ) Hitt .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    120,
+                    2261
+                ],
+                [
+                    120,
+                    2282
+                ],
+                [
+                    504,
+                    2282
+                ],
+                [
+                    504,
+                    2261
+                ],
+                [
+                    120,
+                    2261
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "[Holotype of Poa alpigena subsp. staintonii Melderis,",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    120,
+                    2261
+                ],
+                [
+                    120,
+                    2282
+                ],
+                [
+                    504,
+                    2282
+                ],
+                [
+                    504,
+                    2261
+                ],
+                [
+                    120,
+                    2261
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "[Holotype of Poa alpigena subsp. staintonii Melderis,",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    120,
+                    2261
+                ],
+                [
+                    120,
+                    2282
+                ],
+                [
+                    504,
+                    2282
+                ],
+                [
+                    504,
+                    2261
+                ],
+                [
+                    120,
+                    2261
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "[ Holotype of Poa alpigena subsp . staintonii Melderis ,",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    118,
+                    2282
+                ],
+                [
+                    118,
+                    2303
+                ],
+                [
+                    504,
+                    2303
+                ],
+                [
+                    504,
+                    2282
+                ],
+                [
+                    118,
+                    2282
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "in H. Hara et al., Enum. Flow. Pl. Nep. 1: 142 (1978)].",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    118,
+                    2282
+                ],
+                [
+                    118,
+                    2303
+                ],
+                [
+                    504,
+                    2303
+                ],
+                [
+                    504,
+                    2282
+                ],
+                [
+                    118,
+                    2282
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "in H. Hara et al., Enum. Flow. Pl. Nep. 1:142 (1978)].",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    118,
+                    2282
+                ],
+                [
+                    118,
+                    2303
+                ],
+                [
+                    504,
+                    2303
+                ],
+                [
+                    504,
+                    2282
+                ],
+                [
+                    118,
+                    2282
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "in H . Hara et al . , Enum . Flow . Pl . Nep . 1 : 142 ( 1978 ) ] .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    146,
+                    2320
+                ],
+                [
+                    146,
+                    2342
+                ],
+                [
+                    475,
+                    2342
+                ],
+                [
+                    475,
+                    2320
+                ],
+                [
+                    146,
+                    2320
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Det. KK Shrestha & DM Bajracharya 15.6.99",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    146,
+                    2320
+                ],
+                [
+                    146,
+                    2342
+                ],
+                [
+                    475,
+                    2342
+                ],
+                [
+                    475,
+                    2320
+                ],
+                [
+                    146,
+                    2320
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Det. KK Shrestha & DM Bajracharya 15.6.99",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    146,
+                    2320
+                ],
+                [
+                    146,
+                    2342
+                ],
+                [
+                    475,
+                    2342
+                ],
+                [
+                    475,
+                    2320
+                ],
+                [
+                    146,
+                    2320
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Det . KK Shrestha & DM Bajracharya 15 . 6 . 99",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    52,
+                    1730
+                ],
+                [
+                    52,
+                    2029
+                ],
+                [
+                    77,
+                    2029
+                ],
+                [
+                    77,
+                    1730
+                ],
+                [
+                    52,
+                    1730
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "US NATIONAL HERBARIUM (US)",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    52,
+                    1730
+                ],
+                [
+                    52,
+                    2029
+                ],
+                [
+                    77,
+                    2029
+                ],
+                [
+                    77,
+                    1730
+                ],
+                [
+                    52,
+                    1730
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "US NATIONAL HERBARIUM (US)",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    52,
+                    1730
+                ],
+                [
+                    52,
+                    2029
+                ],
+                [
+                    77,
+                    2029
+                ],
+                [
+                    77,
+                    1730
+                ],
+                [
+                    52,
+                    1730
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "US NATIONAL HERBARIUM ( US )",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    100,
+                    2030
+                ],
+                [
+                    117,
+                    2033
+                ],
+                [
+                    122,
+                    1751
+                ],
+                [
+                    121,
+                    1574
+                ],
+                [
+                    101,
+                    1573
+                ],
+                [
+                    100,
+                    2030
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HoloTYPUS: Poa alpigena subsp. staintonii Melderis",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    100,
+                    2030
+                ],
+                [
+                    117,
+                    2033
+                ],
+                [
+                    122,
+                    1751
+                ],
+                [
+                    121,
+                    1574
+                ],
+                [
+                    101,
+                    1573
+                ],
+                [
+                    100,
+                    2030
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HoloTYPUS: Poa alpigena subsp. stantonii Melderis",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    100,
+                    2030
+                ],
+                [
+                    117,
+                    2033
+                ],
+                [
+                    122,
+                    1751
+                ],
+                [
+                    121,
+                    1574
+                ],
+                [
+                    101,
+                    1573
+                ],
+                [
+                    100,
+                    2030
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HoloTYPUS : Poa alpigena subsp . staintonii Melderis",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    124,
+                    2028
+                ],
+                [
+                    141,
+                    2030
+                ],
+                [
+                    146,
+                    1742
+                ],
+                [
+                    126,
+                    1743
+                ],
+                [
+                    124,
+                    2028
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "1: 142. 1978. (Enum. Fl. Pl. Nepal)",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    124,
+                    2028
+                ],
+                [
+                    141,
+                    2030
+                ],
+                [
+                    146,
+                    1742
+                ],
+                [
+                    126,
+                    1743
+                ],
+                [
+                    124,
+                    2028
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "1: 142. 1978. (Enum. Fl. Pl. Nepal)",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    124,
+                    2028
+                ],
+                [
+                    141,
+                    2030
+                ],
+                [
+                    146,
+                    1742
+                ],
+                [
+                    126,
+                    1743
+                ],
+                [
+                    124,
+                    2028
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "1 : 142 . 1978 . ( Enum . Fl . Pl . Nepal )",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    166,
+                    1839
+                ],
+                [
+                    166,
+                    2032
+                ],
+                [
+                    185,
+                    2033
+                ],
+                [
+                    186,
+                    1839
+                ],
+                [
+                    166,
+                    1839
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Det.: R. J. Soreng, 2010",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    166,
+                    1839
+                ],
+                [
+                    166,
+                    2032
+                ],
+                [
+                    185,
+                    2033
+                ],
+                [
+                    186,
+                    1839
+                ],
+                [
+                    166,
+                    1839
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Det.: R.J. Soreng, 2010",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    166,
+                    1839
+                ],
+                [
+                    166,
+                    2032
+                ],
+                [
+                    185,
+                    2033
+                ],
+                [
+                    186,
+                    1839
+                ],
+                [
+                    166,
+                    1839
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Det . : R . J . Soreng , 2010",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    48,
+                    1440
+                ],
+                [
+                    73,
+                    1441
+                ],
+                [
+                    76,
+                    1138
+                ],
+                [
+                    50,
+                    1136
+                ],
+                [
+                    48,
+                    1440
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "US NATIONAL HERBARIUM (US)",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    48,
+                    1440
+                ],
+                [
+                    73,
+                    1441
+                ],
+                [
+                    76,
+                    1138
+                ],
+                [
+                    50,
+                    1136
+                ],
+                [
+                    48,
+                    1440
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "US NATONAL HERBARIUM (US)",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    48,
+                    1440
+                ],
+                [
+                    73,
+                    1441
+                ],
+                [
+                    76,
+                    1138
+                ],
+                [
+                    50,
+                    1136
+                ],
+                [
+                    48,
+                    1440
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "US NATIONAL HERBARIUM ( US )",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    87,
+                    1104
+                ],
+                [
+                    91,
+                    1439
+                ],
+                [
+                    122,
+                    1441
+                ],
+                [
+                    124,
+                    1397
+                ],
+                [
+                    112,
+                    1330
+                ],
+                [
+                    113,
+                    1256
+                ],
+                [
+                    115,
+                    1104
+                ],
+                [
+                    87,
+                    1104
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Poa pratensis ssp staintonii",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    87,
+                    1104
+                ],
+                [
+                    91,
+                    1439
+                ],
+                [
+                    122,
+                    1441
+                ],
+                [
+                    124,
+                    1397
+                ],
+                [
+                    112,
+                    1330
+                ],
+                [
+                    113,
+                    1256
+                ],
+                [
+                    115,
+                    1104
+                ],
+                [
+                    87,
+                    1104
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Poa pratensis ssp. staintonii",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    87,
+                    1104
+                ],
+                [
+                    91,
+                    1439
+                ],
+                [
+                    122,
+                    1441
+                ],
+                [
+                    124,
+                    1397
+                ],
+                [
+                    112,
+                    1330
+                ],
+                [
+                    113,
+                    1256
+                ],
+                [
+                    115,
+                    1104
+                ],
+                [
+                    87,
+                    1104
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Poa pratensis sep staintoni :",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    118,
+                    1066
+                ],
+                [
+                    119,
+                    1290
+                ],
+                [
+                    139,
+                    1292
+                ],
+                [
+                    147,
+                    1066
+                ],
+                [
+                    118,
+                    1066
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Melderis | Dickor\u00e9",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    118,
+                    1066
+                ],
+                [
+                    119,
+                    1290
+                ],
+                [
+                    139,
+                    1292
+                ],
+                [
+                    147,
+                    1066
+                ],
+                [
+                    118,
+                    1066
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "(Melderis) Dickore'",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    118,
+                    1066
+                ],
+                [
+                    119,
+                    1290
+                ],
+                [
+                    139,
+                    1292
+                ],
+                [
+                    147,
+                    1066
+                ],
+                [
+                    118,
+                    1066
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Melderis I Diebore",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    144,
+                    1249
+                ],
+                [
+                    146,
+                    1438
+                ],
+                [
+                    160,
+                    1440
+                ],
+                [
+                    161,
+                    1248
+                ],
+                [
+                    144,
+                    1249
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Det.: R. J. Soreng, 2010",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    144,
+                    1249
+                ],
+                [
+                    146,
+                    1438
+                ],
+                [
+                    160,
+                    1440
+                ],
+                [
+                    161,
+                    1248
+                ],
+                [
+                    144,
+                    1249
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Det.: R.J. Soreng, 2010",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    144,
+                    1249
+                ],
+                [
+                    146,
+                    1438
+                ],
+                [
+                    160,
+                    1440
+                ],
+                [
+                    161,
+                    1248
+                ],
+                [
+                    144,
+                    1249
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Det . : R . J . Soreng , 2010",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1230,
+                    1706
+                ],
+                [
+                    1230,
+                    1725
+                ],
+                [
+                    1304,
+                    1725
+                ],
+                [
+                    1304,
+                    1706
+                ],
+                [
+                    1230,
+                    1706
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NEPAL",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    1230,
+                    1706
+                ],
+                [
+                    1230,
+                    1725
+                ],
+                [
+                    1304,
+                    1725
+                ],
+                [
+                    1304,
+                    1706
+                ],
+                [
+                    1230,
+                    1706
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NEPAL",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1230,
+                    1706
+                ],
+                [
+                    1230,
+                    1725
+                ],
+                [
+                    1304,
+                    1725
+                ],
+                [
+                    1304,
+                    1706
+                ],
+                [
+                    1230,
+                    1706
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NEPAL",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1255,
+                    1732
+                ],
+                [
+                    1255,
+                    1744
+                ],
+                [
+                    1288,
+                    1744
+                ],
+                [
+                    1288,
+                    1732
+                ],
+                [
+                    1255,
+                    1732
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Miles",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    1255,
+                    1732
+                ],
+                [
+                    1255,
+                    1744
+                ],
+                [
+                    1288,
+                    1744
+                ],
+                [
+                    1288,
+                    1732
+                ],
+                [
+                    1255,
+                    1732
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Miles",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1255,
+                    1732
+                ],
+                [
+                    1255,
+                    1744
+                ],
+                [
+                    1288,
+                    1744
+                ],
+                [
+                    1288,
+                    1732
+                ],
+                [
+                    1255,
+                    1732
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Miles",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        }
+    ]
+}

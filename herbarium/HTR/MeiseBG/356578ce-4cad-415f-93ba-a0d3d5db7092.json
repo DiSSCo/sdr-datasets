@@ -1,0 +1,1126 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "40737841-bfc1-4187-b1f6-3328e53d3aa3",
+        "name": "MeiseBG"
+    },
+    "image": {
+        "id": "fd2ad0cc-bfc5-4370-bdc0-fe580d72e874",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FBR0000010561454.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FBR0000010561454.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "356578ce-4cad-415f-93ba-a0d3d5db7092",
+        "name": "BR0000010561454",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    745,
+                    437
+                ],
+                [
+                    745,
+                    560
+                ],
+                [
+                    1262,
+                    560
+                ],
+                [
+                    1262,
+                    437
+                ],
+                [
+                    745,
+                    437
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "1 056 145",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    745,
+                    437
+                ],
+                [
+                    745,
+                    560
+                ],
+                [
+                    1262,
+                    560
+                ],
+                [
+                    1262,
+                    437
+                ],
+                [
+                    745,
+                    437
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "1056 145",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    745,
+                    437
+                ],
+                [
+                    745,
+                    560
+                ],
+                [
+                    1262,
+                    560
+                ],
+                [
+                    1262,
+                    437
+                ],
+                [
+                    745,
+                    437
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "1 056 145",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    813,
+                    338
+                ],
+                [
+                    813,
+                    411
+                ],
+                [
+                    1146,
+                    411
+                ],
+                [
+                    1146,
+                    338
+                ],
+                [
+                    813,
+                    338
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BR - S . P .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    813,
+                    338
+                ],
+                [
+                    813,
+                    411
+                ],
+                [
+                    1146,
+                    411
+                ],
+                [
+                    1146,
+                    338
+                ],
+                [
+                    813,
+                    338
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BR - S . P .",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    813,
+                    338
+                ],
+                [
+                    813,
+                    411
+                ],
+                [
+                    1146,
+                    411
+                ],
+                [
+                    1146,
+                    338
+                ],
+                [
+                    813,
+                    338
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BR - S . P .",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    262,
+                    215
+                ],
+                [
+                    262,
+                    334
+                ],
+                [
+                    1210,
+                    334
+                ],
+                [
+                    1210,
+                    215
+                ],
+                [
+                    262,
+                    215
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herb . Horti Bot . Nat . Belg . ( BR )",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    262,
+                    215
+                ],
+                [
+                    262,
+                    334
+                ],
+                [
+                    1210,
+                    334
+                ],
+                [
+                    1210,
+                    215
+                ],
+                [
+                    262,
+                    215
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herb. Horti Bot. Nat . Belg. ( BR)",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    262,
+                    215
+                ],
+                [
+                    262,
+                    334
+                ],
+                [
+                    1210,
+                    334
+                ],
+                [
+                    1210,
+                    215
+                ],
+                [
+                    262,
+                    215
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herb . Horti Bot . Nat . Belg . ( BR )",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    168,
+                    565
+                ],
+                [
+                    168,
+                    637
+                ],
+                [
+                    775,
+                    637
+                ],
+                [
+                    775,
+                    565
+                ],
+                [
+                    168,
+                    565
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "o \" 000010 \" 56145 \"",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    168,
+                    565
+                ],
+                [
+                    168,
+                    637
+                ],
+                [
+                    775,
+                    637
+                ],
+                [
+                    775,
+                    565
+                ],
+                [
+                    168,
+                    565
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "O\" 000010\"56145\" 4",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3809,
+                    7009
+                ],
+                [
+                    3809,
+                    7154
+                ],
+                [
+                    4240,
+                    7154
+                ],
+                [
+                    4240,
+                    7009
+                ],
+                [
+                    3809,
+                    7009
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Acc . 1990",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3809,
+                    7009
+                ],
+                [
+                    3809,
+                    7154
+                ],
+                [
+                    4240,
+                    7154
+                ],
+                [
+                    4240,
+                    7009
+                ],
+                [
+                    3809,
+                    7009
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Acc 1990",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    2981,
+                    6385
+                ],
+                [
+                    2981,
+                    6492
+                ],
+                [
+                    3835,
+                    6492
+                ],
+                [
+                    3835,
+                    6385
+                ],
+                [
+                    2981,
+                    6385
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB . HORTI BOT . NAT . BELG",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2981,
+                    6385
+                ],
+                [
+                    2981,
+                    6492
+                ],
+                [
+                    3835,
+                    6492
+                ],
+                [
+                    3835,
+                    6385
+                ],
+                [
+                    2981,
+                    6385
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB. HORTI BOT. NAT. BELG.",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3109,
+                    6087
+                ],
+                [
+                    3109,
+                    6155
+                ],
+                [
+                    3847,
+                    6155
+                ],
+                [
+                    3847,
+                    6087
+                ],
+                [
+                    3109,
+                    6087
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "FLORABANK 1997 - 1999",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3109,
+                    6087
+                ],
+                [
+                    3109,
+                    6155
+                ],
+                [
+                    3847,
+                    6155
+                ],
+                [
+                    3847,
+                    6087
+                ],
+                [
+                    3109,
+                    6087
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "FLORABANK 1997 - 1999",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3109,
+                    6087
+                ],
+                [
+                    3109,
+                    6155
+                ],
+                [
+                    3847,
+                    6155
+                ],
+                [
+                    3847,
+                    6087
+                ],
+                [
+                    3109,
+                    6087
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "FLORABANK 1997 - 1999",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    3109,
+                    6005
+                ],
+                [
+                    3109,
+                    6061
+                ],
+                [
+                    4005,
+                    6061
+                ],
+                [
+                    4005,
+                    6005
+                ],
+                [
+                    3109,
+                    6005
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Determinavit Olivier HEYLEN",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3109,
+                    6005
+                ],
+                [
+                    3109,
+                    6061
+                ],
+                [
+                    4005,
+                    6061
+                ],
+                [
+                    4005,
+                    6005
+                ],
+                [
+                    3109,
+                    6005
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Determinavit Olivier HEYLEN",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3109,
+                    6005
+                ],
+                [
+                    3109,
+                    6061
+                ],
+                [
+                    4005,
+                    6061
+                ],
+                [
+                    4005,
+                    6005
+                ],
+                [
+                    3109,
+                    6005
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Determinavit Olivier HEYLEN",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    3194,
+                    5950
+                ],
+                [
+                    3194,
+                    5997
+                ],
+                [
+                    3754,
+                    5997
+                ],
+                [
+                    3754,
+                    5950
+                ],
+                [
+                    3194,
+                    5950
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "( senso LambinoN , 1998 /",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3194,
+                    5950
+                ],
+                [
+                    3194,
+                    5997
+                ],
+                [
+                    3754,
+                    5997
+                ],
+                [
+                    3754,
+                    5950
+                ],
+                [
+                    3194,
+                    5950
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "\"senbe LambinoN, 19931",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3117,
+                    5843
+                ],
+                [
+                    3117,
+                    5946
+                ],
+                [
+                    3724,
+                    5946
+                ],
+                [
+                    3724,
+                    5843
+                ],
+                [
+                    3117,
+                    5843
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "\u0412\u043e\u043b\u043e \u043bh @ m 0 , .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3117,
+                    5843
+                ],
+                [
+                    3117,
+                    5946
+                ],
+                [
+                    3724,
+                    5946
+                ],
+                [
+                    3724,
+                    5843
+                ],
+                [
+                    3117,
+                    5843
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Bromus sramosus L.",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    224,
+                    5724
+                ],
+                [
+                    224,
+                    5822
+                ],
+                [
+                    1210,
+                    5822
+                ],
+                [
+                    1210,
+                    5724
+                ],
+                [
+                    224,
+                    5724
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herbarium Vannerom Herman",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    224,
+                    5724
+                ],
+                [
+                    224,
+                    5822
+                ],
+                [
+                    1210,
+                    5822
+                ],
+                [
+                    1210,
+                    5724
+                ],
+                [
+                    224,
+                    5724
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herbarium Vannerom Herman",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    224,
+                    5724
+                ],
+                [
+                    224,
+                    5822
+                ],
+                [
+                    1210,
+                    5822
+                ],
+                [
+                    1210,
+                    5724
+                ],
+                [
+                    224,
+                    5724
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herbarium Vannerom Herman",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    1201,
+                    5894
+                ],
+                [
+                    1201,
+                    5993
+                ],
+                [
+                    1513,
+                    5993
+                ],
+                [
+                    1513,
+                    5894
+                ],
+                [
+                    1201,
+                    5894
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "890623 . 9",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1201,
+                    5894
+                ],
+                [
+                    1201,
+                    5993
+                ],
+                [
+                    1513,
+                    5993
+                ],
+                [
+                    1513,
+                    5894
+                ],
+                [
+                    1201,
+                    5894
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "290623.3",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    181,
+                    5988
+                ],
+                [
+                    181,
+                    6078
+                ],
+                [
+                    1090,
+                    6078
+                ],
+                [
+                    1090,
+                    5988
+                ],
+                [
+                    181,
+                    5988
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Bromus commutatusSehrad ,",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    181,
+                    5988
+                ],
+                [
+                    181,
+                    6078
+                ],
+                [
+                    1090,
+                    6078
+                ],
+                [
+                    1090,
+                    5988
+                ],
+                [
+                    181,
+                    5988
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Bromus connutatusschrad.",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    202,
+                    6210
+                ],
+                [
+                    202,
+                    6287
+                ],
+                [
+                    975,
+                    6287
+                ],
+                [
+                    975,
+                    6210
+                ],
+                [
+                    202,
+                    6210
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Genk , Oud - Winterslag",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    202,
+                    6210
+                ],
+                [
+                    202,
+                    6287
+                ],
+                [
+                    975,
+                    6287
+                ],
+                [
+                    975,
+                    6210
+                ],
+                [
+                    202,
+                    6210
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Geuk, Juc-Hinterslag",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    181,
+                    6313
+                ],
+                [
+                    181,
+                    6394
+                ],
+                [
+                    890,
+                    6394
+                ],
+                [
+                    890,
+                    6313
+                ],
+                [
+                    181,
+                    6313
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Rand van korenveld",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    181,
+                    6313
+                ],
+                [
+                    181,
+                    6394
+                ],
+                [
+                    890,
+                    6394
+                ],
+                [
+                    890,
+                    6313
+                ],
+                [
+                    181,
+                    6313
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Rand yan korenveld",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    189,
+                    6424
+                ],
+                [
+                    189,
+                    6497
+                ],
+                [
+                    527,
+                    6497
+                ],
+                [
+                    527,
+                    6424
+                ],
+                [
+                    189,
+                    6424
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "07 . 31 . 44",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    189,
+                    6424
+                ],
+                [
+                    189,
+                    6497
+                ],
+                [
+                    527,
+                    6497
+                ],
+                [
+                    527,
+                    6424
+                ],
+                [
+                    189,
+                    6424
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "D7. 310.14",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    181,
+                    6518
+                ],
+                [
+                    181,
+                    6612
+                ],
+                [
+                    591,
+                    6612
+                ],
+                [
+                    591,
+                    6518
+                ],
+                [
+                    181,
+                    6518
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "23 . 6 . 1989",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    181,
+                    6518
+                ],
+                [
+                    181,
+                    6612
+                ],
+                [
+                    591,
+                    6612
+                ],
+                [
+                    591,
+                    6518
+                ],
+                [
+                    181,
+                    6518
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "23.6.1989",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    181,
+                    6518
+                ],
+                [
+                    181,
+                    6612
+                ],
+                [
+                    591,
+                    6612
+                ],
+                [
+                    591,
+                    6518
+                ],
+                [
+                    181,
+                    6518
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "23 . 6 . 1989",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        }
+    ]
+}

@@ -1,0 +1,1095 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "479c24a2-d399-4074-b47f-7c82c51a95d8",
+        "name": "RBGE"
+    },
+    "image": {
+        "id": "b0ac3425-e013-4b0b-81ea-427ed544c4ef",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FE00137807.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FE00137807.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "56b184c9-37c5-4a88-9de8-4b739f0318a1",
+        "name": "E00137807",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    3699,
+                    77
+                ],
+                [
+                    3699,
+                    287
+                ],
+                [
+                    4968,
+                    287
+                ],
+                [
+                    4968,
+                    77
+                ],
+                [
+                    3699,
+                    77
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB. HORT. EDINB.",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3699,
+                    77
+                ],
+                [
+                    3699,
+                    287
+                ],
+                [
+                    4968,
+                    287
+                ],
+                [
+                    4968,
+                    77
+                ],
+                [
+                    3699,
+                    77
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB . HORT . EDINB .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3675,
+                    6154
+                ],
+                [
+                    3675,
+                    6229
+                ],
+                [
+                    4288,
+                    6229
+                ],
+                [
+                    4288,
+                    6154
+                ],
+                [
+                    3675,
+                    6154
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Flora of China",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3675,
+                    6154
+                ],
+                [
+                    3675,
+                    6229
+                ],
+                [
+                    4288,
+                    6229
+                ],
+                [
+                    4288,
+                    6154
+                ],
+                [
+                    3675,
+                    6154
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Flora of China",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3200,
+                    6227
+                ],
+                [
+                    3200,
+                    6315
+                ],
+                [
+                    4743,
+                    6315
+                ],
+                [
+                    4743,
+                    6227
+                ],
+                [
+                    3200,
+                    6227
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Sino-British Qinghai Expedition, 1997",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3200,
+                    6227
+                ],
+                [
+                    3200,
+                    6315
+                ],
+                [
+                    4743,
+                    6315
+                ],
+                [
+                    4743,
+                    6227
+                ],
+                [
+                    3200,
+                    6227
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Sino - British Qinghai Expedition , 1997",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3860,
+                    6410
+                ],
+                [
+                    3862,
+                    6470
+                ],
+                [
+                    4875,
+                    6487
+                ],
+                [
+                    4874,
+                    6418
+                ],
+                [
+                    3860,
+                    6410
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Scrophulariaceae (115.00)",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3860,
+                    6410
+                ],
+                [
+                    3862,
+                    6470
+                ],
+                [
+                    4875,
+                    6487
+                ],
+                [
+                    4874,
+                    6418
+                ],
+                [
+                    3860,
+                    6410
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Scrophulariaceae ( 115 . 00 )",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3075,
+                    6551
+                ],
+                [
+                    4430,
+                    6537
+                ],
+                [
+                    4452,
+                    6480
+                ],
+                [
+                    3079,
+                    6469
+                ],
+                [
+                    3075,
+                    6551
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Pedicularis rhinanthoides Schrenk",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3075,
+                    6551
+                ],
+                [
+                    4430,
+                    6537
+                ],
+                [
+                    4452,
+                    6480
+                ],
+                [
+                    3079,
+                    6469
+                ],
+                [
+                    3075,
+                    6551
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Pedicularis rhinanthoides Schrenk",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3081,
+                    6656
+                ],
+                [
+                    3348,
+                    6665
+                ],
+                [
+                    4902,
+                    6670
+                ],
+                [
+                    4904,
+                    6612
+                ],
+                [
+                    4860,
+                    6598
+                ],
+                [
+                    3092,
+                    6587
+                ],
+                [
+                    3081,
+                    6656
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "China: Qinghai: Golog Zang Aut. Pref.: Mag\u00ean",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3081,
+                    6656
+                ],
+                [
+                    3348,
+                    6665
+                ],
+                [
+                    4902,
+                    6670
+                ],
+                [
+                    4904,
+                    6612
+                ],
+                [
+                    4860,
+                    6598
+                ],
+                [
+                    3092,
+                    6587
+                ],
+                [
+                    3081,
+                    6656
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "China : Qinghai : Golog Zang Aut . Pref . : Mag\u00ean",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3086,
+                    6728
+                ],
+                [
+                    3712,
+                    6725
+                ],
+                [
+                    4711,
+                    6734
+                ],
+                [
+                    4891,
+                    6670
+                ],
+                [
+                    4532,
+                    6665
+                ],
+                [
+                    3917,
+                    6662
+                ],
+                [
+                    3348,
+                    6662
+                ],
+                [
+                    3089,
+                    6662
+                ],
+                [
+                    3086,
+                    6728
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Co.: Jungun Naichong, Streamside in damp",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3086,
+                    6728
+                ],
+                [
+                    3712,
+                    6725
+                ],
+                [
+                    4711,
+                    6734
+                ],
+                [
+                    4891,
+                    6670
+                ],
+                [
+                    4532,
+                    6665
+                ],
+                [
+                    3917,
+                    6662
+                ],
+                [
+                    3348,
+                    6662
+                ],
+                [
+                    3089,
+                    6662
+                ],
+                [
+                    3086,
+                    6728
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Co . : Jungun Naichong , Streamside in damp",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3083,
+                    6717
+                ],
+                [
+                    3097,
+                    6778
+                ],
+                [
+                    3765,
+                    6783
+                ],
+                [
+                    4126,
+                    6783
+                ],
+                [
+                    4162,
+                    6731
+                ],
+                [
+                    3955,
+                    6712
+                ],
+                [
+                    3083,
+                    6717
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "calcareous valley. 3560 m.",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3083,
+                    6717
+                ],
+                [
+                    3097,
+                    6778
+                ],
+                [
+                    3765,
+                    6783
+                ],
+                [
+                    4126,
+                    6783
+                ],
+                [
+                    4162,
+                    6731
+                ],
+                [
+                    3955,
+                    6712
+                ],
+                [
+                    3083,
+                    6717
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "calcareous valley . 3560 m .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3086,
+                    6822
+                ],
+                [
+                    3086,
+                    6913
+                ],
+                [
+                    4057,
+                    6913
+                ],
+                [
+                    4057,
+                    6822
+                ],
+                [
+                    3086,
+                    6822
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "34\u00b038'54\"N, 100\u00b036'32\"E",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3086,
+                    6822
+                ],
+                [
+                    3086,
+                    6913
+                ],
+                [
+                    4057,
+                    6913
+                ],
+                [
+                    4057,
+                    6822
+                ],
+                [
+                    3086,
+                    6822
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "34\u00b038 ' 54 \" N , 100036 ' 32 \" E",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3083,
+                    6947
+                ],
+                [
+                    3083,
+                    7021
+                ],
+                [
+                    4040,
+                    7021
+                ],
+                [
+                    4040,
+                    6947
+                ],
+                [
+                    3083,
+                    6947
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Corolla deep rose-pink.",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3083,
+                    6947
+                ],
+                [
+                    3083,
+                    7021
+                ],
+                [
+                    4040,
+                    7021
+                ],
+                [
+                    4040,
+                    6947
+                ],
+                [
+                    3083,
+                    6947
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Corolla deep rose - pink .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3065,
+                    7065
+                ],
+                [
+                    3065,
+                    7153
+                ],
+                [
+                    4883,
+                    7153
+                ],
+                [
+                    4883,
+                    7065
+                ],
+                [
+                    3065,
+                    7065
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Sino-British Qinghai Expedition 1997 No. 491",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3065,
+                    7065
+                ],
+                [
+                    3065,
+                    7153
+                ],
+                [
+                    4883,
+                    7153
+                ],
+                [
+                    4883,
+                    7065
+                ],
+                [
+                    3065,
+                    7065
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Sino - British Qinghai Expedition 1997 No . 491",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4428,
+                    7145
+                ],
+                [
+                    4428,
+                    7211
+                ],
+                [
+                    4899,
+                    7211
+                ],
+                [
+                    4899,
+                    7145
+                ],
+                [
+                    4428,
+                    7145
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "10 Jul 1997",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    4428,
+                    7145
+                ],
+                [
+                    4428,
+                    7211
+                ],
+                [
+                    4899,
+                    7211
+                ],
+                [
+                    4899,
+                    7145
+                ],
+                [
+                    4428,
+                    7145
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "10 Jul 1997",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3078,
+                    7317
+                ],
+                [
+                    3089,
+                    7375
+                ],
+                [
+                    3618,
+                    7383
+                ],
+                [
+                    3985,
+                    7380
+                ],
+                [
+                    4543,
+                    7380
+                ],
+                [
+                    4532,
+                    7303
+                ],
+                [
+                    3078,
+                    7317
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Coll. D.G. Long, C. Brickell, R.J.D.",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3078,
+                    7317
+                ],
+                [
+                    3089,
+                    7375
+                ],
+                [
+                    3618,
+                    7383
+                ],
+                [
+                    3985,
+                    7380
+                ],
+                [
+                    4543,
+                    7380
+                ],
+                [
+                    4532,
+                    7303
+                ],
+                [
+                    3078,
+                    7317
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Coll . D . G . Long , C . Brickell , R . J . D .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3075,
+                    7441
+                ],
+                [
+                    4065,
+                    7444
+                ],
+                [
+                    4769,
+                    7458
+                ],
+                [
+                    4744,
+                    7403
+                ],
+                [
+                    4297,
+                    7378
+                ],
+                [
+                    3718,
+                    7383
+                ],
+                [
+                    3089,
+                    7386
+                ],
+                [
+                    3075,
+                    7441
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "McBeath, E.J. Strangman, R. Steele, X.-F.",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3075,
+                    7441
+                ],
+                [
+                    4065,
+                    7444
+                ],
+                [
+                    4769,
+                    7458
+                ],
+                [
+                    4744,
+                    7403
+                ],
+                [
+                    4297,
+                    7378
+                ],
+                [
+                    3718,
+                    7383
+                ],
+                [
+                    3089,
+                    7386
+                ],
+                [
+                    3075,
+                    7441
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "McBeath , E . J . Strangman , R . Steele , X . - F .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3086,
+                    7494
+                ],
+                [
+                    4187,
+                    7510
+                ],
+                [
+                    4192,
+                    7436
+                ],
+                [
+                    3097,
+                    7447
+                ],
+                [
+                    3086,
+                    7494
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Lu, D.-S. Deng, S.-R. Zhang",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3086,
+                    7494
+                ],
+                [
+                    4187,
+                    7510
+                ],
+                [
+                    4192,
+                    7436
+                ],
+                [
+                    3097,
+                    7447
+                ],
+                [
+                    3086,
+                    7494
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Lu , D . - S . Deng , S . - R . Zhang",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2108,
+                    7645
+                ],
+                [
+                    2640,
+                    7632
+                ],
+                [
+                    2640,
+                    7585
+                ],
+                [
+                    2117,
+                    7590
+                ],
+                [
+                    2108,
+                    7645
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ROYAL BOTANIC GARDEN",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    2108,
+                    7645
+                ],
+                [
+                    2640,
+                    7632
+                ],
+                [
+                    2640,
+                    7585
+                ],
+                [
+                    2117,
+                    7590
+                ],
+                [
+                    2108,
+                    7645
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ROYAL BOTANIC GARDEN",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2241,
+                    7649
+                ],
+                [
+                    2241,
+                    7682
+                ],
+                [
+                    2512,
+                    7680
+                ],
+                [
+                    2514,
+                    7643
+                ],
+                [
+                    2241,
+                    7649
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "EDINBURGH",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    2241,
+                    7649
+                ],
+                [
+                    2241,
+                    7682
+                ],
+                [
+                    2512,
+                    7680
+                ],
+                [
+                    2514,
+                    7643
+                ],
+                [
+                    2241,
+                    7649
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "EDINBURGH",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2174,
+                    7884
+                ],
+                [
+                    2607,
+                    7873
+                ],
+                [
+                    2620,
+                    7824
+                ],
+                [
+                    2176,
+                    7836
+                ],
+                [
+                    2174,
+                    7884
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "E00137807",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    2174,
+                    7884
+                ],
+                [
+                    2607,
+                    7873
+                ],
+                [
+                    2620,
+                    7824
+                ],
+                [
+                    2176,
+                    7836
+                ],
+                [
+                    2174,
+                    7884
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "E00137807",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        }
+    ]
+}

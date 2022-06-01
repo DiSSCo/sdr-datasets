@@ -1,0 +1,316 @@
+{
+    "dataset_id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+    "folder": {
+        "id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+        "name": "2000 Louse Subset"
+    },
+    "image": {
+        "id": "d6ca4d6c-4687-4ffa-80c0-7543d60a830e",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/a108c687-bf2e-416d-8e0f-99b27863d528",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/a108c687-bf2e-416d-8e0f-99b27863d528/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "0b771cd2-2e5b-4fe3-8322-4db090bdfca5",
+        "name": "75",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    6230,
+                    537
+                ],
+                [
+                    6230,
+                    2505
+                ],
+                [
+                    6547,
+                    2505
+                ],
+                [
+                    6547,
+                    537
+                ],
+                [
+                    6230,
+                    537
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "MEINERTZHAGEN",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    556,
+                    979
+                ],
+                [
+                    556,
+                    2812
+                ],
+                [
+                    1084,
+                    2812
+                ],
+                [
+                    1084,
+                    979
+                ],
+                [
+                    556,
+                    979
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Myrsidea",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    3168,
+                    451
+                ],
+                [
+                    3168,
+                    576
+                ],
+                [
+                    3532,
+                    576
+                ],
+                [
+                    3532,
+                    451
+                ],
+                [
+                    3168,
+                    451
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6720,
+                    1622
+                ],
+                [
+                    6720,
+                    1891
+                ],
+                [
+                    7094,
+                    1891
+                ],
+                [
+                    7094,
+                    1622
+                ],
+                [
+                    6720,
+                    1622
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "\u2640",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    1516,
+                    1238
+                ],
+                [
+                    1516,
+                    2025
+                ],
+                [
+                    2160,
+                    2025
+                ],
+                [
+                    2160,
+                    1238
+                ],
+                [
+                    1516,
+                    1238
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "X",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    3513,
+                    518
+                ],
+                [
+                    3513,
+                    940
+                ],
+                [
+                    3619,
+                    940
+                ],
+                [
+                    3619,
+                    518
+                ],
+                [
+                    3513,
+                    518
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "010660554",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    7046,
+                    249
+                ],
+                [
+                    7046,
+                    2812
+                ],
+                [
+                    7459,
+                    2812
+                ],
+                [
+                    7459,
+                    249
+                ],
+                [
+                    7046,
+                    249
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Loxia pytyopsittaca",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    7401,
+                    940
+                ],
+                [
+                    7401,
+                    2102
+                ],
+                [
+                    7689,
+                    2102
+                ],
+                [
+                    7689,
+                    940
+                ],
+                [
+                    7401,
+                    940
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "scotica",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    7708,
+                    566
+                ],
+                [
+                    7708,
+                    2812
+                ],
+                [
+                    8016,
+                    2812
+                ],
+                [
+                    8016,
+                    566
+                ],
+                [
+                    7708,
+                    566
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Inverness. Feb.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    7920,
+                    384
+                ],
+                [
+                    7920,
+                    1113
+                ],
+                [
+                    8256,
+                    1113
+                ],
+                [
+                    8256,
+                    384
+                ],
+                [
+                    7920,
+                    384
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "1935.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    8256,
+                    969
+                ],
+                [
+                    8256,
+                    2044
+                ],
+                [
+                    8592,
+                    2044
+                ],
+                [
+                    8592,
+                    969
+                ],
+                [
+                    8256,
+                    969
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "2802.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        }
+    ]
+}

@@ -1,0 +1,370 @@
+{
+    "dataset_id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+    "folder": {
+        "id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+        "name": "2000 Louse Subset"
+    },
+    "image": {
+        "id": "f9c5d24e-91c5-4705-8ce4-e21fd957ef03",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fsynthesys%2Fslides_images%2Ff57951bc-3af1-4d1c-862f-28c342ead8d7.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fsynthesys%2Fslides_images%2Ff57951bc-3af1-4d1c-862f-28c342ead8d7.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "f57951bc-3af1-4d1c-862f-28c342ead8d7",
+        "name": "108",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    1161,
+                    314
+                ],
+                [
+                    1161,
+                    2564
+                ],
+                [
+                    1547,
+                    2564
+                ],
+                [
+                    1547,
+                    314
+                ],
+                [
+                    1161,
+                    314
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "N.W. Rhodesia.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    2204,
+                    5034
+                ],
+                [
+                    2204,
+                    5183
+                ],
+                [
+                    2682,
+                    5183
+                ],
+                [
+                    2682,
+                    5034
+                ],
+                [
+                    2204,
+                    5034
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    1952,
+                    5931
+                ],
+                [
+                    1952,
+                    7681
+                ],
+                [
+                    2321,
+                    7681
+                ],
+                [
+                    2321,
+                    5931
+                ],
+                [
+                    1952,
+                    5931
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "PARATYPE \u2642\u2640",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    2174,
+                    374
+                ],
+                [
+                    2174,
+                    2415
+                ],
+                [
+                    2512,
+                    2415
+                ],
+                [
+                    2512,
+                    374
+                ],
+                [
+                    2174,
+                    374
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Meinertzhagen Coll.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    2592,
+                    5053
+                ],
+                [
+                    2592,
+                    5591
+                ],
+                [
+                    2732,
+                    5591
+                ],
+                [
+                    2732,
+                    5053
+                ],
+                [
+                    2592,
+                    5053
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "010671671",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    1315,
+                    6057
+                ],
+                [
+                    1315,
+                    7889
+                ],
+                [
+                    1700,
+                    7901
+                ],
+                [
+                    1700,
+                    6069
+                ],
+                [
+                    1315,
+                    6057
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Tendeiro, 1973",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    730,
+                    573
+                ],
+                [
+                    730,
+                    2594
+                ],
+                [
+                    1208,
+                    2594
+                ],
+                [
+                    1208,
+                    573
+                ],
+                [
+                    730,
+                    573
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "chalcospilos",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    974,
+                    6163
+                ],
+                [
+                    974,
+                    7886
+                ],
+                [
+                    1323,
+                    7886
+                ],
+                [
+                    1323,
+                    6163
+                ],
+                [
+                    974,
+                    6163
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "aethiopicum",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    584,
+                    6252
+                ],
+                [
+                    584,
+                    7845
+                ],
+                [
+                    1015,
+                    7845
+                ],
+                [
+                    1015,
+                    6252
+                ],
+                [
+                    584,
+                    6252
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Coloceras",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    2373,
+                    653
+                ],
+                [
+                    2373,
+                    2206
+                ],
+                [
+                    2732,
+                    2206
+                ],
+                [
+                    2732,
+                    653
+                ],
+                [
+                    2373,
+                    653
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "B.M. 1951-171.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    1796,
+                    872
+                ],
+                [
+                    1796,
+                    2037
+                ],
+                [
+                    2214,
+                    2037
+                ],
+                [
+                    2214,
+                    872
+                ],
+                [
+                    1796,
+                    872
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "13809.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    1377,
+                    941
+                ],
+                [
+                    1377,
+                    2584
+                ],
+                [
+                    1855,
+                    2584
+                ],
+                [
+                    1855,
+                    941
+                ],
+                [
+                    1377,
+                    941
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Aug. 1939.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    302,
+                    1011
+                ],
+                [
+                    302,
+                    2604
+                ],
+                [
+                    840,
+                    2604
+                ],
+                [
+                    840,
+                    1011
+                ],
+                [
+                    302,
+                    1011
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Turtur c.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        }
+    ]
+}

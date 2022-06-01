@@ -1,0 +1,31 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "98d8cf63-9358-48d5-b721-5bc74a67b7de",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/efbf79dc-d1be-4204-86cc-305fa7150493",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/efbf79dc-d1be-4204-86cc-305fa7150493/full/full/0/default.jpg"
+    },
+    "named_entities": [
+        {
+            "tags": "North B-location_name\nBirmah I-location_name",
+            "worker_version_id": null
+        },
+        {
+            "tags": "McLachlan B-Collection/Donation\nColl I-Collection/Donation\nB B-identifier\n. I-identifier\nM I-identifier\n. I-identifier\n1938 I-identifier\n- I-identifier\n674 I-identifier",
+            "worker_version_id": null
+        },
+        {
+            "tags": "Rhyothemis B-taxon_name\nplutonia I-taxon_name\nSelys B-person_name",
+            "worker_version_id": null
+        }
+    ],
+    "page": {
+        "id": "00964e92-1f98-4ea7-91fd-40cdeec91b44",
+        "name": "011253111_804002_1256854_2.2500x3513.jpeg",
+        "rotation_angle": 0
+    }
+}

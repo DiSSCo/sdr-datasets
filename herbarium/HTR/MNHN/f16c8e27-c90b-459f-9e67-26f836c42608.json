@@ -1,0 +1,860 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "c301e3ce-a988-469d-afb1-5af714a7123b",
+        "name": "MNHN"
+    },
+    "image": {
+        "id": "4546b6a7-2206-4de9-bb65-f1c6405aa630",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FP00101087.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FP00101087.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "f16c8e27-c90b-459f-9e67-26f836c42608",
+        "name": "P00101087",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    2925,
+                    151
+                ],
+                [
+                    2925,
+                    245
+                ],
+                [
+                    3212,
+                    245
+                ],
+                [
+                    3212,
+                    151
+                ],
+                [
+                    2925,
+                    151
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "PHANEROGAMIE",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2844,
+                    151
+                ],
+                [
+                    2872,
+                    268
+                ],
+                [
+                    2881,
+                    288
+                ],
+                [
+                    2924,
+                    265
+                ],
+                [
+                    2919,
+                    159
+                ],
+                [
+                    2973,
+                    76
+                ],
+                [
+                    3098,
+                    48
+                ],
+                [
+                    3185,
+                    101
+                ],
+                [
+                    3227,
+                    199
+                ],
+                [
+                    3190,
+                    296
+                ],
+                [
+                    3232,
+                    349
+                ],
+                [
+                    3281,
+                    253
+                ],
+                [
+                    3266,
+                    101
+                ],
+                [
+                    3147,
+                    0
+                ],
+                [
+                    3035,
+                    0
+                ],
+                [
+                    2954,
+                    16
+                ],
+                [
+                    2844,
+                    151
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "MUS\u00c9UM NATIONAL D'HISTOIRE NATURELLE",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2844,
+                    151
+                ],
+                [
+                    2872,
+                    268
+                ],
+                [
+                    2881,
+                    288
+                ],
+                [
+                    2924,
+                    265
+                ],
+                [
+                    2919,
+                    159
+                ],
+                [
+                    2973,
+                    76
+                ],
+                [
+                    3098,
+                    48
+                ],
+                [
+                    3185,
+                    101
+                ],
+                [
+                    3227,
+                    199
+                ],
+                [
+                    3190,
+                    296
+                ],
+                [
+                    3232,
+                    349
+                ],
+                [
+                    3281,
+                    253
+                ],
+                [
+                    3266,
+                    101
+                ],
+                [
+                    3147,
+                    0
+                ],
+                [
+                    3035,
+                    0
+                ],
+                [
+                    2954,
+                    16
+                ],
+                [
+                    2844,
+                    151
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "USEUM NATIO ( PHANEROGAMIES ISTOIRE TURELLE E NATUR",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2911,
+                    341
+                ],
+                [
+                    3018,
+                    417
+                ],
+                [
+                    3187,
+                    381
+                ],
+                [
+                    3147,
+                    316
+                ],
+                [
+                    3038,
+                    349
+                ],
+                [
+                    2945,
+                    309
+                ],
+                [
+                    2911,
+                    341
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "DE PARIS",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2911,
+                    341
+                ],
+                [
+                    3018,
+                    417
+                ],
+                [
+                    3187,
+                    381
+                ],
+                [
+                    3147,
+                    316
+                ],
+                [
+                    3038,
+                    349
+                ],
+                [
+                    2945,
+                    309
+                ],
+                [
+                    2911,
+                    341
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "DE PA BIS",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2155,
+                    4201
+                ],
+                [
+                    2155,
+                    4304
+                ],
+                [
+                    3065,
+                    4304
+                ],
+                [
+                    3065,
+                    4201
+                ],
+                [
+                    2155,
+                    4201
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERBIER DE FRANCE",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2155,
+                    4201
+                ],
+                [
+                    2155,
+                    4304
+                ],
+                [
+                    3065,
+                    4304
+                ],
+                [
+                    3065,
+                    4201
+                ],
+                [
+                    2155,
+                    4201
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERBIER DE FRANCE",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2144,
+                    4352
+                ],
+                [
+                    2144,
+                    4450
+                ],
+                [
+                    2893,
+                    4450
+                ],
+                [
+                    2893,
+                    4352
+                ],
+                [
+                    2144,
+                    4352
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Famille Anacardiac\u00e9es",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2144,
+                    4352
+                ],
+                [
+                    2144,
+                    4450
+                ],
+                [
+                    2893,
+                    4450
+                ],
+                [
+                    2893,
+                    4352
+                ],
+                [
+                    2144,
+                    4352
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Famille Anacardiac\u00e9es",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2144,
+                    4440
+                ],
+                [
+                    2144,
+                    4541
+                ],
+                [
+                    2877,
+                    4541
+                ],
+                [
+                    2877,
+                    4440
+                ],
+                [
+                    2144,
+                    4440
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Nom Rhus cotinus (L.)",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2144,
+                    4440
+                ],
+                [
+                    2144,
+                    4541
+                ],
+                [
+                    2877,
+                    4541
+                ],
+                [
+                    2877,
+                    4440
+                ],
+                [
+                    2144,
+                    4440
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Nom Bohus cotinus con",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2142,
+                    4534
+                ],
+                [
+                    2142,
+                    4610
+                ],
+                [
+                    2690,
+                    4610
+                ],
+                [
+                    2690,
+                    4534
+                ],
+                [
+                    2142,
+                    4534
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Nom vulgaire Fustet",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2142,
+                    4534
+                ],
+                [
+                    2142,
+                    4610
+                ],
+                [
+                    2690,
+                    4610
+                ],
+                [
+                    2690,
+                    4534
+                ],
+                [
+                    2142,
+                    4534
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Nom vulgaire Fustet",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2182,
+                    4607
+                ],
+                [
+                    2182,
+                    4716
+                ],
+                [
+                    2736,
+                    4716
+                ],
+                [
+                    2736,
+                    4607
+                ],
+                [
+                    2182,
+                    4607
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Arbre \u00e0 fierruque",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2182,
+                    4607
+                ],
+                [
+                    2182,
+                    4716
+                ],
+                [
+                    2736,
+                    4716
+                ],
+                [
+                    2736,
+                    4607
+                ],
+                [
+                    2182,
+                    4607
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Arbre \u00e0 perruque",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2148,
+                    4728
+                ],
+                [
+                    2148,
+                    4837
+                ],
+                [
+                    2526,
+                    4837
+                ],
+                [
+                    2526,
+                    4728
+                ],
+                [
+                    2148,
+                    4728
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "St Maximin",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2148,
+                    4728
+                ],
+                [
+                    2148,
+                    4837
+                ],
+                [
+                    2526,
+                    4837
+                ],
+                [
+                    2526,
+                    4728
+                ],
+                [
+                    2148,
+                    4728
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "S Maximin",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2668,
+                    4733
+                ],
+                [
+                    2668,
+                    4847
+                ],
+                [
+                    2983,
+                    4847
+                ],
+                [
+                    2983,
+                    4733
+                ],
+                [
+                    2668,
+                    4733
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Mai 1957",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2668,
+                    4733
+                ],
+                [
+                    2668,
+                    4847
+                ],
+                [
+                    2983,
+                    4847
+                ],
+                [
+                    2983,
+                    4733
+                ],
+                [
+                    2668,
+                    4733
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Mai 1957",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2797,
+                    4867
+                ],
+                [
+                    2797,
+                    4983
+                ],
+                [
+                    3060,
+                    4983
+                ],
+                [
+                    3060,
+                    4867
+                ],
+                [
+                    2797,
+                    4867
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "N\u00ba 725",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2797,
+                    4867
+                ],
+                [
+                    2797,
+                    4983
+                ],
+                [
+                    3060,
+                    4983
+                ],
+                [
+                    3060,
+                    4867
+                ],
+                [
+                    2797,
+                    4867
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "N 725",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2135,
+                    4873
+                ],
+                [
+                    2135,
+                    4941
+                ],
+                [
+                    2541,
+                    4941
+                ],
+                [
+                    2541,
+                    4873
+                ],
+                [
+                    2135,
+                    4873
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "L . MERCURIN",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2135,
+                    4873
+                ],
+                [
+                    2135,
+                    4941
+                ],
+                [
+                    2541,
+                    4941
+                ],
+                [
+                    2541,
+                    4873
+                ],
+                [
+                    2135,
+                    4873
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "L . MERCURIN",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1530,
+                    4887
+                ],
+                [
+                    1530,
+                    4935
+                ],
+                [
+                    1882,
+                    4935
+                ],
+                [
+                    1882,
+                    4887
+                ],
+                [
+                    1530,
+                    4887
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herb . Mus\u00e9um Paris",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1530,
+                    4887
+                ],
+                [
+                    1530,
+                    4935
+                ],
+                [
+                    1882,
+                    4935
+                ],
+                [
+                    1882,
+                    4887
+                ],
+                [
+                    1530,
+                    4887
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herb . Mus\u00e9um Paris",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1594,
+                    5050
+                ],
+                [
+                    1594,
+                    5097
+                ],
+                [
+                    1831,
+                    5097
+                ],
+                [
+                    1831,
+                    5050
+                ],
+                [
+                    1594,
+                    5050
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "P00101087",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1594,
+                    5050
+                ],
+                [
+                    1594,
+                    5097
+                ],
+                [
+                    1831,
+                    5097
+                ],
+                [
+                    1831,
+                    5050
+                ],
+                [
+                    1594,
+                    5050
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "P00101087",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        }
+    ]
+}

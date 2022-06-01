@@ -1,0 +1,208 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "990ce551-5713-4f38-b032-7e6ed8c03e12",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/b67a60db-d6eb-4bf8-b1d5-8d19b5ecfbb0",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/b67a60db-d6eb-4bf8-b1d5-8d19b5ecfbb0/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "5ccba1f6-98f9-4b4f-8bad-30f5e8be140f",
+        "name": "012500375_899959_1381481.2500x5792.jpeg",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    1945,
+                    708
+                ],
+                [
+                    1945,
+                    762
+                ],
+                [
+                    2373,
+                    762
+                ],
+                [
+                    2373,
+                    708
+                ],
+                [
+                    1945,
+                    708
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK012500375",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1865,
+                    797
+                ],
+                [
+                    1865,
+                    859
+                ],
+                [
+                    2152,
+                    859
+                ],
+                [
+                    2152,
+                    797
+                ],
+                [
+                    1865,
+                    797
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "[Malaysia]",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1862,
+                    856
+                ],
+                [
+                    1862,
+                    908
+                ],
+                [
+                    2319,
+                    908
+                ],
+                [
+                    2319,
+                    844
+                ],
+                [
+                    1862,
+                    856
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Cameron Highland",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1868,
+                    905
+                ],
+                [
+                    1868,
+                    967
+                ],
+                [
+                    2201,
+                    967
+                ],
+                [
+                    2201,
+                    905
+                ],
+                [
+                    1868,
+                    905
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "X-XII. 1985.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1868,
+                    964
+                ],
+                [
+                    1868,
+                    1020
+                ],
+                [
+                    2304,
+                    1020
+                ],
+                [
+                    2304,
+                    964
+                ],
+                [
+                    1868,
+                    964
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "from K. C. Liew",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1896,
+                    1052
+                ],
+                [
+                    1896,
+                    1128
+                ],
+                [
+                    2185,
+                    1128
+                ],
+                [
+                    2185,
+                    1052
+                ],
+                [
+                    1896,
+                    1052
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Inoue coll.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1901,
+                    1131
+                ],
+                [
+                    1901,
+                    1193
+                ],
+                [
+                    2231,
+                    1193
+                ],
+                [
+                    2231,
+                    1131
+                ],
+                [
+                    1901,
+                    1131
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BM 1992-71",
+            "worker_version": null
+        }
+    ]
+}

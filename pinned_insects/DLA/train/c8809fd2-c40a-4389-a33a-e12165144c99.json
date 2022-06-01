@@ -1,0 +1,65 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "46f8920b-6eee-4a3e-b137-f840c4b5b40a",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/7c5ae543-59d7-420f-992e-634199f8acea",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/7c5ae543-59d7-420f-992e-634199f8acea/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "c8809fd2-c40a-4389-a33a-e12165144c99",
+        "name": "012540913_137049_1084482.2500x5792.jpeg",
+        "rotation_angle": 0
+    },
+    "polygons": {
+        "text_line": [
+            [
+                [
+                    1653,
+                    1169
+                ],
+                [
+                    1653,
+                    1232
+                ],
+                [
+                    2241,
+                    1232
+                ],
+                [
+                    2236,
+                    1164
+                ],
+                [
+                    1653,
+                    1169
+                ]
+            ],
+            [
+                [
+                    1622,
+                    786
+                ],
+                [
+                    1622,
+                    905
+                ],
+                [
+                    2146,
+                    905
+                ],
+                [
+                    2143,
+                    787
+                ],
+                [
+                    1622,
+                    786
+                ]
+            ]
+        ]
+    }
+}

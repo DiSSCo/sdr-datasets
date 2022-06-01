@@ -1,0 +1,424 @@
+{
+    "dataset_id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+    "folder": {
+        "id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+        "name": "2000 Louse Subset"
+    },
+    "image": {
+        "id": "83cc944c-e63a-4657-82c8-ea8ed96f83c5",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/6967d528-448f-425d-9fa9-404a07635732",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/6967d528-448f-425d-9fa9-404a07635732/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "40b2ecac-4383-478b-8e53-69dc35b452e4",
+        "name": "4",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    7735,
+                    483
+                ],
+                [
+                    7735,
+                    2567
+                ],
+                [
+                    8204,
+                    2567
+                ],
+                [
+                    8204,
+                    483
+                ],
+                [
+                    7735,
+                    483
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Romney Marsh, 17.i.1936",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    5548,
+                    407
+                ],
+                [
+                    5548,
+                    552
+                ],
+                [
+                    5948,
+                    552
+                ],
+                [
+                    5948,
+                    407
+                ],
+                [
+                    5548,
+                    407
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    3105,
+                    717
+                ],
+                [
+                    3105,
+                    2311
+                ],
+                [
+                    3305,
+                    2311
+                ],
+                [
+                    3305,
+                    717
+                ],
+                [
+                    3105,
+                    717
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "G.B.THOMPSON",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    1814,
+                    386
+                ],
+                [
+                    1814,
+                    2270
+                ],
+                [
+                    2297,
+                    2270
+                ],
+                [
+                    2297,
+                    386
+                ],
+                [
+                    1814,
+                    386
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Nitzsch in Denny",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6638,
+                    545
+                ],
+                [
+                    6638,
+                    2387
+                ],
+                [
+                    6907,
+                    2387
+                ],
+                [
+                    6907,
+                    545
+                ],
+                [
+                    6638,
+                    545
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "spermologus Vieillot",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    5927,
+                    517
+                ],
+                [
+                    5927,
+                    966
+                ],
+                [
+                    6038,
+                    966
+                ],
+                [
+                    6038,
+                    517
+                ],
+                [
+                    5927,
+                    517
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "010646741",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    3291,
+                    793
+                ],
+                [
+                    3291,
+                    2235
+                ],
+                [
+                    3498,
+                    2235
+                ],
+                [
+                    3498,
+                    793
+                ],
+                [
+                    3291,
+                    793
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "COLLECTION.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    841,
+                    593
+                ],
+                [
+                    841,
+                    2567
+                ],
+                [
+                    1421,
+                    2567
+                ],
+                [
+                    1421,
+                    593
+                ],
+                [
+                    841,
+                    593
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Philopterus",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6396,
+                    662
+                ],
+                [
+                    6396,
+                    2587
+                ],
+                [
+                    6666,
+                    2587
+                ],
+                [
+                    6666,
+                    662
+                ],
+                [
+                    6396,
+                    662
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Corvus monedula",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    2648,
+                    388
+                ],
+                [
+                    2662,
+                    1338
+                ],
+                [
+                    2981,
+                    1352
+                ],
+                [
+                    2967,
+                    402
+                ],
+                [
+                    2648,
+                    388
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "1936. \u2642",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    7080,
+                    1007
+                ],
+                [
+                    7080,
+                    2208
+                ],
+                [
+                    7507,
+                    2208
+                ],
+                [
+                    7507,
+                    1007
+                ],
+                [
+                    7080,
+                    1007
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "England,",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    1462,
+                    676
+                ],
+                [
+                    1462,
+                    2442
+                ],
+                [
+                    1925,
+                    2442
+                ],
+                [
+                    1925,
+                    676
+                ],
+                [
+                    1462,
+                    676
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "guttatus",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6838,
+                    1076
+                ],
+                [
+                    6838,
+                    2242
+                ],
+                [
+                    7066,
+                    2242
+                ],
+                [
+                    7066,
+                    1076
+                ],
+                [
+                    6838,
+                    1076
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "(Jackdaw",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    2401,
+                    759
+                ],
+                [
+                    2401,
+                    2491
+                ],
+                [
+                    2677,
+                    2491
+                ],
+                [
+                    2677,
+                    759
+                ],
+                [
+                    2401,
+                    759
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "G.B.T. det",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    7452,
+                    1173
+                ],
+                [
+                    7452,
+                    2063
+                ],
+                [
+                    7777,
+                    2063
+                ],
+                [
+                    7777,
+                    1173
+                ],
+                [
+                    7452,
+                    1173
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Kent,",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        }
+    ]
+}

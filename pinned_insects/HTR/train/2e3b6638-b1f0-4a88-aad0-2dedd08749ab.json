@@ -1,0 +1,235 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "6839ee30-edd1-44ea-b3ec-2f5159e9a94e",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/917ed75a-5e88-49d6-92d5-2dab757ff405",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/917ed75a-5e88-49d6-92d5-2dab757ff405/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "2e3b6638-b1f0-4a88-aad0-2dedd08749ab",
+        "name": "010266087__.2500x5792.jpeg",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    1788,
+                    688
+                ],
+                [
+                    2273,
+                    706
+                ],
+                [
+                    2291,
+                    580
+                ],
+                [
+                    1791,
+                    547
+                ],
+                [
+                    1788,
+                    688
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Colchester 98",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1831,
+                    787
+                ],
+                [
+                    1831,
+                    876
+                ],
+                [
+                    2289,
+                    876
+                ],
+                [
+                    2289,
+                    787
+                ],
+                [
+                    1831,
+                    787
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BRITISH ISLES:",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1846,
+                    876
+                ],
+                [
+                    1846,
+                    948
+                ],
+                [
+                    2286,
+                    948
+                ],
+                [
+                    2286,
+                    876
+                ],
+                [
+                    1846,
+                    876
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Harwood Coll.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1834,
+                    948
+                ],
+                [
+                    1834,
+                    1011
+                ],
+                [
+                    2295,
+                    1011
+                ],
+                [
+                    2295,
+                    948
+                ],
+                [
+                    1834,
+                    948
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "B.M. 1957\u2014670.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1743,
+                    1187
+                ],
+                [
+                    2244,
+                    1215
+                ],
+                [
+                    2238,
+                    1098
+                ],
+                [
+                    1747,
+                    1074
+                ],
+                [
+                    1743,
+                    1187
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BMNH(E)",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1732,
+                    1323
+                ],
+                [
+                    2241,
+                    1338
+                ],
+                [
+                    2251,
+                    1218
+                ],
+                [
+                    1738,
+                    1194
+                ],
+                [
+                    1732,
+                    1323
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "#968094",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1969,
+                    1565
+                ],
+                [
+                    2238,
+                    1577
+                ],
+                [
+                    2235,
+                    1509
+                ],
+                [
+                    1972,
+                    1497
+                ],
+                [
+                    1969,
+                    1565
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1957,
+                    1574
+                ],
+                [
+                    1957,
+                    1652
+                ],
+                [
+                    2380,
+                    1666
+                ],
+                [
+                    2385,
+                    1601
+                ],
+                [
+                    1957,
+                    1574
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "010266087",
+            "worker_version": null
+        }
+    ]
+}

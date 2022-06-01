@@ -1,0 +1,386 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "438d96cb-88a1-4786-a83a-08301ba7e92a",
+        "name": "BGBM"
+    },
+    "image": {
+        "id": "982b88e2-0db1-4124-9633-36bb48eea4c4",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FB_10_0088192.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FB_10_0088192.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "4fd24806-3be8-4e6e-9858-a7d27edd5c40",
+        "name": "B_10_0088192",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    5744,
+                    629
+                ],
+                [
+                    5744,
+                    645
+                ],
+                [
+                    5744,
+                    831
+                ],
+                [
+                    6527,
+                    831
+                ],
+                [
+                    6531,
+                    664
+                ],
+                [
+                    5744,
+                    629
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "IMAGE 2002",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    5721,
+                    1074
+                ],
+                [
+                    6421,
+                    1089
+                ],
+                [
+                    6413,
+                    876
+                ],
+                [
+                    5736,
+                    876
+                ],
+                [
+                    5740,
+                    857
+                ],
+                [
+                    5721,
+                    1074
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "IMAGE 2008",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    5709,
+                    8971
+                ],
+                [
+                    6735,
+                    8975
+                ],
+                [
+                    6726,
+                    8757
+                ],
+                [
+                    5737,
+                    8771
+                ],
+                [
+                    5709,
+                    8971
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "149/2006-12",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    225,
+                    9045
+                ],
+                [
+                    225,
+                    9191
+                ],
+                [
+                    2424,
+                    9191
+                ],
+                [
+                    2424,
+                    9045
+                ],
+                [
+                    225,
+                    9045
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "K. H. RECHINGER, ITER IRANICUM VIII., 1974",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    236,
+                    9243
+                ],
+                [
+                    236,
+                    9381
+                ],
+                [
+                    608,
+                    9381
+                ],
+                [
+                    608,
+                    9243
+                ],
+                [
+                    236,
+                    9243
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "48965",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    206,
+                    9484
+                ],
+                [
+                    206,
+                    9612
+                ],
+                [
+                    2027,
+                    9612
+                ],
+                [
+                    2027,
+                    9484
+                ],
+                [
+                    206,
+                    9484
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Centaurea ochrocephala WAGENITZ",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    132,
+                    10163
+                ],
+                [
+                    132,
+                    10291
+                ],
+                [
+                    1205,
+                    10291
+                ],
+                [
+                    1205,
+                    10163
+                ],
+                [
+                    132,
+                    10163
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "in rupium fissuris",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    181,
+                    9932
+                ],
+                [
+                    184,
+                    10025
+                ],
+                [
+                    1536,
+                    10030
+                ],
+                [
+                    1531,
+                    9932
+                ],
+                [
+                    181,
+                    9932
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "PERSIA: W: Azerbaijan occidentalis:",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    189,
+                    10052
+                ],
+                [
+                    189,
+                    10144
+                ],
+                [
+                    2036,
+                    10144
+                ],
+                [
+                    2036,
+                    10052
+                ],
+                [
+                    189,
+                    10052
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Chalil Kuh: In faucibus NW Selvana, 1750 - 2000 m",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    168,
+                    10516
+                ],
+                [
+                    168,
+                    10633
+                ],
+                [
+                    437,
+                    10633
+                ],
+                [
+                    437,
+                    10516
+                ],
+                [
+                    168,
+                    10516
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "4. VII.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1289,
+                    10551
+                ],
+                [
+                    1289,
+                    10638
+                ],
+                [
+                    1954,
+                    10638
+                ],
+                [
+                    1954,
+                    10551
+                ],
+                [
+                    1289,
+                    10551
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "G. WAGENITZ",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2038,
+                    9873
+                ],
+                [
+                    2131,
+                    9908
+                ],
+                [
+                    2475,
+                    9984
+                ],
+                [
+                    2508,
+                    9824
+                ],
+                [
+                    2065,
+                    9772
+                ],
+                [
+                    2071,
+                    9778
+                ],
+                [
+                    2038,
+                    9873
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "29. Juni 1981",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    5647,
+                    10428
+                ],
+                [
+                    5647,
+                    10630
+                ],
+                [
+                    6632,
+                    10626
+                ],
+                [
+                    6609,
+                    10428
+                ],
+                [
+                    5647,
+                    10428
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Mus. bot. Berol.",
+            "worker_version": null
+        }
+    ]
+}

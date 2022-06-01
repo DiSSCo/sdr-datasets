@@ -1,0 +1,515 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "e28d3ac9-9c27-461f-a8d0-9f42d20da281",
+        "name": "Luomus"
+    },
+    "image": {
+        "id": "dbfb50fb-00b5-4775-b825-09bbc1b90144",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FEIG.2709.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FEIG.2709.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "95ed4dd9-bc09-406e-b392-d1c75d797b4b",
+        "name": "EIG.2709",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    3488,
+                    4742
+                ],
+                [
+                    3508,
+                    4906
+                ],
+                [
+                    3932,
+                    4744
+                ],
+                [
+                    3875,
+                    4639
+                ],
+                [
+                    3488,
+                    4742
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Athyrium",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3660,
+                    4861
+                ],
+                [
+                    3690,
+                    4963
+                ],
+                [
+                    4420,
+                    4748
+                ],
+                [
+                    4495,
+                    4681
+                ],
+                [
+                    4436,
+                    4557
+                ],
+                [
+                    3660,
+                    4861
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "cordifolium (Blume) Copel.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3618,
+                    5024
+                ],
+                [
+                    3644,
+                    5157
+                ],
+                [
+                    4544,
+                    4853
+                ],
+                [
+                    4511,
+                    4732
+                ],
+                [
+                    3618,
+                    5024
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "= A. integrifolium (Blume) Milde.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2652,
+                    6863
+                ],
+                [
+                    2652,
+                    7153
+                ],
+                [
+                    2739,
+                    7153
+                ],
+                [
+                    2739,
+                    6863
+                ],
+                [
+                    2652,
+                    6863
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Digitarium",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3025,
+                    6892
+                ],
+                [
+                    3025,
+                    6976
+                ],
+                [
+                    3610,
+                    6976
+                ],
+                [
+                    3610,
+                    6892
+                ],
+                [
+                    3025,
+                    6892
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "http://id.luomus.fi/",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3147,
+                    6982
+                ],
+                [
+                    3147,
+                    7043
+                ],
+                [
+                    3474,
+                    7043
+                ],
+                [
+                    3474,
+                    6982
+                ],
+                [
+                    3147,
+                    6982
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "EIG.2709",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3112,
+                    7072
+                ],
+                [
+                    3112,
+                    7127
+                ],
+                [
+                    3488,
+                    7127
+                ],
+                [
+                    3488,
+                    7072
+                ],
+                [
+                    3112,
+                    7072
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "2013-04-02",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2817,
+                    7225
+                ],
+                [
+                    2817,
+                    7301
+                ],
+                [
+                    3512,
+                    7301
+                ],
+                [
+                    3512,
+                    7225
+                ],
+                [
+                    2817,
+                    7225
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "MUSEUM BOTANICUM",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2805,
+                    7315
+                ],
+                [
+                    2805,
+                    7370
+                ],
+                [
+                    3500,
+                    7370
+                ],
+                [
+                    3500,
+                    7315
+                ],
+                [
+                    2805,
+                    7315
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "UNIV. (H), HELSINKI",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2906,
+                    7405
+                ],
+                [
+                    2906,
+                    7497
+                ],
+                [
+                    3297,
+                    7497
+                ],
+                [
+                    3297,
+                    7405
+                ],
+                [
+                    2906,
+                    7405
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "1127396",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2782,
+                    7573
+                ],
+                [
+                    2782,
+                    7688
+                ],
+                [
+                    3022,
+                    7688
+                ],
+                [
+                    3022,
+                    7573
+                ],
+                [
+                    2782,
+                    7573
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "QUADR.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1001,
+                    7065
+                ],
+                [
+                    1001,
+                    7138
+                ],
+                [
+                    1973,
+                    7138
+                ],
+                [
+                    1973,
+                    7065
+                ],
+                [
+                    1001,
+                    7065
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Communicat. ex Herbario Lugdano-Batavo",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    821,
+                    7468
+                ],
+                [
+                    1012,
+                    7485
+                ],
+                [
+                    1079,
+                    7427
+                ],
+                [
+                    1267,
+                    7433
+                ],
+                [
+                    1336,
+                    7468
+                ],
+                [
+                    1420,
+                    7444
+                ],
+                [
+                    1585,
+                    7471
+                ],
+                [
+                    1698,
+                    7459
+                ],
+                [
+                    1753,
+                    7505
+                ],
+                [
+                    1834,
+                    7450
+                ],
+                [
+                    1927,
+                    7430
+                ],
+                [
+                    2057,
+                    7456
+                ],
+                [
+                    2054,
+                    7256
+                ],
+                [
+                    876,
+                    7239
+                ],
+                [
+                    821,
+                    7468
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Asplenium integrifolium",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    865,
+                    7528
+                ],
+                [
+                    865,
+                    7624
+                ],
+                [
+                    1006,
+                    7624
+                ],
+                [
+                    1006,
+                    7528
+                ],
+                [
+                    865,
+                    7528
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Java",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1015,
+                    7494
+                ],
+                [
+                    1015,
+                    7615
+                ],
+                [
+                    1638,
+                    7595
+                ],
+                [
+                    1614,
+                    7482
+                ],
+                [
+                    1426,
+                    7465
+                ],
+                [
+                    1325,
+                    7476
+                ],
+                [
+                    1197,
+                    7436
+                ],
+                [
+                    1093,
+                    7442
+                ],
+                [
+                    1015,
+                    7494
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "indivica",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1765,
+                    7523
+                ],
+                [
+                    1910,
+                    7601
+                ],
+                [
+                    2034,
+                    7465
+                ],
+                [
+                    1933,
+                    7436
+                ],
+                [
+                    1837,
+                    7456
+                ],
+                [
+                    1765,
+                    7523
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "M",
+            "worker_version": null
+        }
+    ]
+}

@@ -1,0 +1,289 @@
+{
+    "dataset_id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+    "folder": {
+        "id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+        "name": "2000 Louse Subset"
+    },
+    "image": {
+        "id": "c4f63aa3-8509-480a-87ab-20935fcd6d89",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fsynthesys%2Fslides_images%2F2f9f3a3e-e3b3-4b16-9a99-531a3d8c4d56.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fsynthesys%2Fslides_images%2F2f9f3a3e-e3b3-4b16-9a99-531a3d8c4d56.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "2f9f3a3e-e3b3-4b16-9a99-531a3d8c4d56",
+        "name": "151",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    2237,
+                    5928
+                ],
+                [
+                    2237,
+                    6488
+                ],
+                [
+                    2633,
+                    6488
+                ],
+                [
+                    2633,
+                    5928
+                ],
+                [
+                    2237,
+                    5928
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "\u2642 \u2640",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    337,
+                    5109
+                ],
+                [
+                    337,
+                    5238
+                ],
+                [
+                    707,
+                    5238
+                ],
+                [
+                    707,
+                    5109
+                ],
+                [
+                    337,
+                    5109
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    2240,
+                    454
+                ],
+                [
+                    2240,
+                    2490
+                ],
+                [
+                    2576,
+                    2490
+                ],
+                [
+                    2576,
+                    454
+                ],
+                [
+                    2240,
+                    454
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BritMus1970-558",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    686,
+                    5203
+                ],
+                [
+                    686,
+                    5628
+                ],
+                [
+                    800,
+                    5628
+                ],
+                [
+                    800,
+                    5203
+                ],
+                [
+                    686,
+                    5203
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "010673218",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    383,
+                    5986
+                ],
+                [
+                    383,
+                    8053
+                ],
+                [
+                    904,
+                    8053
+                ],
+                [
+                    904,
+                    5986
+                ],
+                [
+                    383,
+                    5986
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Carduiceps",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    1044,
+                    513
+                ],
+                [
+                    1044,
+                    2431
+                ],
+                [
+                    1358,
+                    2431
+                ],
+                [
+                    1358,
+                    513
+                ],
+                [
+                    1044,
+                    513
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Ex. B.M. Bird Coll.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    1620,
+                    542
+                ],
+                [
+                    1620,
+                    2307
+                ],
+                [
+                    2000,
+                    2307
+                ],
+                [
+                    2000,
+                    542
+                ],
+                [
+                    1620,
+                    542
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "himantopus",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    526,
+                    615
+                ],
+                [
+                    526,
+                    2300
+                ],
+                [
+                    789,
+                    2300
+                ],
+                [
+                    789,
+                    615
+                ],
+                [
+                    526,
+                    615
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "MALLOPHAGA",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    854,
+                    651
+                ],
+                [
+                    854,
+                    2169
+                ],
+                [
+                    1088,
+                    2169
+                ],
+                [
+                    1088,
+                    651
+                ],
+                [
+                    854,
+                    651
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Brit. Mus. Coll.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    1307,
+                    710
+                ],
+                [
+                    1307,
+                    2468
+                ],
+                [
+                    1686,
+                    2468
+                ],
+                [
+                    1686,
+                    710
+                ],
+                [
+                    1307,
+                    710
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Micropalama",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        }
+    ]
+}

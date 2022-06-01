@@ -1,0 +1,27 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "c6c2d3d3-37c1-4fc0-89f3-a5a9f000ebec",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/f87a1e8c-79fb-4a9a-8b12-81c8defc603b",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/f87a1e8c-79fb-4a9a-8b12-81c8defc603b/full/full/0/default.jpg"
+    },
+    "named_entities": [
+        {
+            "tags": "ARGYLL B-location_name\n: I-location_name\nAirds I-location_name\nBay I-location_name\n. I-location_name\n9 B-date\n- I-date\n14 I-date\n. I-date\nViii I-date\n. I-date\n1929 I-date\nJ B-person_name\n. I-person_name\nWaterston I-person_name\nB B-identifier\n. I-identifier\nM I-identifier\n. I-identifier\n1930 I-identifier\n- I-identifier\n333 I-identifier",
+            "worker_version_id": null
+        },
+        {
+            "tags": "NHMUK010808956 B-identifier",
+            "worker_version_id": null
+        }
+    ],
+    "page": {
+        "id": "e03c0f83-41cc-4bba-adf4-4011248fe711",
+        "name": "010808956__.2500x5792.jpeg",
+        "rotation_angle": 0
+    }
+}

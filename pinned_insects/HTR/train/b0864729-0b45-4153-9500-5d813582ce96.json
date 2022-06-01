@@ -1,0 +1,235 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "5e7fa5c5-46b0-42c6-a69c-fd3d6e2e3774",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/28e0226f-dfb5-4bed-b823-41c0cd32cf06",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/28e0226f-dfb5-4bed-b823-41c0cd32cf06/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "b0864729-0b45-4153-9500-5d813582ce96",
+        "name": "011237328_136998_1084658.2500x5792.jpeg",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    1823,
+                    579
+                ],
+                [
+                    1824,
+                    623
+                ],
+                [
+                    2129,
+                    623
+                ],
+                [
+                    2131,
+                    576
+                ],
+                [
+                    1823,
+                    579
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "9. v. 1933",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1819,
+                    630
+                ],
+                [
+                    1823,
+                    681
+                ],
+                [
+                    2178,
+                    687
+                ],
+                [
+                    2175,
+                    636
+                ],
+                [
+                    1819,
+                    630
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Eastbourne",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1828,
+                    687
+                ],
+                [
+                    1829,
+                    727
+                ],
+                [
+                    2166,
+                    730
+                ],
+                [
+                    2169,
+                    691
+                ],
+                [
+                    1828,
+                    687
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Sussex",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1712,
+                    888
+                ],
+                [
+                    1724,
+                    947
+                ],
+                [
+                    2214,
+                    967
+                ],
+                [
+                    2205,
+                    910
+                ],
+                [
+                    1712,
+                    888
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Rayward Coll",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1789,
+                    971
+                ],
+                [
+                    1789,
+                    1016
+                ],
+                [
+                    2169,
+                    1011
+                ],
+                [
+                    2166,
+                    972
+                ],
+                [
+                    1789,
+                    971
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ex.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1839,
+                    1024
+                ],
+                [
+                    1843,
+                    1071
+                ],
+                [
+                    2155,
+                    1066
+                ],
+                [
+                    2157,
+                    1019
+                ],
+                [
+                    1839,
+                    1024
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "No. 65828",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1742,
+                    1447
+                ],
+                [
+                    1742,
+                    1543
+                ],
+                [
+                    2348,
+                    1543
+                ],
+                [
+                    2348,
+                    1447
+                ],
+                [
+                    1742,
+                    1447
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK011237328",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1746,
+                    562
+                ],
+                [
+                    1746,
+                    727
+                ],
+                [
+                    1818,
+                    731
+                ],
+                [
+                    1815,
+                    564
+                ],
+                [
+                    1746,
+                    562
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "A. L. R",
+            "worker_version": null
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "a4bdf73f-a3d0-4a8a-8b61-47884a3f4ea5",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/4029017a-f868-4e63-b4ac-ee09d1782f36",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/4029017a-f868-4e63-b4ac-ee09d1782f36/full/full/0/default.jpg"
+    },
+    "named_entities": [
+        {
+            "tags": "Herts B-location_name\nMV O\n14 B-date\n: I-date\n8 I-date\n: I-date\n1973 I-date\nB B-person_name\n. I-person_name\nG I-person_name\n. I-person_name\nWithers I-person_name",
+            "worker_version_id": null
+        },
+        {
+            "tags": "NHMUK010519828 B-identifier",
+            "worker_version_id": null
+        },
+        {
+            "tags": "Withers B-Collection/Donation\nColl I-Collection/Donation\n. I-Collection/Donation\nBMNH B-identifier\n( I-identifier\nE I-identifier\n) I-identifier\n2010 I-identifier\n- I-identifier\n119 I-identifier",
+            "worker_version_id": null
+        }
+    ],
+    "page": {
+        "id": "ef76acb8-12e9-4888-ac96-2f578efbf855",
+        "name": "010519828_151436_1083619.2500x5792.jpeg",
+        "rotation_angle": 0
+    }
+}

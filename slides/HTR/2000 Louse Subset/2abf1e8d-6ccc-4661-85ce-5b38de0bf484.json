@@ -1,0 +1,316 @@
+{
+    "dataset_id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+    "folder": {
+        "id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+        "name": "2000 Louse Subset"
+    },
+    "image": {
+        "id": "681455a4-364e-4dd6-bedf-bd4dfb44328b",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/33120c62-005d-46b6-bddc-fbfd4ca2c9d1",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/33120c62-005d-46b6-bddc-fbfd4ca2c9d1/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "2abf1e8d-6ccc-4661-85ce-5b38de0bf484",
+        "name": "69",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    6136,
+                    452
+                ],
+                [
+                    6136,
+                    887
+                ],
+                [
+                    7341,
+                    887
+                ],
+                [
+                    7341,
+                    452
+                ],
+                [
+                    6136,
+                    452
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Ninox",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    648,
+                    507
+                ],
+                [
+                    648,
+                    991
+                ],
+                [
+                    2557,
+                    991
+                ],
+                [
+                    2557,
+                    507
+                ],
+                [
+                    648,
+                    507
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Kurodaia",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    3542,
+                    2318
+                ],
+                [
+                    3542,
+                    2741
+                ],
+                [
+                    3689,
+                    2741
+                ],
+                [
+                    3689,
+                    2318
+                ],
+                [
+                    3542,
+                    2318
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6130,
+                    789
+                ],
+                [
+                    6130,
+                    1205
+                ],
+                [
+                    8516,
+                    1205
+                ],
+                [
+                    8516,
+                    789
+                ],
+                [
+                    6130,
+                    789
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "novaeseelandiae",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    2435,
+                    2465
+                ],
+                [
+                    2435,
+                    2789
+                ],
+                [
+                    2734,
+                    2789
+                ],
+                [
+                    2734,
+                    2465
+                ],
+                [
+                    2435,
+                    2465
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "\u0398",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    3144,
+                    2655
+                ],
+                [
+                    3144,
+                    2783
+                ],
+                [
+                    3628,
+                    2783
+                ],
+                [
+                    3628,
+                    2655
+                ],
+                [
+                    3144,
+                    2655
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "010657885",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6136,
+                    1150
+                ],
+                [
+                    6136,
+                    1572
+                ],
+                [
+                    8076,
+                    1572
+                ],
+                [
+                    8076,
+                    1150
+                ],
+                [
+                    6136,
+                    1150
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "W. Australia.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6142,
+                    1560
+                ],
+                [
+                    6142,
+                    1933
+                ],
+                [
+                    7066,
+                    1933
+                ],
+                [
+                    7066,
+                    1560
+                ],
+                [
+                    6142,
+                    1560
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "1970.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6142,
+                    1829
+                ],
+                [
+                    6142,
+                    2282
+                ],
+                [
+                    8021,
+                    2282
+                ],
+                [
+                    8021,
+                    1829
+                ],
+                [
+                    6142,
+                    1829
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "R. Stranger",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6166,
+                    2214
+                ],
+                [
+                    6166,
+                    2489
+                ],
+                [
+                    7525,
+                    2489
+                ],
+                [
+                    7525,
+                    2214
+                ],
+                [
+                    6166,
+                    2214
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "691228.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6118,
+                    2471
+                ],
+                [
+                    6118,
+                    2789
+                ],
+                [
+                    8571,
+                    2789
+                ],
+                [
+                    8571,
+                    2471
+                ],
+                [
+                    6118,
+                    2471
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Brit Mus 1970-244",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        }
+    ]
+}

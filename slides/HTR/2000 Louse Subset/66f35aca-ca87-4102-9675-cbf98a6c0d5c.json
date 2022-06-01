@@ -1,0 +1,262 @@
+{
+    "dataset_id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+    "folder": {
+        "id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+        "name": "2000 Louse Subset"
+    },
+    "image": {
+        "id": "d7c4fae5-e593-4389-b023-3c04e21340a3",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/96c9afc9-6af5-4e58-ac9f-0abbb795795a",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/96c9afc9-6af5-4e58-ac9f-0abbb795795a/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "66f35aca-ca87-4102-9675-cbf98a6c0d5c",
+        "name": "12",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    3336,
+                    120
+                ],
+                [
+                    3336,
+                    206
+                ],
+                [
+                    3690,
+                    206
+                ],
+                [
+                    3690,
+                    120
+                ],
+                [
+                    3336,
+                    120
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    7413,
+                    105
+                ],
+                [
+                    7413,
+                    2528
+                ],
+                [
+                    7790,
+                    2528
+                ],
+                [
+                    7790,
+                    105
+                ],
+                [
+                    7413,
+                    105
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Baroda. India.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    855,
+                    374
+                ],
+                [
+                    855,
+                    2519
+                ],
+                [
+                    1429,
+                    2519
+                ],
+                [
+                    1429,
+                    374
+                ],
+                [
+                    855,
+                    374
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Philopterus",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    3668,
+                    184
+                ],
+                [
+                    3668,
+                    624
+                ],
+                [
+                    3763,
+                    624
+                ],
+                [
+                    3763,
+                    184
+                ],
+                [
+                    3668,
+                    184
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "010647309",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6736,
+                    155
+                ],
+                [
+                    6736,
+                    2542
+                ],
+                [
+                    7113,
+                    2542
+                ],
+                [
+                    7113,
+                    155
+                ],
+                [
+                    6736,
+                    155
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Lanius excubitor",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6258,
+                    305
+                ],
+                [
+                    6258,
+                    2392
+                ],
+                [
+                    6600,
+                    2392
+                ],
+                [
+                    6600,
+                    305
+                ],
+                [
+                    6258,
+                    305
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "MEINERTZHAGEN",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    7819,
+                    305
+                ],
+                [
+                    7819,
+                    1815
+                ],
+                [
+                    8132,
+                    1815
+                ],
+                [
+                    8132,
+                    305
+                ],
+                [
+                    7819,
+                    305
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Oct. 1945.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    8239,
+                    597
+                ],
+                [
+                    8239,
+                    1723
+                ],
+                [
+                    8602,
+                    1723
+                ],
+                [
+                    8602,
+                    597
+                ],
+                [
+                    8239,
+                    597
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "15727.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    7092,
+                    689
+                ],
+                [
+                    7092,
+                    1986
+                ],
+                [
+                    7398,
+                    1986
+                ],
+                [
+                    7398,
+                    689
+                ],
+                [
+                    7092,
+                    689
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Lahtora",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        }
+    ]
+}

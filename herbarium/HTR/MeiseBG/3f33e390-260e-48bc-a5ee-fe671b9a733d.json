@@ -1,0 +1,906 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "40737841-bfc1-4187-b1f6-3328e53d3aa3",
+        "name": "MeiseBG"
+    },
+    "image": {
+        "id": "b07b2cd1-da6f-4b18-9543-eada37273f77",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FBR0000027579701V.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FBR0000027579701V.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "3f33e390-260e-48bc-a5ee-fe671b9a733d",
+        "name": "BR0000027579701V",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    433,
+                    6076
+                ],
+                [
+                    499,
+                    6097
+                ],
+                [
+                    583,
+                    6081
+                ],
+                [
+                    1557,
+                    6068
+                ],
+                [
+                    1555,
+                    5995
+                ],
+                [
+                    467,
+                    6008
+                ],
+                [
+                    473,
+                    6021
+                ],
+                [
+                    433,
+                    6076
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Eggert , Herbarium Americanum .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    433,
+                    6076
+                ],
+                [
+                    499,
+                    6097
+                ],
+                [
+                    583,
+                    6081
+                ],
+                [
+                    1557,
+                    6068
+                ],
+                [
+                    1555,
+                    5995
+                ],
+                [
+                    467,
+                    6008
+                ],
+                [
+                    473,
+                    6021
+                ],
+                [
+                    433,
+                    6076
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Eggert, Herbarium Americanum.",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    433,
+                    6076
+                ],
+                [
+                    499,
+                    6097
+                ],
+                [
+                    583,
+                    6081
+                ],
+                [
+                    1557,
+                    6068
+                ],
+                [
+                    1555,
+                    5995
+                ],
+                [
+                    467,
+                    6008
+                ],
+                [
+                    473,
+                    6021
+                ],
+                [
+                    433,
+                    6076
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Eggert , Herbarium Americanum .",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    809,
+                    6097
+                ],
+                [
+                    809,
+                    6144
+                ],
+                [
+                    1208,
+                    6144
+                ],
+                [
+                    1208,
+                    6097
+                ],
+                [
+                    809,
+                    6097
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ST . LOUIS , MO .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    809,
+                    6097
+                ],
+                [
+                    809,
+                    6144
+                ],
+                [
+                    1208,
+                    6144
+                ],
+                [
+                    1208,
+                    6097
+                ],
+                [
+                    809,
+                    6097
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ST. LOUIS, MO.",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    809,
+                    6097
+                ],
+                [
+                    809,
+                    6144
+                ],
+                [
+                    1208,
+                    6144
+                ],
+                [
+                    1208,
+                    6097
+                ],
+                [
+                    809,
+                    6097
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ST . LOUIS , MO .",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    286,
+                    6391
+                ],
+                [
+                    502,
+                    6477
+                ],
+                [
+                    1379,
+                    6430
+                ],
+                [
+                    1542,
+                    6462
+                ],
+                [
+                    1770,
+                    6404
+                ],
+                [
+                    1759,
+                    6267
+                ],
+                [
+                    1339,
+                    6215
+                ],
+                [
+                    449,
+                    6241
+                ],
+                [
+                    444,
+                    6246
+                ],
+                [
+                    289,
+                    6309
+                ],
+                [
+                    286,
+                    6391
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Graypvatis Traentin Vieig.",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    444,
+                    6693
+                ],
+                [
+                    709,
+                    6693
+                ],
+                [
+                    822,
+                    6672
+                ],
+                [
+                    1258,
+                    6638
+                ],
+                [
+                    1350,
+                    6561
+                ],
+                [
+                    1106,
+                    6496
+                ],
+                [
+                    659,
+                    6485
+                ],
+                [
+                    460,
+                    6575
+                ],
+                [
+                    457,
+                    6593
+                ],
+                [
+                    444,
+                    6693
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Goasy places",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    328,
+                    6845
+                ],
+                [
+                    578,
+                    6877
+                ],
+                [
+                    1077,
+                    6842
+                ],
+                [
+                    1132,
+                    6730
+                ],
+                [
+                    704,
+                    6714
+                ],
+                [
+                    386,
+                    6766
+                ],
+                [
+                    378,
+                    6777
+                ],
+                [
+                    328,
+                    6845
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "2 daytl872",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    328,
+                    6845
+                ],
+                [
+                    578,
+                    6877
+                ],
+                [
+                    1077,
+                    6842
+                ],
+                [
+                    1132,
+                    6730
+                ],
+                [
+                    704,
+                    6714
+                ],
+                [
+                    386,
+                    6766
+                ],
+                [
+                    378,
+                    6777
+                ],
+                [
+                    328,
+                    6845
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "26 Septle. 1885.",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    1184,
+                    6829
+                ],
+                [
+                    1184,
+                    6924
+                ],
+                [
+                    1733,
+                    6924
+                ],
+                [
+                    1733,
+                    6829
+                ],
+                [
+                    1184,
+                    6829
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "leg . H . Eggert",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1184,
+                    6829
+                ],
+                [
+                    1184,
+                    6924
+                ],
+                [
+                    1733,
+                    6924
+                ],
+                [
+                    1733,
+                    6829
+                ],
+                [
+                    1184,
+                    6829
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "leg . H. Eggert.",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    2243,
+                    6417
+                ],
+                [
+                    2243,
+                    6472
+                ],
+                [
+                    2569,
+                    6472
+                ],
+                [
+                    2569,
+                    6417
+                ],
+                [
+                    2243,
+                    6417
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ex - herb . LV",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2243,
+                    6417
+                ],
+                [
+                    2243,
+                    6472
+                ],
+                [
+                    2569,
+                    6472
+                ],
+                [
+                    2569,
+                    6417
+                ],
+                [
+                    2243,
+                    6417
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ex-herb . LV",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    2243,
+                    6417
+                ],
+                [
+                    2243,
+                    6472
+                ],
+                [
+                    2569,
+                    6472
+                ],
+                [
+                    2569,
+                    6417
+                ],
+                [
+                    2243,
+                    6417
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ex - herb . LV",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    2243,
+                    6493
+                ],
+                [
+                    2243,
+                    6556
+                ],
+                [
+                    2571,
+                    6556
+                ],
+                [
+                    2571,
+                    6493
+                ],
+                [
+                    2243,
+                    6493
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BR acc . 2017",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2243,
+                    6493
+                ],
+                [
+                    2243,
+                    6556
+                ],
+                [
+                    2571,
+                    6556
+                ],
+                [
+                    2571,
+                    6493
+                ],
+                [
+                    2243,
+                    6493
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BRacc. 2017",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    2243,
+                    6493
+                ],
+                [
+                    2243,
+                    6556
+                ],
+                [
+                    2571,
+                    6556
+                ],
+                [
+                    2571,
+                    6493
+                ],
+                [
+                    2243,
+                    6493
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BR acc . 2017",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    2085,
+                    6738
+                ],
+                [
+                    2085,
+                    6785
+                ],
+                [
+                    2658,
+                    6785
+                ],
+                [
+                    2658,
+                    6738
+                ],
+                [
+                    2085,
+                    6738
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB . PLANTENTUIN MEISE",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2085,
+                    6738
+                ],
+                [
+                    2085,
+                    6785
+                ],
+                [
+                    2658,
+                    6785
+                ],
+                [
+                    2658,
+                    6738
+                ],
+                [
+                    2085,
+                    6738
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB. PLANTENTUIN MEISE",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    2085,
+                    6738
+                ],
+                [
+                    2085,
+                    6785
+                ],
+                [
+                    2658,
+                    6785
+                ],
+                [
+                    2658,
+                    6738
+                ],
+                [
+                    2085,
+                    6738
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB . PLANTENTUIN MEISE",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    2109,
+                    6969
+                ],
+                [
+                    2109,
+                    7024
+                ],
+                [
+                    2629,
+                    7024
+                ],
+                [
+                    2629,
+                    6969
+                ],
+                [
+                    2109,
+                    6969
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BRO000027579701V",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2109,
+                    6969
+                ],
+                [
+                    2109,
+                    7024
+                ],
+                [
+                    2629,
+                    7024
+                ],
+                [
+                    2629,
+                    6969
+                ],
+                [
+                    2109,
+                    6969
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BR0000027579701V",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3136,
+                    6789
+                ],
+                [
+                    3136,
+                    6879
+                ],
+                [
+                    4192,
+                    6879
+                ],
+                [
+                    4192,
+                    6789
+                ],
+                [
+                    3136,
+                    6789
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "UNIVERSITAS LOVANIENSIS",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3136,
+                    6789
+                ],
+                [
+                    3136,
+                    6879
+                ],
+                [
+                    4192,
+                    6879
+                ],
+                [
+                    4192,
+                    6789
+                ],
+                [
+                    3136,
+                    6789
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "UNIVERSITAS LOVANIENSIS",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3136,
+                    6789
+                ],
+                [
+                    3136,
+                    6879
+                ],
+                [
+                    4192,
+                    6879
+                ],
+                [
+                    4192,
+                    6789
+                ],
+                [
+                    3136,
+                    6789
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "UNIVERSITAS LOVANIENSIS",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    3265,
+                    6897
+                ],
+                [
+                    3265,
+                    6981
+                ],
+                [
+                    4068,
+                    6981
+                ],
+                [
+                    4068,
+                    6897
+                ],
+                [
+                    3265,
+                    6897
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herbarium Instituti Carnoy",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3265,
+                    6897
+                ],
+                [
+                    3265,
+                    6981
+                ],
+                [
+                    4068,
+                    6981
+                ],
+                [
+                    4068,
+                    6897
+                ],
+                [
+                    3265,
+                    6897
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herbarium Instituti Carnoy",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3265,
+                    6897
+                ],
+                [
+                    3265,
+                    6981
+                ],
+                [
+                    4068,
+                    6981
+                ],
+                [
+                    4068,
+                    6897
+                ],
+                [
+                    3265,
+                    6897
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herbarium Instituti Carnoy",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        }
+    ]
+}

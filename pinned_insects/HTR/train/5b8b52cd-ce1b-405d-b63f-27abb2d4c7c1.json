@@ -1,0 +1,343 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "e42e8127-ea86-4246-b9d3-84de021af3f2",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/24779450-f39c-43ac-81d0-3e2f24eb4a65",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/24779450-f39c-43ac-81d0-3e2f24eb4a65/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "5b8b52cd-ce1b-405d-b63f-27abb2d4c7c1",
+        "name": "010842700__.2500x5792.jpeg",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    1424,
+                    595
+                ],
+                [
+                    1424,
+                    641
+                ],
+                [
+                    1790,
+                    641
+                ],
+                [
+                    1790,
+                    595
+                ],
+                [
+                    1424,
+                    595
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ENGLAND, Norfolk",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1425,
+                    652
+                ],
+                [
+                    1425,
+                    694
+                ],
+                [
+                    1805,
+                    694
+                ],
+                [
+                    1805,
+                    652
+                ],
+                [
+                    1425,
+                    652
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Norwich Bus Station",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1427,
+                    700
+                ],
+                [
+                    1427,
+                    748
+                ],
+                [
+                    1875,
+                    748
+                ],
+                [
+                    1875,
+                    700
+                ],
+                [
+                    1427,
+                    700
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "52\u00b037'27'\u00b0N; 1\u00b017'34''E",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1424,
+                    755
+                ],
+                [
+                    1424,
+                    801
+                ],
+                [
+                    1881,
+                    801
+                ],
+                [
+                    1881,
+                    755
+                ],
+                [
+                    1424,
+                    755
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Dead in road, 30-v-2017",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1427,
+                    809
+                ],
+                [
+                    1427,
+                    861
+                ],
+                [
+                    1780,
+                    861
+                ],
+                [
+                    1780,
+                    809
+                ],
+                [
+                    1427,
+                    809
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Leg. M.V.L. Barclay",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1427,
+                    1018
+                ],
+                [
+                    1427,
+                    1074
+                ],
+                [
+                    1838,
+                    1074
+                ],
+                [
+                    1838,
+                    1018
+                ],
+                [
+                    1427,
+                    1018
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK010842700",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1916,
+                    695
+                ],
+                [
+                    1916,
+                    742
+                ],
+                [
+                    2101,
+                    742
+                ],
+                [
+                    2101,
+                    695
+                ],
+                [
+                    1916,
+                    695
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BMNH{E}",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1918,
+                    748
+                ],
+                [
+                    1918,
+                    794
+                ],
+                [
+                    2087,
+                    794
+                ],
+                [
+                    2087,
+                    748
+                ],
+                [
+                    1918,
+                    748
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "2017-87",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1918,
+                    800
+                ],
+                [
+                    1918,
+                    847
+                ],
+                [
+                    2182,
+                    847
+                ],
+                [
+                    2182,
+                    800
+                ],
+                [
+                    1918,
+                    800
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "M.V.L. Barclay",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1824,
+                    369
+                ],
+                [
+                    1824,
+                    423
+                ],
+                [
+                    2176,
+                    423
+                ],
+                [
+                    2176,
+                    369
+                ],
+                [
+                    1824,
+                    369
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Bombus hypnorum",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1823,
+                    424
+                ],
+                [
+                    1823,
+                    470
+                ],
+                [
+                    2143,
+                    470
+                ],
+                [
+                    2143,
+                    424
+                ],
+                [
+                    1823,
+                    424
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "(Linnaeus, 1758)",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1823,
+                    474
+                ],
+                [
+                    1823,
+                    531
+                ],
+                [
+                    2171,
+                    531
+                ],
+                [
+                    2171,
+                    474
+                ],
+                [
+                    1823,
+                    474
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Det. M.V.L. Barclay",
+            "worker_version": null
+        }
+    ]
+}

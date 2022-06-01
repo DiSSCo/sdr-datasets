@@ -1,0 +1,289 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "01461701-dd48-4a27-ab96-27ee9853e15d",
+        "name": "NHM London"
+    },
+    "image": {
+        "id": "2262c8a3-abc8-4065-9b32-c8fbe454b9bb",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FBM000668630.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FBM000668630.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "1e4b5084-d476-402a-87d1-15f2ec10622e",
+        "name": "BM000668630",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    52,
+                    42
+                ],
+                [
+                    52,
+                    118
+                ],
+                [
+                    408,
+                    118
+                ],
+                [
+                    408,
+                    42
+                ],
+                [
+                    52,
+                    42
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB. HAMPE. - 1881.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    714,
+                    1159
+                ],
+                [
+                    714,
+                    1280
+                ],
+                [
+                    1084,
+                    1280
+                ],
+                [
+                    1084,
+                    1159
+                ],
+                [
+                    714,
+                    1159
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Breutel.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    76,
+                    1138
+                ],
+                [
+                    76,
+                    1273
+                ],
+                [
+                    494,
+                    1273
+                ],
+                [
+                    494,
+                    1138
+                ],
+                [
+                    76,
+                    1138
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Rh. Menyicfii aff.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    124,
+                    945
+                ],
+                [
+                    124,
+                    1096
+                ],
+                [
+                    807,
+                    1096
+                ],
+                [
+                    807,
+                    945
+                ],
+                [
+                    124,
+                    945
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "C.B.S. Gnadenthal",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    178,
+                    793
+                ],
+                [
+                    178,
+                    938
+                ],
+                [
+                    1169,
+                    938
+                ],
+                [
+                    1169,
+                    793
+                ],
+                [
+                    178,
+                    793
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Rhizogonium vallis-gratiae Hpe.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    902,
+                    62
+                ],
+                [
+                    902,
+                    103
+                ],
+                [
+                    1087,
+                    103
+                ],
+                [
+                    1087,
+                    62
+                ],
+                [
+                    902,
+                    62
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "N.H.M. LONDON",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    918,
+                    141
+                ],
+                [
+                    918,
+                    176
+                ],
+                [
+                    1075,
+                    176
+                ],
+                [
+                    1075,
+                    141
+                ],
+                [
+                    918,
+                    141
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BM000668630",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1191,
+                    653
+                ],
+                [
+                    1191,
+                    1186
+                ],
+                [
+                    1246,
+                    1186
+                ],
+                [
+                    1246,
+                    653
+                ],
+                [
+                    1191,
+                    653
+                ]
+            ],
+            "rotation_angle": 90,
+            "transcription": "National Herbarium, Pretoria",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1249,
+                    809
+                ],
+                [
+                    1249,
+                    1186
+                ],
+                [
+                    1299,
+                    1186
+                ],
+                [
+                    1299,
+                    809
+                ],
+                [
+                    1249,
+                    809
+                ]
+            ],
+            "rotation_angle": 90,
+            "transcription": "PRE Neg. No. 7671",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1198,
+                    569
+                ],
+                [
+                    1198,
+                    651
+                ],
+                [
+                    1450,
+                    651
+                ],
+                [
+                    1450,
+                    569
+                ],
+                [
+                    1198,
+                    569
+                ]
+            ],
+            "rotation_angle": 180,
+            "transcription": "Seen for Flora of Southern Africa",
+            "worker_version": null
+        }
+    ]
+}

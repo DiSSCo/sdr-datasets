@@ -1,0 +1,505 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "70771f04-7915-4ea6-ab09-1ef9009105f3",
+        "name": "Tartu"
+    },
+    "image": {
+        "id": "22e95c7a-5c4e-4d5f-b7f3-fc68f68ffa1a",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FTU251470.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FTU251470.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "34a2fb73-84a5-46c3-b639-6ba671a92a64",
+        "name": "TU251470",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    5027,
+                    99
+                ],
+                [
+                    5027,
+                    202
+                ],
+                [
+                    6158,
+                    202
+                ],
+                [
+                    6158,
+                    99
+                ],
+                [
+                    5027,
+                    99
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herbarium Universitatis",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    5027,
+                    99
+                ],
+                [
+                    5027,
+                    202
+                ],
+                [
+                    6158,
+                    202
+                ],
+                [
+                    6158,
+                    99
+                ],
+                [
+                    5027,
+                    99
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herbarium Universitatis",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    5010,
+                    252
+                ],
+                [
+                    5010,
+                    397
+                ],
+                [
+                    6153,
+                    397
+                ],
+                [
+                    6153,
+                    252
+                ],
+                [
+                    5010,
+                    252
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Tartuensis (TU)",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    5010,
+                    252
+                ],
+                [
+                    5010,
+                    397
+                ],
+                [
+                    6153,
+                    397
+                ],
+                [
+                    6153,
+                    252
+                ],
+                [
+                    5010,
+                    252
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Tartuensis ( TU )",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4767,
+                    7214
+                ],
+                [
+                    4767,
+                    7454
+                ],
+                [
+                    6379,
+                    7454
+                ],
+                [
+                    6379,
+                    7214
+                ],
+                [
+                    4767,
+                    7214
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Carex disperma Dewey",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4767,
+                    7214
+                ],
+                [
+                    4767,
+                    7454
+                ],
+                [
+                    6379,
+                    7454
+                ],
+                [
+                    6379,
+                    7214
+                ],
+                [
+                    4767,
+                    7214
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Carex disperma Dewey",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4672,
+                    7616
+                ],
+                [
+                    4672,
+                    7814
+                ],
+                [
+                    5505,
+                    7814
+                ],
+                [
+                    5505,
+                    7616
+                ],
+                [
+                    4672,
+                    7616
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "DET K. Orav",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4672,
+                    7616
+                ],
+                [
+                    4672,
+                    7814
+                ],
+                [
+                    5505,
+                    7814
+                ],
+                [
+                    5505,
+                    7616
+                ],
+                [
+                    4672,
+                    7616
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "DET K . Ovar",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    5861,
+                    7566
+                ],
+                [
+                    5861,
+                    7702
+                ],
+                [
+                    6391,
+                    7702
+                ],
+                [
+                    6391,
+                    7566
+                ],
+                [
+                    5861,
+                    7566
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "17 . 07 . 2008",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    5861,
+                    7566
+                ],
+                [
+                    5861,
+                    7702
+                ],
+                [
+                    6391,
+                    7702
+                ],
+                [
+                    6391,
+                    7566
+                ],
+                [
+                    5861,
+                    7566
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "17 . 07 . 2008",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4828,
+                    8146
+                ],
+                [
+                    4828,
+                    8251
+                ],
+                [
+                    5548,
+                    8251
+                ],
+                [
+                    5548,
+                    8146
+                ],
+                [
+                    4828,
+                    8146
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "K. Krumins.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4828,
+                    8146
+                ],
+                [
+                    4828,
+                    8251
+                ],
+                [
+                    5548,
+                    8251
+                ],
+                [
+                    5548,
+                    8146
+                ],
+                [
+                    4828,
+                    8146
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "K . Krumins .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4387,
+                    8406
+                ],
+                [
+                    4387,
+                    8680
+                ],
+                [
+                    5622,
+                    8680
+                ],
+                [
+                    5622,
+                    8406
+                ],
+                [
+                    4387,
+                    8406
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Carex tenella Schver.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4387,
+                    8406
+                ],
+                [
+                    4387,
+                    8680
+                ],
+                [
+                    5622,
+                    8680
+                ],
+                [
+                    5622,
+                    8406
+                ],
+                [
+                    4387,
+                    8406
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Carex tenelle Joker",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4098,
+                    9057
+                ],
+                [
+                    4098,
+                    9373
+                ],
+                [
+                    6018,
+                    9373
+                ],
+                [
+                    6018,
+                    9057
+                ],
+                [
+                    4098,
+                    9057
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Pernau. Reideuhof, 2h. V. 87. nosser Wald.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4098,
+                    9057
+                ],
+                [
+                    4098,
+                    9373
+                ],
+                [
+                    6018,
+                    9373
+                ],
+                [
+                    6018,
+                    9057
+                ],
+                [
+                    4098,
+                    9057
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Dernau Reisenkaf , 24 . 1 . 87 . HA nasses will",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4761,
+                    9450
+                ],
+                [
+                    4761,
+                    9604
+                ],
+                [
+                    5477,
+                    9604
+                ],
+                [
+                    5477,
+                    9450
+                ],
+                [
+                    4761,
+                    9450
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "TU 251470",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4761,
+                    9450
+                ],
+                [
+                    4761,
+                    9604
+                ],
+                [
+                    5477,
+                    9604
+                ],
+                [
+                    5477,
+                    9450
+                ],
+                [
+                    4761,
+                    9450
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "TU 251470",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        }
+    ]
+}

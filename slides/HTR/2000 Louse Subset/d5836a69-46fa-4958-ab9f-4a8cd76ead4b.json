@@ -1,0 +1,208 @@
+{
+    "dataset_id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+    "folder": {
+        "id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+        "name": "2000 Louse Subset"
+    },
+    "image": {
+        "id": "94bc9045-5596-4989-bb92-cfc61a24422a",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fsynthesys%2Fslides_images%2Fd5836a69-46fa-4958-ab9f-4a8cd76ead4b.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fsynthesys%2Fslides_images%2Fd5836a69-46fa-4958-ab9f-4a8cd76ead4b.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "d5836a69-46fa-4958-ab9f-4a8cd76ead4b",
+        "name": "140",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    849,
+                    170
+                ],
+                [
+                    849,
+                    541
+                ],
+                [
+                    2052,
+                    541
+                ],
+                [
+                    2052,
+                    170
+                ],
+                [
+                    849,
+                    170
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "10793.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    492,
+                    5081
+                ],
+                [
+                    492,
+                    5181
+                ],
+                [
+                    898,
+                    5181
+                ],
+                [
+                    898,
+                    5081
+                ],
+                [
+                    492,
+                    5081
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "010672710",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    1072,
+                    667
+                ],
+                [
+                    1072,
+                    1143
+                ],
+                [
+                    2654,
+                    1143
+                ],
+                [
+                    2654,
+                    667
+                ],
+                [
+                    1072,
+                    667
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Carriquin.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    422,
+                    5161
+                ],
+                [
+                    422,
+                    5507
+                ],
+                [
+                    522,
+                    5507
+                ],
+                [
+                    522,
+                    5161
+                ],
+                [
+                    422,
+                    5161
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    559,
+                    1276
+                ],
+                [
+                    559,
+                    1581
+                ],
+                [
+                    2372,
+                    1581
+                ],
+                [
+                    2372,
+                    1276
+                ],
+                [
+                    559,
+                    1276
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "leclancheri.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    389,
+                    1603
+                ],
+                [
+                    389,
+                    2012
+                ],
+                [
+                    2639,
+                    2012
+                ],
+                [
+                    2639,
+                    1603
+                ],
+                [
+                    389,
+                    1603
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Leucotreron l.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    507,
+                    2115
+                ],
+                [
+                    507,
+                    2457
+                ],
+                [
+                    2646,
+                    2457
+                ],
+                [
+                    2646,
+                    2115
+                ],
+                [
+                    507,
+                    2115
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "MEINERTZHAGEN",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        }
+    ]
+}

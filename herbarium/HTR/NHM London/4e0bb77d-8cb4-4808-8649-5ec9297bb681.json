@@ -1,0 +1,701 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "01461701-dd48-4a27-ab96-27ee9853e15d",
+        "name": "NHM London"
+    },
+    "image": {
+        "id": "7561d240-13ad-4eab-9573-1860f39413a2",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FBM000648870.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FBM000648870.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "4e0bb77d-8cb4-4808-8649-5ec9297bb681",
+        "name": "BM000648870",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    1257,
+                    12
+                ],
+                [
+                    1257,
+                    38
+                ],
+                [
+                    1638,
+                    38
+                ],
+                [
+                    1638,
+                    12
+                ],
+                [
+                    1257,
+                    12
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "THE NATURAL HISTORY MUSEUM",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1331,
+                    39
+                ],
+                [
+                    1331,
+                    61
+                ],
+                [
+                    1584,
+                    61
+                ],
+                [
+                    1584,
+                    39
+                ],
+                [
+                    1331,
+                    39
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "DEPARTMENT OF BOTANY",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1783,
+                    161
+                ],
+                [
+                    1783,
+                    195
+                ],
+                [
+                    2004,
+                    195
+                ],
+                [
+                    2004,
+                    161
+                ],
+                [
+                    1783,
+                    161
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BM000648870",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1848,
+                    42
+                ],
+                [
+                    1848,
+                    82
+                ],
+                [
+                    2266,
+                    82
+                ],
+                [
+                    2266,
+                    42
+                ],
+                [
+                    1848,
+                    42
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herbarium Musei Britannici",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1725,
+                    120
+                ],
+                [
+                    1725,
+                    159
+                ],
+                [
+                    2209,
+                    159
+                ],
+                [
+                    2209,
+                    120
+                ],
+                [
+                    1725,
+                    120
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Salvia croatii Ramamoorthy (ined.)",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1727,
+                    161
+                ],
+                [
+                    1727,
+                    196
+                ],
+                [
+                    2034,
+                    196
+                ],
+                [
+                    2034,
+                    161
+                ],
+                [
+                    1727,
+                    161
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "det: R.M.Harley, 1995",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1729,
+                    234
+                ],
+                [
+                    1729,
+                    272
+                ],
+                [
+                    2308,
+                    272
+                ],
+                [
+                    2308,
+                    234
+                ],
+                [
+                    1729,
+                    234
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BELIZE: Cayo District. New Maria Camp.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1730,
+                    272
+                ],
+                [
+                    1730,
+                    305
+                ],
+                [
+                    1839,
+                    305
+                ],
+                [
+                    1839,
+                    272
+                ],
+                [
+                    1730,
+                    272
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "550 m.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1730,
+                    309
+                ],
+                [
+                    1730,
+                    348
+                ],
+                [
+                    1951,
+                    348
+                ],
+                [
+                    1951,
+                    309
+                ],
+                [
+                    1730,
+                    309
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Forest clearing.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1730,
+                    348
+                ],
+                [
+                    1730,
+                    382
+                ],
+                [
+                    2400,
+                    382
+                ],
+                [
+                    2400,
+                    348
+                ],
+                [
+                    1730,
+                    348
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herb, sometimes reaching 5 ft, more usually 2-3 ft.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1734,
+                    383
+                ],
+                [
+                    1734,
+                    427
+                ],
+                [
+                    2206,
+                    427
+                ],
+                [
+                    2206,
+                    383
+                ],
+                [
+                    1734,
+                    383
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Calyx tinged purple, corolla purple.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2176,
+                    460
+                ],
+                [
+                    2176,
+                    500
+                ],
+                [
+                    2372,
+                    500
+                ],
+                [
+                    2372,
+                    460
+                ],
+                [
+                    2176,
+                    460
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "20 April 1995",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1734,
+                    454
+                ],
+                [
+                    1734,
+                    500
+                ],
+                [
+                    2035,
+                    500
+                ],
+                [
+                    2035,
+                    454
+                ],
+                [
+                    1734,
+                    454
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "C. Whitefoord 9100",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2325,
+                    564
+                ],
+                [
+                    2325,
+                    625
+                ],
+                [
+                    2422,
+                    625
+                ],
+                [
+                    2422,
+                    564
+                ],
+                [
+                    2325,
+                    564
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "9100",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1970,
+                    3250
+                ],
+                [
+                    1970,
+                    3283
+                ],
+                [
+                    2391,
+                    3283
+                ],
+                [
+                    2391,
+                    3250
+                ],
+                [
+                    1970,
+                    3250
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Studied for Flora Mesoamericana",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1969,
+                    3284
+                ],
+                [
+                    1969,
+                    3318
+                ],
+                [
+                    2353,
+                    3318
+                ],
+                [
+                    2353,
+                    3284
+                ],
+                [
+                    1969,
+                    3284
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Salvia whitefoordiae Klitgaard",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1970,
+                    3319
+                ],
+                [
+                    1970,
+                    3354
+                ],
+                [
+                    2347,
+                    3354
+                ],
+                [
+                    2347,
+                    3319
+                ],
+                [
+                    1970,
+                    3319
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Det. B.B. Klitgaard (BM), 2007",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1958,
+                    2922
+                ],
+                [
+                    1958,
+                    2961
+                ],
+                [
+                    2253,
+                    2961
+                ],
+                [
+                    2253,
+                    2922
+                ],
+                [
+                    1958,
+                    2922
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "TYPE SPECIMEN",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1772,
+                    3018
+                ],
+                [
+                    1859,
+                    3019
+                ],
+                [
+                    1868,
+                    3038
+                ],
+                [
+                    1901,
+                    3042
+                ],
+                [
+                    1907,
+                    3017
+                ],
+                [
+                    1963,
+                    3015
+                ],
+                [
+                    1975,
+                    3034
+                ],
+                [
+                    2017,
+                    3023
+                ],
+                [
+                    2263,
+                    3019
+                ],
+                [
+                    2270,
+                    3035
+                ],
+                [
+                    2447,
+                    3021
+                ],
+                [
+                    2444,
+                    2963
+                ],
+                [
+                    1796,
+                    2958
+                ],
+                [
+                    1772,
+                    3018
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Holotype of Salvia whitefoordiae",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1778,
+                    3067
+                ],
+                [
+                    1820,
+                    3076
+                ],
+                [
+                    1827,
+                    3100
+                ],
+                [
+                    1865,
+                    3099
+                ],
+                [
+                    1881,
+                    3085
+                ],
+                [
+                    2438,
+                    3080
+                ],
+                [
+                    2442,
+                    3023
+                ],
+                [
+                    2273,
+                    3034
+                ],
+                [
+                    2264,
+                    3019
+                ],
+                [
+                    2020,
+                    3022
+                ],
+                [
+                    1975,
+                    3035
+                ],
+                [
+                    1960,
+                    3016
+                ],
+                [
+                    1905,
+                    3019
+                ],
+                [
+                    1900,
+                    3041
+                ],
+                [
+                    1868,
+                    3040
+                ],
+                [
+                    1859,
+                    3021
+                ],
+                [
+                    1785,
+                    3019
+                ],
+                [
+                    1778,
+                    3067
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Klitgaard, Novon 17(2): 206-211.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    99,
+                    3771
+                ],
+                [
+                    99,
+                    3863
+                ],
+                [
+                    278,
+                    3863
+                ],
+                [
+                    278,
+                    3771
+                ],
+                [
+                    99,
+                    3771
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "373/68",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1337,
+                    125
+                ],
+                [
+                    1337,
+                    162
+                ],
+                [
+                    1563,
+                    162
+                ],
+                [
+                    1563,
+                    125
+                ],
+                [
+                    1337,
+                    125
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BM000648870",
+            "worker_version": null
+        }
+    ]
+}

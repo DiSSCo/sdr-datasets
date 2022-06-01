@@ -1,0 +1,976 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "438d96cb-88a1-4786-a83a-08301ba7e92a",
+        "name": "BGBM"
+    },
+    "image": {
+        "id": "325202ea-699a-46bd-9f25-328903f141e1",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FB_10_0002884.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FB_10_0002884.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "76fa2023-d3da-4ded-bb24-fa166492930b",
+        "name": "B_10_0002884",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    997,
+                    9141
+                ],
+                [
+                    1005,
+                    9281
+                ],
+                [
+                    2288,
+                    9267
+                ],
+                [
+                    2281,
+                    9141
+                ],
+                [
+                    997,
+                    9141
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "LA TROBE UNIVERSITY",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    614,
+                    9267
+                ],
+                [
+                    614,
+                    9451
+                ],
+                [
+                    2694,
+                    9407
+                ],
+                [
+                    2643,
+                    9259
+                ],
+                [
+                    614,
+                    9267
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "DEPARTMENT OF BOTANY - HERBARIUM",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    134,
+                    9628
+                ],
+                [
+                    1344,
+                    9621
+                ],
+                [
+                    1322,
+                    9466
+                ],
+                [
+                    149,
+                    9466
+                ],
+                [
+                    134,
+                    9628
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Geranium homeanum",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2524,
+                    9429
+                ],
+                [
+                    2524,
+                    9569
+                ],
+                [
+                    2952,
+                    9584
+                ],
+                [
+                    2952,
+                    9436
+                ],
+                [
+                    2524,
+                    9429
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "acc.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    112,
+                    9680
+                ],
+                [
+                    134,
+                    9850
+                ],
+                [
+                    1934,
+                    9798
+                ],
+                [
+                    1927,
+                    9672
+                ],
+                [
+                    112,
+                    9680
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Warm, temperate rain forest",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2458,
+                    9658
+                ],
+                [
+                    2465,
+                    9820
+                ],
+                [
+                    2643,
+                    9857
+                ],
+                [
+                    3063,
+                    9805
+                ],
+                [
+                    3011,
+                    9672
+                ],
+                [
+                    2458,
+                    9658
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "23. FEB. 1995",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    134,
+                    9894
+                ],
+                [
+                    134,
+                    10056
+                ],
+                [
+                    3218,
+                    10034
+                ],
+                [
+                    3203,
+                    9864
+                ],
+                [
+                    134,
+                    9894
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Australia: Victoria: E. Gippsland, Karlo Creek,",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    134,
+                    10086
+                ],
+                [
+                    142,
+                    10300
+                ],
+                [
+                    2731,
+                    10226
+                ],
+                [
+                    2709,
+                    10086
+                ],
+                [
+                    134,
+                    10086
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Princes Hwy., 20.3 Km ENE of Cann River",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    112,
+                    10329
+                ],
+                [
+                    134,
+                    10469
+                ],
+                [
+                    1366,
+                    10469
+                ],
+                [
+                    1374,
+                    10285
+                ],
+                [
+                    112,
+                    10329
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Det: David Cameron",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    134,
+                    10536
+                ],
+                [
+                    142,
+                    10705
+                ],
+                [
+                    1351,
+                    10654
+                ],
+                [
+                    1359,
+                    10528
+                ],
+                [
+                    134,
+                    10536
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "David Cameron 6220",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    326,
+                    10757
+                ],
+                [
+                    326,
+                    10948
+                ],
+                [
+                    1470,
+                    10941
+                ],
+                [
+                    1484,
+                    10750
+                ],
+                [
+                    326,
+                    10757
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ROOT  SLENDER",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1433,
+                    10300
+                ],
+                [
+                    1433,
+                    10484
+                ],
+                [
+                    1964,
+                    10469
+                ],
+                [
+                    1964,
+                    10322
+                ],
+                [
+                    1433,
+                    10300
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Dup. to:",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2001,
+                    10248
+                ],
+                [
+                    2023,
+                    10410
+                ],
+                [
+                    3093,
+                    10395
+                ],
+                [
+                    3085,
+                    10218
+                ],
+                [
+                    2384,
+                    10233
+                ],
+                [
+                    2001,
+                    10248
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "CANB, MEL, NSW,",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1962,
+                    10532
+                ],
+                [
+                    2136,
+                    10538
+                ],
+                [
+                    2742,
+                    10522
+                ],
+                [
+                    3095,
+                    10501
+                ],
+                [
+                    3052,
+                    10406
+                ],
+                [
+                    2246,
+                    10406
+                ],
+                [
+                    1977,
+                    10390
+                ],
+                [
+                    1962,
+                    10532
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "AD, BRI, MO, LTB",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2030,
+                    10680
+                ],
+                [
+                    2663,
+                    10680
+                ],
+                [
+                    2689,
+                    10706
+                ],
+                [
+                    2763,
+                    10701
+                ],
+                [
+                    2768,
+                    10648
+                ],
+                [
+                    2894,
+                    10659
+                ],
+                [
+                    2884,
+                    10532
+                ],
+                [
+                    2035,
+                    10538
+                ],
+                [
+                    2030,
+                    10680
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "10 April 1976",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    54,
+                    8909
+                ],
+                [
+                    61,
+                    9093
+                ],
+                [
+                    1692,
+                    9086
+                ],
+                [
+                    1662,
+                    8879
+                ],
+                [
+                    54,
+                    8909
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "EX HERB. HORT. BOT. REG. KEW.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    821,
+                    8717
+                ],
+                [
+                    836,
+                    8820
+                ],
+                [
+                    1795,
+                    8835
+                ],
+                [
+                    1751,
+                    8710
+                ],
+                [
+                    821,
+                    8717
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "MELBOURNE, AUSTRALIA",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    157,
+                    8599
+                ],
+                [
+                    172,
+                    8717
+                ],
+                [
+                    984,
+                    8688
+                ],
+                [
+                    2267,
+                    8710
+                ],
+                [
+                    2452,
+                    8710
+                ],
+                [
+                    2444,
+                    8599
+                ],
+                [
+                    157,
+                    8599
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "EX NATIONAL HERBARIUM OF VICTORIA (MEL)",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    261,
+                    7906
+                ],
+                [
+                    264,
+                    8009
+                ],
+                [
+                    1102,
+                    7998
+                ],
+                [
+                    1098,
+                    7906
+                ],
+                [
+                    261,
+                    7906
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "VOUCHER SPECIMEN",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    21,
+                    7998
+                ],
+                [
+                    21,
+                    8086
+                ],
+                [
+                    294,
+                    8101
+                ],
+                [
+                    718,
+                    8101
+                ],
+                [
+                    973,
+                    8101
+                ],
+                [
+                    1249,
+                    8101
+                ],
+                [
+                    1360,
+                    8112
+                ],
+                [
+                    1338,
+                    8013
+                ],
+                [
+                    667,
+                    8020
+                ],
+                [
+                    253,
+                    8016
+                ],
+                [
+                    21,
+                    7998
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "For Cameron, D. G., Floristics, dis-",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    32,
+                    8094
+                ],
+                [
+                    32,
+                    8171
+                ],
+                [
+                    198,
+                    8171
+                ],
+                [
+                    394,
+                    8171
+                ],
+                [
+                    608,
+                    8171
+                ],
+                [
+                    770,
+                    8167
+                ],
+                [
+                    1113,
+                    8167
+                ],
+                [
+                    1342,
+                    8167
+                ],
+                [
+                    1338,
+                    8112
+                ],
+                [
+                    1209,
+                    8097
+                ],
+                [
+                    866,
+                    8112
+                ],
+                [
+                    703,
+                    8108
+                ],
+                [
+                    534,
+                    8108
+                ],
+                [
+                    209,
+                    8101
+                ],
+                [
+                    32,
+                    8094
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "tribution, ecology and conservation",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    36,
+                    8245
+                ],
+                [
+                    1345,
+                    8245
+                ],
+                [
+                    1331,
+                    8175
+                ],
+                [
+                    39,
+                    8175
+                ],
+                [
+                    36,
+                    8245
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "of warm temperate rainforest in south",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    28,
+                    8304
+                ],
+                [
+                    1190,
+                    8319
+                ],
+                [
+                    1198,
+                    8245
+                ],
+                [
+                    32,
+                    8245
+                ],
+                [
+                    28,
+                    8304
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "eastern Australia. Ph.D. Thesis,",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    346,
+                    8311
+                ],
+                [
+                    346,
+                    8378
+                ],
+                [
+                    1043,
+                    8392
+                ],
+                [
+                    1058,
+                    8322
+                ],
+                [
+                    925,
+                    8311
+                ],
+                [
+                    346,
+                    8311
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "La Trobe University.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    17,
+                    8477
+                ],
+                [
+                    1356,
+                    8481
+                ],
+                [
+                    1349,
+                    8404
+                ],
+                [
+                    25,
+                    8385
+                ],
+                [
+                    17,
+                    8477
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "This study was supported by an",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    21,
+                    8477
+                ],
+                [
+                    28,
+                    8558
+                ],
+                [
+                    508,
+                    8558
+                ],
+                [
+                    486,
+                    8477
+                ],
+                [
+                    21,
+                    8477
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ABRS Grant.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    5759,
+                    10252
+                ],
+                [
+                    5759,
+                    10410
+                ],
+                [
+                    6691,
+                    10436
+                ],
+                [
+                    6713,
+                    10226
+                ],
+                [
+                    6244,
+                    10231
+                ],
+                [
+                    5759,
+                    10252
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "0081/2001-9",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4304,
+                    10347
+                ],
+                [
+                    4673,
+                    10384
+                ],
+                [
+                    4963,
+                    10379
+                ],
+                [
+                    4974,
+                    10231
+                ],
+                [
+                    4320,
+                    10220
+                ],
+                [
+                    4304,
+                    10347
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Image 2001",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4104,
+                    10616
+                ],
+                [
+                    4873,
+                    10621
+                ],
+                [
+                    4863,
+                    10494
+                ],
+                [
+                    4109,
+                    10468
+                ],
+                [
+                    4104,
+                    10616
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Mus. Bot. Berol.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4252,
+                    10758
+                ],
+                [
+                    4252,
+                    10848
+                ],
+                [
+                    4747,
+                    10869
+                ],
+                [
+                    4747,
+                    10779
+                ],
+                [
+                    4252,
+                    10758
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "B 10 0002884",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    5711,
+                    10674
+                ],
+                [
+                    6634,
+                    10700
+                ],
+                [
+                    6612,
+                    10494
+                ],
+                [
+                    5722,
+                    10468
+                ],
+                [
+                    5711,
+                    10674
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Mus. bot. Berol.",
+            "worker_version": null
+        }
+    ]
+}

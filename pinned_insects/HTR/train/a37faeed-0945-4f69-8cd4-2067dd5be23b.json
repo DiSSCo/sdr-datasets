@@ -1,0 +1,127 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "60bf7f95-53cf-478f-aa6e-711e5de99ad7",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/2b4d7110-77f7-46e1-98fe-d0c8cd55f267",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/2b4d7110-77f7-46e1-98fe-d0c8cd55f267/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "a37faeed-0945-4f69-8cd4-2067dd5be23b",
+        "name": "011236982_151431_1082583.2500x5792.jpeg",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    1625,
+                    1332
+                ],
+                [
+                    1625,
+                    1408
+                ],
+                [
+                    2315,
+                    1408
+                ],
+                [
+                    2315,
+                    1332
+                ],
+                [
+                    1625,
+                    1332
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK011236982",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1575,
+                    713
+                ],
+                [
+                    1578,
+                    805
+                ],
+                [
+                    2006,
+                    799
+                ],
+                [
+                    2005,
+                    718
+                ],
+                [
+                    1575,
+                    713
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "H Murray",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1557,
+                    817
+                ],
+                [
+                    1561,
+                    893
+                ],
+                [
+                    2015,
+                    878
+                ],
+                [
+                    2016,
+                    806
+                ],
+                [
+                    1557,
+                    817
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Westmorland",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1665,
+                    1005
+                ],
+                [
+                    1874,
+                    996
+                ],
+                [
+                    1876,
+                    912
+                ],
+                [
+                    1666,
+                    921
+                ],
+                [
+                    1665,
+                    1005
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "85'",
+            "worker_version": null
+        }
+    ]
+}

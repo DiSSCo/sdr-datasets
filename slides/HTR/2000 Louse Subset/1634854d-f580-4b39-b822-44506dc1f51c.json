@@ -1,0 +1,289 @@
+{
+    "dataset_id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+    "folder": {
+        "id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+        "name": "2000 Louse Subset"
+    },
+    "image": {
+        "id": "31dd13c0-7b14-4b87-b0a9-a02d0649ba9f",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/31038ed8-3ec9-4ee1-ae39-67dae97c43c3",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/31038ed8-3ec9-4ee1-ae39-67dae97c43c3/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "1634854d-f580-4b39-b822-44506dc1f51c",
+        "name": "57",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    960,
+                    452
+                ],
+                [
+                    960,
+                    2692
+                ],
+                [
+                    1358,
+                    2692
+                ],
+                [
+                    1358,
+                    452
+                ],
+                [
+                    960,
+                    452
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "turbinatum Denny",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    7011,
+                    556
+                ],
+                [
+                    7011,
+                    2569
+                ],
+                [
+                    7592,
+                    2569
+                ],
+                [
+                    7592,
+                    556
+                ],
+                [
+                    7011,
+                    556
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Lon. Zoo. Soc.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    3187,
+                    2074
+                ],
+                [
+                    3187,
+                    2159
+                ],
+                [
+                    3591,
+                    2159
+                ],
+                [
+                    3591,
+                    2074
+                ],
+                [
+                    3187,
+                    2074
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    630,
+                    758
+                ],
+                [
+                    630,
+                    2692
+                ],
+                [
+                    1009,
+                    2692
+                ],
+                [
+                    1009,
+                    758
+                ],
+                [
+                    630,
+                    758
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Colpocephalum",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6638,
+                    905
+                ],
+                [
+                    6638,
+                    2227
+                ],
+                [
+                    7060,
+                    2227
+                ],
+                [
+                    7060,
+                    905
+                ],
+                [
+                    6638,
+                    905
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Harrier.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    3530,
+                    2135
+                ],
+                [
+                    3530,
+                    2581
+                ],
+                [
+                    3640,
+                    2581
+                ],
+                [
+                    3640,
+                    2135
+                ],
+                [
+                    3530,
+                    2135
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "010654830",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    2496,
+                    825
+                ],
+                [
+                    2496,
+                    2698
+                ],
+                [
+                    2942,
+                    2698
+                ],
+                [
+                    2942,
+                    825
+                ],
+                [
+                    2496,
+                    825
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Tendeiro det.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6216,
+                    1315
+                ],
+                [
+                    6216,
+                    2471
+                ],
+                [
+                    6785,
+                    2471
+                ],
+                [
+                    6785,
+                    1315
+                ],
+                [
+                    6216,
+                    1315
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Goulds",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    1737,
+                    1199
+                ],
+                [
+                    1737,
+                    1511
+                ],
+                [
+                    2367,
+                    1511
+                ],
+                [
+                    2367,
+                    1199
+                ],
+                [
+                    1737,
+                    1199
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "\u2640",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    1315,
+                    1737
+                ],
+                [
+                    1315,
+                    2667
+                ],
+                [
+                    1670,
+                    2667
+                ],
+                [
+                    1670,
+                    1737
+                ],
+                [
+                    1315,
+                    1737
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "mutant",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        }
+    ]
+}

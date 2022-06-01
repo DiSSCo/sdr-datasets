@@ -1,0 +1,235 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6ebebd79-2a28-464f-b60a-aa47a864a586",
+        "name": "test"
+    },
+    "image": {
+        "id": "1c998a02-d78e-4f1e-9290-4b7fa2e0fd31",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/2b9f5c7a-2f6b-46dc-a1f3-5df9ef26d008",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/2b9f5c7a-2f6b-46dc-a1f3-5df9ef26d008/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "e060aa4c-2e1c-499b-8fe7-f0a12d504c8d",
+        "name": "010517954_136902_1082449_.2500x5792.jpeg",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    1714,
+                    521
+                ],
+                [
+                    1714,
+                    586
+                ],
+                [
+                    1955,
+                    586
+                ],
+                [
+                    1955,
+                    521
+                ],
+                [
+                    1714,
+                    521
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Ashford",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1639,
+                    585
+                ],
+                [
+                    1639,
+                    645
+                ],
+                [
+                    2021,
+                    645
+                ],
+                [
+                    2021,
+                    585
+                ],
+                [
+                    1639,
+                    585
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "A.J.L.Bowes",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1630,
+                    645
+                ],
+                [
+                    1630,
+                    723
+                ],
+                [
+                    2027,
+                    723
+                ],
+                [
+                    2027,
+                    645
+                ],
+                [
+                    1630,
+                    645
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "AUG.5. 1935",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1698,
+                    852
+                ],
+                [
+                    1698,
+                    922
+                ],
+                [
+                    1906,
+                    922
+                ],
+                [
+                    1906,
+                    852
+                ],
+                [
+                    1698,
+                    852
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Bowes",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1692,
+                    929
+                ],
+                [
+                    1692,
+                    1000
+                ],
+                [
+                    1970,
+                    1000
+                ],
+                [
+                    1970,
+                    929
+                ],
+                [
+                    1692,
+                    929
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "collection",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1693,
+                    1001
+                ],
+                [
+                    1693,
+                    1069
+                ],
+                [
+                    1972,
+                    1069
+                ],
+                [
+                    1972,
+                    1001
+                ],
+                [
+                    1693,
+                    1001
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Brit. Mus.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1702,
+                    1073
+                ],
+                [
+                    1702,
+                    1142
+                ],
+                [
+                    1937,
+                    1142
+                ],
+                [
+                    1937,
+                    1073
+                ],
+                [
+                    1702,
+                    1073
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "1943-58",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1634,
+                    1475
+                ],
+                [
+                    1637,
+                    1541
+                ],
+                [
+                    2214,
+                    1523
+                ],
+                [
+                    2211,
+                    1462
+                ],
+                [
+                    1634,
+                    1475
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK010517954",
+            "worker_version": null
+        }
+    ]
+}

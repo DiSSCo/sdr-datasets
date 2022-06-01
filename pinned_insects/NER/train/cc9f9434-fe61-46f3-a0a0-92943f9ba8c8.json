@@ -1,0 +1,35 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "23e7113d-c1ea-4dfd-a9ea-0c568ddfd91d",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/b07bdad6-19cf-4d97-8e52-b88f7570be05",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/b07bdad6-19cf-4d97-8e52-b88f7570be05/full/full/0/default.jpg"
+    },
+    "named_entities": [
+        {
+            "tags": "H O\n. O\nLUCHT O\n, O\nJava B-location_name\nK B-person_name\n. I-person_name\nO I-person_name\n. I-person_name\nBlawan I-person_name\n900 O\n/ O\n1500 O\nMr O\n. O\nIdjen B-location_name\nPlateau I-location_name\nAcc B-identifier\n. I-identifier\n1938 I-identifier\n. I-identifier\nH18 I-identifier\n30 B-date\n. I-date\nv I-date\n. I-date\n1838 I-date",
+            "worker_version_id": null
+        },
+        {
+            "tags": "3260 B-identifier",
+            "worker_version_id": null
+        },
+        {
+            "tags": "Brit B-identifier\n. I-identifier\nMus I-identifier\n. I-identifier\n1969 I-identifier\n- I-identifier\n117 I-identifier",
+            "worker_version_id": null
+        },
+        {
+            "tags": "NHMUK B-identifier\n013321160 I-identifier",
+            "worker_version_id": null
+        }
+    ],
+    "page": {
+        "id": "cc9f9434-fe61-46f3-a0a0-92943f9ba8c8",
+        "name": "013321160_72907_89136.2500x4315.jpeg",
+        "rotation_angle": 0
+    }
+}

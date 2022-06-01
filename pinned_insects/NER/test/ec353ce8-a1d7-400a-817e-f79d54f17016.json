@@ -1,0 +1,35 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6ebebd79-2a28-464f-b60a-aa47a864a586",
+        "name": "test"
+    },
+    "image": {
+        "id": "4bcd96cc-b120-4bba-9e23-8cf1eb15754c",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/a5874c22-b853-4013-8466-4eef33f5767f",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/a5874c22-b853-4013-8466-4eef33f5767f/full/full/0/default.jpg"
+    },
+    "named_entities": [
+        {
+            "tags": "Rodborough B-location_name\nfort I-location_name\n23 B-date\n. I-date\nVII I-date\n. I-date\n42 I-date\nIllegible O",
+            "worker_version_id": null
+        },
+        {
+            "tags": "BRITISH B-location_name\nISLES I-location_name\n: I-location_name\nT B-Collection/Donation\n. I-Collection/Donation\nBainbrigge I-Collection/Donation\n- I-Collection/Donation\nFletcher I-Collection/Donation\nColl I-Collection/Donation\n. I-Collection/Donation\nB B-identifier\n. I-identifier\nM I-identifier\n. I-identifier\n1968 I-identifier\n- I-identifier\n501 I-identifier",
+            "worker_version_id": null
+        },
+        {
+            "tags": "Bombus B-taxon_name\nlapidarius I-taxon_name\n? O\nRichard O\nder O\n1943 O",
+            "worker_version_id": null
+        },
+        {
+            "tags": "NHMUK010810652 O\nNHMUK010810652 B-identifier",
+            "worker_version_id": null
+        }
+    ],
+    "page": {
+        "id": "ec353ce8-a1d7-400a-817e-f79d54f17016",
+        "name": "010810652.2500x5792.jpeg",
+        "rotation_angle": 0
+    }
+}

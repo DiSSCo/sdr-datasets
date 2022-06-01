@@ -1,0 +1,1659 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "01461701-dd48-4a27-ab96-27ee9853e15d",
+        "name": "NHM London"
+    },
+    "image": {
+        "id": "30f038f2-5813-441e-af78-eeb335717903",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FBM000617818.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FBM000617818.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "7f67d0f5-c16f-47bc-84c3-0603be424f9e",
+        "name": "BM000617818",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    297,
+                    76
+                ],
+                [
+                    297,
+                    100
+                ],
+                [
+                    593,
+                    100
+                ],
+                [
+                    593,
+                    76
+                ],
+                [
+                    297,
+                    76
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB. JOHN MIERS. - Bequeathed 1879.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    297,
+                    76
+                ],
+                [
+                    297,
+                    100
+                ],
+                [
+                    593,
+                    100
+                ],
+                [
+                    593,
+                    76
+                ],
+                [
+                    297,
+                    76
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB . JOHN MIERS . - - Bequeathed 1879 .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    219,
+                    269
+                ],
+                [
+                    219,
+                    293
+                ],
+                [
+                    475,
+                    293
+                ],
+                [
+                    477,
+                    268
+                ],
+                [
+                    219,
+                    269
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Raddia grandiflora",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    219,
+                    269
+                ],
+                [
+                    219,
+                    293
+                ],
+                [
+                    475,
+                    293
+                ],
+                [
+                    477,
+                    268
+                ],
+                [
+                    219,
+                    269
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Raddiana grandiflora",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1021,
+                    26
+                ],
+                [
+                    1022,
+                    45
+                ],
+                [
+                    1399,
+                    55
+                ],
+                [
+                    1399,
+                    36
+                ],
+                [
+                    1021,
+                    26
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "UNIVERSITY OF ARIZONA HERBARIUM (ARIZ)",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1021,
+                    26
+                ],
+                [
+                    1022,
+                    45
+                ],
+                [
+                    1399,
+                    55
+                ],
+                [
+                    1399,
+                    36
+                ],
+                [
+                    1021,
+                    26
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "UNIVERSITY OF ARIZONA HERBARIUM ( ARIZ",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    979,
+                    92
+                ],
+                [
+                    1073,
+                    94
+                ],
+                [
+                    1102,
+                    90
+                ],
+                [
+                    1245,
+                    96
+                ],
+                [
+                    1345,
+                    97
+                ],
+                [
+                    1478,
+                    92
+                ],
+                [
+                    1477,
+                    55
+                ],
+                [
+                    1339,
+                    61
+                ],
+                [
+                    1242,
+                    61
+                ],
+                [
+                    1101,
+                    56
+                ],
+                [
+                    1068,
+                    59
+                ],
+                [
+                    983,
+                    54
+                ],
+                [
+                    979,
+                    92
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Salacia impressifolia (Miers) A.C. Smith",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    979,
+                    92
+                ],
+                [
+                    1073,
+                    94
+                ],
+                [
+                    1102,
+                    90
+                ],
+                [
+                    1245,
+                    96
+                ],
+                [
+                    1345,
+                    97
+                ],
+                [
+                    1478,
+                    92
+                ],
+                [
+                    1477,
+                    55
+                ],
+                [
+                    1339,
+                    61
+                ],
+                [
+                    1242,
+                    61
+                ],
+                [
+                    1101,
+                    56
+                ],
+                [
+                    1068,
+                    59
+                ],
+                [
+                    983,
+                    54
+                ],
+                [
+                    979,
+                    92
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Salacia impressifolia ( Miers ) A . C . Sunth",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    986,
+                    111
+                ],
+                [
+                    986,
+                    138
+                ],
+                [
+                    1161,
+                    138
+                ],
+                [
+                    1161,
+                    111
+                ],
+                [
+                    986,
+                    111
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Det. Jennifer P. Hedin",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    986,
+                    111
+                ],
+                [
+                    986,
+                    138
+                ],
+                [
+                    1161,
+                    138
+                ],
+                [
+                    1161,
+                    111
+                ],
+                [
+                    986,
+                    111
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Det . Jennifer P . Hedin",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1274,
+                    151
+                ],
+                [
+                    1444,
+                    145
+                ],
+                [
+                    1446,
+                    113
+                ],
+                [
+                    1275,
+                    114
+                ],
+                [
+                    1274,
+                    151
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "15 Sept 1999",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1274,
+                    151
+                ],
+                [
+                    1444,
+                    145
+                ],
+                [
+                    1446,
+                    113
+                ],
+                [
+                    1275,
+                    114
+                ],
+                [
+                    1274,
+                    151
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "15 Spt 1999",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    707,
+                    283
+                ],
+                [
+                    798,
+                    289
+                ],
+                [
+                    823,
+                    289
+                ],
+                [
+                    1004,
+                    293
+                ],
+                [
+                    1036,
+                    289
+                ],
+                [
+                    1038,
+                    262
+                ],
+                [
+                    1004,
+                    264
+                ],
+                [
+                    823,
+                    260
+                ],
+                [
+                    715,
+                    251
+                ],
+                [
+                    707,
+                    283
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Raddi impressifolia X",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    707,
+                    283
+                ],
+                [
+                    798,
+                    289
+                ],
+                [
+                    823,
+                    289
+                ],
+                [
+                    1004,
+                    293
+                ],
+                [
+                    1036,
+                    289
+                ],
+                [
+                    1038,
+                    262
+                ],
+                [
+                    1004,
+                    264
+                ],
+                [
+                    823,
+                    260
+                ],
+                [
+                    715,
+                    251
+                ],
+                [
+                    707,
+                    283
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Raddi impressifoliar",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    893,
+                    308
+                ],
+                [
+                    993,
+                    313
+                ],
+                [
+                    1181,
+                    307
+                ],
+                [
+                    1181,
+                    284
+                ],
+                [
+                    1036,
+                    292
+                ],
+                [
+                    1014,
+                    296
+                ],
+                [
+                    985,
+                    296
+                ],
+                [
+                    895,
+                    293
+                ],
+                [
+                    893,
+                    308
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Panure Spruce 2600",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    893,
+                    308
+                ],
+                [
+                    993,
+                    313
+                ],
+                [
+                    1181,
+                    307
+                ],
+                [
+                    1181,
+                    284
+                ],
+                [
+                    1036,
+                    292
+                ],
+                [
+                    1014,
+                    296
+                ],
+                [
+                    985,
+                    296
+                ],
+                [
+                    895,
+                    293
+                ],
+                [
+                    893,
+                    308
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "rieze Shrece 2600",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1310,
+                    298
+                ],
+                [
+                    1310,
+                    541
+                ],
+                [
+                    1329,
+                    541
+                ],
+                [
+                    1329,
+                    298
+                ],
+                [
+                    1310,
+                    298
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Missouri Botanical Garden (MO)",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1310,
+                    298
+                ],
+                [
+                    1310,
+                    541
+                ],
+                [
+                    1329,
+                    541
+                ],
+                [
+                    1329,
+                    298
+                ],
+                [
+                    1310,
+                    298
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Missouri Botanical Garden ( MO )",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1429,
+                    562
+                ],
+                [
+                    1429,
+                    644
+                ],
+                [
+                    1465,
+                    643
+                ],
+                [
+                    1464,
+                    239
+                ],
+                [
+                    1433,
+                    241
+                ],
+                [
+                    1430,
+                    321
+                ],
+                [
+                    1429,
+                    562
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Holotype: Raddia impressifolia Miers",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1429,
+                    562
+                ],
+                [
+                    1429,
+                    644
+                ],
+                [
+                    1465,
+                    643
+                ],
+                [
+                    1464,
+                    239
+                ],
+                [
+                    1433,
+                    241
+                ],
+                [
+                    1430,
+                    321
+                ],
+                [
+                    1429,
+                    562
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Holotype : Raddia impressifolia Miers",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1392,
+                    203
+                ],
+                [
+                    1393,
+                    217
+                ],
+                [
+                    1398,
+                    288
+                ],
+                [
+                    1402,
+                    391
+                ],
+                [
+                    1402,
+                    465
+                ],
+                [
+                    1397,
+                    570
+                ],
+                [
+                    1425,
+                    570
+                ],
+                [
+                    1425,
+                    300
+                ],
+                [
+                    1425,
+                    280
+                ],
+                [
+                    1424,
+                    204
+                ],
+                [
+                    1392,
+                    203
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "isotypes: BR, G (2x)!, K, P!, NY, GH!",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1392,
+                    203
+                ],
+                [
+                    1393,
+                    217
+                ],
+                [
+                    1398,
+                    288
+                ],
+                [
+                    1402,
+                    391
+                ],
+                [
+                    1402,
+                    465
+                ],
+                [
+                    1397,
+                    570
+                ],
+                [
+                    1425,
+                    570
+                ],
+                [
+                    1425,
+                    300
+                ],
+                [
+                    1425,
+                    280
+                ],
+                [
+                    1424,
+                    204
+                ],
+                [
+                    1392,
+                    203
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "isotypes : BR , G ( x2 ) ! , K , P ! , NY , GH !",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1356,
+                    289
+                ],
+                [
+                    1363,
+                    471
+                ],
+                [
+                    1368,
+                    643
+                ],
+                [
+                    1398,
+                    640
+                ],
+                [
+                    1395,
+                    573
+                ],
+                [
+                    1386,
+                    563
+                ],
+                [
+                    1396,
+                    552
+                ],
+                [
+                    1388,
+                    381
+                ],
+                [
+                    1386,
+                    236
+                ],
+                [
+                    1367,
+                    241
+                ],
+                [
+                    1366,
+                    271
+                ],
+                [
+                    1356,
+                    289
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Ref. Trans. Linn. Soc. 287:392. 1872.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1356,
+                    289
+                ],
+                [
+                    1363,
+                    471
+                ],
+                [
+                    1368,
+                    643
+                ],
+                [
+                    1398,
+                    640
+                ],
+                [
+                    1395,
+                    573
+                ],
+                [
+                    1386,
+                    563
+                ],
+                [
+                    1396,
+                    552
+                ],
+                [
+                    1388,
+                    381
+                ],
+                [
+                    1386,
+                    236
+                ],
+                [
+                    1367,
+                    241
+                ],
+                [
+                    1366,
+                    271
+                ],
+                [
+                    1356,
+                    289
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Ref . Trans . Linn . Soc . 28 : 392 . 1872 .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    971,
+                    565
+                ],
+                [
+                    971,
+                    581
+                ],
+                [
+                    1185,
+                    599
+                ],
+                [
+                    1187,
+                    585
+                ],
+                [
+                    971,
+                    565
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "THE NATURAL HISTORY MUSEUM, LONDON",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    971,
+                    565
+                ],
+                [
+                    971,
+                    581
+                ],
+                [
+                    1185,
+                    599
+                ],
+                [
+                    1187,
+                    585
+                ],
+                [
+                    971,
+                    565
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "THE NATURAL DEPARTMENT HISTORY MUSEUM OF , LONDON",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1013,
+                    597
+                ],
+                [
+                    1160,
+                    610
+                ],
+                [
+                    1161,
+                    599
+                ],
+                [
+                    1014,
+                    586
+                ],
+                [
+                    1013,
+                    597
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "DEPARTMENT OF BOTANY",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1013,
+                    597
+                ],
+                [
+                    1160,
+                    610
+                ],
+                [
+                    1161,
+                    599
+                ],
+                [
+                    1014,
+                    586
+                ],
+                [
+                    1013,
+                    597
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BOTANY",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1017,
+                    654
+                ],
+                [
+                    1145,
+                    666
+                ],
+                [
+                    1146,
+                    648
+                ],
+                [
+                    1019,
+                    638
+                ],
+                [
+                    1017,
+                    654
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BM000617818",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1017,
+                    654
+                ],
+                [
+                    1145,
+                    666
+                ],
+                [
+                    1146,
+                    648
+                ],
+                [
+                    1019,
+                    638
+                ],
+                [
+                    1017,
+                    654
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BM000617818",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    407,
+                    771
+                ],
+                [
+                    680,
+                    768
+                ],
+                [
+                    690,
+                    741
+                ],
+                [
+                    411,
+                    741
+                ],
+                [
+                    407,
+                    771
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "[Zleoo?] Anthodon ?",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    407,
+                    771
+                ],
+                [
+                    680,
+                    768
+                ],
+                [
+                    690,
+                    741
+                ],
+                [
+                    411,
+                    741
+                ],
+                [
+                    407,
+                    771
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Teoo Antho",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    522,
+                    779
+                ],
+                [
+                    523,
+                    804
+                ],
+                [
+                    739,
+                    803
+                ],
+                [
+                    833,
+                    801
+                ],
+                [
+                    938,
+                    801
+                ],
+                [
+                    938,
+                    771
+                ],
+                [
+                    738,
+                    775
+                ],
+                [
+                    522,
+                    779
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "R. grandiflora Spruce affinis",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    522,
+                    779
+                ],
+                [
+                    523,
+                    804
+                ],
+                [
+                    739,
+                    803
+                ],
+                [
+                    833,
+                    801
+                ],
+                [
+                    938,
+                    801
+                ],
+                [
+                    938,
+                    771
+                ],
+                [
+                    738,
+                    775
+                ],
+                [
+                    522,
+                    779
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "A prandiflora spruce a",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    435,
+                    814
+                ],
+                [
+                    436,
+                    841
+                ],
+                [
+                    522,
+                    836
+                ],
+                [
+                    642,
+                    830
+                ],
+                [
+                    687,
+                    833
+                ],
+                [
+                    751,
+                    831
+                ],
+                [
+                    868,
+                    832
+                ],
+                [
+                    869,
+                    808
+                ],
+                [
+                    753,
+                    808
+                ],
+                [
+                    694,
+                    811
+                ],
+                [
+                    646,
+                    808
+                ],
+                [
+                    528,
+                    813
+                ],
+                [
+                    435,
+                    814
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Prope Panur\u00e8 ad Rio Maup\u00e8s",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    435,
+                    814
+                ],
+                [
+                    436,
+                    841
+                ],
+                [
+                    522,
+                    836
+                ],
+                [
+                    642,
+                    830
+                ],
+                [
+                    687,
+                    833
+                ],
+                [
+                    751,
+                    831
+                ],
+                [
+                    868,
+                    832
+                ],
+                [
+                    869,
+                    808
+                ],
+                [
+                    753,
+                    808
+                ],
+                [
+                    694,
+                    811
+                ],
+                [
+                    646,
+                    808
+                ],
+                [
+                    528,
+                    813
+                ],
+                [
+                    435,
+                    814
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "prope Panur\u00e8 ad Rio laup\u00e9s ,",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    436,
+                    849
+                ],
+                [
+                    436,
+                    874
+                ],
+                [
+                    637,
+                    867
+                ],
+                [
+                    637,
+                    842
+                ],
+                [
+                    436,
+                    849
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "coll. R. Spruce,",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    436,
+                    849
+                ],
+                [
+                    436,
+                    874
+                ],
+                [
+                    637,
+                    867
+                ],
+                [
+                    637,
+                    842
+                ],
+                [
+                    436,
+                    849
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "coll . R . Spruce ,",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    697,
+                    849
+                ],
+                [
+                    701,
+                    871
+                ],
+                [
+                    934,
+                    869
+                ],
+                [
+                    940,
+                    842
+                ],
+                [
+                    697,
+                    849
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Oct. 1852 - Jan. 1853",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    697,
+                    849
+                ],
+                [
+                    701,
+                    871
+                ],
+                [
+                    934,
+                    869
+                ],
+                [
+                    940,
+                    842
+                ],
+                [
+                    697,
+                    849
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Oct . 1852 - Jun 1853",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    703,
+                    1484
+                ],
+                [
+                    705,
+                    1506
+                ],
+                [
+                    875,
+                    1511
+                ],
+                [
+                    877,
+                    1489
+                ],
+                [
+                    703,
+                    1484
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Type Specimen",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    703,
+                    1484
+                ],
+                [
+                    705,
+                    1506
+                ],
+                [
+                    875,
+                    1511
+                ],
+                [
+                    877,
+                    1489
+                ],
+                [
+                    703,
+                    1484
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Type Specimen",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    706,
+                    1610
+                ],
+                [
+                    904,
+                    1617
+                ],
+                [
+                    906,
+                    1597
+                ],
+                [
+                    707,
+                    1592
+                ],
+                [
+                    706,
+                    1610
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Imaged for the KEW/NHM.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    706,
+                    1610
+                ],
+                [
+                    904,
+                    1617
+                ],
+                [
+                    906,
+                    1597
+                ],
+                [
+                    707,
+                    1592
+                ],
+                [
+                    706,
+                    1610
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Imaged for the KEW / NHM ,",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    678,
+                    1611
+                ],
+                [
+                    678,
+                    1628
+                ],
+                [
+                    932,
+                    1636
+                ],
+                [
+                    932,
+                    1620
+                ],
+                [
+                    678,
+                    1611
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Richard Spruce Project 2002-05.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    678,
+                    1611
+                ],
+                [
+                    678,
+                    1628
+                ],
+                [
+                    932,
+                    1636
+                ],
+                [
+                    932,
+                    1620
+                ],
+                [
+                    678,
+                    1611
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Richard Spruce Project 2002 - 05 .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    663,
+                    1631
+                ],
+                [
+                    663,
+                    1649
+                ],
+                [
+                    950,
+                    1658
+                ],
+                [
+                    950,
+                    1640
+                ],
+                [
+                    663,
+                    1631
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Funded by the A. W. Mellon Foundation",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    663,
+                    1631
+                ],
+                [
+                    663,
+                    1649
+                ],
+                [
+                    950,
+                    1658
+                ],
+                [
+                    950,
+                    1640
+                ],
+                [
+                    663,
+                    1631
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Funded by the A . W . Mellon Foundation",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        }
+    ]
+}

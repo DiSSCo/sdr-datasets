@@ -1,0 +1,181 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "698eca92-2431-40db-b926-2bbd49e5a6e4",
+        "name": "dev"
+    },
+    "image": {
+        "id": "5d91d14d-5b68-41b6-ae68-ba0ce0116537",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/1ec99d09-2d29-4b91-9667-9a2cde4c0edc",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/1ec99d09-2d29-4b91-9667-9a2cde4c0edc/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "72afd030-706a-45d0-8781-1a8628c51564",
+        "name": "010616245_151512_1084656.2500x5792.jpeg",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    1608,
+                    1370
+                ],
+                [
+                    1608,
+                    1428
+                ],
+                [
+                    2105,
+                    1428
+                ],
+                [
+                    2105,
+                    1370
+                ],
+                [
+                    1608,
+                    1370
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK010616245",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1593,
+                    550
+                ],
+                [
+                    1593,
+                    629
+                ],
+                [
+                    2052,
+                    629
+                ],
+                [
+                    2052,
+                    550
+                ],
+                [
+                    1593,
+                    550
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "CHALFORD",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1629,
+                    632
+                ],
+                [
+                    1629,
+                    730
+                ],
+                [
+                    1950,
+                    730
+                ],
+                [
+                    1950,
+                    632
+                ],
+                [
+                    1629,
+                    632
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "I.V.49",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1614,
+                    900
+                ],
+                [
+                    1618,
+                    949
+                ],
+                [
+                    1932,
+                    933
+                ],
+                [
+                    1928,
+                    884
+                ],
+                [
+                    1614,
+                    900
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Christie Coll.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1620,
+                    965
+                ],
+                [
+                    1621,
+                    1018
+                ],
+                [
+                    1876,
+                    1012
+                ],
+                [
+                    1871,
+                    951
+                ],
+                [
+                    1620,
+                    965
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BMNH (E)",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1626,
+                    1032
+                ],
+                [
+                    1627,
+                    1078
+                ],
+                [
+                    1831,
+                    1064
+                ],
+                [
+                    1827,
+                    1021
+                ],
+                [
+                    1626,
+                    1032
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "2010-62",
+            "worker_version": null
+        }
+    ]
+}

@@ -1,0 +1,938 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "40737841-bfc1-4187-b1f6-3328e53d3aa3",
+        "name": "MeiseBG"
+    },
+    "image": {
+        "id": "4a6e2d5d-f07c-41f3-bee9-b6025f58455f",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FBR0000015230997V.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FBR0000015230997V.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "d9763315-1b7e-476e-b1d8-4159cd7622e3",
+        "name": "BR0000015230997V",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    613,
+                    6438
+                ],
+                [
+                    613,
+                    6587
+                ],
+                [
+                    2319,
+                    6587
+                ],
+                [
+                    2319,
+                    6438
+                ],
+                [
+                    613,
+                    6438
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "EX HERBARIO MUSEL PARISIENSIS",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    613,
+                    6438
+                ],
+                [
+                    613,
+                    6587
+                ],
+                [
+                    2319,
+                    6587
+                ],
+                [
+                    2319,
+                    6438
+                ],
+                [
+                    613,
+                    6438
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "EX HERBARIO MUSEI PARISIENSIS",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    1783,
+                    6732
+                ],
+                [
+                    2196,
+                    6716
+                ],
+                [
+                    2185,
+                    6623
+                ],
+                [
+                    1819,
+                    6623
+                ],
+                [
+                    1809,
+                    6634
+                ],
+                [
+                    1783,
+                    6732
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Seychelles",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    547,
+                    6812
+                ],
+                [
+                    666,
+                    6869
+                ],
+                [
+                    701,
+                    6824
+                ],
+                [
+                    2021,
+                    6801
+                ],
+                [
+                    2031,
+                    6791
+                ],
+                [
+                    2029,
+                    6748
+                ],
+                [
+                    1775,
+                    6746
+                ],
+                [
+                    1734,
+                    6715
+                ],
+                [
+                    553,
+                    6706
+                ],
+                [
+                    547,
+                    6812
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Psychotria silhouettae F . Friedmetoch",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    547,
+                    6812
+                ],
+                [
+                    666,
+                    6869
+                ],
+                [
+                    701,
+                    6824
+                ],
+                [
+                    2021,
+                    6801
+                ],
+                [
+                    2031,
+                    6791
+                ],
+                [
+                    2029,
+                    6748
+                ],
+                [
+                    1775,
+                    6746
+                ],
+                [
+                    1734,
+                    6715
+                ],
+                [
+                    553,
+                    6706
+                ],
+                [
+                    547,
+                    6812
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Psychotria silhouettae F.Friedmann",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    575,
+                    6869
+                ],
+                [
+                    577,
+                    6962
+                ],
+                [
+                    1876,
+                    6952
+                ],
+                [
+                    1878,
+                    6964
+                ],
+                [
+                    1876,
+                    6867
+                ],
+                [
+                    674,
+                    6886
+                ],
+                [
+                    575,
+                    6869
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "arbuste lm , fruits blancs",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    575,
+                    6869
+                ],
+                [
+                    577,
+                    6962
+                ],
+                [
+                    1876,
+                    6952
+                ],
+                [
+                    1878,
+                    6964
+                ],
+                [
+                    1876,
+                    6867
+                ],
+                [
+                    674,
+                    6886
+                ],
+                [
+                    575,
+                    6869
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ubuste 1 m , fruits blomes",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    571,
+                    7038
+                ],
+                [
+                    594,
+                    7137
+                ],
+                [
+                    1971,
+                    7082
+                ],
+                [
+                    1971,
+                    7086
+                ],
+                [
+                    1973,
+                    6997
+                ],
+                [
+                    961,
+                    7009
+                ],
+                [
+                    571,
+                    7038
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "en som - bois de la for\u00eat\u0103 Pisonia",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    571,
+                    7038
+                ],
+                [
+                    594,
+                    7137
+                ],
+                [
+                    1971,
+                    7082
+                ],
+                [
+                    1971,
+                    7086
+                ],
+                [
+                    1973,
+                    6997
+                ],
+                [
+                    961,
+                    7009
+                ],
+                [
+                    571,
+                    7038
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "en smm- bois de la foriti Pisonia",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    613,
+                    7156
+                ],
+                [
+                    617,
+                    7241
+                ],
+                [
+                    2115,
+                    7179
+                ],
+                [
+                    2118,
+                    7175
+                ],
+                [
+                    2074,
+                    7095
+                ],
+                [
+                    613,
+                    7156
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "alt . ear . 55om , s . O . de \" Silhouette",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    613,
+                    7156
+                ],
+                [
+                    617,
+                    7241
+                ],
+                [
+                    2115,
+                    7179
+                ],
+                [
+                    2118,
+                    7175
+                ],
+                [
+                    2074,
+                    7095
+                ],
+                [
+                    613,
+                    7156
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "alt. env. 550m, S. O. de ' SilhoneHle",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    612,
+                    7376
+                ],
+                [
+                    1439,
+                    7363
+                ],
+                [
+                    1965,
+                    7389
+                ],
+                [
+                    2001,
+                    7348
+                ],
+                [
+                    2346,
+                    7363
+                ],
+                [
+                    2356,
+                    7183
+                ],
+                [
+                    620,
+                    7263
+                ],
+                [
+                    614,
+                    7275
+                ],
+                [
+                    612,
+                    7376
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Island 621 m \" Silhouette juin 1985",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    612,
+                    7376
+                ],
+                [
+                    1439,
+                    7363
+                ],
+                [
+                    1965,
+                    7389
+                ],
+                [
+                    2001,
+                    7348
+                ],
+                [
+                    2346,
+                    7363
+                ],
+                [
+                    2356,
+                    7183
+                ],
+                [
+                    620,
+                    7263
+                ],
+                [
+                    614,
+                    7275
+                ],
+                [
+                    612,
+                    7376
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Foland 622m' Silhonette jerin 1995",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    643,
+                    7402
+                ],
+                [
+                    643,
+                    7412
+                ],
+                [
+                    697,
+                    7572
+                ],
+                [
+                    1555,
+                    7515
+                ],
+                [
+                    1542,
+                    7391
+                ],
+                [
+                    643,
+                    7402
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "F . Friedmann 5248",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    643,
+                    7402
+                ],
+                [
+                    643,
+                    7412
+                ],
+                [
+                    697,
+                    7572
+                ],
+                [
+                    1555,
+                    7515
+                ],
+                [
+                    1542,
+                    7391
+                ],
+                [
+                    643,
+                    7402
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "F. Friedmann 5248",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    643,
+                    7402
+                ],
+                [
+                    643,
+                    7412
+                ],
+                [
+                    697,
+                    7572
+                ],
+                [
+                    1555,
+                    7515
+                ],
+                [
+                    1542,
+                    7391
+                ],
+                [
+                    643,
+                    7402
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "F . Friedmann 5248",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    1699,
+                    7652
+                ],
+                [
+                    2207,
+                    7657
+                ],
+                [
+                    2194,
+                    7461
+                ],
+                [
+                    1741,
+                    7461
+                ],
+                [
+                    1743,
+                    7456
+                ],
+                [
+                    1699,
+                    7652
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Isotype",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1699,
+                    7652
+                ],
+                [
+                    2207,
+                    7657
+                ],
+                [
+                    2194,
+                    7461
+                ],
+                [
+                    1741,
+                    7461
+                ],
+                [
+                    1743,
+                    7456
+                ],
+                [
+                    1699,
+                    7652
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "[sotype",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3655,
+                    6860
+                ],
+                [
+                    3655,
+                    6968
+                ],
+                [
+                    4982,
+                    6968
+                ],
+                [
+                    4982,
+                    6860
+                ],
+                [
+                    3655,
+                    6860
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERBARIUM PLANTENTUIN MEISE ( BR )",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3655,
+                    6860
+                ],
+                [
+                    3655,
+                    6968
+                ],
+                [
+                    4982,
+                    6968
+                ],
+                [
+                    4982,
+                    6860
+                ],
+                [
+                    3655,
+                    6860
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERBARIUM PLANTENTUIN MEISE (BR)",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3655,
+                    6860
+                ],
+                [
+                    3655,
+                    6968
+                ],
+                [
+                    4982,
+                    6968
+                ],
+                [
+                    4982,
+                    6860
+                ],
+                [
+                    3655,
+                    6860
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERBARIUM PLANTENTUIN MEISE ( BR )",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    4433,
+                    6986
+                ],
+                [
+                    4433,
+                    7058
+                ],
+                [
+                    5113,
+                    7058
+                ],
+                [
+                    5113,
+                    6986
+                ],
+                [
+                    4433,
+                    6986
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB . PLANTENTUIN MEISE",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4433,
+                    6986
+                ],
+                [
+                    4433,
+                    7058
+                ],
+                [
+                    5113,
+                    7058
+                ],
+                [
+                    5113,
+                    6986
+                ],
+                [
+                    4433,
+                    6986
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB. PLANTENTUIN MEISE",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    4433,
+                    6986
+                ],
+                [
+                    4433,
+                    7058
+                ],
+                [
+                    5113,
+                    7058
+                ],
+                [
+                    5113,
+                    6986
+                ],
+                [
+                    4433,
+                    6986
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB . PLANTENTUIN MEISE",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    4469,
+                    7259
+                ],
+                [
+                    4469,
+                    7326
+                ],
+                [
+                    5077,
+                    7326
+                ],
+                [
+                    5077,
+                    7259
+                ],
+                [
+                    4469,
+                    7259
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BR0000015230997V",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4469,
+                    7259
+                ],
+                [
+                    4469,
+                    7326
+                ],
+                [
+                    5077,
+                    7326
+                ],
+                [
+                    5077,
+                    7259
+                ],
+                [
+                    4469,
+                    7259
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BR0000015230997V",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    4469,
+                    7259
+                ],
+                [
+                    4469,
+                    7326
+                ],
+                [
+                    5077,
+                    7326
+                ],
+                [
+                    5077,
+                    7259
+                ],
+                [
+                    4469,
+                    7259
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BR0000015230997V",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    4636,
+                    7556
+                ],
+                [
+                    4636,
+                    7757
+                ],
+                [
+                    5180,
+                    7757
+                ],
+                [
+                    5180,
+                    7556
+                ],
+                [
+                    4636,
+                    7556
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Ac . 2016 - 12",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4636,
+                    7556
+                ],
+                [
+                    4636,
+                    7757
+                ],
+                [
+                    5180,
+                    7757
+                ],
+                [
+                    5180,
+                    7556
+                ],
+                [
+                    4636,
+                    7556
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Aec. 2016.12",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        }
+    ]
+}

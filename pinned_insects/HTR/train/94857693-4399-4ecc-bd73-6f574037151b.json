@@ -1,0 +1,235 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "59a16bfa-b1ed-481f-a5dd-e22421566949",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/4de189f3-00ba-4976-ad40-1fa61086898c",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/4de189f3-00ba-4976-ad40-1fa61086898c/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "94857693-4399-4ecc-bd73-6f574037151b",
+        "name": "012495948_111982_87806.2500x4009.jpeg",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    2124,
+                    408
+                ],
+                [
+                    2124,
+                    437
+                ],
+                [
+                    2409,
+                    437
+                ],
+                [
+                    2405,
+                    402
+                ],
+                [
+                    2124,
+                    408
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK012495948",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2065,
+                    511
+                ],
+                [
+                    2069,
+                    545
+                ],
+                [
+                    2256,
+                    538
+                ],
+                [
+                    2255,
+                    506
+                ],
+                [
+                    2065,
+                    511
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Lubok Tamang",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2074,
+                    560
+                ],
+                [
+                    2077,
+                    595
+                ],
+                [
+                    2256,
+                    584
+                ],
+                [
+                    2252,
+                    551
+                ],
+                [
+                    2074,
+                    560
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Lipis District",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2047,
+                    611
+                ],
+                [
+                    2052,
+                    645
+                ],
+                [
+                    2278,
+                    631
+                ],
+                [
+                    2273,
+                    599
+                ],
+                [
+                    2047,
+                    611
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Pahang 3500ft.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2022,
+                    657
+                ],
+                [
+                    2026,
+                    696
+                ],
+                [
+                    2306,
+                    677
+                ],
+                [
+                    2301,
+                    649
+                ],
+                [
+                    2022,
+                    657
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "June, 1923, F.N.C.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2023,
+                    808
+                ],
+                [
+                    2189,
+                    801
+                ],
+                [
+                    2185,
+                    773
+                ],
+                [
+                    2024,
+                    776
+                ],
+                [
+                    2023,
+                    808
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Ex. F.M.S.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2030,
+                    810
+                ],
+                [
+                    2030,
+                    843
+                ],
+                [
+                    2174,
+                    833
+                ],
+                [
+                    2172,
+                    806
+                ],
+                [
+                    2030,
+                    810
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Museum.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1995,
+                    848
+                ],
+                [
+                    1995,
+                    882
+                ],
+                [
+                    2218,
+                    868
+                ],
+                [
+                    2216,
+                    836
+                ],
+                [
+                    1995,
+                    848
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "B.M. 1955-354",
+            "worker_version": null
+        }
+    ]
+}

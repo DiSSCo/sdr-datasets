@@ -1,0 +1,31 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "e09b8d58-c935-4c88-ba7a-933da3f678b5",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/9bdd9929-2fab-4768-9a9c-64b3b7dc67ff",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/9bdd9929-2fab-4768-9a9c-64b3b7dc67ff/full/full/0/default.jpg"
+    },
+    "named_entities": [
+        {
+            "tags": "Christie B-Collection/Donation\nColl I-Collection/Donation\n. I-Collection/Donation\nBMNH B-identifier\n( I-identifier\nE I-identifier\n) I-identifier\n2010 I-identifier\n- I-identifier\n62 I-identifier",
+            "worker_version_id": null
+        },
+        {
+            "tags": "NHMUK010609264 B-identifier",
+            "worker_version_id": null
+        },
+        {
+            "tags": "Colchester B-location_name\n1908 B-date",
+            "worker_version_id": null
+        }
+    ],
+    "page": {
+        "id": "9e0cb6bb-a9b8-4825-9eb4-4ea55c571926",
+        "name": "010609264_137049_1084482.2500x5792.jpeg",
+        "rotation_angle": 0
+    }
+}

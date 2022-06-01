@@ -1,0 +1,181 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "698eca92-2431-40db-b926-2bbd49e5a6e4",
+        "name": "dev"
+    },
+    "image": {
+        "id": "ceee082b-69f5-4de7-9940-919527e2ccbf",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/52b56071-9811-45dc-9de0-d235e0992b52",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/52b56071-9811-45dc-9de0-d235e0992b52/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "08778eaf-9b57-426e-8652-a72f78c39391",
+        "name": "010806366__.2500x5792.jpeg",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    1517,
+                    545
+                ],
+                [
+                    1517,
+                    660
+                ],
+                [
+                    2144,
+                    660
+                ],
+                [
+                    2144,
+                    545
+                ],
+                [
+                    1517,
+                    545
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Clumber Park",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1546,
+                    665
+                ],
+                [
+                    1549,
+                    775
+                ],
+                [
+                    1984,
+                    769
+                ],
+                [
+                    1984,
+                    668
+                ],
+                [
+                    1546,
+                    665
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "4 Juy 62",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1497,
+                    905
+                ],
+                [
+                    1497,
+                    965
+                ],
+                [
+                    1940,
+                    963
+                ],
+                [
+                    1936,
+                    903
+                ],
+                [
+                    1497,
+                    905
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "K.U. Clarke coll.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1495,
+                    1043
+                ],
+                [
+                    1874,
+                    1037
+                ],
+                [
+                    1877,
+                    979
+                ],
+                [
+                    1496,
+                    979
+                ],
+                [
+                    1495,
+                    1043
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BMNH-ENT-",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1500,
+                    1053
+                ],
+                [
+                    1500,
+                    1122
+                ],
+                [
+                    1812,
+                    1122
+                ],
+                [
+                    1812,
+                    1053
+                ],
+                [
+                    1500,
+                    1053
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "2011-160",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1644,
+                    1438
+                ],
+                [
+                    1644,
+                    1503
+                ],
+                [
+                    2299,
+                    1491
+                ],
+                [
+                    2299,
+                    1417
+                ],
+                [
+                    1644,
+                    1438
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK010806366",
+            "worker_version": null
+        }
+    ]
+}

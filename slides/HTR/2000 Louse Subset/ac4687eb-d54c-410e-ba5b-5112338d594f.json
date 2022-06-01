@@ -1,0 +1,289 @@
+{
+    "dataset_id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+    "folder": {
+        "id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+        "name": "2000 Louse Subset"
+    },
+    "image": {
+        "id": "203e647f-881e-4b8e-9792-d0cccada94bb",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/5a4713f5-4338-45ca-b7cf-fb696dabae0b",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/5a4713f5-4338-45ca-b7cf-fb696dabae0b/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "ac4687eb-d54c-410e-ba5b-5112338d594f",
+        "name": "42",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    6293,
+                    470
+                ],
+                [
+                    6293,
+                    2534
+                ],
+                [
+                    6615,
+                    2534
+                ],
+                [
+                    6615,
+                    470
+                ],
+                [
+                    6293,
+                    470
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "MEINERTZHAGEN",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    1875,
+                    481
+                ],
+                [
+                    1875,
+                    2383
+                ],
+                [
+                    2423,
+                    2383
+                ],
+                [
+                    2423,
+                    481
+                ],
+                [
+                    1875,
+                    481
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "(Tendeiro).",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    8012,
+                    417
+                ],
+                [
+                    8012,
+                    513
+                ],
+                [
+                    8389,
+                    513
+                ],
+                [
+                    8389,
+                    417
+                ],
+                [
+                    8012,
+                    417
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6669,
+                    427
+                ],
+                [
+                    6669,
+                    2684
+                ],
+                [
+                    6970,
+                    2684
+                ],
+                [
+                    6970,
+                    427
+                ],
+                [
+                    6669,
+                    427
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Guttera edouardi",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    779,
+                    578
+                ],
+                [
+                    779,
+                    2555
+                ],
+                [
+                    1295,
+                    2555
+                ],
+                [
+                    1295,
+                    578
+                ],
+                [
+                    779,
+                    578
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Amyrsidea",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    8378,
+                    492
+                ],
+                [
+                    8378,
+                    911
+                ],
+                [
+                    8475,
+                    911
+                ],
+                [
+                    8475,
+                    492
+                ],
+                [
+                    8378,
+                    492
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "010651152",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6981,
+                    535
+                ],
+                [
+                    6981,
+                    2007
+                ],
+                [
+                    7314,
+                    2007
+                ],
+                [
+                    7314,
+                    535
+                ],
+                [
+                    6981,
+                    535
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "sethsmithi.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    1349,
+                    986
+                ],
+                [
+                    1349,
+                    2254
+                ],
+                [
+                    1875,
+                    2254
+                ],
+                [
+                    1875,
+                    986
+                ],
+                [
+                    1349,
+                    986
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "lopesi",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    7335,
+                    1137
+                ],
+                [
+                    7335,
+                    2104
+                ],
+                [
+                    7797,
+                    2104
+                ],
+                [
+                    7797,
+                    1137
+                ],
+                [
+                    7335,
+                    1137
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Kenya.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    8238,
+                    1137
+                ],
+                [
+                    8238,
+                    1986
+                ],
+                [
+                    8614,
+                    1986
+                ],
+                [
+                    8614,
+                    1137
+                ],
+                [
+                    8238,
+                    1137
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "10854.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        }
+    ]
+}

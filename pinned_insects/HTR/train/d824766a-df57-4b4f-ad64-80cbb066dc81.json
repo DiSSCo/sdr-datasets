@@ -1,0 +1,208 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "7c4b0235-e44f-4c21-b68d-8d17c393b6da",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/c6cb3fac-2bd2-4697-8db0-c44cbbaf772f",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/c6cb3fac-2bd2-4697-8db0-c44cbbaf772f/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "d824766a-df57-4b4f-ad64-80cbb066dc81",
+        "name": "012541753_136809_1083186.2500x5792.jpeg",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    1716,
+                    605
+                ],
+                [
+                    1719,
+                    650
+                ],
+                [
+                    1947,
+                    646
+                ],
+                [
+                    1951,
+                    605
+                ],
+                [
+                    1716,
+                    605
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Assynt",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1622,
+                    668
+                ],
+                [
+                    1622,
+                    715
+                ],
+                [
+                    2041,
+                    718
+                ],
+                [
+                    2041,
+                    673
+                ],
+                [
+                    1622,
+                    668
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "SUTHERLAND",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1634,
+                    730
+                ],
+                [
+                    1634,
+                    802
+                ],
+                [
+                    2028,
+                    802
+                ],
+                [
+                    2028,
+                    730
+                ],
+                [
+                    1634,
+                    730
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "SCOTLAND",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1611,
+                    805
+                ],
+                [
+                    1611,
+                    873
+                ],
+                [
+                    2042,
+                    873
+                ],
+                [
+                    2042,
+                    805
+                ],
+                [
+                    1611,
+                    805
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "1. VI. 1911",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1592,
+                    880
+                ],
+                [
+                    1592,
+                    943
+                ],
+                [
+                    1788,
+                    943
+                ],
+                [
+                    1787,
+                    882
+                ],
+                [
+                    1592,
+                    880
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Esson",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1593,
+                    948
+                ],
+                [
+                    1593,
+                    1022
+                ],
+                [
+                    1969,
+                    1022
+                ],
+                [
+                    1969,
+                    948
+                ],
+                [
+                    1593,
+                    948
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "C. Rthschld.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1580,
+                    1412
+                ],
+                [
+                    2146,
+                    1400
+                ],
+                [
+                    2142,
+                    1331
+                ],
+                [
+                    1582,
+                    1341
+                ],
+                [
+                    1580,
+                    1412
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK 012541753",
+            "worker_version": null
+        }
+    ]
+}

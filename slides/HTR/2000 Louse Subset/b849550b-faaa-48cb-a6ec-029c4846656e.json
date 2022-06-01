@@ -1,0 +1,289 @@
+{
+    "dataset_id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+    "folder": {
+        "id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+        "name": "2000 Louse Subset"
+    },
+    "image": {
+        "id": "28cbb0e7-667b-4a8f-a142-e97c6bd56685",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/4f4f8450-d60d-4530-aa18-1147a354ea6e",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/4f4f8450-d60d-4530-aa18-1147a354ea6e/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "b849550b-faaa-48cb-a6ec-029c4846656e",
+        "name": "44",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    3427,
+                    230
+                ],
+                [
+                    3427,
+                    336
+                ],
+                [
+                    3801,
+                    336
+                ],
+                [
+                    3801,
+                    230
+                ],
+                [
+                    3427,
+                    230
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    8102,
+                    422
+                ],
+                [
+                    8102,
+                    2419
+                ],
+                [
+                    8428,
+                    2419
+                ],
+                [
+                    8428,
+                    422
+                ],
+                [
+                    8102,
+                    422
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Brit.Mus.1954-487.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    720,
+                    969
+                ],
+                [
+                    720,
+                    2409
+                ],
+                [
+                    1142,
+                    2409
+                ],
+                [
+                    1142,
+                    969
+                ],
+                [
+                    720,
+                    969
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Chapinia",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    3724,
+                    307
+                ],
+                [
+                    3724,
+                    729
+                ],
+                [
+                    3868,
+                    729
+                ],
+                [
+                    3868,
+                    307
+                ],
+                [
+                    3724,
+                    307
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "010652943",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    7209,
+                    451
+                ],
+                [
+                    7209,
+                    1814
+                ],
+                [
+                    7488,
+                    1814
+                ],
+                [
+                    7488,
+                    451
+                ],
+                [
+                    7209,
+                    451
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Cameroun.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    7689,
+                    518
+                ],
+                [
+                    7689,
+                    2428
+                ],
+                [
+                    7958,
+                    2428
+                ],
+                [
+                    7958,
+                    518
+                ],
+                [
+                    7689,
+                    518
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "V.Aellen. No.118a.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6681,
+                    816
+                ],
+                [
+                    6681,
+                    1996
+                ],
+                [
+                    6998,
+                    1996
+                ],
+                [
+                    6998,
+                    816
+                ],
+                [
+                    6681,
+                    816
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "fistulator.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    7449,
+                    1008
+                ],
+                [
+                    7449,
+                    2169
+                ],
+                [
+                    7718,
+                    2169
+                ],
+                [
+                    7718,
+                    1008
+                ],
+                [
+                    7449,
+                    1008
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "11.vi.1953.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6412,
+                    1142
+                ],
+                [
+                    6412,
+                    2438
+                ],
+                [
+                    6816,
+                    2438
+                ],
+                [
+                    6816,
+                    1142
+                ],
+                [
+                    6412,
+                    1142
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Bycanistes",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    7008,
+                    1440
+                ],
+                [
+                    7008,
+                    2419
+                ],
+                [
+                    7353,
+                    2419
+                ],
+                [
+                    7353,
+                    1440
+                ],
+                [
+                    7008,
+                    1440
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Abidjan,",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        }
+    ]
+}

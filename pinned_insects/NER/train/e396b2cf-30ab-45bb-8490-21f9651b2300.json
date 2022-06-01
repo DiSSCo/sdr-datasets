@@ -1,0 +1,31 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "e29f88c4-9781-4e1e-a350-57802b684eee",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/c791da55-05f8-4e4c-9ff0-21c2f337e3d1",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/c791da55-05f8-4e4c-9ff0-21c2f337e3d1/full/full/0/default.jpg"
+    },
+    "named_entities": [
+        {
+            "tags": "Wicken B-location_name\nFen I-location_name\n1890 B-date\n. I-date",
+            "worker_version_id": null
+        },
+        {
+            "tags": "Presented B-Collection/Donation\nby I-Collection/Donation\nMiss I-Collection/Donation\nG I-Collection/Donation\n. I-Collection/Donation\nEdelsten I-Collection/Donation\n( I-Collection/Donation\nEx I-Collection/Donation\n. I-Collection/Donation\nCollection I-Collection/Donation\nH I-Collection/Donation\n. I-Collection/Donation\nM I-Collection/Donation\n. I-Collection/Donation\nEdelsten I-Collection/Donation\n) I-Collection/Donation\nB B-identifier\n. I-identifier\nM I-identifier\n. I-identifier\n1959 I-identifier\n- I-identifier\n304 I-identifier\n. I-identifier",
+            "worker_version_id": null
+        },
+        {
+            "tags": "NHMUK010519126 B-identifier",
+            "worker_version_id": null
+        }
+    ],
+    "page": {
+        "id": "e396b2cf-30ab-45bb-8490-21f9651b2300",
+        "name": "010519126_136927_1084709.2500x5792.jpeg",
+        "rotation_angle": 0
+    }
+}

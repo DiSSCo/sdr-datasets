@@ -1,0 +1,31 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "e7b5da23-df0a-4fa7-a14b-a930778a38f4",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/58df403b-c293-4048-9e9b-f7c1f82e529e",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/58df403b-c293-4048-9e9b-f7c1f82e529e/full/full/0/default.jpg"
+    },
+    "named_entities": [
+        {
+            "tags": "Ross B-location_name\nIsld I-location_name\n5 B-date\n- I-date\n04 I-date\nBingham B-Collection/Donation\nCol I-Collection/Donation\nBingham O\nCol O",
+            "worker_version_id": null
+        },
+        {
+            "tags": "Ross B-location_name\nIs I-location_name\n. I-location_name\n, I-location_name\nandaman I-location_name\nIs I-location_name\n. I-location_name\napril B-date\n, I-date\n1904 I-date\nCol B-Collection/Donation\n. I-Collection/Donation\nBingham I-Collection/Donation",
+            "worker_version_id": null
+        },
+        {
+            "tags": "NHMUK B-identifier\n012810837 I-identifier",
+            "worker_version_id": null
+        }
+    ],
+    "page": {
+        "id": "904c11d5-7c5a-4400-bfee-f9bb981293c0",
+        "name": "012810837_806333_1263207.2500x3181.jpeg",
+        "rotation_angle": 0
+    }
+}

@@ -1,0 +1,1166 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "e28d3ac9-9c27-461f-a8d0-9f42d20da281",
+        "name": "Luomus"
+    },
+    "image": {
+        "id": "9e2654ff-d24d-4477-b31f-63a6550a6c61",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FEIG.381.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FEIG.381.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "3c2d6fb9-48fe-48d9-949b-20b9e7787ec9",
+        "name": "EIG.381",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    1224,
+                    565
+                ],
+                [
+                    1224,
+                    701
+                ],
+                [
+                    1621,
+                    701
+                ],
+                [
+                    1621,
+                    565
+                ],
+                [
+                    1224,
+                    565
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "12373",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1271,
+                    754
+                ],
+                [
+                    1271,
+                    906
+                ],
+                [
+                    1645,
+                    906
+                ],
+                [
+                    1645,
+                    754
+                ],
+                [
+                    1271,
+                    754
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "spores",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    932,
+                    6043
+                ],
+                [
+                    932,
+                    6289
+                ],
+                [
+                    1012,
+                    6289
+                ],
+                [
+                    1012,
+                    6043
+                ],
+                [
+                    932,
+                    6043
+                ]
+            ],
+            "rotation_angle": 90,
+            "transcription": "12373",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1022,
+                    5915
+                ],
+                [
+                    1022,
+                    6379
+                ],
+                [
+                    1103,
+                    6379
+                ],
+                [
+                    1103,
+                    5915
+                ],
+                [
+                    1022,
+                    5915
+                ]
+            ],
+            "rotation_angle": 90,
+            "transcription": "H 1489446",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1134,
+                    5513
+                ],
+                [
+                    1134,
+                    6287
+                ],
+                [
+                    1243,
+                    6287
+                ],
+                [
+                    1243,
+                    5513
+                ],
+                [
+                    1134,
+                    5513
+                ]
+            ],
+            "rotation_angle": 90,
+            "transcription": "Spores scrached from",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1249,
+                    5714
+                ],
+                [
+                    1249,
+                    6330
+                ],
+                [
+                    1337,
+                    6330
+                ],
+                [
+                    1337,
+                    5714
+                ],
+                [
+                    1249,
+                    5714
+                ]
+            ],
+            "rotation_angle": 90,
+            "transcription": "papa, perhaps",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1341,
+                    5775
+                ],
+                [
+                    1341,
+                    6295
+                ],
+                [
+                    1416,
+                    6295
+                ],
+                [
+                    1416,
+                    5775
+                ],
+                [
+                    1341,
+                    5775
+                ]
+            ],
+            "rotation_angle": 90,
+            "transcription": "contaminated",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1426,
+                    5619
+                ],
+                [
+                    1426,
+                    6421
+                ],
+                [
+                    1522,
+                    6421
+                ],
+                [
+                    1522,
+                    5619
+                ],
+                [
+                    1426,
+                    5619
+                ]
+            ],
+            "rotation_angle": 90,
+            "transcription": "T. Reichden's 24. I. 1984",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2310,
+                    6901
+                ],
+                [
+                    2310,
+                    6959
+                ],
+                [
+                    2882,
+                    6959
+                ],
+                [
+                    2882,
+                    6901
+                ],
+                [
+                    2310,
+                    6901
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "http://id.luomus.fi/",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2447,
+                    6977
+                ],
+                [
+                    2447,
+                    7043
+                ],
+                [
+                    2693,
+                    7043
+                ],
+                [
+                    2693,
+                    6977
+                ],
+                [
+                    2447,
+                    6977
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "EIG.381",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2403,
+                    7055
+                ],
+                [
+                    2403,
+                    7125
+                ],
+                [
+                    2763,
+                    7125
+                ],
+                [
+                    2763,
+                    7055
+                ],
+                [
+                    2403,
+                    7055
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "2013-03-25",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1936,
+                    6884
+                ],
+                [
+                    1936,
+                    7154
+                ],
+                [
+                    2017,
+                    7154
+                ],
+                [
+                    2017,
+                    6884
+                ],
+                [
+                    1936,
+                    6884
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Digitarium",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    865,
+                    7267
+                ],
+                [
+                    865,
+                    7418
+                ],
+                [
+                    2296,
+                    7418
+                ],
+                [
+                    2296,
+                    7267
+                ],
+                [
+                    865,
+                    7267
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Dryopteris pentheri (Krasser) C. Chr.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    862,
+                    7578
+                ],
+                [
+                    862,
+                    7656
+                ],
+                [
+                    1294,
+                    7656
+                ],
+                [
+                    1294,
+                    7578
+                ],
+                [
+                    862,
+                    7578
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Determinavit/",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1312,
+                    7557
+                ],
+                [
+                    1312,
+                    7772
+                ],
+                [
+                    1715,
+                    7772
+                ],
+                [
+                    1715,
+                    7557
+                ],
+                [
+                    1312,
+                    7557
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "J. P. Roux",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1982,
+                    7589
+                ],
+                [
+                    1982,
+                    7705
+                ],
+                [
+                    2632,
+                    7705
+                ],
+                [
+                    2632,
+                    7589
+                ],
+                [
+                    1982,
+                    7589
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Date: 6/09/2007",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2882,
+                    7226
+                ],
+                [
+                    2882,
+                    7371
+                ],
+                [
+                    3120,
+                    7371
+                ],
+                [
+                    3120,
+                    7226
+                ],
+                [
+                    2882,
+                    7226
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Dryo",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3234,
+                    7229
+                ],
+                [
+                    3234,
+                    7380
+                ],
+                [
+                    4310,
+                    7380
+                ],
+                [
+                    4310,
+                    7229
+                ],
+                [
+                    3234,
+                    7229
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ris cf. pentheri (Krasser) C. Chr.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2862,
+                    7400
+                ],
+                [
+                    2862,
+                    7514
+                ],
+                [
+                    3138,
+                    7514
+                ],
+                [
+                    3138,
+                    7400
+                ],
+                [
+                    2862,
+                    7400
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "indument",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3225,
+                    7395
+                ],
+                [
+                    3225,
+                    7517
+                ],
+                [
+                    3939,
+                    7517
+                ],
+                [
+                    3939,
+                    7395
+                ],
+                [
+                    3225,
+                    7395
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "D. pentheri (sensu Pic. Ser.)",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2990,
+                    7557
+                ],
+                [
+                    2990,
+                    7636
+                ],
+                [
+                    3457,
+                    7636
+                ],
+                [
+                    3457,
+                    7557
+                ],
+                [
+                    2990,
+                    7557
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Determinavit",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3486,
+                    7575
+                ],
+                [
+                    3486,
+                    7679
+                ],
+                [
+                    3834,
+                    7679
+                ],
+                [
+                    3834,
+                    7575
+                ],
+                [
+                    3486,
+                    7575
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "R. Viane",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3681,
+                    7691
+                ],
+                [
+                    3681,
+                    7772
+                ],
+                [
+                    3950,
+                    7772
+                ],
+                [
+                    3950,
+                    7691
+                ],
+                [
+                    3681,
+                    7691
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "XII-1985",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4705,
+                    7688
+                ],
+                [
+                    4705,
+                    7770
+                ],
+                [
+                    5501,
+                    7770
+                ],
+                [
+                    5501,
+                    7688
+                ],
+                [
+                    4705,
+                    7688
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Ethiopian Flora Project Expedition 1982",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4212,
+                    6656
+                ],
+                [
+                    4212,
+                    6742
+                ],
+                [
+                    5041,
+                    6742
+                ],
+                [
+                    5041,
+                    6656
+                ],
+                [
+                    4212,
+                    6656
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "FLORA OF ETHIOPIA",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3999,
+                    6805
+                ],
+                [
+                    3999,
+                    6929
+                ],
+                [
+                    4499,
+                    6929
+                ],
+                [
+                    4499,
+                    6805
+                ],
+                [
+                    3999,
+                    6805
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Dryopteris",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3991,
+                    7092
+                ],
+                [
+                    3991,
+                    7209
+                ],
+                [
+                    5195,
+                    7209
+                ],
+                [
+                    5195,
+                    7092
+                ],
+                [
+                    3991,
+                    7092
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Steep, c. SW facing slope",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4546,
+                    7214
+                ],
+                [
+                    4546,
+                    7277
+                ],
+                [
+                    4863,
+                    7277
+                ],
+                [
+                    4863,
+                    7214
+                ],
+                [
+                    4546,
+                    7214
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "stones",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3804,
+                    5810
+                ],
+                [
+                    3804,
+                    5900
+                ],
+                [
+                    5464,
+                    5900
+                ],
+                [
+                    5464,
+                    5810
+                ],
+                [
+                    3804,
+                    5810
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Shewa Adm. Reg., 26 km N of Gedo on the road",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3807,
+                    5906
+                ],
+                [
+                    3807,
+                    5981
+                ],
+                [
+                    5351,
+                    5981
+                ],
+                [
+                    5351,
+                    5906
+                ],
+                [
+                    3807,
+                    5906
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "to Fincha 09\u00b007'N; 37\u00b020'E, c. 2900 m. In",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3813,
+                    5987
+                ],
+                [
+                    3813,
+                    6051
+                ],
+                [
+                    5293,
+                    6051
+                ],
+                [
+                    5293,
+                    5987
+                ],
+                [
+                    3813,
+                    5987
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "rocky outcrops with remnants of Rapanea",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3813,
+                    6056
+                ],
+                [
+                    3813,
+                    6115
+                ],
+                [
+                    5467,
+                    6115
+                ],
+                [
+                    5467,
+                    6056
+                ],
+                [
+                    3813,
+                    6056
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "forest with low scrub of Hypericum revolutum",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3813,
+                    6120
+                ],
+                [
+                    3813,
+                    6187
+                ],
+                [
+                    3981,
+                    6187
+                ],
+                [
+                    3981,
+                    6120
+                ],
+                [
+                    3813,
+                    6120
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "etc.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3813,
+                    6251
+                ],
+                [
+                    3813,
+                    6332
+                ],
+                [
+                    4173,
+                    6332
+                ],
+                [
+                    4173,
+                    6251
+                ],
+                [
+                    3813,
+                    6251
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "27. X. 1982",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4356,
+                    6245
+                ],
+                [
+                    4356,
+                    6353
+                ],
+                [
+                    5377,
+                    6353
+                ],
+                [
+                    5377,
+                    6245
+                ],
+                [
+                    4356,
+                    6245
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Ilkka Kukkonen 12373a",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4457,
+                    5144
+                ],
+                [
+                    4460,
+                    5225
+                ],
+                [
+                    4680,
+                    5240
+                ],
+                [
+                    5360,
+                    5170
+                ],
+                [
+                    5377,
+                    5074
+                ],
+                [
+                    4457,
+                    5144
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Sonrng TR-5971@24.I.1984",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4454,
+                    5333
+                ],
+                [
+                    4704,
+                    5295
+                ],
+                [
+                    4840,
+                    5292
+                ],
+                [
+                    5275,
+                    5248
+                ],
+                [
+                    5261,
+                    5190
+                ],
+                [
+                    4692,
+                    5248
+                ],
+                [
+                    4463,
+                    5248
+                ],
+                [
+                    4454,
+                    5333
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "spores small good with exposure",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4675,
+                    5388
+                ],
+                [
+                    5406,
+                    5321
+                ],
+                [
+                    5386,
+                    5240
+                ],
+                [
+                    4817,
+                    5298
+                ],
+                [
+                    4721,
+                    5307
+                ],
+                [
+                    4678,
+                    5309
+                ],
+                [
+                    4675,
+                    5388
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "c.(27)-30-33(-36) \u00b5m long",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4956,
+                    4865
+                ],
+                [
+                    4968,
+                    4935
+                ],
+                [
+                    5159,
+                    4918
+                ],
+                [
+                    5162,
+                    4874
+                ],
+                [
+                    4956,
+                    4865
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "R. Viane",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4971,
+                    4944
+                ],
+                [
+                    4982,
+                    4984
+                ],
+                [
+                    5212,
+                    4976
+                ],
+                [
+                    5351,
+                    4990
+                ],
+                [
+                    5360,
+                    4903
+                ],
+                [
+                    5200,
+                    4920
+                ],
+                [
+                    4971,
+                    4944
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "epidermis (1529)",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4962,
+                    4987
+                ],
+                [
+                    4962,
+                    5039
+                ],
+                [
+                    5249,
+                    5013
+                ],
+                [
+                    5241,
+                    4981
+                ],
+                [
+                    5209,
+                    4981
+                ],
+                [
+                    5055,
+                    4987
+                ],
+                [
+                    4962,
+                    4987
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "S.E.M. (spores)",
+            "worker_version": null
+        }
+    ]
+}

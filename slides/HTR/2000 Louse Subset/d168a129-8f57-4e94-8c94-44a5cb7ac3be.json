@@ -1,0 +1,262 @@
+{
+    "dataset_id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+    "folder": {
+        "id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+        "name": "2000 Louse Subset"
+    },
+    "image": {
+        "id": "11d59024-3f62-4359-a181-e6b3b3d6627e",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/3f9b6007-41a0-4e59-993e-b0d8c8f6018e",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/3f9b6007-41a0-4e59-993e-b0d8c8f6018e/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "d168a129-8f57-4e94-8c94-44a5cb7ac3be",
+        "name": "82",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    6969,
+                    393
+                ],
+                [
+                    6969,
+                    2726
+                ],
+                [
+                    7267,
+                    2726
+                ],
+                [
+                    7267,
+                    393
+                ],
+                [
+                    6969,
+                    393
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Corvus c. corone.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    3235,
+                    2188
+                ],
+                [
+                    3235,
+                    2294
+                ],
+                [
+                    3619,
+                    2294
+                ],
+                [
+                    3619,
+                    2188
+                ],
+                [
+                    3235,
+                    2188
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    7660,
+                    460
+                ],
+                [
+                    7660,
+                    1881
+                ],
+                [
+                    8054,
+                    1881
+                ],
+                [
+                    8054,
+                    460
+                ],
+                [
+                    7660,
+                    460
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "May 1934",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    662,
+                    883
+                ],
+                [
+                    662,
+                    2668
+                ],
+                [
+                    1123,
+                    2668
+                ],
+                [
+                    1123,
+                    883
+                ],
+                [
+                    662,
+                    883
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Myrsidea",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    3571,
+                    2246
+                ],
+                [
+                    3571,
+                    2688
+                ],
+                [
+                    3705,
+                    2688
+                ],
+                [
+                    3705,
+                    2246
+                ],
+                [
+                    3571,
+                    2246
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "010661649",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6307,
+                    604
+                ],
+                [
+                    6307,
+                    2582
+                ],
+                [
+                    6604,
+                    2582
+                ],
+                [
+                    6604,
+                    604
+                ],
+                [
+                    6307,
+                    604
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "MEINERTZHAGEN",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    7344,
+                    710
+                ],
+                [
+                    7344,
+                    2716
+                ],
+                [
+                    7718,
+                    2716
+                ],
+                [
+                    7718,
+                    710
+                ],
+                [
+                    7344,
+                    710
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Blois. France.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    8275,
+                    988
+                ],
+                [
+                    8275,
+                    1910
+                ],
+                [
+                    8620,
+                    1910
+                ],
+                [
+                    8620,
+                    988
+                ],
+                [
+                    8275,
+                    988
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "1024.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6729,
+                    1632
+                ],
+                [
+                    6729,
+                    1881
+                ],
+                [
+                    6969,
+                    1881
+                ],
+                [
+                    6969,
+                    1632
+                ],
+                [
+                    6729,
+                    1632
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "\u2642",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        }
+    ]
+}

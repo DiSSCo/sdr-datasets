@@ -1,0 +1,1153 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "635f3d84-ced6-4b17-b64a-86be7aa87304",
+        "name": "Naturalis"
+    },
+    "image": {
+        "id": "6895bf47-b0c2-4a54-b67b-46d2ad68158c",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FL.2109497.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FL.2109497.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "687bf055-4262-4867-b7b1-0f4331796cc4",
+        "name": "L.2109497",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    2902,
+                    192
+                ],
+                [
+                    2902,
+                    258
+                ],
+                [
+                    3484,
+                    258
+                ],
+                [
+                    3484,
+                    192
+                ],
+                [
+                    2902,
+                    192
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Nationaal Herbarium",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3003,
+                    311
+                ],
+                [
+                    3003,
+                    393
+                ],
+                [
+                    3379,
+                    393
+                ],
+                [
+                    3379,
+                    311
+                ],
+                [
+                    3003,
+                    311
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "OKT.01 02513",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2995,
+                    417
+                ],
+                [
+                    2995,
+                    502
+                ],
+                [
+                    3412,
+                    502
+                ],
+                [
+                    3412,
+                    417
+                ],
+                [
+                    2995,
+                    417
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NEDERLAND (L)",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3089,
+                    2515
+                ],
+                [
+                    3089,
+                    2563
+                ],
+                [
+                    3479,
+                    2563
+                ],
+                [
+                    3479,
+                    2515
+                ],
+                [
+                    3089,
+                    2515
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Nationaal Herbarium Nederland",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3146,
+                    2618
+                ],
+                [
+                    3146,
+                    2678
+                ],
+                [
+                    3368,
+                    2678
+                ],
+                [
+                    3368,
+                    2618
+                ],
+                [
+                    3146,
+                    2618
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "L 0830235",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2439,
+                    2753
+                ],
+                [
+                    3517,
+                    2778
+                ],
+                [
+                    3517,
+                    2707
+                ],
+                [
+                    2444,
+                    2685
+                ],
+                [
+                    2439,
+                    2753
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Nationaal Herbarium Nederland",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2574,
+                    2816
+                ],
+                [
+                    3316,
+                    2834
+                ],
+                [
+                    3314,
+                    2777
+                ],
+                [
+                    2575,
+                    2762
+                ],
+                [
+                    2574,
+                    2816
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Universiteit Leiden Branch (L)",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2396,
+                    2831
+                ],
+                [
+                    2396,
+                    2878
+                ],
+                [
+                    2762,
+                    2878
+                ],
+                [
+                    2762,
+                    2831
+                ],
+                [
+                    2396,
+                    2831
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Leg.: Fretes, Y. de 39",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3199,
+                    2899
+                ],
+                [
+                    3199,
+                    2951
+                ],
+                [
+                    3513,
+                    2951
+                ],
+                [
+                    3513,
+                    2899
+                ],
+                [
+                    3199,
+                    2899
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "d.d.: 2 March 1993",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3311,
+                    2959
+                ],
+                [
+                    3311,
+                    3011
+                ],
+                [
+                    3530,
+                    3011
+                ],
+                [
+                    3530,
+                    2959
+                ],
+                [
+                    3311,
+                    2959
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "L 0830235",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3273,
+                    3026
+                ],
+                [
+                    3273,
+                    3070
+                ],
+                [
+                    3528,
+                    3070
+                ],
+                [
+                    3528,
+                    3026
+                ],
+                [
+                    3273,
+                    3026
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Burseraceae",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2401,
+                    2924
+                ],
+                [
+                    2401,
+                    2984
+                ],
+                [
+                    2615,
+                    2984
+                ],
+                [
+                    2615,
+                    2924
+                ],
+                [
+                    2401,
+                    2924
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "With: Ros, I.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2395,
+                    3062
+                ],
+                [
+                    2395,
+                    3135
+                ],
+                [
+                    2923,
+                    3135
+                ],
+                [
+                    2923,
+                    3062
+                ],
+                [
+                    2395,
+                    3062
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Protium javanicum Burm.f.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2403,
+                    3202
+                ],
+                [
+                    2403,
+                    3252
+                ],
+                [
+                    2954,
+                    3252
+                ],
+                [
+                    2954,
+                    3202
+                ],
+                [
+                    2403,
+                    3202
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Det.: Leenhouts, P.W., 0/1993",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2396,
+                    3411
+                ],
+                [
+                    2396,
+                    3459
+                ],
+                [
+                    2958,
+                    3459
+                ],
+                [
+                    2958,
+                    3411
+                ],
+                [
+                    2396,
+                    3411
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Locality: Lombok NTB, Kec. G. Sari.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2407,
+                    3663
+                ],
+                [
+                    2407,
+                    3715
+                ],
+                [
+                    2828,
+                    3715
+                ],
+                [
+                    2828,
+                    3663
+                ],
+                [
+                    2407,
+                    3663
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Vernacular name: kayuq kates",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2398,
+                    3270
+                ],
+                [
+                    2403,
+                    3324
+                ],
+                [
+                    3340,
+                    3338
+                ],
+                [
+                    3340,
+                    3295
+                ],
+                [
+                    2398,
+                    3270
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Indonesia, Lesser Sunda Islands, Nusa Tenggara Barat,",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2401,
+                    3379
+                ],
+                [
+                    2618,
+                    3379
+                ],
+                [
+                    2625,
+                    3336
+                ],
+                [
+                    2403,
+                    3325
+                ],
+                [
+                    2401,
+                    3379
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Krandangan",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2470,
+                    5108
+                ],
+                [
+                    2470,
+                    5168
+                ],
+                [
+                    3246,
+                    5168
+                ],
+                [
+                    3246,
+                    5108
+                ],
+                [
+                    2470,
+                    5108
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Revised for Flora Malesiana",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2507,
+                    5190
+                ],
+                [
+                    2507,
+                    5247
+                ],
+                [
+                    2960,
+                    5247
+                ],
+                [
+                    2960,
+                    5190
+                ],
+                [
+                    2507,
+                    5190
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "fam. BURSERACEAE",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2492,
+                    5288
+                ],
+                [
+                    2492,
+                    5366
+                ],
+                [
+                    3209,
+                    5366
+                ],
+                [
+                    3209,
+                    5288
+                ],
+                [
+                    2492,
+                    5288
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Protium javanicum Burm. f.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2488,
+                    5418
+                ],
+                [
+                    2488,
+                    5488
+                ],
+                [
+                    3065,
+                    5488
+                ],
+                [
+                    3065,
+                    5418
+                ],
+                [
+                    2488,
+                    5418
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "det. P.W. LEENHOUTS 1993",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1469,
+                    5636
+                ],
+                [
+                    1469,
+                    5722
+                ],
+                [
+                    1804,
+                    5722
+                ],
+                [
+                    1804,
+                    5636
+                ],
+                [
+                    1469,
+                    5636
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "201390",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    148,
+                    5603
+                ],
+                [
+                    148,
+                    5668
+                ],
+                [
+                    326,
+                    5668
+                ],
+                [
+                    326,
+                    5603
+                ],
+                [
+                    148,
+                    5603
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "L. 2109497",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1418,
+                    3291
+                ],
+                [
+                    1472,
+                    3353
+                ],
+                [
+                    1595,
+                    3256
+                ],
+                [
+                    1535,
+                    3190
+                ],
+                [
+                    1418,
+                    3291
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "no. 39",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1630,
+                    3109
+                ],
+                [
+                    1667,
+                    3137
+                ],
+                [
+                    1779,
+                    3036
+                ],
+                [
+                    1754,
+                    3009
+                ],
+                [
+                    1630,
+                    3109
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Coll.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1576,
+                    3177
+                ],
+                [
+                    1599,
+                    3239
+                ],
+                [
+                    1695,
+                    3166
+                ],
+                [
+                    1786,
+                    3107
+                ],
+                [
+                    1787,
+                    3080
+                ],
+                [
+                    1962,
+                    2961
+                ],
+                [
+                    1917,
+                    2907
+                ],
+                [
+                    1787,
+                    3028
+                ],
+                [
+                    1660,
+                    3148
+                ],
+                [
+                    1619,
+                    3136
+                ],
+                [
+                    1576,
+                    3177
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Krandangan, Kec.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1602,
+                    3239
+                ],
+                [
+                    1615,
+                    3283
+                ],
+                [
+                    1653,
+                    3280
+                ],
+                [
+                    1703,
+                    3226
+                ],
+                [
+                    1792,
+                    3164
+                ],
+                [
+                    2035,
+                    2990
+                ],
+                [
+                    2003,
+                    2941
+                ],
+                [
+                    1791,
+                    3080
+                ],
+                [
+                    1786,
+                    3107
+                ],
+                [
+                    1602,
+                    3239
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "G. Sari, Lombok NTB",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1672,
+                    3267
+                ],
+                [
+                    1680,
+                    3299
+                ],
+                [
+                    1849,
+                    3202
+                ],
+                [
+                    1811,
+                    3153
+                ],
+                [
+                    1705,
+                    3226
+                ],
+                [
+                    1672,
+                    3267
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "2.3.93",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1887,
+                    3099
+                ],
+                [
+                    1927,
+                    3129
+                ],
+                [
+                    2065,
+                    3028
+                ],
+                [
+                    2033,
+                    2998
+                ],
+                [
+                    1887,
+                    3099
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "200 m",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1649,
+                    3342
+                ],
+                [
+                    1673,
+                    3399
+                ],
+                [
+                    1803,
+                    3301
+                ],
+                [
+                    1862,
+                    3259
+                ],
+                [
+                    1894,
+                    3256
+                ],
+                [
+                    1925,
+                    3207
+                ],
+                [
+                    1944,
+                    3229
+                ],
+                [
+                    1955,
+                    3215
+                ],
+                [
+                    1959,
+                    3182
+                ],
+                [
+                    2084,
+                    3077
+                ],
+                [
+                    2068,
+                    3039
+                ],
+                [
+                    2001,
+                    3075
+                ],
+                [
+                    1925,
+                    3139
+                ],
+                [
+                    1908,
+                    3167
+                ],
+                [
+                    1803,
+                    3228
+                ],
+                [
+                    1649,
+                    3342
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Nama: kayuq kates",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1649,
+                    3419
+                ],
+                [
+                    1670,
+                    3491
+                ],
+                [
+                    1737,
+                    3421
+                ],
+                [
+                    1870,
+                    3327
+                ],
+                [
+                    1960,
+                    3261
+                ],
+                [
+                    2040,
+                    3188
+                ],
+                [
+                    2093,
+                    3158
+                ],
+                [
+                    2147,
+                    3123
+                ],
+                [
+                    2108,
+                    3072
+                ],
+                [
+                    1965,
+                    3182
+                ],
+                [
+                    1955,
+                    3218
+                ],
+                [
+                    1943,
+                    3229
+                ],
+                [
+                    1925,
+                    3212
+                ],
+                [
+                    1902,
+                    3258
+                ],
+                [
+                    1865,
+                    3262
+                ],
+                [
+                    1649,
+                    3419
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "pohon - buah bulat spt",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1676,
+                    3481
+                ],
+                [
+                    1694,
+                    3518
+                ],
+                [
+                    1822,
+                    3434
+                ],
+                [
+                    1849,
+                    3415
+                ],
+                [
+                    1857,
+                    3380
+                ],
+                [
+                    1894,
+                    3362
+                ],
+                [
+                    1941,
+                    3308
+                ],
+                [
+                    1997,
+                    3280
+                ],
+                [
+                    2097,
+                    3190
+                ],
+                [
+                    2111,
+                    3186
+                ],
+                [
+                    2117,
+                    3175
+                ],
+                [
+                    2136,
+                    3136
+                ],
+                [
+                    2092,
+                    3158
+                ],
+                [
+                    2030,
+                    3197
+                ],
+                [
+                    1951,
+                    3267
+                ],
+                [
+                    1738,
+                    3424
+                ],
+                [
+                    1676,
+                    3481
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "kelereng - yang ruatang",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1700,
+                    3521
+                ],
+                [
+                    1716,
+                    3570
+                ],
+                [
+                    1898,
+                    3426
+                ],
+                [
+                    2081,
+                    3274
+                ],
+                [
+                    2192,
+                    3159
+                ],
+                [
+                    2144,
+                    3137
+                ],
+                [
+                    2101,
+                    3190
+                ],
+                [
+                    2005,
+                    3283
+                ],
+                [
+                    1946,
+                    3305
+                ],
+                [
+                    1897,
+                    3361
+                ],
+                [
+                    1865,
+                    3381
+                ],
+                [
+                    1841,
+                    3421
+                ],
+                [
+                    1700,
+                    3521
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "merah tua - mud hijau",
+            "worker_version": null
+        }
+    ]
+}

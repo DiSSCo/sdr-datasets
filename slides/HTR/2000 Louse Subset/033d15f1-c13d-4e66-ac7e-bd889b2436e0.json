@@ -1,0 +1,370 @@
+{
+    "dataset_id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+    "folder": {
+        "id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+        "name": "2000 Louse Subset"
+    },
+    "image": {
+        "id": "d2432c0e-8358-4cf9-b116-216e21b26e32",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/e5a29e54-318d-493a-8c19-96aacad89059",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/e5a29e54-318d-493a-8c19-96aacad89059/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "033d15f1-c13d-4e66-ac7e-bd889b2436e0",
+        "name": "84",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    3388,
+                    364
+                ],
+                [
+                    3388,
+                    460
+                ],
+                [
+                    3772,
+                    460
+                ],
+                [
+                    3772,
+                    364
+                ],
+                [
+                    3388,
+                    364
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    7680,
+                    384
+                ],
+                [
+                    7680,
+                    2822
+                ],
+                [
+                    8150,
+                    2822
+                ],
+                [
+                    8150,
+                    384
+                ],
+                [
+                    7680,
+                    384
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Orkney. Aug. 1938.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    1612,
+                    768
+                ],
+                [
+                    1612,
+                    2236
+                ],
+                [
+                    2160,
+                    2236
+                ],
+                [
+                    2160,
+                    768
+                ],
+                [
+                    1612,
+                    768
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "(De Geer).",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    3734,
+                    422
+                ],
+                [
+                    3734,
+                    844
+                ],
+                [
+                    3849,
+                    844
+                ],
+                [
+                    3849,
+                    422
+                ],
+                [
+                    3734,
+                    422
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "010661681",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    7113,
+                    595
+                ],
+                [
+                    7113,
+                    2803
+                ],
+                [
+                    7526,
+                    2803
+                ],
+                [
+                    7526,
+                    595
+                ],
+                [
+                    7113,
+                    595
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Corvus corone",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    2467,
+                    844
+                ],
+                [
+                    2467,
+                    2217
+                ],
+                [
+                    2716,
+                    2217
+                ],
+                [
+                    2716,
+                    844
+                ],
+                [
+                    2467,
+                    844
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "PARATYPE.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6403,
+                    633
+                ],
+                [
+                    6403,
+                    2649
+                ],
+                [
+                    6739,
+                    2649
+                ],
+                [
+                    6739,
+                    633
+                ],
+                [
+                    6403,
+                    633
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "MEINERTZHAGEN",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    787,
+                    1046
+                ],
+                [
+                    787,
+                    2476
+                ],
+                [
+                    1257,
+                    2476
+                ],
+                [
+                    1257,
+                    1046
+                ],
+                [
+                    787,
+                    1046
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Myrsidea",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    8246,
+                    902
+                ],
+                [
+                    8246,
+                    1910
+                ],
+                [
+                    8592,
+                    1910
+                ],
+                [
+                    8592,
+                    902
+                ],
+                [
+                    8246,
+                    902
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "11494.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    1305,
+                    1065
+                ],
+                [
+                    1305,
+                    2342
+                ],
+                [
+                    1632,
+                    2342
+                ],
+                [
+                    1632,
+                    1065
+                ],
+                [
+                    1305,
+                    1065
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "cornicis",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    7468,
+                    1142
+                ],
+                [
+                    7468,
+                    2227
+                ],
+                [
+                    7708,
+                    2227
+                ],
+                [
+                    7708,
+                    1142
+                ],
+                [
+                    7468,
+                    1142
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "cornix",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    2265,
+                    1305
+                ],
+                [
+                    2265,
+                    2025
+                ],
+                [
+                    2515,
+                    2025
+                ],
+                [
+                    2515,
+                    1305
+                ],
+                [
+                    2265,
+                    1305
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NEO-",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6816,
+                    1276
+                ],
+                [
+                    6816,
+                    2006
+                ],
+                [
+                    7200,
+                    2006
+                ],
+                [
+                    7200,
+                    1276
+                ],
+                [
+                    6816,
+                    1276
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ad. \u2640",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        }
+    ]
+}

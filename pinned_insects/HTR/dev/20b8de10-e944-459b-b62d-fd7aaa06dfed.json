@@ -1,0 +1,100 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "698eca92-2431-40db-b926-2bbd49e5a6e4",
+        "name": "dev"
+    },
+    "image": {
+        "id": "6c50c7f9-f8e6-4a28-9e55-ccf57a3459ed",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/5392a3c9-c7f9-4f3c-acec-d0c17ee89f48",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/5392a3c9-c7f9-4f3c-acec-d0c17ee89f48/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "20b8de10-e944-459b-b62d-fd7aaa06dfed",
+        "name": "010515478_136820_1856556.2500x5792.jpeg",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    1570,
+                    640
+                ],
+                [
+                    1570,
+                    706
+                ],
+                [
+                    1972,
+                    706
+                ],
+                [
+                    1972,
+                    640
+                ],
+                [
+                    1570,
+                    640
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "H. Doubleday",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1621,
+                    709
+                ],
+                [
+                    1621,
+                    772
+                ],
+                [
+                    1903,
+                    772
+                ],
+                [
+                    1903,
+                    709
+                ],
+                [
+                    1621,
+                    709
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Collection",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1576,
+                    1071
+                ],
+                [
+                    1576,
+                    1140
+                ],
+                [
+                    2110,
+                    1140
+                ],
+                [
+                    2110,
+                    1071
+                ],
+                [
+                    1576,
+                    1071
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK010515478",
+            "worker_version": null
+        }
+    ]
+}

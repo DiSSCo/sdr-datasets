@@ -1,0 +1,424 @@
+{
+    "dataset_id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+    "folder": {
+        "id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+        "name": "2000 Louse Subset"
+    },
+    "image": {
+        "id": "74b4a2a8-f41a-48d7-bdcd-c040485df1c5",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/7478c572-bc07-4f30-8e73-638fd837f4a5",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/7478c572-bc07-4f30-8e73-638fd837f4a5/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "68cdee38-22d9-41b5-b0f2-cbebfeb6ad3b",
+        "name": "58",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    5451,
+                    917
+                ],
+                [
+                    5451,
+                    2722
+                ],
+                [
+                    5800,
+                    2722
+                ],
+                [
+                    5800,
+                    917
+                ],
+                [
+                    5451,
+                    917
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BM 1980-40",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    532,
+                    483
+                ],
+                [
+                    532,
+                    801
+                ],
+                [
+                    942,
+                    801
+                ],
+                [
+                    942,
+                    483
+                ],
+                [
+                    532,
+                    483
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "\u2640",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    7624,
+                    603
+                ],
+                [
+                    7624,
+                    2781
+                ],
+                [
+                    7979,
+                    2781
+                ],
+                [
+                    7979,
+                    603
+                ],
+                [
+                    7624,
+                    603
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "mousakande, 21.xii.57.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    4790,
+                    630
+                ],
+                [
+                    4790,
+                    758
+                ],
+                [
+                    5188,
+                    758
+                ],
+                [
+                    5188,
+                    630
+                ],
+                [
+                    4790,
+                    630
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    1370,
+                    532
+                ],
+                [
+                    1370,
+                    2814
+                ],
+                [
+                    1804,
+                    2814
+                ],
+                [
+                    1804,
+                    532
+                ],
+                [
+                    1370,
+                    532
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "B\u00fcttiker, 1954",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    7972,
+                    679
+                ],
+                [
+                    7972,
+                    2551
+                ],
+                [
+                    8319,
+                    2551
+                ],
+                [
+                    8319,
+                    679
+                ],
+                [
+                    7972,
+                    679
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "W.W.A. Phillips.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    5145,
+                    715
+                ],
+                [
+                    5145,
+                    1156
+                ],
+                [
+                    5280,
+                    1156
+                ],
+                [
+                    5280,
+                    715
+                ],
+                [
+                    5145,
+                    715
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "010656163",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    2129,
+                    532
+                ],
+                [
+                    2135,
+                    2929
+                ],
+                [
+                    2490,
+                    2929
+                ],
+                [
+                    2484,
+                    532
+                ],
+                [
+                    2129,
+                    532
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "det: J.A. Ledger/ 70",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6607,
+                    746
+                ],
+                [
+                    6607,
+                    2624
+                ],
+                [
+                    6944,
+                    2624
+                ],
+                [
+                    6944,
+                    746
+                ],
+                [
+                    6607,
+                    746
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "(alpine swift)",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    746,
+                    1009
+                ],
+                [
+                    746,
+                    2477
+                ],
+                [
+                    1070,
+                    2477
+                ],
+                [
+                    1070,
+                    1009
+                ],
+                [
+                    746,
+                    1009
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Dennyus",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6185,
+                    777
+                ],
+                [
+                    6185,
+                    2722
+                ],
+                [
+                    6534,
+                    2722
+                ],
+                [
+                    6534,
+                    777
+                ],
+                [
+                    6185,
+                    777
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Micropus. melba",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    1021,
+                    1254
+                ],
+                [
+                    1021,
+                    2557
+                ],
+                [
+                    1358,
+                    2557
+                ],
+                [
+                    1358,
+                    1254
+                ],
+                [
+                    1021,
+                    1254
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "vonarxi",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    7274,
+                    825
+                ],
+                [
+                    7274,
+                    2636
+                ],
+                [
+                    7623,
+                    2636
+                ],
+                [
+                    7623,
+                    825
+                ],
+                [
+                    7274,
+                    825
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Gammadiura",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6895,
+                    923
+                ],
+                [
+                    6895,
+                    2441
+                ],
+                [
+                    7231,
+                    2441
+                ],
+                [
+                    7231,
+                    923
+                ],
+                [
+                    6895,
+                    923
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Ceylon, C.P.,",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6436,
+                    1443
+                ],
+                [
+                    6436,
+                    2392
+                ],
+                [
+                    6638,
+                    2392
+                ],
+                [
+                    6638,
+                    1443
+                ],
+                [
+                    6436,
+                    1443
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "bukeri",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        }
+    ]
+}

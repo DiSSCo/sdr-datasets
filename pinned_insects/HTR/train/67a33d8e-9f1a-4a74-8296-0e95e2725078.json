@@ -1,0 +1,235 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "70b43665-b402-4dfb-93d6-0cef8aeeefc7",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/adcc9d3e-e50e-4db4-8e95-8e2cdba3b5ef",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/adcc9d3e-e50e-4db4-8e95-8e2cdba3b5ef/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "67a33d8e-9f1a-4a74-8296-0e95e2725078",
+        "name": "012497522_72666_87272.2500x8688.jpeg",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    1957,
+                    1762
+                ],
+                [
+                    2265,
+                    1764
+                ],
+                [
+                    2263,
+                    1730
+                ],
+                [
+                    1960,
+                    1730
+                ],
+                [
+                    1957,
+                    1762
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK012497522",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1904,
+                    1857
+                ],
+                [
+                    1905,
+                    1894
+                ],
+                [
+                    2334,
+                    1893
+                ],
+                [
+                    2337,
+                    1857
+                ],
+                [
+                    1904,
+                    1857
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BORNEO, Sarawak",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1904,
+                    1906
+                ],
+                [
+                    1905,
+                    1949
+                ],
+                [
+                    2275,
+                    1945
+                ],
+                [
+                    2276,
+                    1906
+                ],
+                [
+                    1904,
+                    1906
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Mulu National Park",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1902,
+                    1958
+                ],
+                [
+                    1903,
+                    2005
+                ],
+                [
+                    2262,
+                    1998
+                ],
+                [
+                    2263,
+                    1958
+                ],
+                [
+                    1902,
+                    1958
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Gunung Mulu Trail",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1903,
+                    2018
+                ],
+                [
+                    1904,
+                    2060
+                ],
+                [
+                    2248,
+                    2050
+                ],
+                [
+                    2247,
+                    2009
+                ],
+                [
+                    1903,
+                    2018
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "15-16 March 1994",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1905,
+                    2071
+                ],
+                [
+                    1905,
+                    2104
+                ],
+                [
+                    2344,
+                    2103
+                ],
+                [
+                    2345,
+                    2060
+                ],
+                [
+                    1905,
+                    2071
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Coll. C.L. Chan & Poon",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1904,
+                    2247
+                ],
+                [
+                    1904,
+                    2286
+                ],
+                [
+                    2210,
+                    2273
+                ],
+                [
+                    2206,
+                    2235
+                ],
+                [
+                    1904,
+                    2247
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "C.L. Chan Collection",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1908,
+                    2301
+                ],
+                [
+                    1908,
+                    2333
+                ],
+                [
+                    2215,
+                    2321
+                ],
+                [
+                    2216,
+                    2290
+                ],
+                [
+                    1908,
+                    2301
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BMNH(E) 2015-144",
+            "worker_version": null
+        }
+    ]
+}

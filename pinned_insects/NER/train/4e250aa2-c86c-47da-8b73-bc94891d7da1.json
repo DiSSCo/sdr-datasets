@@ -1,0 +1,31 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "1069c297-3427-4563-a0bc-ae562d7521d6",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/dbb17b36-0126-4086-ba25-251db64b229a",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/dbb17b36-0126-4086-ba25-251db64b229a/full/full/0/default.jpg"
+    },
+    "named_entities": [
+        {
+            "tags": "Ex B-Collection/Donation\nF I-Collection/Donation\n. I-Collection/Donation\nM I-Collection/Donation\n. I-Collection/Donation\nS I-Collection/Donation\n. I-Collection/Donation\nMuseum I-Collection/Donation\n. I-Collection/Donation\nB B-identifier\n. I-identifier\nM I-identifier\n. I-identifier\n1955 I-identifier\n- I-identifier\n354 I-identifier\n. I-identifier",
+            "worker_version_id": null
+        },
+        {
+            "tags": "NHMUK012495948 B-identifier",
+            "worker_version_id": null
+        },
+        {
+            "tags": "Raffles B-Collection/Donation\nMuseum I-Collection/Donation\nSingapore I-Collection/Donation\n. I-Collection/Donation",
+            "worker_version_id": null
+        }
+    ],
+    "page": {
+        "id": "4e250aa2-c86c-47da-8b73-bc94891d7da1",
+        "name": "012495948_reverse.2500x3992.jpeg",
+        "rotation_angle": 0
+    }
+}

@@ -1,0 +1,208 @@
+{
+    "dataset_id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+    "folder": {
+        "id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+        "name": "2000 Louse Subset"
+    },
+    "image": {
+        "id": "2a099246-24f1-4237-9725-07b118cd0ffe",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fsynthesys%2Fslides_images%2Fc72237e4-9612-4b9b-8cd0-0156dec18519.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fsynthesys%2Fslides_images%2Fc72237e4-9612-4b9b-8cd0-0156dec18519.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "c72237e4-9612-4b9b-8cd0-0156dec18519",
+        "name": "154",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    461,
+                    4919
+                ],
+                [
+                    461,
+                    5031
+                ],
+                [
+                    863,
+                    5031
+                ],
+                [
+                    863,
+                    4919
+                ],
+                [
+                    461,
+                    4919
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "010673242",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    694,
+                    7372
+                ],
+                [
+                    694,
+                    7920
+                ],
+                [
+                    2656,
+                    7920
+                ],
+                [
+                    2656,
+                    7372
+                ],
+                [
+                    694,
+                    7372
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Carduiceps",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    872,
+                    210
+                ],
+                [
+                    872,
+                    652
+                ],
+                [
+                    1917,
+                    652
+                ],
+                [
+                    1917,
+                    210
+                ],
+                [
+                    872,
+                    210
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "12694.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    366,
+                    5013
+                ],
+                [
+                    366,
+                    5391
+                ],
+                [
+                    490,
+                    5391
+                ],
+                [
+                    490,
+                    5013
+                ],
+                [
+                    366,
+                    5013
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    307,
+                    904
+                ],
+                [
+                    307,
+                    1480
+                ],
+                [
+                    2704,
+                    1480
+                ],
+                [
+                    2704,
+                    904
+                ],
+                [
+                    307,
+                    904
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Washington. U.S.A",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    286,
+                    1449
+                ],
+                [
+                    286,
+                    1847
+                ],
+                [
+                    2725,
+                    1847
+                ],
+                [
+                    2725,
+                    1449
+                ],
+                [
+                    286,
+                    1449
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Tringa melanoleucus",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    401,
+                    2056
+                ],
+                [
+                    401,
+                    2380
+                ],
+                [
+                    2651,
+                    2380
+                ],
+                [
+                    2651,
+                    2056
+                ],
+                [
+                    401,
+                    2056
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "MEINERTZHAGEN",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        }
+    ]
+}

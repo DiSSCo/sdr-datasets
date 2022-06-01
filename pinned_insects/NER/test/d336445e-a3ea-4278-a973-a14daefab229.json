@@ -1,0 +1,27 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6ebebd79-2a28-464f-b60a-aa47a864a586",
+        "name": "test"
+    },
+    "image": {
+        "id": "b0551d67-8cb5-4005-a8ed-799e70a1a282",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/704e9a1a-104f-4775-9911-7d8b4078b14d",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/704e9a1a-104f-4775-9911-7d8b4078b14d/full/full/0/default.jpg"
+    },
+    "named_entities": [
+        {
+            "tags": "NHMUK B-identifier\n012539397 I-identifier",
+            "worker_version_id": null
+        },
+        {
+            "tags": "W B-Collection/Donation\n. I-Collection/Donation\nR I-Collection/Donation\n. I-Collection/Donation\nB I-Collection/Donation\n. I-Collection/Donation\nHynd I-Collection/Donation\nCollection I-Collection/Donation\nBMNH B-identifier\n( I-identifier\nE I-identifier\n) I-identifier\n1998 I-identifier\n- I-identifier\n129 I-identifier",
+            "worker_version_id": null
+        }
+    ],
+    "page": {
+        "id": "d336445e-a3ea-4278-a973-a14daefab229",
+        "name": "012539397_136808_1083186.2500x5792.jpeg",
+        "rotation_angle": 0
+    }
+}

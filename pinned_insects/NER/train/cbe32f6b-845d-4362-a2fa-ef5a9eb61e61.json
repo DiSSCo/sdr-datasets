@@ -1,0 +1,39 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "73ee1266-d0ce-40b6-92f7-75dbd1947a63",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/a3568e50-702d-4103-a78c-cd29320a732e",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/a3568e50-702d-4103-a78c-cd29320a732e/full/full/0/default.jpg"
+    },
+    "named_entities": [
+        {
+            "tags": "Diplurodes B-taxon_name\nexprionate I-taxon_name\nWalker B-person_name\nDet B-Determination\n. I-Determination\nH I-Determination\n. I-Determination\nInoue I-Determination\n, I-Determination\n1985 I-Determination",
+            "worker_version_id": null
+        },
+        {
+            "tags": "Inoue B-Collection/Donation\nColl I-Collection/Donation\n. I-Collection/Donation\nB B-identifier\n. I-identifier\nM I-identifier\n. I-identifier\n1992 I-identifier\n- I-identifier\n71 I-identifier",
+            "worker_version_id": null
+        },
+        {
+            "tags": "Cameron B-location_name\nHigh I-location_name\n- I-location_name\nlands I-location_name\n, I-location_name\nMalaysia I-location_name\n1984 B-date\nNative B-Sampling protocol\ncollect I-Sampling protocol\n. I-Sampling protocol",
+            "worker_version_id": null
+        },
+        {
+            "tags": "Diplurodes B-taxon_name\nexprimata I-taxon_name\nWalker B-person_name",
+            "worker_version_id": null
+        },
+        {
+            "tags": "NHMUK B-identifier\n013322228 I-identifier",
+            "worker_version_id": null
+        }
+    ],
+    "page": {
+        "id": "cbe32f6b-845d-4362-a2fa-ef5a9eb61e61",
+        "name": "013322228_18360_1383086.2500x4315.jpeg",
+        "rotation_angle": 0
+    }
+}

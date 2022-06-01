@@ -1,0 +1,127 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "abada53a-50d9-44e0-852c-de4113bd892f",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/e7a2f881-8966-4903-9c70-21ce8854347d",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/e7a2f881-8966-4903-9c70-21ce8854347d/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "94016f37-c66c-4290-b809-a89c4546e13e",
+        "name": "012498675_71983_91735.2500x5792.jpeg",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    2034,
+                    723
+                ],
+                [
+                    2034,
+                    785
+                ],
+                [
+                    2446,
+                    785
+                ],
+                [
+                    2446,
+                    723
+                ],
+                [
+                    2034,
+                    723
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK012498675",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1984,
+                    828
+                ],
+                [
+                    1984,
+                    864
+                ],
+                [
+                    2264,
+                    864
+                ],
+                [
+                    2266,
+                    827
+                ],
+                [
+                    1984,
+                    828
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Philippine Is.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1972,
+                    872
+                ],
+                [
+                    1974,
+                    903
+                ],
+                [
+                    2269,
+                    903
+                ],
+                [
+                    2270,
+                    867
+                ],
+                [
+                    1972,
+                    872
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "E.M. Ledyard.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1973,
+                    949
+                ],
+                [
+                    2250,
+                    948
+                ],
+                [
+                    2250,
+                    912
+                ],
+                [
+                    1974,
+                    913
+                ],
+                [
+                    1973,
+                    949
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "B.M. 1925-491",
+            "worker_version": null
+        }
+    ]
+}

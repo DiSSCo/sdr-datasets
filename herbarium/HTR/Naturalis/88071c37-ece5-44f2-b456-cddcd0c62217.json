@@ -1,0 +1,829 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "635f3d84-ced6-4b17-b64a-86be7aa87304",
+        "name": "Naturalis"
+    },
+    "image": {
+        "id": "a9ff97e7-2488-4f8c-aa70-e563482838c9",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FL.1934962.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FL.1934962.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "88071c37-ece5-44f2-b456-cddcd0c62217",
+        "name": "L.1934962",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    2955,
+                    132
+                ],
+                [
+                    2955,
+                    225
+                ],
+                [
+                    3446,
+                    225
+                ],
+                [
+                    3446,
+                    132
+                ],
+                [
+                    2955,
+                    132
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "RIJKSHERBARIUM",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2979,
+                    247
+                ],
+                [
+                    2979,
+                    326
+                ],
+                [
+                    3482,
+                    326
+                ],
+                [
+                    3482,
+                    247
+                ],
+                [
+                    2979,
+                    247
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "00.FEB 98 00489 -",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3073,
+                    339
+                ],
+                [
+                    3073,
+                    425
+                ],
+                [
+                    3320,
+                    425
+                ],
+                [
+                    3320,
+                    339
+                ],
+                [
+                    3073,
+                    339
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "LEIDEN",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1136,
+                    5702
+                ],
+                [
+                    1136,
+                    5750
+                ],
+                [
+                    1571,
+                    5750
+                ],
+                [
+                    1571,
+                    5702
+                ],
+                [
+                    1136,
+                    5702
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Nationaal Herbarium Nederland",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1228,
+                    5807
+                ],
+                [
+                    1228,
+                    5854
+                ],
+                [
+                    1485,
+                    5854
+                ],
+                [
+                    1485,
+                    5807
+                ],
+                [
+                    1228,
+                    5807
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "L 0461243",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1781,
+                    5720
+                ],
+                [
+                    1781,
+                    5823
+                ],
+                [
+                    2100,
+                    5823
+                ],
+                [
+                    2100,
+                    5720
+                ],
+                [
+                    1781,
+                    5720
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "201280",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2880,
+                    3976
+                ],
+                [
+                    2880,
+                    4051
+                ],
+                [
+                    3074,
+                    4051
+                ],
+                [
+                    3074,
+                    3976
+                ],
+                [
+                    2880,
+                    3976
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "L. 1934962",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2717,
+                    4227
+                ],
+                [
+                    2717,
+                    4293
+                ],
+                [
+                    3236,
+                    4293
+                ],
+                [
+                    3236,
+                    4227
+                ],
+                [
+                    2717,
+                    4227
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Plants of Indonesia",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2487,
+                    4311
+                ],
+                [
+                    2487,
+                    4358
+                ],
+                [
+                    2684,
+                    4358
+                ],
+                [
+                    2684,
+                    4311
+                ],
+                [
+                    2487,
+                    4311
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Fabaceae",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2503,
+                    4368
+                ],
+                [
+                    2503,
+                    4423
+                ],
+                [
+                    3156,
+                    4423
+                ],
+                [
+                    3156,
+                    4368
+                ],
+                [
+                    2503,
+                    4368
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Archidendron triplinervium (Kost.) Nielson",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2496,
+                    4529
+                ],
+                [
+                    2496,
+                    4575
+                ],
+                [
+                    2988,
+                    4575
+                ],
+                [
+                    2988,
+                    4529
+                ],
+                [
+                    2496,
+                    4529
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Determined by: G. Paoli 6/94",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2495,
+                    4599
+                ],
+                [
+                    2495,
+                    4644
+                ],
+                [
+                    2660,
+                    4644
+                ],
+                [
+                    2660,
+                    4599
+                ],
+                [
+                    2495,
+                    4599
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Locality:",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2496,
+                    4649
+                ],
+                [
+                    2496,
+                    4694
+                ],
+                [
+                    3339,
+                    4694
+                ],
+                [
+                    3339,
+                    4649
+                ],
+                [
+                    2496,
+                    4649
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Borneo. C. Kalimantan, Sintang, HPH Km 86; along new",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2495,
+                    4696
+                ],
+                [
+                    2495,
+                    4733
+                ],
+                [
+                    2973,
+                    4733
+                ],
+                [
+                    2973,
+                    4696
+                ],
+                [
+                    2495,
+                    4696
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "subsidiary logging road to west.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2503,
+                    4735
+                ],
+                [
+                    2503,
+                    4788
+                ],
+                [
+                    3138,
+                    4788
+                ],
+                [
+                    3138,
+                    4735
+                ],
+                [
+                    2503,
+                    4735
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Lat.: 0\u00b0 49' 25.8\" S",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2509,
+                    4800
+                ],
+                [
+                    2509,
+                    4842
+                ],
+                [
+                    3142,
+                    4842
+                ],
+                [
+                    3142,
+                    4800
+                ],
+                [
+                    2509,
+                    4800
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Long.: 112\u00b0 3' 38.8\" E",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2498,
+                    4853
+                ],
+                [
+                    2498,
+                    4901
+                ],
+                [
+                    3231,
+                    4901
+                ],
+                [
+                    3231,
+                    4853
+                ],
+                [
+                    2498,
+                    4853
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Habitat Alt. 110 m",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2501,
+                    4911
+                ],
+                [
+                    2501,
+                    4953
+                ],
+                [
+                    3287,
+                    4953
+                ],
+                [
+                    3287,
+                    4911
+                ],
+                [
+                    2501,
+                    4911
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Mixed Dipterocarp forest, associates include: Shorea,",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2504,
+                    4955
+                ],
+                [
+                    2504,
+                    5005
+                ],
+                [
+                    3064,
+                    5005
+                ],
+                [
+                    3064,
+                    4955
+                ],
+                [
+                    2504,
+                    4955
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Myrtaceae, Sapotaceae. Red clay soil.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2492,
+                    5059
+                ],
+                [
+                    2492,
+                    5103
+                ],
+                [
+                    2723,
+                    5103
+                ],
+                [
+                    2723,
+                    5059
+                ],
+                [
+                    2492,
+                    5059
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Morphology:",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2494,
+                    5113
+                ],
+                [
+                    2494,
+                    5151
+                ],
+                [
+                    3364,
+                    5151
+                ],
+                [
+                    3364,
+                    5113
+                ],
+                [
+                    2494,
+                    5113
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Small tree 5 m, 6 cm dbh. Outer bark whitish-green. Wood",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2497,
+                    5156
+                ],
+                [
+                    2497,
+                    5193
+                ],
+                [
+                    3370,
+                    5193
+                ],
+                [
+                    3370,
+                    5156
+                ],
+                [
+                    2497,
+                    5156
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "cream. Leaves leathery. Flower pale yellow. Anthers yellow.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2499,
+                    5195
+                ],
+                [
+                    2499,
+                    5239
+                ],
+                [
+                    2769,
+                    5239
+                ],
+                [
+                    2769,
+                    5195
+                ],
+                [
+                    2499,
+                    5195
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Ovary light green.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2500,
+                    5248
+                ],
+                [
+                    2500,
+                    5300
+                ],
+                [
+                    3073,
+                    5300
+                ],
+                [
+                    3073,
+                    5248
+                ],
+                [
+                    2500,
+                    5248
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Local name: Jiring rimba/hantu",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2487,
+                    5302
+                ],
+                [
+                    2487,
+                    5354
+                ],
+                [
+                    2631,
+                    5354
+                ],
+                [
+                    2631,
+                    5302
+                ],
+                [
+                    2487,
+                    5302
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Notes:",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2515,
+                    5428
+                ],
+                [
+                    2515,
+                    5480
+                ],
+                [
+                    3403,
+                    5480
+                ],
+                [
+                    3403,
+                    5428
+                ],
+                [
+                    2515,
+                    5428
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Church, A.C., Mahyar, U.W. ,Indah, Ismail, and Hamzah",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2507,
+                    5486
+                ],
+                [
+                    2507,
+                    5535
+                ],
+                [
+                    2615,
+                    5535
+                ],
+                [
+                    2615,
+                    5486
+                ],
+                [
+                    2507,
+                    5486
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "1201",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3037,
+                    5494
+                ],
+                [
+                    3037,
+                    5544
+                ],
+                [
+                    3435,
+                    5544
+                ],
+                [
+                    3435,
+                    5494
+                ],
+                [
+                    3037,
+                    5494
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Thursday, April 28, 1994",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2694,
+                    5556
+                ],
+                [
+                    2694,
+                    5591
+                ],
+                [
+                    3220,
+                    5591
+                ],
+                [
+                    3220,
+                    5556
+                ],
+                [
+                    2694,
+                    5556
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERBARIUM BOGORIENSE",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2631,
+                    5606
+                ],
+                [
+                    2631,
+                    5643
+                ],
+                [
+                    3291,
+                    5643
+                ],
+                [
+                    3291,
+                    5606
+                ],
+                [
+                    2631,
+                    5606
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HARVARD UNIVERSITY HERBARIA",
+            "worker_version": null
+        }
+    ]
+}

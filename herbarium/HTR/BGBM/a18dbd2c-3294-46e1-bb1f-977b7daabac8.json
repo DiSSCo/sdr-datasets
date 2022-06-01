@@ -1,0 +1,235 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "438d96cb-88a1-4786-a83a-08301ba7e92a",
+        "name": "BGBM"
+    },
+    "image": {
+        "id": "2da0c38e-5b22-49de-b89b-bfc2eb5e5bea",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FB_10_0527721.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FB_10_0527721.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "a18dbd2c-3294-46e1-bb1f-977b7daabac8",
+        "name": "B_10_0527721",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    51,
+                    4419
+                ],
+                [
+                    51,
+                    4512
+                ],
+                [
+                    605,
+                    4512
+                ],
+                [
+                    605,
+                    4419
+                ],
+                [
+                    51,
+                    4419
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Campanula sibirica L",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    361,
+                    4555
+                ],
+                [
+                    361,
+                    4606
+                ],
+                [
+                    620,
+                    4606
+                ],
+                [
+                    620,
+                    4555
+                ],
+                [
+                    361,
+                    4555
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "13. 4. 58.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    454,
+                    4636
+                ],
+                [
+                    454,
+                    4712
+                ],
+                [
+                    653,
+                    4712
+                ],
+                [
+                    653,
+                    4636
+                ],
+                [
+                    454,
+                    4636
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Wrietzen",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    531,
+                    4789
+                ],
+                [
+                    531,
+                    4860
+                ],
+                [
+                    680,
+                    4860
+                ],
+                [
+                    680,
+                    4789
+                ],
+                [
+                    531,
+                    4789
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Sch\u00e4de",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2559,
+                    4751
+                ],
+                [
+                    2559,
+                    4800
+                ],
+                [
+                    2906,
+                    4800
+                ],
+                [
+                    2906,
+                    4751
+                ],
+                [
+                    2559,
+                    4751
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Mus. Bot. Berol.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2621,
+                    4879
+                ],
+                [
+                    2621,
+                    4912
+                ],
+                [
+                    2843,
+                    4912
+                ],
+                [
+                    2843,
+                    4879
+                ],
+                [
+                    2621,
+                    4879
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "B 10 0527721",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    180,
+                    2531
+                ],
+                [
+                    188,
+                    3756
+                ],
+                [
+                    237,
+                    3754
+                ],
+                [
+                    224,
+                    2531
+                ],
+                [
+                    180,
+                    2531
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "0    1    2    3    4    5    6    7    8    9    10",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    125,
+                    3342
+                ],
+                [
+                    125,
+                    3743
+                ],
+                [
+                    186,
+                    3743
+                ],
+                [
+                    186,
+                    3342
+                ],
+                [
+                    125,
+                    3342
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "copyright reserved",
+            "worker_version": null
+        }
+    ]
+}

@@ -1,0 +1,847 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "01461701-dd48-4a27-ab96-27ee9853e15d",
+        "name": "NHM London"
+    },
+    "image": {
+        "id": "6ffd8f85-770f-4a86-a600-a75fd2d8fb74",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FBM000562804.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FBM000562804.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "2b12d02a-065e-4330-86e8-0d7ad8c59202",
+        "name": "BM000562804",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    59,
+                    59
+                ],
+                [
+                    453,
+                    76
+                ],
+                [
+                    455,
+                    48
+                ],
+                [
+                    61,
+                    33
+                ],
+                [
+                    59,
+                    59
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "THE NATURAL HISTORY MUSEUM. LONDON",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    59,
+                    59
+                ],
+                [
+                    453,
+                    76
+                ],
+                [
+                    455,
+                    48
+                ],
+                [
+                    61,
+                    33
+                ],
+                [
+                    59,
+                    59
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "THE NATURAL HISTORY MUSEUM, LONDON",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    59,
+                    59
+                ],
+                [
+                    453,
+                    76
+                ],
+                [
+                    455,
+                    48
+                ],
+                [
+                    61,
+                    33
+                ],
+                [
+                    59,
+                    59
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "THE NATURAL HISTORY MUSEUM . LONDON",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    134,
+                    66
+                ],
+                [
+                    136,
+                    89
+                ],
+                [
+                    378,
+                    95
+                ],
+                [
+                    383,
+                    74
+                ],
+                [
+                    134,
+                    66
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "DEPARTMENT OF BOTANY",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    134,
+                    66
+                ],
+                [
+                    136,
+                    89
+                ],
+                [
+                    378,
+                    95
+                ],
+                [
+                    383,
+                    74
+                ],
+                [
+                    134,
+                    66
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "DEPARTMENT OF BOTANY",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    134,
+                    66
+                ],
+                [
+                    136,
+                    89
+                ],
+                [
+                    378,
+                    95
+                ],
+                [
+                    383,
+                    74
+                ],
+                [
+                    134,
+                    66
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "DEPARTMENT OF BOTANY",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    117,
+                    149
+                ],
+                [
+                    117,
+                    175
+                ],
+                [
+                    389,
+                    188
+                ],
+                [
+                    393,
+                    162
+                ],
+                [
+                    117,
+                    149
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "000562804 (BM).",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    117,
+                    149
+                ],
+                [
+                    117,
+                    175
+                ],
+                [
+                    389,
+                    188
+                ],
+                [
+                    393,
+                    162
+                ],
+                [
+                    117,
+                    149
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "000562804 (BM)",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    117,
+                    149
+                ],
+                [
+                    117,
+                    175
+                ],
+                [
+                    389,
+                    188
+                ],
+                [
+                    393,
+                    162
+                ],
+                [
+                    117,
+                    149
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "000562804 ( BM )",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1910,
+                    11
+                ],
+                [
+                    1910,
+                    53
+                ],
+                [
+                    2366,
+                    53
+                ],
+                [
+                    2366,
+                    11
+                ],
+                [
+                    1910,
+                    11
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB. MUS. BRIT.",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    1910,
+                    11
+                ],
+                [
+                    1910,
+                    53
+                ],
+                [
+                    2366,
+                    53
+                ],
+                [
+                    2366,
+                    11
+                ],
+                [
+                    1910,
+                    11
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB. MUS. BRIT.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1910,
+                    11
+                ],
+                [
+                    1910,
+                    53
+                ],
+                [
+                    2366,
+                    53
+                ],
+                [
+                    2366,
+                    11
+                ],
+                [
+                    1910,
+                    11
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB . MUS . BRIT",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1820,
+                    173
+                ],
+                [
+                    2329,
+                    201
+                ],
+                [
+                    2336,
+                    167
+                ],
+                [
+                    1822,
+                    135
+                ],
+                [
+                    1820,
+                    173
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB. HORT. BOT. REG. KEW.",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    1820,
+                    173
+                ],
+                [
+                    2329,
+                    201
+                ],
+                [
+                    2336,
+                    167
+                ],
+                [
+                    1822,
+                    135
+                ],
+                [
+                    1820,
+                    173
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB. HORT. BOT. REG. KEW.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1820,
+                    173
+                ],
+                [
+                    2329,
+                    201
+                ],
+                [
+                    2336,
+                    167
+                ],
+                [
+                    1822,
+                    135
+                ],
+                [
+                    1820,
+                    173
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB . HORT . BOT . REG . KEW .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1600,
+                    3621
+                ],
+                [
+                    1602,
+                    3694
+                ],
+                [
+                    2304,
+                    3694
+                ],
+                [
+                    2307,
+                    3619
+                ],
+                [
+                    1600,
+                    3621
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Perilhalia capiliaris Zilg",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    1600,
+                    3621
+                ],
+                [
+                    1602,
+                    3694
+                ],
+                [
+                    2304,
+                    3694
+                ],
+                [
+                    2307,
+                    3619
+                ],
+                [
+                    1600,
+                    3621
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Perithalia capillaris J Ag",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1600,
+                    3621
+                ],
+                [
+                    1602,
+                    3694
+                ],
+                [
+                    2304,
+                    3694
+                ],
+                [
+                    2307,
+                    3619
+                ],
+                [
+                    1600,
+                    3621
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Sailhalia capilarid lily",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1624,
+                    3771
+                ],
+                [
+                    1628,
+                    3826
+                ],
+                [
+                    1955,
+                    3822
+                ],
+                [
+                    2129,
+                    3816
+                ],
+                [
+                    2163,
+                    3811
+                ],
+                [
+                    2366,
+                    3805
+                ],
+                [
+                    2369,
+                    3751
+                ],
+                [
+                    1624,
+                    3771
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Great Barrier Island nov. Zel.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1624,
+                    3771
+                ],
+                [
+                    1628,
+                    3826
+                ],
+                [
+                    1955,
+                    3822
+                ],
+                [
+                    2129,
+                    3816
+                ],
+                [
+                    2163,
+                    3811
+                ],
+                [
+                    2366,
+                    3805
+                ],
+                [
+                    2369,
+                    3751
+                ],
+                [
+                    1624,
+                    3771
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Sead Barrier Blau Show Zoe",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1536,
+                    3908
+                ],
+                [
+                    1649,
+                    3918
+                ],
+                [
+                    1773,
+                    3903
+                ],
+                [
+                    1773,
+                    3846
+                ],
+                [
+                    1651,
+                    3863
+                ],
+                [
+                    1544,
+                    3843
+                ],
+                [
+                    1536,
+                    3908
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Zilg. 6/90",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    1536,
+                    3908
+                ],
+                [
+                    1649,
+                    3918
+                ],
+                [
+                    1773,
+                    3903
+                ],
+                [
+                    1773,
+                    3846
+                ],
+                [
+                    1651,
+                    3863
+                ],
+                [
+                    1544,
+                    3843
+                ],
+                [
+                    1536,
+                    3908
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "J. Ag. 6/90",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1536,
+                    3908
+                ],
+                [
+                    1649,
+                    3918
+                ],
+                [
+                    1773,
+                    3903
+                ],
+                [
+                    1773,
+                    3846
+                ],
+                [
+                    1651,
+                    3863
+                ],
+                [
+                    1544,
+                    3843
+                ],
+                [
+                    1536,
+                    3908
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Sitz . 6190",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2234,
+                    3878
+                ],
+                [
+                    2399,
+                    3884
+                ],
+                [
+                    2407,
+                    3835
+                ],
+                [
+                    2242,
+                    3824
+                ],
+                [
+                    2234,
+                    3878
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Colenso",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2234,
+                    3878
+                ],
+                [
+                    2399,
+                    3884
+                ],
+                [
+                    2407,
+                    3835
+                ],
+                [
+                    2242,
+                    3824
+                ],
+                [
+                    2234,
+                    3878
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Colenso",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2287,
+                    3925
+                ],
+                [
+                    2341,
+                    3929
+                ],
+                [
+                    2469,
+                    3929
+                ],
+                [
+                    2467,
+                    3888
+                ],
+                [
+                    2351,
+                    3893
+                ],
+                [
+                    2289,
+                    3886
+                ],
+                [
+                    2287,
+                    3925
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "rev. 12/85.",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    2287,
+                    3925
+                ],
+                [
+                    2341,
+                    3929
+                ],
+                [
+                    2469,
+                    3929
+                ],
+                [
+                    2467,
+                    3888
+                ],
+                [
+                    2351,
+                    3893
+                ],
+                [
+                    2289,
+                    3886
+                ],
+                [
+                    2287,
+                    3925
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "red. 12/85.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2287,
+                    3925
+                ],
+                [
+                    2341,
+                    3929
+                ],
+                [
+                    2469,
+                    3929
+                ],
+                [
+                    2467,
+                    3888
+                ],
+                [
+                    2351,
+                    3893
+                ],
+                [
+                    2289,
+                    3886
+                ],
+                [
+                    2287,
+                    3925
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "rev . 12 / 85",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        }
+    ]
+}

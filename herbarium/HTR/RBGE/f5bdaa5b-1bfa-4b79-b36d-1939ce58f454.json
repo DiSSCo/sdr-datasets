@@ -1,0 +1,1062 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "479c24a2-d399-4074-b47f-7c82c51a95d8",
+        "name": "RBGE"
+    },
+    "image": {
+        "id": "661f7c27-fa82-4b6a-a691-08dd0bec28a5",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FE00669014.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FE00669014.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "f5bdaa5b-1bfa-4b79-b36d-1939ce58f454",
+        "name": "E00669014",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    3759,
+                    194
+                ],
+                [
+                    3759,
+                    286
+                ],
+                [
+                    4834,
+                    322
+                ],
+                [
+                    4825,
+                    233
+                ],
+                [
+                    3768,
+                    196
+                ],
+                [
+                    3759,
+                    194
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB . HORT . EDINB",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3759,
+                    194
+                ],
+                [
+                    3759,
+                    286
+                ],
+                [
+                    4834,
+                    322
+                ],
+                [
+                    4825,
+                    233
+                ],
+                [
+                    3768,
+                    196
+                ],
+                [
+                    3759,
+                    194
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB. HORT . EDINB.",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    273,
+                    7869
+                ],
+                [
+                    550,
+                    7890
+                ],
+                [
+                    554,
+                    7836
+                ],
+                [
+                    279,
+                    7812
+                ],
+                [
+                    279,
+                    7808
+                ],
+                [
+                    273,
+                    7869
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "E00669014",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    273,
+                    7869
+                ],
+                [
+                    550,
+                    7890
+                ],
+                [
+                    554,
+                    7836
+                ],
+                [
+                    279,
+                    7812
+                ],
+                [
+                    279,
+                    7808
+                ],
+                [
+                    273,
+                    7869
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "E00669014",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    273,
+                    7869
+                ],
+                [
+                    550,
+                    7890
+                ],
+                [
+                    554,
+                    7836
+                ],
+                [
+                    279,
+                    7812
+                ],
+                [
+                    279,
+                    7808
+                ],
+                [
+                    273,
+                    7869
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "E00669014",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    288,
+                    7647
+                ],
+                [
+                    290,
+                    7653
+                ],
+                [
+                    577,
+                    7676
+                ],
+                [
+                    577,
+                    7628
+                ],
+                [
+                    292,
+                    7600
+                ],
+                [
+                    288,
+                    7647
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "EDINBURGH",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    288,
+                    7647
+                ],
+                [
+                    290,
+                    7653
+                ],
+                [
+                    577,
+                    7676
+                ],
+                [
+                    577,
+                    7628
+                ],
+                [
+                    292,
+                    7600
+                ],
+                [
+                    288,
+                    7647
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "EDINBURGH",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    288,
+                    7647
+                ],
+                [
+                    290,
+                    7653
+                ],
+                [
+                    577,
+                    7676
+                ],
+                [
+                    577,
+                    7628
+                ],
+                [
+                    292,
+                    7600
+                ],
+                [
+                    288,
+                    7647
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "EDINBURGH",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    124,
+                    7586
+                ],
+                [
+                    128,
+                    7586
+                ],
+                [
+                    743,
+                    7638
+                ],
+                [
+                    749,
+                    7588
+                ],
+                [
+                    130,
+                    7538
+                ],
+                [
+                    124,
+                    7586
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ROYAL BOTANIC GARDEN",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    124,
+                    7586
+                ],
+                [
+                    128,
+                    7586
+                ],
+                [
+                    743,
+                    7638
+                ],
+                [
+                    749,
+                    7588
+                ],
+                [
+                    130,
+                    7538
+                ],
+                [
+                    124,
+                    7586
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ROYAL BOTANIC GARDEN",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    124,
+                    7586
+                ],
+                [
+                    128,
+                    7586
+                ],
+                [
+                    743,
+                    7638
+                ],
+                [
+                    749,
+                    7588
+                ],
+                [
+                    130,
+                    7538
+                ],
+                [
+                    124,
+                    7586
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ROYAL BOTANIC GARDEN",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    3566,
+                    6788
+                ],
+                [
+                    3566,
+                    6886
+                ],
+                [
+                    4539,
+                    6886
+                ],
+                [
+                    4539,
+                    6788
+                ],
+                [
+                    3566,
+                    6788
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Flora of United Kingdom",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3566,
+                    6788
+                ],
+                [
+                    3566,
+                    6886
+                ],
+                [
+                    4539,
+                    6886
+                ],
+                [
+                    4539,
+                    6788
+                ],
+                [
+                    3566,
+                    6788
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Flora of United Kingdom",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3566,
+                    6788
+                ],
+                [
+                    3566,
+                    6886
+                ],
+                [
+                    4539,
+                    6886
+                ],
+                [
+                    4539,
+                    6788
+                ],
+                [
+                    3566,
+                    6788
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Flora of United Kingdom",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    3209,
+                    6886
+                ],
+                [
+                    3209,
+                    6983
+                ],
+                [
+                    4875,
+                    6983
+                ],
+                [
+                    4875,
+                    6886
+                ],
+                [
+                    3209,
+                    6886
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "UK Barcoding Project ( Part of the Barcode for Life )",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3209,
+                    6886
+                ],
+                [
+                    3209,
+                    6983
+                ],
+                [
+                    4875,
+                    6983
+                ],
+                [
+                    4875,
+                    6886
+                ],
+                [
+                    3209,
+                    6886
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "UK Barcoding Project ( Part of the Barcode for Life ).",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    4482,
+                    7038
+                ],
+                [
+                    4482,
+                    7108
+                ],
+                [
+                    4922,
+                    7108
+                ],
+                [
+                    4922,
+                    7038
+                ],
+                [
+                    4482,
+                    7038
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Plantaginaceae",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4482,
+                    7038
+                ],
+                [
+                    4482,
+                    7108
+                ],
+                [
+                    4922,
+                    7108
+                ],
+                [
+                    4922,
+                    7038
+                ],
+                [
+                    4482,
+                    7038
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Plantaginaceae",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    4482,
+                    7038
+                ],
+                [
+                    4482,
+                    7108
+                ],
+                [
+                    4922,
+                    7108
+                ],
+                [
+                    4922,
+                    7038
+                ],
+                [
+                    4482,
+                    7038
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Plantaginaceae",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    3771,
+                    7161
+                ],
+                [
+                    3771,
+                    7248
+                ],
+                [
+                    4306,
+                    7248
+                ],
+                [
+                    4306,
+                    7161
+                ],
+                [
+                    3771,
+                    7161
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Veronica alpina L .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3771,
+                    7161
+                ],
+                [
+                    3771,
+                    7248
+                ],
+                [
+                    4306,
+                    7248
+                ],
+                [
+                    4306,
+                    7161
+                ],
+                [
+                    3771,
+                    7161
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Veronica alpina L.",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3771,
+                    7161
+                ],
+                [
+                    3771,
+                    7248
+                ],
+                [
+                    4306,
+                    7248
+                ],
+                [
+                    4306,
+                    7161
+                ],
+                [
+                    3771,
+                    7161
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Veronica alpina L .",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    3165,
+                    7305
+                ],
+                [
+                    3165,
+                    7381
+                ],
+                [
+                    4804,
+                    7381
+                ],
+                [
+                    4804,
+                    7305
+                ],
+                [
+                    3165,
+                    7305
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "UNITED KINGDOM : Scotland : ( VC 97 ) Westerness : Aonach",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3165,
+                    7305
+                ],
+                [
+                    3165,
+                    7381
+                ],
+                [
+                    4804,
+                    7381
+                ],
+                [
+                    4804,
+                    7305
+                ],
+                [
+                    3165,
+                    7305
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "UNITED KINGDOM: Scotland: (VC 97) Westerness: Aonach",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3165,
+                    7305
+                ],
+                [
+                    3165,
+                    7381
+                ],
+                [
+                    4804,
+                    7381
+                ],
+                [
+                    4804,
+                    7305
+                ],
+                [
+                    3165,
+                    7305
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "UNITED KINGDOM : Scotland : ( VC 97 ) Westerness : Aonach",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    3162,
+                    7381
+                ],
+                [
+                    3162,
+                    7455
+                ],
+                [
+                    4786,
+                    7455
+                ],
+                [
+                    4786,
+                    7381
+                ],
+                [
+                    3162,
+                    7381
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Beag gully above An Cul Choire . 1 , 080 m . NN1940371774 .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3162,
+                    7381
+                ],
+                [
+                    3162,
+                    7455
+                ],
+                [
+                    4786,
+                    7455
+                ],
+                [
+                    4786,
+                    7381
+                ],
+                [
+                    3162,
+                    7381
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Beag gully above An Cul Choire. 1,080 m. NN1940371774.",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3162,
+                    7381
+                ],
+                [
+                    3162,
+                    7455
+                ],
+                [
+                    4786,
+                    7455
+                ],
+                [
+                    4786,
+                    7381
+                ],
+                [
+                    3162,
+                    7381
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Beag gully above An Cul Choire . 1 , 080 m . NN1940371774 .",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    3162,
+                    7515
+                ],
+                [
+                    3162,
+                    7599
+                ],
+                [
+                    3508,
+                    7599
+                ],
+                [
+                    3508,
+                    7515
+                ],
+                [
+                    3162,
+                    7515
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "DNA sample",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3162,
+                    7515
+                ],
+                [
+                    3162,
+                    7599
+                ],
+                [
+                    3508,
+                    7599
+                ],
+                [
+                    3508,
+                    7515
+                ],
+                [
+                    3162,
+                    7515
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "DNA sample",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3162,
+                    7515
+                ],
+                [
+                    3162,
+                    7599
+                ],
+                [
+                    3508,
+                    7599
+                ],
+                [
+                    3508,
+                    7515
+                ],
+                [
+                    3162,
+                    7515
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "DNA sample",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    3159,
+                    7659
+                ],
+                [
+                    3159,
+                    7728
+                ],
+                [
+                    3734,
+                    7728
+                ],
+                [
+                    3734,
+                    7659
+                ],
+                [
+                    3159,
+                    7659
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Moir , Marion No . 39",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3159,
+                    7659
+                ],
+                [
+                    3159,
+                    7728
+                ],
+                [
+                    3734,
+                    7728
+                ],
+                [
+                    3734,
+                    7659
+                ],
+                [
+                    3159,
+                    7659
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Moir, Marion No . 39",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3159,
+                    7659
+                ],
+                [
+                    3159,
+                    7728
+                ],
+                [
+                    3734,
+                    7728
+                ],
+                [
+                    3734,
+                    7659
+                ],
+                [
+                    3159,
+                    7659
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Moir , Marion No . 39",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    4550,
+                    7817
+                ],
+                [
+                    4550,
+                    7895
+                ],
+                [
+                    4930,
+                    7895
+                ],
+                [
+                    4930,
+                    7817
+                ],
+                [
+                    4550,
+                    7817
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "08 SEP 2013",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4550,
+                    7817
+                ],
+                [
+                    4550,
+                    7895
+                ],
+                [
+                    4930,
+                    7895
+                ],
+                [
+                    4930,
+                    7817
+                ],
+                [
+                    4550,
+                    7817
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "08 SEP 2013",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    4550,
+                    7817
+                ],
+                [
+                    4550,
+                    7895
+                ],
+                [
+                    4930,
+                    7895
+                ],
+                [
+                    4930,
+                    7817
+                ],
+                [
+                    4550,
+                    7817
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "08 SEP 2013",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "5e7fa5c5-46b0-42c6-a69c-fd3d6e2e3774",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/28e0226f-dfb5-4bed-b823-41c0cd32cf06",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/28e0226f-dfb5-4bed-b823-41c0cd32cf06/full/full/0/default.jpg"
+    },
+    "named_entities": [
+        {
+            "tags": "NHMUK011237328 B-identifier",
+            "worker_version_id": null
+        },
+        {
+            "tags": "A B-person_name\n. I-person_name\nL I-person_name\n. I-person_name\nR I-person_name\n9 B-date\n. I-date\nv I-date\n. I-date\n1933 I-date\nEastbourne B-location_name\nSussex I-location_name",
+            "worker_version_id": null
+        },
+        {
+            "tags": "Rayward B-Collection/Donation\nColl I-Collection/Donation\nex I-Collection/Donation\n. I-Collection/Donation\nNo B-identifier\n. I-identifier\n65828 I-identifier",
+            "worker_version_id": null
+        }
+    ],
+    "page": {
+        "id": "b0864729-0b45-4153-9500-5d813582ce96",
+        "name": "011237328_136998_1084658.2500x5792.jpeg",
+        "rotation_angle": 0
+    }
+}

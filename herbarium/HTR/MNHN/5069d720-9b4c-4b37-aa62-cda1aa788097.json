@@ -1,0 +1,721 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "c301e3ce-a988-469d-afb1-5af714a7123b",
+        "name": "MNHN"
+    },
+    "image": {
+        "id": "8e145652-538f-4797-a8be-99ef38bab99a",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FP00041137.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FP00041137.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "5069d720-9b4c-4b37-aa62-cda1aa788097",
+        "name": "P00041137",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    2090,
+                    4372
+                ],
+                [
+                    3214,
+                    4379
+                ],
+                [
+                    3221,
+                    4303
+                ],
+                [
+                    2095,
+                    4299
+                ],
+                [
+                    2090,
+                    4372
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERBARIUM MUSEI PARISIENSIS",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2090,
+                    4372
+                ],
+                [
+                    3214,
+                    4379
+                ],
+                [
+                    3221,
+                    4303
+                ],
+                [
+                    2095,
+                    4299
+                ],
+                [
+                    2090,
+                    4372
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "TERBARIUM MUSET PARISIENSIS",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2090,
+                    4428
+                ],
+                [
+                    2092,
+                    4481
+                ],
+                [
+                    3181,
+                    4468
+                ],
+                [
+                    3174,
+                    4408
+                ],
+                [
+                    2090,
+                    4428
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herbarium Georgii Dominicique SAG",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2090,
+                    4428
+                ],
+                [
+                    2092,
+                    4481
+                ],
+                [
+                    3181,
+                    4468
+                ],
+                [
+                    3174,
+                    4408
+                ],
+                [
+                    2090,
+                    4428
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herbarium Georgii Dominicique SAG",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2155,
+                    4577
+                ],
+                [
+                    2489,
+                    4574
+                ],
+                [
+                    2489,
+                    4547
+                ],
+                [
+                    2158,
+                    4550
+                ],
+                [
+                    2155,
+                    4577
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herb . Mus\u00e9um Paris",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2155,
+                    4577
+                ],
+                [
+                    2489,
+                    4574
+                ],
+                [
+                    2489,
+                    4547
+                ],
+                [
+                    2158,
+                    4550
+                ],
+                [
+                    2155,
+                    4577
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herb . Mus\u00e9um Paris",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2242,
+                    4737
+                ],
+                [
+                    2420,
+                    4739
+                ],
+                [
+                    2421,
+                    4708
+                ],
+                [
+                    2245,
+                    4709
+                ],
+                [
+                    2242,
+                    4737
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "P00041137",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2242,
+                    4737
+                ],
+                [
+                    2420,
+                    4739
+                ],
+                [
+                    2421,
+                    4708
+                ],
+                [
+                    2245,
+                    4709
+                ],
+                [
+                    2242,
+                    4737
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "P00041137",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2137,
+                    3133
+                ],
+                [
+                    2137,
+                    3245
+                ],
+                [
+                    2835,
+                    3245
+                ],
+                [
+                    2835,
+                    3133
+                ],
+                [
+                    2137,
+                    3133
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Carduus defloratus L.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2137,
+                    3133
+                ],
+                [
+                    2137,
+                    3245
+                ],
+                [
+                    2835,
+                    3245
+                ],
+                [
+                    2835,
+                    3133
+                ],
+                [
+                    2137,
+                    3133
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Caducs defloratus ?",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2140,
+                    3277
+                ],
+                [
+                    2140,
+                    3362
+                ],
+                [
+                    2607,
+                    3362
+                ],
+                [
+                    2607,
+                    3277
+                ],
+                [
+                    2140,
+                    3277
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "subsp. defloratus",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2140,
+                    3277
+                ],
+                [
+                    2140,
+                    3362
+                ],
+                [
+                    2607,
+                    3362
+                ],
+                [
+                    2607,
+                    3277
+                ],
+                [
+                    2140,
+                    3277
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "mesp . defloratus",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2692,
+                    3524
+                ],
+                [
+                    2692,
+                    3597
+                ],
+                [
+                    2842,
+                    3597
+                ],
+                [
+                    2842,
+                    3524
+                ],
+                [
+                    2692,
+                    3524
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "3857",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2692,
+                    3524
+                ],
+                [
+                    2692,
+                    3597
+                ],
+                [
+                    2842,
+                    3597
+                ],
+                [
+                    2842,
+                    3524
+                ],
+                [
+                    2692,
+                    3524
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "3857",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2104,
+                    3569
+                ],
+                [
+                    2604,
+                    3437
+                ],
+                [
+                    2557,
+                    3372
+                ],
+                [
+                    2113,
+                    3447
+                ],
+                [
+                    2104,
+                    3569
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Boy 1939",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2306,
+                    3551
+                ],
+                [
+                    2427,
+                    3558
+                ],
+                [
+                    2427,
+                    3507
+                ],
+                [
+                    2320,
+                    3507
+                ],
+                [
+                    2306,
+                    3551
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "1979",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1371,
+                    3564
+                ],
+                [
+                    1371,
+                    3615
+                ],
+                [
+                    1996,
+                    3590
+                ],
+                [
+                    1980,
+                    3536
+                ],
+                [
+                    1371,
+                    3564
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Carduus defloratus L .",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1371,
+                    3564
+                ],
+                [
+                    1371,
+                    3615
+                ],
+                [
+                    1996,
+                    3590
+                ],
+                [
+                    1980,
+                    3536
+                ],
+                [
+                    1371,
+                    3564
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Carduus defloratus L .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1376,
+                    3677
+                ],
+                [
+                    1980,
+                    3673
+                ],
+                [
+                    1978,
+                    3615
+                ],
+                [
+                    1380,
+                    3631
+                ],
+                [
+                    1376,
+                    3677
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Serre-Lunel (05) Les",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1376,
+                    3677
+                ],
+                [
+                    1980,
+                    3673
+                ],
+                [
+                    1978,
+                    3615
+                ],
+                [
+                    1380,
+                    3631
+                ],
+                [
+                    1376,
+                    3677
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "serre - hanel ( 05 ) Les",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1383,
+                    3685
+                ],
+                [
+                    1387,
+                    3728
+                ],
+                [
+                    1948,
+                    3739
+                ],
+                [
+                    1942,
+                    3685
+                ],
+                [
+                    1383,
+                    3685
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Audiberts ~ 1750 m",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1383,
+                    3685
+                ],
+                [
+                    1387,
+                    3728
+                ],
+                [
+                    1948,
+                    3739
+                ],
+                [
+                    1942,
+                    3685
+                ],
+                [
+                    1383,
+                    3685
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Andiberts ~ 1750 m",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1380,
+                    3792
+                ],
+                [
+                    1643,
+                    3806
+                ],
+                [
+                    1641,
+                    3754
+                ],
+                [
+                    1390,
+                    3747
+                ],
+                [
+                    1380,
+                    3792
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "17. 8. 1979",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1380,
+                    3792
+                ],
+                [
+                    1643,
+                    3806
+                ],
+                [
+                    1641,
+                    3754
+                ],
+                [
+                    1390,
+                    3747
+                ],
+                [
+                    1380,
+                    3792
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "17 . 8 . 1979",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    256,
+                    164
+                ],
+                [
+                    256,
+                    189
+                ],
+                [
+                    364,
+                    189
+                ],
+                [
+                    364,
+                    164
+                ],
+                [
+                    256,
+                    164
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "PL02891417",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    256,
+                    164
+                ],
+                [
+                    256,
+                    189
+                ],
+                [
+                    364,
+                    189
+                ],
+                [
+                    364,
+                    164
+                ],
+                [
+                    256,
+                    164
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "PL02891417",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        }
+    ]
+}

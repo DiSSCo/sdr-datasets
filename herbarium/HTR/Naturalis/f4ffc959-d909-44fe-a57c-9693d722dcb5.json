@@ -1,0 +1,714 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "635f3d84-ced6-4b17-b64a-86be7aa87304",
+        "name": "Naturalis"
+    },
+    "image": {
+        "id": "c3ff029f-34fd-4763-9797-17de5a93a8f8",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FL.1533936.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FL.1533936.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "f4ffc959-d909-44fe-a57c-9693d722dcb5",
+        "name": "L.1533936",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    2469,
+                    67
+                ],
+                [
+                    2469,
+                    141
+                ],
+                [
+                    2893,
+                    141
+                ],
+                [
+                    2893,
+                    67
+                ],
+                [
+                    2469,
+                    67
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB . LUGD . BAT",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2469,
+                    67
+                ],
+                [
+                    2469,
+                    141
+                ],
+                [
+                    2893,
+                    141
+                ],
+                [
+                    2893,
+                    67
+                ],
+                [
+                    2469,
+                    67
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB . LUGD . BAT",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2972,
+                    53
+                ],
+                [
+                    2972,
+                    138
+                ],
+                [
+                    3456,
+                    138
+                ],
+                [
+                    3456,
+                    53
+                ],
+                [
+                    2972,
+                    53
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "\u2116 938,280 ...345",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2972,
+                    53
+                ],
+                [
+                    2972,
+                    138
+                ],
+                [
+                    3456,
+                    138
+                ],
+                [
+                    3456,
+                    53
+                ],
+                [
+                    2972,
+                    53
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": ". 1938 , 280 . . 345",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    41,
+                    4657
+                ],
+                [
+                    46,
+                    4688
+                ],
+                [
+                    113,
+                    4699
+                ],
+                [
+                    121,
+                    4652
+                ],
+                [
+                    189,
+                    4578
+                ],
+                [
+                    284,
+                    4575
+                ],
+                [
+                    307,
+                    4515
+                ],
+                [
+                    144,
+                    4525
+                ],
+                [
+                    41,
+                    4657
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "RIJKSHERB",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    157,
+                    4670
+                ],
+                [
+                    239,
+                    4673
+                ],
+                [
+                    286,
+                    4580
+                ],
+                [
+                    265,
+                    4581
+                ],
+                [
+                    162,
+                    4591
+                ],
+                [
+                    157,
+                    4670
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "L. 6",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    126,
+                    4684
+                ],
+                [
+                    126,
+                    4728
+                ],
+                [
+                    205,
+                    4728
+                ],
+                [
+                    205,
+                    4684
+                ],
+                [
+                    126,
+                    4684
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "No.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1756,
+                    5713
+                ],
+                [
+                    1756,
+                    5851
+                ],
+                [
+                    2179,
+                    5851
+                ],
+                [
+                    2179,
+                    5713
+                ],
+                [
+                    1756,
+                    5713
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "200501",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1756,
+                    5713
+                ],
+                [
+                    1756,
+                    5851
+                ],
+                [
+                    2179,
+                    5851
+                ],
+                [
+                    2179,
+                    5713
+                ],
+                [
+                    1756,
+                    5713
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "200501",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2882,
+                    4406
+                ],
+                [
+                    2882,
+                    4485
+                ],
+                [
+                    3091,
+                    4485
+                ],
+                [
+                    3091,
+                    4406
+                ],
+                [
+                    2882,
+                    4406
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "L . 1533936",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2882,
+                    4406
+                ],
+                [
+                    2882,
+                    4485
+                ],
+                [
+                    3091,
+                    4485
+                ],
+                [
+                    3091,
+                    4406
+                ],
+                [
+                    2882,
+                    4406
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "L . 1533936",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2509,
+                    5037
+                ],
+                [
+                    2509,
+                    5116
+                ],
+                [
+                    3582,
+                    5116
+                ],
+                [
+                    3582,
+                    5037
+                ],
+                [
+                    2509,
+                    5037
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Revised for Flora Malesiana Orch.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2509,
+                    5037
+                ],
+                [
+                    2509,
+                    5116
+                ],
+                [
+                    3582,
+                    5116
+                ],
+                [
+                    3582,
+                    5037
+                ],
+                [
+                    2509,
+                    5037
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Revised for Flora Malesiana",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2525,
+                    5163
+                ],
+                [
+                    2525,
+                    5298
+                ],
+                [
+                    3472,
+                    5298
+                ],
+                [
+                    3472,
+                    5163
+                ],
+                [
+                    2525,
+                    5163
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Apostasia nuda R.Brown",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2525,
+                    5163
+                ],
+                [
+                    2525,
+                    5298
+                ],
+                [
+                    3472,
+                    5298
+                ],
+                [
+                    3472,
+                    5163
+                ],
+                [
+                    2525,
+                    5163
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Apostasia muda R . Brown",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2528,
+                    5305
+                ],
+                [
+                    2528,
+                    5445
+                ],
+                [
+                    3324,
+                    5445
+                ],
+                [
+                    3324,
+                    5305
+                ],
+                [
+                    2528,
+                    5305
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "det . E . F . de Vogel XII/1969",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2528,
+                    5305
+                ],
+                [
+                    2528,
+                    5445
+                ],
+                [
+                    3324,
+                    5445
+                ],
+                [
+                    3324,
+                    5305
+                ],
+                [
+                    2528,
+                    5305
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "det . E . F . de Vogel X0 1969",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2734,
+                    5553
+                ],
+                [
+                    2734,
+                    5612
+                ],
+                [
+                    3382,
+                    5612
+                ],
+                [
+                    3382,
+                    5553
+                ],
+                [
+                    2734,
+                    5553
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Communicat . ex Herbario Lugduno - Batavo .",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2734,
+                    5553
+                ],
+                [
+                    2734,
+                    5612
+                ],
+                [
+                    3382,
+                    5612
+                ],
+                [
+                    3382,
+                    5553
+                ],
+                [
+                    2734,
+                    5553
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Communicat . ex Herbario Lugduno - Batavo .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2667,
+                    5614
+                ],
+                [
+                    2667,
+                    5735
+                ],
+                [
+                    3527,
+                    5735
+                ],
+                [
+                    3527,
+                    5614
+                ],
+                [
+                    2667,
+                    5614
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Apostasia nuda R . Br .",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2667,
+                    5614
+                ],
+                [
+                    2667,
+                    5735
+                ],
+                [
+                    3527,
+                    5735
+                ],
+                [
+                    3527,
+                    5614
+                ],
+                [
+                    2667,
+                    5614
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Apostasia nuda R . Br .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3266,
+                    5743
+                ],
+                [
+                    3266,
+                    5844
+                ],
+                [
+                    3489,
+                    5844
+                ],
+                [
+                    3489,
+                    5743
+                ],
+                [
+                    3266,
+                    5743
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Krth.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3266,
+                    5743
+                ],
+                [
+                    3266,
+                    5844
+                ],
+                [
+                    3489,
+                    5844
+                ],
+                [
+                    3489,
+                    5743
+                ],
+                [
+                    3266,
+                    5743
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Kith .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2684,
+                    5738
+                ],
+                [
+                    2684,
+                    5830
+                ],
+                [
+                    3068,
+                    5830
+                ],
+                [
+                    3068,
+                    5738
+                ],
+                [
+                    2684,
+                    5738
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Sumatra",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2684,
+                    5738
+                ],
+                [
+                    2684,
+                    5830
+                ],
+                [
+                    3068,
+                    5830
+                ],
+                [
+                    3068,
+                    5738
+                ],
+                [
+                    2684,
+                    5738
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Sumatra",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        }
+    ]
+}

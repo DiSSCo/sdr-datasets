@@ -1,0 +1,883 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "70771f04-7915-4ea6-ab09-1ef9009105f3",
+        "name": "Tartu"
+    },
+    "image": {
+        "id": "fd7d77e8-6d8c-4a25-900f-a864caa3b3f0",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FTU253908.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FTU253908.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "7022f9cd-9834-4f18-90bb-c2f0b38f36aa",
+        "name": "TU253908",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    2876,
+                    201
+                ],
+                [
+                    2885,
+                    267
+                ],
+                [
+                    4296,
+                    267
+                ],
+                [
+                    4298,
+                    204
+                ],
+                [
+                    2876,
+                    201
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERBARIUM MUSEI BOTANICI",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2876,
+                    201
+                ],
+                [
+                    2885,
+                    267
+                ],
+                [
+                    4296,
+                    267
+                ],
+                [
+                    4298,
+                    204
+                ],
+                [
+                    2876,
+                    201
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERBARIUM MUSEI BOTANICI",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2879,
+                    353
+                ],
+                [
+                    4272,
+                    359
+                ],
+                [
+                    4281,
+                    288
+                ],
+                [
+                    2885,
+                    288
+                ],
+                [
+                    2879,
+                    353
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "UNIVERSITATIS TARTUENSIS",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2879,
+                    353
+                ],
+                [
+                    4272,
+                    359
+                ],
+                [
+                    4281,
+                    288
+                ],
+                [
+                    2885,
+                    288
+                ],
+                [
+                    2879,
+                    353
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "UNIVERSITATIS TARTUENSIS",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4650,
+                    7640
+                ],
+                [
+                    4662,
+                    7709
+                ],
+                [
+                    6069,
+                    7735
+                ],
+                [
+                    6072,
+                    7661
+                ],
+                [
+                    4650,
+                    7640
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERBARIUM MUSEI BOTANICI",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4650,
+                    7640
+                ],
+                [
+                    4662,
+                    7709
+                ],
+                [
+                    6069,
+                    7735
+                ],
+                [
+                    6072,
+                    7661
+                ],
+                [
+                    4650,
+                    7640
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERBARIUM MUSEI BOTANICI",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4653,
+                    7744
+                ],
+                [
+                    4653,
+                    7801
+                ],
+                [
+                    6033,
+                    7825
+                ],
+                [
+                    6033,
+                    7756
+                ],
+                [
+                    4653,
+                    7744
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "UNIVERSITATIS TARTUENSIS",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4653,
+                    7744
+                ],
+                [
+                    4653,
+                    7801
+                ],
+                [
+                    6033,
+                    7825
+                ],
+                [
+                    6033,
+                    7756
+                ],
+                [
+                    4653,
+                    7744
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "UNIVERSITATIS TARTUENSIS",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4784,
+                    7831
+                ],
+                [
+                    4784,
+                    7983
+                ],
+                [
+                    5666,
+                    7983
+                ],
+                [
+                    5666,
+                    7831
+                ],
+                [
+                    4784,
+                    7831
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Onchidaceae",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4784,
+                    7831
+                ],
+                [
+                    4784,
+                    7983
+                ],
+                [
+                    5666,
+                    7983
+                ],
+                [
+                    5666,
+                    7831
+                ],
+                [
+                    4784,
+                    7831
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Onchidaceae",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4808,
+                    8010
+                ],
+                [
+                    4808,
+                    8139
+                ],
+                [
+                    6233,
+                    8139
+                ],
+                [
+                    6233,
+                    8010
+                ],
+                [
+                    4808,
+                    8010
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Orchis incarnatus L.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4808,
+                    8010
+                ],
+                [
+                    4808,
+                    8139
+                ],
+                [
+                    6233,
+                    8139
+                ],
+                [
+                    6233,
+                    8010
+                ],
+                [
+                    4808,
+                    8010
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Orchis incarnatus L",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    5029,
+                    8151
+                ],
+                [
+                    5029,
+                    8306
+                ],
+                [
+                    6359,
+                    8306
+                ],
+                [
+                    6359,
+                    8151
+                ],
+                [
+                    5029,
+                    8151
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Kahkjaspunane k\u00e4pp.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    5029,
+                    8151
+                ],
+                [
+                    5029,
+                    8306
+                ],
+                [
+                    6359,
+                    8306
+                ],
+                [
+                    6359,
+                    8151
+                ],
+                [
+                    5029,
+                    8151
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Kahkjaspunane kapp .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4345,
+                    8324
+                ],
+                [
+                    4345,
+                    8452
+                ],
+                [
+                    6445,
+                    8452
+                ],
+                [
+                    6445,
+                    8324
+                ],
+                [
+                    4345,
+                    8324
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Tartu, T\u00e4htvere m\u00f5is, Emaj\u00f5e luht",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4345,
+                    8324
+                ],
+                [
+                    4345,
+                    8452
+                ],
+                [
+                    6445,
+                    8452
+                ],
+                [
+                    6445,
+                    8324
+                ],
+                [
+                    4345,
+                    8324
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Sartu , s\u00e4htvere m\u00f5is , Emaj\u00f5e liht",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4253,
+                    8476
+                ],
+                [
+                    4253,
+                    8620
+                ],
+                [
+                    6511,
+                    8620
+                ],
+                [
+                    6511,
+                    8476
+                ],
+                [
+                    4253,
+                    8476
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Turvas, m\u00e4rg, tasane, p\u00e4ikese paistel",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4253,
+                    8476
+                ],
+                [
+                    4253,
+                    8620
+                ],
+                [
+                    6511,
+                    8620
+                ],
+                [
+                    6511,
+                    8476
+                ],
+                [
+                    4253,
+                    8476
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Serras , m\u00e5ng , tasane , p\u00e4ikesepaistel",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4196,
+                    8650
+                ],
+                [
+                    4196,
+                    8742
+                ],
+                [
+                    5442,
+                    8742
+                ],
+                [
+                    5442,
+                    8650
+                ],
+                [
+                    4196,
+                    8650
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Carexi liigid. sol. o",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4196,
+                    8650
+                ],
+                [
+                    4196,
+                    8742
+                ],
+                [
+                    5442,
+                    8742
+                ],
+                [
+                    5442,
+                    8650
+                ],
+                [
+                    4196,
+                    8650
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "carexi ligid . sol . o",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4409,
+                    8805
+                ],
+                [
+                    4409,
+                    8914
+                ],
+                [
+                    4915,
+                    8914
+                ],
+                [
+                    4915,
+                    8805
+                ],
+                [
+                    4409,
+                    8805
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "25. VI. 28",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4409,
+                    8805
+                ],
+                [
+                    4409,
+                    8914
+                ],
+                [
+                    4915,
+                    8914
+                ],
+                [
+                    4915,
+                    8805
+                ],
+                [
+                    4409,
+                    8805
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "25 . 01 . 28 .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    5988,
+                    8931
+                ],
+                [
+                    5988,
+                    9072
+                ],
+                [
+                    6451,
+                    9072
+                ],
+                [
+                    6451,
+                    8931
+                ],
+                [
+                    5988,
+                    8931
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "A. Vohli",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    5988,
+                    8931
+                ],
+                [
+                    5988,
+                    9072
+                ],
+                [
+                    6451,
+                    9072
+                ],
+                [
+                    6451,
+                    8931
+                ],
+                [
+                    5988,
+                    8931
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "A . Vohli",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1310,
+                    8766
+                ],
+                [
+                    1310,
+                    8949
+                ],
+                [
+                    3537,
+                    8949
+                ],
+                [
+                    3537,
+                    8766
+                ],
+                [
+                    1310,
+                    8766
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Dactylorhiza incarnata ( L . ) So\u00f3",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1310,
+                    8766
+                ],
+                [
+                    1310,
+                    8949
+                ],
+                [
+                    3537,
+                    8949
+                ],
+                [
+                    3537,
+                    8766
+                ],
+                [
+                    1310,
+                    8766
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Dactylorhiza incarnata ( L . ) So\u00f3",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1210,
+                    9307
+                ],
+                [
+                    1210,
+                    9507
+                ],
+                [
+                    2009,
+                    9507
+                ],
+                [
+                    2009,
+                    9307
+                ],
+                [
+                    1210,
+                    9307
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "DET K. Orav",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1210,
+                    9307
+                ],
+                [
+                    1210,
+                    9507
+                ],
+                [
+                    2009,
+                    9507
+                ],
+                [
+                    2009,
+                    9307
+                ],
+                [
+                    1210,
+                    9307
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "DET K Orav",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2729,
+                    9348
+                ],
+                [
+                    2729,
+                    9516
+                ],
+                [
+                    3360,
+                    9516
+                ],
+                [
+                    3360,
+                    9348
+                ],
+                [
+                    2729,
+                    9348
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "09.12.2008",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2729,
+                    9348
+                ],
+                [
+                    2729,
+                    9516
+                ],
+                [
+                    3360,
+                    9516
+                ],
+                [
+                    3360,
+                    9348
+                ],
+                [
+                    2729,
+                    9348
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "09 . 12 . 2008",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4415,
+                    9444
+                ],
+                [
+                    4415,
+                    9603
+                ],
+                [
+                    5122,
+                    9603
+                ],
+                [
+                    5122,
+                    9444
+                ],
+                [
+                    4415,
+                    9444
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "TU253908",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4415,
+                    9444
+                ],
+                [
+                    4415,
+                    9603
+                ],
+                [
+                    5122,
+                    9603
+                ],
+                [
+                    5122,
+                    9444
+                ],
+                [
+                    4415,
+                    9444
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "TU 253908",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        }
+    ]
+}

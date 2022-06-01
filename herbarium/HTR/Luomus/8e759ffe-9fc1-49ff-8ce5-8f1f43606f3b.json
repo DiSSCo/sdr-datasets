@@ -1,0 +1,451 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "e28d3ac9-9c27-461f-a8d0-9f42d20da281",
+        "name": "Luomus"
+    },
+    "image": {
+        "id": "74525f7b-2a8e-40e5-aefc-4ad614e8a111",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FEIG.3402.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FEIG.3402.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "8e759ffe-9fc1-49ff-8ce5-8f1f43606f3b",
+        "name": "EIG.3402",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    4103,
+                    204
+                ],
+                [
+                    4103,
+                    349
+                ],
+                [
+                    5091,
+                    349
+                ],
+                [
+                    5091,
+                    204
+                ],
+                [
+                    4103,
+                    204
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "PLANTAE JAVANICAE",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3860,
+                    375
+                ],
+                [
+                    3860,
+                    598
+                ],
+                [
+                    5586,
+                    598
+                ],
+                [
+                    5586,
+                    375
+                ],
+                [
+                    3860,
+                    375
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Asplenium subserratum Blume",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3956,
+                    624
+                ],
+                [
+                    3956,
+                    868
+                ],
+                [
+                    4408,
+                    868
+                ],
+                [
+                    4408,
+                    624
+                ],
+                [
+                    3956,
+                    624
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Salak",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4668,
+                    697
+                ],
+                [
+                    4668,
+                    899
+                ],
+                [
+                    5314,
+                    899
+                ],
+                [
+                    5314,
+                    697
+                ],
+                [
+                    4668,
+                    697
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "c. 1500 m",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4387,
+                    972
+                ],
+                [
+                    4387,
+                    1093
+                ],
+                [
+                    5340,
+                    1093
+                ],
+                [
+                    5340,
+                    972
+                ],
+                [
+                    4387,
+                    972
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "LEG. HJALMAR M\u00d6LLER.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3715,
+                    931
+                ],
+                [
+                    3715,
+                    1125
+                ],
+                [
+                    4017,
+                    1125
+                ],
+                [
+                    4017,
+                    931
+                ],
+                [
+                    3715,
+                    931
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "1/6 1897.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3953,
+                    1470
+                ],
+                [
+                    3953,
+                    1623
+                ],
+                [
+                    4518,
+                    1623
+                ],
+                [
+                    4518,
+                    1470
+                ],
+                [
+                    3953,
+                    1470
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Athyrium",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4112,
+                    1658
+                ],
+                [
+                    4112,
+                    1803
+                ],
+                [
+                    4848,
+                    1803
+                ],
+                [
+                    4848,
+                    1658
+                ],
+                [
+                    4112,
+                    1658
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "subserratum",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2307,
+                    7308
+                ],
+                [
+                    2307,
+                    7362
+                ],
+                [
+                    2875,
+                    7362
+                ],
+                [
+                    2875,
+                    7308
+                ],
+                [
+                    2307,
+                    7308
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "http://id.luomus.fi/",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2433,
+                    7383
+                ],
+                [
+                    2433,
+                    7441
+                ],
+                [
+                    2725,
+                    7441
+                ],
+                [
+                    2725,
+                    7383
+                ],
+                [
+                    2433,
+                    7383
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "EIG.3402",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2402,
+                    7460
+                ],
+                [
+                    2402,
+                    7518
+                ],
+                [
+                    2767,
+                    7518
+                ],
+                [
+                    2767,
+                    7460
+                ],
+                [
+                    2402,
+                    7460
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "2013-04-02",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2938,
+                    7241
+                ],
+                [
+                    2938,
+                    7324
+                ],
+                [
+                    3633,
+                    7324
+                ],
+                [
+                    3633,
+                    7241
+                ],
+                [
+                    2938,
+                    7241
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "MUSEUM BOTANICUM",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2931,
+                    7336
+                ],
+                [
+                    2931,
+                    7409
+                ],
+                [
+                    3627,
+                    7409
+                ],
+                [
+                    3627,
+                    7336
+                ],
+                [
+                    2931,
+                    7336
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "UNIV. (H), HELSINKI",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2992,
+                    7423
+                ],
+                [
+                    2992,
+                    7518
+                ],
+                [
+                    3428,
+                    7518
+                ],
+                [
+                    3428,
+                    7423
+                ],
+                [
+                    2992,
+                    7423
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "1127451",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2895,
+                    7569
+                ],
+                [
+                    2895,
+                    7671
+                ],
+                [
+                    3116,
+                    7671
+                ],
+                [
+                    3116,
+                    7569
+                ],
+                [
+                    2895,
+                    7569
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "QUADR.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1926,
+                    7272
+                ],
+                [
+                    1926,
+                    7524
+                ],
+                [
+                    2005,
+                    7524
+                ],
+                [
+                    2005,
+                    7272
+                ],
+                [
+                    1926,
+                    7272
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Digitarium",
+            "worker_version": null
+        }
+    ]
+}

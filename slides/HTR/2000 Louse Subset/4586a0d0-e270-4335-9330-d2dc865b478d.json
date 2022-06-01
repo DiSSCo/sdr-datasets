@@ -1,0 +1,370 @@
+{
+    "dataset_id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+    "folder": {
+        "id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+        "name": "2000 Louse Subset"
+    },
+    "image": {
+        "id": "8bfcc912-1565-4145-aada-43982803ba1a",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/13be770a-0268-4362-8a99-d9174bf9bf63",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/13be770a-0268-4362-8a99-d9174bf9bf63/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "4586a0d0-e270-4335-9330-d2dc865b478d",
+        "name": "33",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    5669,
+                    417
+                ],
+                [
+                    5669,
+                    503
+                ],
+                [
+                    6035,
+                    503
+                ],
+                [
+                    6035,
+                    417
+                ],
+                [
+                    5669,
+                    417
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    661,
+                    470
+                ],
+                [
+                    661,
+                    2588
+                ],
+                [
+                    1177,
+                    2588
+                ],
+                [
+                    1177,
+                    470
+                ],
+                [
+                    661,
+                    470
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Actornithophilus",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    7110,
+                    438
+                ],
+                [
+                    7110,
+                    2555
+                ],
+                [
+                    7507,
+                    2555
+                ],
+                [
+                    7507,
+                    438
+                ],
+                [
+                    7110,
+                    438
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Port Alexander,",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    5884,
+                    1158
+                ],
+                [
+                    5884,
+                    2007
+                ],
+                [
+                    6088,
+                    2007
+                ],
+                [
+                    6088,
+                    1158
+                ],
+                [
+                    5884,
+                    1158
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Brit. Mus.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6013,
+                    470
+                ],
+                [
+                    6013,
+                    900
+                ],
+                [
+                    6121,
+                    900
+                ],
+                [
+                    6121,
+                    470
+                ],
+                [
+                    6013,
+                    470
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "010649814",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    1467,
+                    857
+                ],
+                [
+                    1467,
+                    2437
+                ],
+                [
+                    1983,
+                    2437
+                ],
+                [
+                    1983,
+                    857
+                ],
+                [
+                    1467,
+                    857
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "(Giebel) .",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    7840,
+                    674
+                ],
+                [
+                    7840,
+                    2373
+                ],
+                [
+                    8163,
+                    2373
+                ],
+                [
+                    8163,
+                    674
+                ],
+                [
+                    7840,
+                    674
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "20.xi.1912.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6078,
+                    1180
+                ],
+                [
+                    6078,
+                    1986
+                ],
+                [
+                    6293,
+                    1986
+                ],
+                [
+                    6293,
+                    1180
+                ],
+                [
+                    6078,
+                    1180
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "1954-318",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    1069,
+                    1147
+                ],
+                [
+                    1069,
+                    2588
+                ],
+                [
+                    1553,
+                    2588
+                ],
+                [
+                    1553,
+                    1147
+                ],
+                [
+                    1069,
+                    1147
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "flavipes",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6432,
+                    707
+                ],
+                [
+                    6432,
+                    2512
+                ],
+                [
+                    6819,
+                    2512
+                ],
+                [
+                    6819,
+                    707
+                ],
+                [
+                    6432,
+                    707
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Squatarola",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6755,
+                    728
+                ],
+                [
+                    6755,
+                    2523
+                ],
+                [
+                    7174,
+                    2523
+                ],
+                [
+                    7174,
+                    728
+                ],
+                [
+                    6755,
+                    728
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "squatarola",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    8098,
+                    1061
+                ],
+                [
+                    8098,
+                    2018
+                ],
+                [
+                    8453,
+                    2018
+                ],
+                [
+                    8453,
+                    1061
+                ],
+                [
+                    8098,
+                    1061
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "1191.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    7464,
+                    1255
+                ],
+                [
+                    7464,
+                    2491
+                ],
+                [
+                    7862,
+                    2491
+                ],
+                [
+                    7862,
+                    1255
+                ],
+                [
+                    7464,
+                    1255
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Angola.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        }
+    ]
+}

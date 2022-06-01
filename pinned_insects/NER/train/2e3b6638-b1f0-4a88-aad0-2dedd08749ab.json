@@ -1,0 +1,35 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "6839ee30-edd1-44ea-b3ec-2f5159e9a94e",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/917ed75a-5e88-49d6-92d5-2dab757ff405",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/917ed75a-5e88-49d6-92d5-2dab757ff405/full/full/0/default.jpg"
+    },
+    "named_entities": [
+        {
+            "tags": "BMNH B-identifier\n( I-identifier\nE I-identifier\n) I-identifier\n# I-identifier\n968094 I-identifier",
+            "worker_version_id": null
+        },
+        {
+            "tags": "Colchester B-location_name\n98 B-date",
+            "worker_version_id": null
+        },
+        {
+            "tags": "NHMUK B-identifier\n010266087 I-identifier",
+            "worker_version_id": null
+        },
+        {
+            "tags": "BRITISH B-location_name\nISLES I-location_name\n: I-location_name\nHarwood B-Collection/Donation\nColl I-Collection/Donation\n. I-Collection/Donation\nB B-identifier\n. I-identifier\nM I-identifier\n. I-identifier\n1957\u2014670 I-identifier\n. I-identifier",
+            "worker_version_id": null
+        }
+    ],
+    "page": {
+        "id": "2e3b6638-b1f0-4a88-aad0-2dedd08749ab",
+        "name": "010266087__.2500x5792.jpeg",
+        "rotation_angle": 0
+    }
+}

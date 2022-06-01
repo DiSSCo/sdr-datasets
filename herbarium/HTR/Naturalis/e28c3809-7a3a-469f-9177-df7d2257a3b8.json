@@ -1,0 +1,343 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "635f3d84-ced6-4b17-b64a-86be7aa87304",
+        "name": "Naturalis"
+    },
+    "image": {
+        "id": "6764e94f-58aa-46d7-835d-beada8f09c6c",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FL.2035093.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FL.2035093.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "e28c3809-7a3a-469f-9177-df7d2257a3b8",
+        "name": "L.2035093",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    5618,
+                    176
+                ],
+                [
+                    5618,
+                    356
+                ],
+                [
+                    6631,
+                    356
+                ],
+                [
+                    6631,
+                    176
+                ],
+                [
+                    5618,
+                    176
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "\u2116 908.118-3003",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4607,
+                    240
+                ],
+                [
+                    4607,
+                    411
+                ],
+                [
+                    5453,
+                    411
+                ],
+                [
+                    5453,
+                    240
+                ],
+                [
+                    4607,
+                    240
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB. LUGD. BAT.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    5437,
+                    9102
+                ],
+                [
+                    5437,
+                    9244
+                ],
+                [
+                    5817,
+                    9244
+                ],
+                [
+                    5817,
+                    9102
+                ],
+                [
+                    5437,
+                    9102
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "L.2035093",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    5415,
+                    9521
+                ],
+                [
+                    5415,
+                    9807
+                ],
+                [
+                    6258,
+                    9807
+                ],
+                [
+                    6258,
+                    9521
+                ],
+                [
+                    5415,
+                    9521
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "301280",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4926,
+                    10045
+                ],
+                [
+                    4926,
+                    10241
+                ],
+                [
+                    6483,
+                    10241
+                ],
+                [
+                    6483,
+                    10045
+                ],
+                [
+                    4926,
+                    10045
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "G. Zenker, Flora von Kamerun.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4549,
+                    10422
+                ],
+                [
+                    4549,
+                    10718
+                ],
+                [
+                    6879,
+                    10718
+                ],
+                [
+                    6879,
+                    10422
+                ],
+                [
+                    4549,
+                    10422
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "\u2116 2069. Macrolobium lamprophyllum",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    6139,
+                    10727
+                ],
+                [
+                    6139,
+                    10923
+                ],
+                [
+                    6876,
+                    10923
+                ],
+                [
+                    6876,
+                    10727
+                ],
+                [
+                    6139,
+                    10727
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Harms n. sp.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4562,
+                    11048
+                ],
+                [
+                    4562,
+                    11177
+                ],
+                [
+                    5813,
+                    11177
+                ],
+                [
+                    5813,
+                    11048
+                ],
+                [
+                    4562,
+                    11048
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Bipinde, Urwaldgebiet.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4930,
+                    11232
+                ],
+                [
+                    4930,
+                    11425
+                ],
+                [
+                    5289,
+                    11425
+                ],
+                [
+                    5289,
+                    11232
+                ],
+                [
+                    4930,
+                    11232
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "1899",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3498,
+                    10196
+                ],
+                [
+                    3498,
+                    10402
+                ],
+                [
+                    4048,
+                    10402
+                ],
+                [
+                    4048,
+                    10196
+                ],
+                [
+                    3498,
+                    10196
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "TYPE",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2980,
+                    10221
+                ],
+                [
+                    2980,
+                    10305
+                ],
+                [
+                    3453,
+                    10305
+                ],
+                [
+                    3453,
+                    10221
+                ],
+                [
+                    2980,
+                    10221
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Holo- Lecto-",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2967,
+                    10315
+                ],
+                [
+                    2967,
+                    10395
+                ],
+                [
+                    3405,
+                    10395
+                ],
+                [
+                    3405,
+                    10315
+                ],
+                [
+                    2967,
+                    10315
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Iso- Syn-",
+            "worker_version": null
+        }
+    ]
+}
