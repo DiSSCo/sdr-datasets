@@ -1,0 +1,262 @@
+{
+    "dataset_id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+    "folder": {
+        "id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+        "name": "2000 Louse Subset"
+    },
+    "image": {
+        "id": "96a63bdd-8480-4481-9429-1e415631329e",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fsynthesys%2Fslides_images%2F2fb65889-565e-4ad2-99f0-4642ee7b1067.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fsynthesys%2Fslides_images%2F2fb65889-565e-4ad2-99f0-4642ee7b1067.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "2fb65889-565e-4ad2-99f0-4642ee7b1067",
+        "name": "134",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    457,
+                    7488
+                ],
+                [
+                    457,
+                    8004
+                ],
+                [
+                    2655,
+                    8004
+                ],
+                [
+                    2655,
+                    7488
+                ],
+                [
+                    457,
+                    7488
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Columbicola",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    804,
+                    220
+                ],
+                [
+                    804,
+                    589
+                ],
+                [
+                    2045,
+                    589
+                ],
+                [
+                    2045,
+                    220
+                ],
+                [
+                    804,
+                    220
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "4789.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    499,
+                    5111
+                ],
+                [
+                    499,
+                    5217
+                ],
+                [
+                    920,
+                    5217
+                ],
+                [
+                    920,
+                    5111
+                ],
+                [
+                    499,
+                    5111
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "010672552",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    426,
+                    5206
+                ],
+                [
+                    426,
+                    5585
+                ],
+                [
+                    552,
+                    5585
+                ],
+                [
+                    552,
+                    5206
+                ],
+                [
+                    426,
+                    5206
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    278,
+                    656
+                ],
+                [
+                    278,
+                    992
+                ],
+                [
+                    1709,
+                    992
+                ],
+                [
+                    1709,
+                    656
+                ],
+                [
+                    278,
+                    656
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Jan. 1936.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    899,
+                    862
+                ],
+                [
+                    899,
+                    1283
+                ],
+                [
+                    2718,
+                    1283
+                ],
+                [
+                    2718,
+                    862
+                ],
+                [
+                    899,
+                    862
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Rajputana",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    499,
+                    1409
+                ],
+                [
+                    499,
+                    1651
+                ],
+                [
+                    2413,
+                    1651
+                ],
+                [
+                    2413,
+                    1409
+                ],
+                [
+                    499,
+                    1409
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "intermedia",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    457,
+                    1588
+                ],
+                [
+                    457,
+                    2019
+                ],
+                [
+                    2676,
+                    2019
+                ],
+                [
+                    2676,
+                    1588
+                ],
+                [
+                    457,
+                    1588
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Columba livia",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    531,
+                    2229
+                ],
+                [
+                    531,
+                    2555
+                ],
+                [
+                    2561,
+                    2555
+                ],
+                [
+                    2561,
+                    2229
+                ],
+                [
+                    531,
+                    2229
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "MEINERTZHAGEN",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        }
+    ]
+}

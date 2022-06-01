@@ -1,0 +1,721 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "c301e3ce-a988-469d-afb1-5af714a7123b",
+        "name": "MNHN"
+    },
+    "image": {
+        "id": "f3b8d371-c9c4-418e-80a2-22a4d3c41078",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FP00039147.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FP00039147.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "8bb4fc84-638e-4326-8cad-ae6a4ea2b2dc",
+        "name": "P00039147",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    219,
+                    182
+                ],
+                [
+                    327,
+                    192
+                ],
+                [
+                    329,
+                    171
+                ],
+                [
+                    220,
+                    160
+                ],
+                [
+                    219,
+                    182
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "PL03777208",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    219,
+                    182
+                ],
+                [
+                    327,
+                    192
+                ],
+                [
+                    329,
+                    171
+                ],
+                [
+                    220,
+                    160
+                ],
+                [
+                    219,
+                    182
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "PL03777208",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    801,
+                    3884
+                ],
+                [
+                    811,
+                    3951
+                ],
+                [
+                    968,
+                    3943
+                ],
+                [
+                    965,
+                    3871
+                ],
+                [
+                    801,
+                    3884
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "75016",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    801,
+                    3884
+                ],
+                [
+                    811,
+                    3951
+                ],
+                [
+                    968,
+                    3943
+                ],
+                [
+                    965,
+                    3871
+                ],
+                [
+                    801,
+                    3884
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "75016",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1105,
+                    4051
+                ],
+                [
+                    1237,
+                    4059
+                ],
+                [
+                    1248,
+                    3990
+                ],
+                [
+                    1114,
+                    3987
+                ],
+                [
+                    1105,
+                    4051
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "1620",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1105,
+                    4051
+                ],
+                [
+                    1237,
+                    4059
+                ],
+                [
+                    1248,
+                    3990
+                ],
+                [
+                    1114,
+                    3987
+                ],
+                [
+                    1105,
+                    4051
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "1620",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    198,
+                    4247
+                ],
+                [
+                    1295,
+                    4247
+                ],
+                [
+                    1301,
+                    4128
+                ],
+                [
+                    231,
+                    4128
+                ],
+                [
+                    198,
+                    4247
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Anthriscus vulgaris Pers.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    198,
+                    4247
+                ],
+                [
+                    1295,
+                    4247
+                ],
+                [
+                    1301,
+                    4128
+                ],
+                [
+                    231,
+                    4128
+                ],
+                [
+                    198,
+                    4247
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Anthriscus vulgaris Pers .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    126,
+                    4540
+                ],
+                [
+                    128,
+                    4655
+                ],
+                [
+                    1242,
+                    4644
+                ],
+                [
+                    1248,
+                    4531
+                ],
+                [
+                    126,
+                    4540
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "lisi\u00e8re s/ Neuilly env. du J.in d'Acclim",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    126,
+                    4540
+                ],
+                [
+                    128,
+                    4655
+                ],
+                [
+                    1242,
+                    4644
+                ],
+                [
+                    1248,
+                    4531
+                ],
+                [
+                    126,
+                    4540
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "piere 4 Neuilly eww . du sin d ' Acchina",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    307,
+                    4734
+                ],
+                [
+                    311,
+                    4838
+                ],
+                [
+                    761,
+                    4840
+                ],
+                [
+                    763,
+                    4725
+                ],
+                [
+                    307,
+                    4734
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Bo de Boulogne",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    307,
+                    4734
+                ],
+                [
+                    311,
+                    4838
+                ],
+                [
+                    761,
+                    4840
+                ],
+                [
+                    763,
+                    4725
+                ],
+                [
+                    307,
+                    4734
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Bo de Boulogne",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    918,
+                    4732
+                ],
+                [
+                    931,
+                    4807
+                ],
+                [
+                    1240,
+                    4811
+                ],
+                [
+                    1237,
+                    4734
+                ],
+                [
+                    918,
+                    4732
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "21. VI. 28",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    918,
+                    4732
+                ],
+                [
+                    931,
+                    4807
+                ],
+                [
+                    1240,
+                    4811
+                ],
+                [
+                    1237,
+                    4734
+                ],
+                [
+                    918,
+                    4732
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "21 . VT 28",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2058,
+                    4262
+                ],
+                [
+                    2058,
+                    4341
+                ],
+                [
+                    3152,
+                    4363
+                ],
+                [
+                    3167,
+                    4284
+                ],
+                [
+                    2058,
+                    4262
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERBARIUM MUSEI PARISIENSIS",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2058,
+                    4262
+                ],
+                [
+                    2058,
+                    4341
+                ],
+                [
+                    3152,
+                    4363
+                ],
+                [
+                    3167,
+                    4284
+                ],
+                [
+                    2058,
+                    4262
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERBARIUM MUSEL PARISIENSIS",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2411,
+                    4701
+                ],
+                [
+                    3170,
+                    4703
+                ],
+                [
+                    3159,
+                    4615
+                ],
+                [
+                    2413,
+                    4624
+                ],
+                [
+                    2411,
+                    4701
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Anthriscus caucalis M.Bieb.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2411,
+                    4701
+                ],
+                [
+                    3170,
+                    4703
+                ],
+                [
+                    3159,
+                    4615
+                ],
+                [
+                    2413,
+                    4624
+                ],
+                [
+                    2411,
+                    4701
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Anthriscus cancolis M . Bieb",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2048,
+                    4939
+                ],
+                [
+                    3131,
+                    4959
+                ],
+                [
+                    3125,
+                    4908
+                ],
+                [
+                    2052,
+                    4889
+                ],
+                [
+                    2048,
+                    4939
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herbier de M. Paul JOVET. Plantes de Paris et de sa R\u00e9gion .",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2048,
+                    4939
+                ],
+                [
+                    3131,
+                    4959
+                ],
+                [
+                    3125,
+                    4908
+                ],
+                [
+                    2052,
+                    4889
+                ],
+                [
+                    2048,
+                    4939
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herbier de M . Paul JOVET . Plantes de Paris et de sa R\u00e9gion .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2055,
+                    4957
+                ],
+                [
+                    2057,
+                    5001
+                ],
+                [
+                    2267,
+                    5008
+                ],
+                [
+                    2273,
+                    4970
+                ],
+                [
+                    2055,
+                    4957
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Re\u00e7u en 1991.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2055,
+                    4957
+                ],
+                [
+                    2057,
+                    5001
+                ],
+                [
+                    2267,
+                    5008
+                ],
+                [
+                    2273,
+                    4970
+                ],
+                [
+                    2055,
+                    4957
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Re\u00e7u en 1991 .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2284,
+                    4572
+                ],
+                [
+                    2291,
+                    4605
+                ],
+                [
+                    2455,
+                    4601
+                ],
+                [
+                    2458,
+                    4565
+                ],
+                [
+                    2284,
+                    4572
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "P00039147",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2284,
+                    4572
+                ],
+                [
+                    2291,
+                    4605
+                ],
+                [
+                    2455,
+                    4601
+                ],
+                [
+                    2458,
+                    4565
+                ],
+                [
+                    2284,
+                    4572
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "P00039147",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2195,
+                    4412
+                ],
+                [
+                    2199,
+                    4445
+                ],
+                [
+                    2519,
+                    4435
+                ],
+                [
+                    2514,
+                    4399
+                ],
+                [
+                    2195,
+                    4412
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herb . Mus\u00e9um Paris",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2195,
+                    4412
+                ],
+                [
+                    2199,
+                    4445
+                ],
+                [
+                    2519,
+                    4435
+                ],
+                [
+                    2514,
+                    4399
+                ],
+                [
+                    2195,
+                    4412
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herb . Mus\u00e9um Paris",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        }
+    ]
+}

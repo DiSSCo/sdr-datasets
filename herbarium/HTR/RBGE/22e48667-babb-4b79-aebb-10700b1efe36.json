@@ -1,0 +1,1504 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "479c24a2-d399-4074-b47f-7c82c51a95d8",
+        "name": "RBGE"
+    },
+    "image": {
+        "id": "78b89719-f08b-4daf-ba02-1cd02ac23be0",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FE00105239.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FE00105239.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "22e48667-babb-4b79-aebb-10700b1efe36",
+        "name": "E00105239",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    4666,
+                    4979
+                ],
+                [
+                    4666,
+                    5140
+                ],
+                [
+                    4918,
+                    5140
+                ],
+                [
+                    4918,
+                    4979
+                ],
+                [
+                    4666,
+                    4979
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "103",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3478,
+                    5385
+                ],
+                [
+                    3478,
+                    5515
+                ],
+                [
+                    4829,
+                    5515
+                ],
+                [
+                    4829,
+                    5385
+                ],
+                [
+                    3478,
+                    5385
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "FAN MEMORIAL INSTITUTE",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3478,
+                    5385
+                ],
+                [
+                    3478,
+                    5515
+                ],
+                [
+                    4829,
+                    5515
+                ],
+                [
+                    4829,
+                    5385
+                ],
+                [
+                    3478,
+                    5385
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "FAN MEMORIAL INSTITUTE",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3818,
+                    5523
+                ],
+                [
+                    3818,
+                    5611
+                ],
+                [
+                    4420,
+                    5611
+                ],
+                [
+                    4426,
+                    5526
+                ],
+                [
+                    3818,
+                    5523
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "OF BIOLOGY",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3818,
+                    5523
+                ],
+                [
+                    3818,
+                    5611
+                ],
+                [
+                    4420,
+                    5611
+                ],
+                [
+                    4426,
+                    5526
+                ],
+                [
+                    3818,
+                    5523
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "OF BIOLOGY",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3661,
+                    5656
+                ],
+                [
+                    3661,
+                    5760
+                ],
+                [
+                    4553,
+                    5760
+                ],
+                [
+                    4553,
+                    5656
+                ],
+                [
+                    3661,
+                    5656
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "FLORA OF YUNNAN",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3661,
+                    5656
+                ],
+                [
+                    3661,
+                    5760
+                ],
+                [
+                    4553,
+                    5760
+                ],
+                [
+                    4553,
+                    5656
+                ],
+                [
+                    3661,
+                    5656
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "FLORA OF YUNNAN",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3361,
+                    5797
+                ],
+                [
+                    3361,
+                    5932
+                ],
+                [
+                    3990,
+                    5932
+                ],
+                [
+                    3990,
+                    5797
+                ],
+                [
+                    3361,
+                    5797
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Field No . 22079",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4096,
+                    5794
+                ],
+                [
+                    4096,
+                    5938
+                ],
+                [
+                    4994,
+                    5938
+                ],
+                [
+                    4994,
+                    5794
+                ],
+                [
+                    4096,
+                    5794
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Date July 12 , 1938",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3358,
+                    5956
+                ],
+                [
+                    3358,
+                    6086
+                ],
+                [
+                    4909,
+                    6086
+                ],
+                [
+                    4909,
+                    5956
+                ],
+                [
+                    3358,
+                    5956
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Locality Salwin-Kiukiang Divide,",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3358,
+                    5956
+                ],
+                [
+                    3358,
+                    6086
+                ],
+                [
+                    4909,
+                    6086
+                ],
+                [
+                    4909,
+                    5956
+                ],
+                [
+                    3358,
+                    5956
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Locality Salwin - Kiukiang Divide ,",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3645,
+                    6124
+                ],
+                [
+                    3645,
+                    6224
+                ],
+                [
+                    4107,
+                    6224
+                ],
+                [
+                    4107,
+                    6124
+                ],
+                [
+                    3645,
+                    6124
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Chiming",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4163,
+                    6126
+                ],
+                [
+                    4163,
+                    6232
+                ],
+                [
+                    4837,
+                    6232
+                ],
+                [
+                    4837,
+                    6126
+                ],
+                [
+                    4163,
+                    6126
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Altitude Altitude 3000 m .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3361,
+                    6264
+                ],
+                [
+                    3361,
+                    6384
+                ],
+                [
+                    4755,
+                    6384
+                ],
+                [
+                    4755,
+                    6264
+                ],
+                [
+                    3361,
+                    6264
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Habitat Among mixed forest",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3361,
+                    6264
+                ],
+                [
+                    3361,
+                    6384
+                ],
+                [
+                    4755,
+                    6384
+                ],
+                [
+                    4755,
+                    6264
+                ],
+                [
+                    3361,
+                    6264
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Habitat Among mixed forest",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3371,
+                    6421
+                ],
+                [
+                    3371,
+                    6538
+                ],
+                [
+                    3950,
+                    6538
+                ],
+                [
+                    3950,
+                    6421
+                ],
+                [
+                    3371,
+                    6421
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Habit Tree",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3371,
+                    6421
+                ],
+                [
+                    3371,
+                    6538
+                ],
+                [
+                    3950,
+                    6538
+                ],
+                [
+                    3950,
+                    6421
+                ],
+                [
+                    3371,
+                    6421
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Habit Tree",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3367,
+                    6552
+                ],
+                [
+                    3367,
+                    6722
+                ],
+                [
+                    4319,
+                    6722
+                ],
+                [
+                    4319,
+                    6552
+                ],
+                [
+                    3367,
+                    6552
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Height 10-15 ft",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3367,
+                    6552
+                ],
+                [
+                    3367,
+                    6722
+                ],
+                [
+                    4319,
+                    6722
+                ],
+                [
+                    4319,
+                    6552
+                ],
+                [
+                    3367,
+                    6552
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Height 10 - 15 TL",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3368,
+                    6746
+                ],
+                [
+                    3368,
+                    6868
+                ],
+                [
+                    3546,
+                    6868
+                ],
+                [
+                    3544,
+                    6746
+                ],
+                [
+                    3368,
+                    6746
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Bark",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3368,
+                    6746
+                ],
+                [
+                    3368,
+                    6868
+                ],
+                [
+                    3546,
+                    6868
+                ],
+                [
+                    3544,
+                    6746
+                ],
+                [
+                    3368,
+                    6746
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Bark",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3368,
+                    6902
+                ],
+                [
+                    3368,
+                    7003
+                ],
+                [
+                    3541,
+                    7003
+                ],
+                [
+                    3541,
+                    6902
+                ],
+                [
+                    3368,
+                    6902
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Leaf",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3368,
+                    6902
+                ],
+                [
+                    3368,
+                    7003
+                ],
+                [
+                    3541,
+                    7003
+                ],
+                [
+                    3541,
+                    6902
+                ],
+                [
+                    3368,
+                    6902
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Leaf",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3374,
+                    7059
+                ],
+                [
+                    3374,
+                    7149
+                ],
+                [
+                    3987,
+                    7149
+                ],
+                [
+                    3987,
+                    7059
+                ],
+                [
+                    3374,
+                    7059
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Flower",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3374,
+                    7059
+                ],
+                [
+                    3374,
+                    7149
+                ],
+                [
+                    3987,
+                    7149
+                ],
+                [
+                    3987,
+                    7059
+                ],
+                [
+                    3374,
+                    7059
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Flower",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3379,
+                    7229
+                ],
+                [
+                    3379,
+                    7311
+                ],
+                [
+                    3554,
+                    7311
+                ],
+                [
+                    3554,
+                    7229
+                ],
+                [
+                    3379,
+                    7229
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Fruit",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3379,
+                    7229
+                ],
+                [
+                    3379,
+                    7311
+                ],
+                [
+                    3554,
+                    7311
+                ],
+                [
+                    3554,
+                    7229
+                ],
+                [
+                    3379,
+                    7229
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Fruit",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3384,
+                    7325
+                ],
+                [
+                    3384,
+                    7473
+                ],
+                [
+                    3961,
+                    7473
+                ],
+                [
+                    3961,
+                    7325
+                ],
+                [
+                    3384,
+                    7325
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Notes Rare",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3384,
+                    7325
+                ],
+                [
+                    3384,
+                    7473
+                ],
+                [
+                    3961,
+                    7473
+                ],
+                [
+                    3961,
+                    7325
+                ],
+                [
+                    3384,
+                    7325
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Notes Rare",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4245,
+                    7641
+                ],
+                [
+                    4245,
+                    7776
+                ],
+                [
+                    4935,
+                    7776
+                ],
+                [
+                    4935,
+                    7641
+                ],
+                [
+                    4245,
+                    7641
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Family Styracac.",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    4245,
+                    7641
+                ],
+                [
+                    4245,
+                    7776
+                ],
+                [
+                    4935,
+                    7776
+                ],
+                [
+                    4935,
+                    7641
+                ],
+                [
+                    4245,
+                    7641
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Family Styracac .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3387,
+                    7787
+                ],
+                [
+                    3387,
+                    7925
+                ],
+                [
+                    4077,
+                    7925
+                ],
+                [
+                    4077,
+                    7787
+                ],
+                [
+                    3387,
+                    7787
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Name Styrax",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3387,
+                    7787
+                ],
+                [
+                    3387,
+                    7925
+                ],
+                [
+                    4077,
+                    7925
+                ],
+                [
+                    4077,
+                    7787
+                ],
+                [
+                    3387,
+                    7787
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Name Styrass",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4295,
+                    7957
+                ],
+                [
+                    4295,
+                    8089
+                ],
+                [
+                    4877,
+                    8089
+                ],
+                [
+                    4877,
+                    7957
+                ],
+                [
+                    4295,
+                    7957
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Collector T. T. Y\u00fc",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    4295,
+                    7957
+                ],
+                [
+                    4295,
+                    8089
+                ],
+                [
+                    4877,
+                    8089
+                ],
+                [
+                    4877,
+                    7957
+                ],
+                [
+                    4295,
+                    7957
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Collector T . T . Y\u00fc",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1451,
+                    7829
+                ],
+                [
+                    1451,
+                    7899
+                ],
+                [
+                    1986,
+                    7899
+                ],
+                [
+                    1986,
+                    7829
+                ],
+                [
+                    1451,
+                    7829
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ROYAL BOTANIC GARDEN",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    1451,
+                    7829
+                ],
+                [
+                    1451,
+                    7899
+                ],
+                [
+                    1986,
+                    7899
+                ],
+                [
+                    1986,
+                    7829
+                ],
+                [
+                    1451,
+                    7829
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ROYAL BOTANIC GARDEN",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1588,
+                    7902
+                ],
+                [
+                    1588,
+                    7950
+                ],
+                [
+                    1852,
+                    7950
+                ],
+                [
+                    1852,
+                    7902
+                ],
+                [
+                    1588,
+                    7902
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "EDINBURGH",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    1588,
+                    7902
+                ],
+                [
+                    1588,
+                    7950
+                ],
+                [
+                    1852,
+                    7950
+                ],
+                [
+                    1852,
+                    7902
+                ],
+                [
+                    1588,
+                    7902
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "EDINBURGH",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1503,
+                    8090
+                ],
+                [
+                    1503,
+                    8154
+                ],
+                [
+                    1955,
+                    8154
+                ],
+                [
+                    1955,
+                    8090
+                ],
+                [
+                    1503,
+                    8090
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "E00105239",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    1503,
+                    8090
+                ],
+                [
+                    1503,
+                    8154
+                ],
+                [
+                    1955,
+                    8154
+                ],
+                [
+                    1955,
+                    8090
+                ],
+                [
+                    1503,
+                    8090
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "E00105239",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    53,
+                    6471
+                ],
+                [
+                    53,
+                    6556
+                ],
+                [
+                    1504,
+                    6556
+                ],
+                [
+                    1504,
+                    6471
+                ],
+                [
+                    53,
+                    6471
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "CALIFORNIA ACADEMY OF SCIENCES (CAS)",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    53,
+                    6471
+                ],
+                [
+                    53,
+                    6556
+                ],
+                [
+                    1504,
+                    6556
+                ],
+                [
+                    1504,
+                    6471
+                ],
+                [
+                    53,
+                    6471
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "CALIFORNIA ACADEMY OF SCIENCES ( CAS )",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    59,
+                    6629
+                ],
+                [
+                    59,
+                    6732
+                ],
+                [
+                    875,
+                    6732
+                ],
+                [
+                    875,
+                    6629
+                ],
+                [
+                    59,
+                    6629
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Styrax hookeri C.B. Clarke",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    59,
+                    6629
+                ],
+                [
+                    59,
+                    6732
+                ],
+                [
+                    875,
+                    6732
+                ],
+                [
+                    875,
+                    6629
+                ],
+                [
+                    59,
+                    6629
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Styrax hookeri C . B . Clarke",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    68,
+                    6772
+                ],
+                [
+                    68,
+                    6890
+                ],
+                [
+                    1121,
+                    6890
+                ],
+                [
+                    1121,
+                    6772
+                ],
+                [
+                    68,
+                    6772
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Det. by Peter W. Fritsch, June 2010",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    68,
+                    6772
+                ],
+                [
+                    68,
+                    6890
+                ],
+                [
+                    1121,
+                    6890
+                ],
+                [
+                    1121,
+                    6772
+                ],
+                [
+                    68,
+                    6772
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Det . by Peter W . Fritsch , June 2010",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    62,
+                    5667
+                ],
+                [
+                    62,
+                    5779
+                ],
+                [
+                    851,
+                    5779
+                ],
+                [
+                    851,
+                    5667
+                ],
+                [
+                    62,
+                    5667
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Det. by Y. L. Huang, 2001",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    62,
+                    5667
+                ],
+                [
+                    62,
+                    5779
+                ],
+                [
+                    851,
+                    5779
+                ],
+                [
+                    851,
+                    5667
+                ],
+                [
+                    62,
+                    5667
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Det . by Y . L . Huang , 2001",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    59,
+                    5512
+                ],
+                [
+                    59,
+                    5612
+                ],
+                [
+                    860,
+                    5612
+                ],
+                [
+                    860,
+                    5512
+                ],
+                [
+                    59,
+                    5512
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Styrax hookeri C. B. Clarke",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    59,
+                    5512
+                ],
+                [
+                    59,
+                    5612
+                ],
+                [
+                    860,
+                    5612
+                ],
+                [
+                    860,
+                    5512
+                ],
+                [
+                    59,
+                    5512
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Styrax hookeri C . B . Clarke",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    59,
+                    5293
+                ],
+                [
+                    59,
+                    5372
+                ],
+                [
+                    1507,
+                    5372
+                ],
+                [
+                    1507,
+                    5293
+                ],
+                [
+                    59,
+                    5293
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "CALIFORNIA ACADEMY OF SCIENCES (CAS)",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    59,
+                    5293
+                ],
+                [
+                    59,
+                    5372
+                ],
+                [
+                    1507,
+                    5372
+                ],
+                [
+                    1507,
+                    5293
+                ],
+                [
+                    59,
+                    5293
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "CALIFORNIA ACADEMY OF SCIENCES ( CAS )",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    59,
+                    5375
+                ],
+                [
+                    59,
+                    5460
+                ],
+                [
+                    1191,
+                    5460
+                ],
+                [
+                    1191,
+                    5375
+                ],
+                [
+                    59,
+                    5375
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "& ZHONGSHAN UNIVERSITY (ZSU)",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    59,
+                    5375
+                ],
+                [
+                    59,
+                    5460
+                ],
+                [
+                    1191,
+                    5460
+                ],
+                [
+                    1191,
+                    5375
+                ],
+                [
+                    59,
+                    5375
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "& ZHONGSHAN UNIVERSITY ( ZSU )",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        }
+    ]
+}

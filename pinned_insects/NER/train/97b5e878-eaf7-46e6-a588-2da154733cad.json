@@ -1,0 +1,31 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "82f70664-efe6-49b1-93dd-6a73bc6d7698",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/07811a58-b86b-42c4-8ebc-61cfd36918ff",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/07811a58-b86b-42c4-8ebc-61cfd36918ff/full/full/0/default.jpg"
+    },
+    "named_entities": [
+        {
+            "tags": "Chiddingfold B-location_name\nSurrey I-location_name\n23 B-date\n. I-date\nV I-date\n. I-date\n1939 I-date\nW B-person_name\n. I-person_name\nRait I-person_name\nSmith I-person_name",
+            "worker_version_id": null
+        },
+        {
+            "tags": "Rait B-Collection/Donation\n- I-Collection/Donation\nSmith I-Collection/Donation\nBequest I-Collection/Donation\nBrit B-identifier\n. I-identifier\nMus I-identifier\n. I-identifier\n1959 I-identifier\n- I-identifier\n79 I-identifier",
+            "worker_version_id": null
+        },
+        {
+            "tags": "NHMUK012499467 B-identifier",
+            "worker_version_id": null
+        }
+    ],
+    "page": {
+        "id": "97b5e878-eaf7-46e6-a588-2da154733cad",
+        "name": "012499467_151431_1082583.2500x5792.jpeg",
+        "rotation_angle": 0
+    }
+}

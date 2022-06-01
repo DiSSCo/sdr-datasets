@@ -1,0 +1,1393 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "479c24a2-d399-4074-b47f-7c82c51a95d8",
+        "name": "RBGE"
+    },
+    "image": {
+        "id": "31bba8cb-6fee-4b99-8fb8-0e87df656561",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FE00008912.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FE00008912.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "424468df-ab5a-497c-bcd9-8bc4493bf2f2",
+        "name": "E00008912",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    1002,
+                    85
+                ],
+                [
+                    1002,
+                    287
+                ],
+                [
+                    1565,
+                    287
+                ],
+                [
+                    1565,
+                    85
+                ],
+                [
+                    1002,
+                    85
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "28625",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1002,
+                    85
+                ],
+                [
+                    1002,
+                    287
+                ],
+                [
+                    1565,
+                    287
+                ],
+                [
+                    1565,
+                    85
+                ],
+                [
+                    1002,
+                    85
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "OPE 2 .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3742,
+                    5396
+                ],
+                [
+                    3742,
+                    5949
+                ],
+                [
+                    5017,
+                    5949
+                ],
+                [
+                    5017,
+                    5396
+                ],
+                [
+                    3742,
+                    5396
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "[...]",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3742,
+                    5396
+                ],
+                [
+                    3742,
+                    5949
+                ],
+                [
+                    5017,
+                    5949
+                ],
+                [
+                    5017,
+                    5396
+                ],
+                [
+                    3742,
+                    5396
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "aweihat \u6211\u662f\u4e2d\u6587",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3158,
+                    6512
+                ],
+                [
+                    3158,
+                    6692
+                ],
+                [
+                    3997,
+                    6692
+                ],
+                [
+                    3997,
+                    6512
+                ],
+                [
+                    3158,
+                    6512
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "W. YUNNAN",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3158,
+                    6512
+                ],
+                [
+                    3158,
+                    6692
+                ],
+                [
+                    3997,
+                    6692
+                ],
+                [
+                    3997,
+                    6512
+                ],
+                [
+                    3158,
+                    6512
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "W . YUNNAN",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4412,
+                    6533
+                ],
+                [
+                    4412,
+                    6831
+                ],
+                [
+                    5017,
+                    6831
+                ],
+                [
+                    5017,
+                    6533
+                ],
+                [
+                    4412,
+                    6533
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "No. 28625",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4412,
+                    6533
+                ],
+                [
+                    4412,
+                    6831
+                ],
+                [
+                    5017,
+                    6831
+                ],
+                [
+                    5017,
+                    6533
+                ],
+                [
+                    4412,
+                    6533
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "No . 28625",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4643,
+                    6823
+                ],
+                [
+                    4643,
+                    6908
+                ],
+                [
+                    4898,
+                    6908
+                ],
+                [
+                    4898,
+                    6823
+                ],
+                [
+                    4643,
+                    6823
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "193",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4643,
+                    6823
+                ],
+                [
+                    4643,
+                    6908
+                ],
+                [
+                    4898,
+                    6908
+                ],
+                [
+                    4898,
+                    6823
+                ],
+                [
+                    4643,
+                    6823
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "193",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3326,
+                    6721
+                ],
+                [
+                    3326,
+                    6823
+                ],
+                [
+                    4159,
+                    6823
+                ],
+                [
+                    4159,
+                    6721
+                ],
+                [
+                    3326,
+                    6721
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "COLL. GEORGE FORREST",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3326,
+                    6721
+                ],
+                [
+                    3326,
+                    6823
+                ],
+                [
+                    4159,
+                    6823
+                ],
+                [
+                    4159,
+                    6721
+                ],
+                [
+                    3326,
+                    6721
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "COLL . GEORGE FORREST",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3394,
+                    7434
+                ],
+                [
+                    3394,
+                    7681
+                ],
+                [
+                    4567,
+                    7681
+                ],
+                [
+                    4567,
+                    7434
+                ],
+                [
+                    3394,
+                    7434
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Potentilla eriocarpa",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3394,
+                    7434
+                ],
+                [
+                    3394,
+                    7681
+                ],
+                [
+                    4567,
+                    7681
+                ],
+                [
+                    4567,
+                    7434
+                ],
+                [
+                    3394,
+                    7434
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Potentilla enscarpa",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4635,
+                    7460
+                ],
+                [
+                    4635,
+                    7672
+                ],
+                [
+                    4992,
+                    7672
+                ],
+                [
+                    4992,
+                    7460
+                ],
+                [
+                    4635,
+                    7460
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Wall.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4635,
+                    7460
+                ],
+                [
+                    4635,
+                    7672
+                ],
+                [
+                    4992,
+                    7672
+                ],
+                [
+                    4992,
+                    7460
+                ],
+                [
+                    4635,
+                    7460
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Walle",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4303,
+                    7672
+                ],
+                [
+                    4303,
+                    7825
+                ],
+                [
+                    4669,
+                    7825
+                ],
+                [
+                    4669,
+                    7672
+                ],
+                [
+                    4303,
+                    7672
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HBG",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4303,
+                    7672
+                ],
+                [
+                    4303,
+                    7825
+                ],
+                [
+                    4669,
+                    7825
+                ],
+                [
+                    4669,
+                    7672
+                ],
+                [
+                    4303,
+                    7672
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "\u300c \u4ec0\u4e48 ?",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4448,
+                    7834
+                ],
+                [
+                    4499,
+                    7970
+                ],
+                [
+                    4881,
+                    7876
+                ],
+                [
+                    4881,
+                    7766
+                ],
+                [
+                    4873,
+                    7766
+                ],
+                [
+                    4448,
+                    7834
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "16.XI.53",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4448,
+                    7834
+                ],
+                [
+                    4499,
+                    7970
+                ],
+                [
+                    4881,
+                    7876
+                ],
+                [
+                    4881,
+                    7766
+                ],
+                [
+                    4873,
+                    7766
+                ],
+                [
+                    4448,
+                    7834
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "76xk",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1550,
+                    7749
+                ],
+                [
+                    1550,
+                    7978
+                ],
+                [
+                    3020,
+                    7978
+                ],
+                [
+                    3020,
+                    7749
+                ],
+                [
+                    1550,
+                    7749
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Potentilla eriocarpa Wall. ex Lehm.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1550,
+                    7749
+                ],
+                [
+                    1550,
+                    7978
+                ],
+                [
+                    3020,
+                    7978
+                ],
+                [
+                    3020,
+                    7749
+                ],
+                [
+                    1550,
+                    7749
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Potentilla eriocarpa Wall . ex Lehm",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1516,
+                    8038
+                ],
+                [
+                    1516,
+                    8233
+                ],
+                [
+                    2119,
+                    8233
+                ],
+                [
+                    2119,
+                    8038
+                ],
+                [
+                    1516,
+                    8038
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "det. H. IKEDA",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1516,
+                    8038
+                ],
+                [
+                    1516,
+                    8233
+                ],
+                [
+                    2119,
+                    8233
+                ],
+                [
+                    2119,
+                    8038
+                ],
+                [
+                    1516,
+                    8038
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "det . H . IKEDA",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2502,
+                    8063
+                ],
+                [
+                    2502,
+                    8216
+                ],
+                [
+                    3028,
+                    8216
+                ],
+                [
+                    3028,
+                    8063
+                ],
+                [
+                    2502,
+                    8063
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "April 1995",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2502,
+                    8063
+                ],
+                [
+                    2502,
+                    8216
+                ],
+                [
+                    3028,
+                    8216
+                ],
+                [
+                    3028,
+                    8063
+                ],
+                [
+                    2502,
+                    8063
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "April 1995",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3158,
+                    6969
+                ],
+                [
+                    3158,
+                    7043
+                ],
+                [
+                    3307,
+                    7043
+                ],
+                [
+                    3307,
+                    6969
+                ],
+                [
+                    3158,
+                    6969
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Alt .",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3158,
+                    6969
+                ],
+                [
+                    3158,
+                    7043
+                ],
+                [
+                    3307,
+                    7043
+                ],
+                [
+                    3307,
+                    6969
+                ],
+                [
+                    3158,
+                    6969
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Alt .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3172,
+                    7081
+                ],
+                [
+                    3172,
+                    7161
+                ],
+                [
+                    3420,
+                    7161
+                ],
+                [
+                    3420,
+                    7081
+                ],
+                [
+                    3172,
+                    7081
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Locality",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3172,
+                    7081
+                ],
+                [
+                    3172,
+                    7161
+                ],
+                [
+                    3420,
+                    7161
+                ],
+                [
+                    3420,
+                    7081
+                ],
+                [
+                    3172,
+                    7081
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Locality",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    974,
+                    7612
+                ],
+                [
+                    1042,
+                    7712
+                ],
+                [
+                    1029,
+                    7714
+                ],
+                [
+                    1046,
+                    7712
+                ],
+                [
+                    1326,
+                    7672
+                ],
+                [
+                    1263,
+                    7557
+                ],
+                [
+                    1088,
+                    7551
+                ],
+                [
+                    974,
+                    7612
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "19/91",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1044,
+                    7725
+                ],
+                [
+                    1084,
+                    7840
+                ],
+                [
+                    1195,
+                    7844
+                ],
+                [
+                    1320,
+                    7787
+                ],
+                [
+                    1316,
+                    7687
+                ],
+                [
+                    1044,
+                    7725
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "383",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    826,
+                    7603
+                ],
+                [
+                    845,
+                    7722
+                ],
+                [
+                    849,
+                    7752
+                ],
+                [
+                    936,
+                    7722
+                ],
+                [
+                    938,
+                    7598
+                ],
+                [
+                    996,
+                    7503
+                ],
+                [
+                    1092,
+                    7435
+                ],
+                [
+                    1195,
+                    7426
+                ],
+                [
+                    1288,
+                    7447
+                ],
+                [
+                    1365,
+                    7507
+                ],
+                [
+                    1419,
+                    7605
+                ],
+                [
+                    1426,
+                    7678
+                ],
+                [
+                    1515,
+                    7661
+                ],
+                [
+                    1508,
+                    7584
+                ],
+                [
+                    1487,
+                    7510
+                ],
+                [
+                    1403,
+                    7407
+                ],
+                [
+                    1300,
+                    7344
+                ],
+                [
+                    1190,
+                    7318
+                ],
+                [
+                    1059,
+                    7337
+                ],
+                [
+                    975,
+                    7386
+                ],
+                [
+                    901,
+                    7454
+                ],
+                [
+                    859,
+                    7538
+                ],
+                [
+                    826,
+                    7603
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Royal Botanic Garden",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    826,
+                    7603
+                ],
+                [
+                    845,
+                    7722
+                ],
+                [
+                    849,
+                    7752
+                ],
+                [
+                    936,
+                    7722
+                ],
+                [
+                    938,
+                    7598
+                ],
+                [
+                    996,
+                    7503
+                ],
+                [
+                    1092,
+                    7435
+                ],
+                [
+                    1195,
+                    7426
+                ],
+                [
+                    1288,
+                    7447
+                ],
+                [
+                    1365,
+                    7507
+                ],
+                [
+                    1419,
+                    7605
+                ],
+                [
+                    1426,
+                    7678
+                ],
+                [
+                    1515,
+                    7661
+                ],
+                [
+                    1508,
+                    7584
+                ],
+                [
+                    1487,
+                    7510
+                ],
+                [
+                    1403,
+                    7407
+                ],
+                [
+                    1300,
+                    7344
+                ],
+                [
+                    1190,
+                    7318
+                ],
+                [
+                    1059,
+                    7337
+                ],
+                [
+                    975,
+                    7386
+                ],
+                [
+                    901,
+                    7454
+                ],
+                [
+                    859,
+                    7538
+                ],
+                [
+                    826,
+                    7603
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "B07",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    971,
+                    7939
+                ],
+                [
+                    1057,
+                    8000
+                ],
+                [
+                    1188,
+                    8019
+                ],
+                [
+                    1298,
+                    8000
+                ],
+                [
+                    1396,
+                    7949
+                ],
+                [
+                    1438,
+                    7879
+                ],
+                [
+                    1393,
+                    7836
+                ],
+                [
+                    1365,
+                    7832
+                ],
+                [
+                    1274,
+                    7900
+                ],
+                [
+                    1171,
+                    7925
+                ],
+                [
+                    1052,
+                    7893
+                ],
+                [
+                    1027,
+                    7871
+                ],
+                [
+                    996,
+                    7869
+                ],
+                [
+                    971,
+                    7939
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Edinburgh",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    971,
+                    7939
+                ],
+                [
+                    1057,
+                    8000
+                ],
+                [
+                    1188,
+                    8019
+                ],
+                [
+                    1298,
+                    8000
+                ],
+                [
+                    1396,
+                    7949
+                ],
+                [
+                    1438,
+                    7879
+                ],
+                [
+                    1393,
+                    7836
+                ],
+                [
+                    1365,
+                    7832
+                ],
+                [
+                    1274,
+                    7900
+                ],
+                [
+                    1171,
+                    7925
+                ],
+                [
+                    1052,
+                    7893
+                ],
+                [
+                    1027,
+                    7871
+                ],
+                [
+                    996,
+                    7869
+                ],
+                [
+                    971,
+                    7939
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "OINBURG",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    197,
+                    7839
+                ],
+                [
+                    197,
+                    7912
+                ],
+                [
+                    689,
+                    7912
+                ],
+                [
+                    689,
+                    7839
+                ],
+                [
+                    197,
+                    7839
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ROYAL BOTANIC GARDEN",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    197,
+                    7839
+                ],
+                [
+                    197,
+                    7912
+                ],
+                [
+                    689,
+                    7912
+                ],
+                [
+                    689,
+                    7839
+                ],
+                [
+                    197,
+                    7839
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ROYAL BOTANIC GARDEN",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    302,
+                    7907
+                ],
+                [
+                    302,
+                    7954
+                ],
+                [
+                    580,
+                    7954
+                ],
+                [
+                    580,
+                    7907
+                ],
+                [
+                    302,
+                    7907
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "EDINBURGH",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    302,
+                    7907
+                ],
+                [
+                    302,
+                    7954
+                ],
+                [
+                    580,
+                    7954
+                ],
+                [
+                    580,
+                    7907
+                ],
+                [
+                    302,
+                    7907
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "EDINBURGH",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    215,
+                    8084
+                ],
+                [
+                    215,
+                    8150
+                ],
+                [
+                    671,
+                    8150
+                ],
+                [
+                    671,
+                    8084
+                ],
+                [
+                    215,
+                    8084
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "E00008912",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    215,
+                    8084
+                ],
+                [
+                    215,
+                    8150
+                ],
+                [
+                    671,
+                    8150
+                ],
+                [
+                    671,
+                    8084
+                ],
+                [
+                    215,
+                    8084
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "E00008912",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        }
+    ]
+}

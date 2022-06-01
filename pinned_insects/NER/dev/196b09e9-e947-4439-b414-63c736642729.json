@@ -1,0 +1,35 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "698eca92-2431-40db-b926-2bbd49e5a6e4",
+        "name": "dev"
+    },
+    "image": {
+        "id": "5af6e7f2-6097-4473-b6b6-dd30f8ea3350",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/dfb1ff79-7d57-4fa7-8a0f-37f803160d03",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/dfb1ff79-7d57-4fa7-8a0f-37f803160d03/full/full/0/default.jpg"
+    },
+    "named_entities": [
+        {
+            "tags": "Ashton B-location_name\nWold I-location_name\n, I-location_name\nOundle I-location_name\n, I-location_name\n13 B-date\n. I-date\nviii I-date\n. I-date\n1921 I-date\n. O",
+            "worker_version_id": null
+        },
+        {
+            "tags": "NHMUK010809593 B-identifier",
+            "worker_version_id": null
+        },
+        {
+            "tags": "Megabombus B-taxon_name\nB O\n# O\n677 O\n. O\nHJ O\n/ O\nPHW O",
+            "worker_version_id": null
+        },
+        {
+            "tags": "Rothschild B-Collection/Donation\nBequest I-Collection/Donation\nB B-identifier\n. I-identifier\nM I-identifier\n. I-identifier\n1939 I-identifier\n- I-identifier\n1 I-identifier",
+            "worker_version_id": null
+        }
+    ],
+    "page": {
+        "id": "196b09e9-e947-4439-b414-63c736642729",
+        "name": "010809593__.2500x5792.jpeg",
+        "rotation_angle": 0
+    }
+}

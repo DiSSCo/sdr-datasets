@@ -1,0 +1,343 @@
+{
+    "dataset_id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+    "folder": {
+        "id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+        "name": "2000 Louse Subset"
+    },
+    "image": {
+        "id": "5a50be66-a738-4ff8-89ac-b2a39295cb79",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/d128519d-df95-4e3a-8920-2dda4b55492c",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/d128519d-df95-4e3a-8920-2dda4b55492c/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "f9b733d9-e45d-435d-9e99-acc7b1cb0fa1",
+        "name": "65",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    6265,
+                    398
+                ],
+                [
+                    6265,
+                    790
+                ],
+                [
+                    8039,
+                    790
+                ],
+                [
+                    8039,
+                    398
+                ],
+                [
+                    6265,
+                    398
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Tyto alba",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    599,
+                    507
+                ],
+                [
+                    599,
+                    899
+                ],
+                [
+                    2453,
+                    899
+                ],
+                [
+                    2453,
+                    507
+                ],
+                [
+                    599,
+                    507
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Kurodaia",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    3438,
+                    2374
+                ],
+                [
+                    3438,
+                    2766
+                ],
+                [
+                    3585,
+                    2766
+                ],
+                [
+                    3585,
+                    2374
+                ],
+                [
+                    3438,
+                    2374
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6130,
+                    771
+                ],
+                [
+                    6130,
+                    1261
+                ],
+                [
+                    8357,
+                    1261
+                ],
+                [
+                    8357,
+                    771
+                ],
+                [
+                    6130,
+                    771
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Beirut Port,",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    630,
+                    917
+                ],
+                [
+                    630,
+                    1278
+                ],
+                [
+                    2881,
+                    1278
+                ],
+                [
+                    2881,
+                    917
+                ],
+                [
+                    630,
+                    917
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "subpachygaster",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    3071,
+                    2723
+                ],
+                [
+                    3071,
+                    2809
+                ],
+                [
+                    3493,
+                    2809
+                ],
+                [
+                    3493,
+                    2723
+                ],
+                [
+                    3071,
+                    2723
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "010657819",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6198,
+                    1224
+                ],
+                [
+                    6198,
+                    1567
+                ],
+                [
+                    7874,
+                    1591
+                ],
+                [
+                    7874,
+                    1248
+                ],
+                [
+                    6198,
+                    1224
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Lebanon.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    703,
+                    1272
+                ],
+                [
+                    703,
+                    1823
+                ],
+                [
+                    2851,
+                    1823
+                ],
+                [
+                    2851,
+                    1272
+                ],
+                [
+                    703,
+                    1272
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "(Piaget, 1880)",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6204,
+                    1603
+                ],
+                [
+                    6204,
+                    1995
+                ],
+                [
+                    8247,
+                    1995
+                ],
+                [
+                    8247,
+                    1603
+                ],
+                [
+                    6204,
+                    1603
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "3. xi. 1964",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    2294,
+                    2869
+                ],
+                [
+                    2869,
+                    2869
+                ],
+                [
+                    2887,
+                    2425
+                ],
+                [
+                    2312,
+                    2425
+                ],
+                [
+                    2294,
+                    2869
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "\u2642\u2640",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6118,
+                    1946
+                ],
+                [
+                    6118,
+                    2417
+                ],
+                [
+                    8143,
+                    2417
+                ],
+                [
+                    8143,
+                    1946
+                ],
+                [
+                    6118,
+                    1946
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "R.E. Lewis",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6143,
+                    2423
+                ],
+                [
+                    6143,
+                    2784
+                ],
+                [
+                    8553,
+                    2784
+                ],
+                [
+                    8553,
+                    2423
+                ],
+                [
+                    6143,
+                    2423
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Brit. Mus. 1964-684.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        }
+    ]
+}

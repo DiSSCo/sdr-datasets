@@ -1,0 +1,723 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "438d96cb-88a1-4786-a83a-08301ba7e92a",
+        "name": "BGBM"
+    },
+    "image": {
+        "id": "b167443e-ee84-40db-a0a1-3f91f509926c",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FB_10_0534556.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FB_10_0534556.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "d5678dcf-fad5-471d-9d70-ae395653db58",
+        "name": "B_10_0534556",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    2482,
+                    3230
+                ],
+                [
+                    2482,
+                    3284
+                ],
+                [
+                    2654,
+                    3284
+                ],
+                [
+                    2654,
+                    3230
+                ],
+                [
+                    2482,
+                    3230
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "MAI 1991",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1701,
+                    3409
+                ],
+                [
+                    1701,
+                    3511
+                ],
+                [
+                    2587,
+                    3511
+                ],
+                [
+                    2587,
+                    3409
+                ],
+                [
+                    1701,
+                    3409
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Campan\u016dlaceae. (J\u016dss.) D\u016dby.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1660,
+                    3621
+                ],
+                [
+                    2709,
+                    3585
+                ],
+                [
+                    2709,
+                    3511
+                ],
+                [
+                    1666,
+                    3531
+                ],
+                [
+                    1660,
+                    3621
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Campanula ceroicaria L.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1552,
+                    3731
+                ],
+                [
+                    2722,
+                    3694
+                ],
+                [
+                    2719,
+                    3609
+                ],
+                [
+                    1554,
+                    3636
+                ],
+                [
+                    1552,
+                    3731
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Zella an der Werra, unweit M\u00fcnden",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1776,
+                    3825
+                ],
+                [
+                    1913,
+                    3825
+                ],
+                [
+                    1917,
+                    3843
+                ],
+                [
+                    2025,
+                    3843
+                ],
+                [
+                    2033,
+                    3800
+                ],
+                [
+                    2062,
+                    3800
+                ],
+                [
+                    2081,
+                    3829
+                ],
+                [
+                    2269,
+                    3835
+                ],
+                [
+                    2276,
+                    3767
+                ],
+                [
+                    1784,
+                    3764
+                ],
+                [
+                    1776,
+                    3825
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "10. \u2166 1928.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1561,
+                    3802
+                ],
+                [
+                    1563,
+                    3898
+                ],
+                [
+                    2260,
+                    3885
+                ],
+                [
+                    2260,
+                    3838
+                ],
+                [
+                    2082,
+                    3833
+                ],
+                [
+                    2063,
+                    3804
+                ],
+                [
+                    2034,
+                    3804
+                ],
+                [
+                    2028,
+                    3846
+                ],
+                [
+                    1912,
+                    3848
+                ],
+                [
+                    1908,
+                    3831
+                ],
+                [
+                    1771,
+                    3829
+                ],
+                [
+                    1769,
+                    3806
+                ],
+                [
+                    1561,
+                    3802
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Leg. Prof. Dr. Otto von Linstow.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2618,
+                    3830
+                ],
+                [
+                    2618,
+                    3888
+                ],
+                [
+                    2774,
+                    3888
+                ],
+                [
+                    2774,
+                    3830
+                ],
+                [
+                    2618,
+                    3830
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "2272",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    995,
+                    3801
+                ],
+                [
+                    995,
+                    3869
+                ],
+                [
+                    1497,
+                    3869
+                ],
+                [
+                    1497,
+                    3801
+                ],
+                [
+                    995,
+                    3801
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herbar H. Herold",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2735,
+                    4638
+                ],
+                [
+                    2735,
+                    4709
+                ],
+                [
+                    3044,
+                    4709
+                ],
+                [
+                    3044,
+                    4638
+                ],
+                [
+                    2735,
+                    4638
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Image 2014",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2521,
+                    4862
+                ],
+                [
+                    2882,
+                    4858
+                ],
+                [
+                    2882,
+                    4810
+                ],
+                [
+                    2527,
+                    4814
+                ],
+                [
+                    2521,
+                    4862
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Mus. Bot. Berol.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2594,
+                    4937
+                ],
+                [
+                    2597,
+                    4972
+                ],
+                [
+                    2830,
+                    4968
+                ],
+                [
+                    2832,
+                    4937
+                ],
+                [
+                    2594,
+                    4937
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "B 10 0534556",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    291,
+                    4166
+                ],
+                [
+                    291,
+                    4215
+                ],
+                [
+                    1141,
+                    4215
+                ],
+                [
+                    1141,
+                    4166
+                ],
+                [
+                    291,
+                    4166
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "MUSEUM BOTANICUM BEROLINENSE",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    104,
+                    2337
+                ],
+                [
+                    104,
+                    2368
+                ],
+                [
+                    143,
+                    2368
+                ],
+                [
+                    143,
+                    2337
+                ],
+                [
+                    104,
+                    2337
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "0",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    95,
+                    2455
+                ],
+                [
+                    95,
+                    2486
+                ],
+                [
+                    141,
+                    2486
+                ],
+                [
+                    141,
+                    2455
+                ],
+                [
+                    95,
+                    2455
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "1",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    95,
+                    2565
+                ],
+                [
+                    95,
+                    2602
+                ],
+                [
+                    145,
+                    2602
+                ],
+                [
+                    145,
+                    2565
+                ],
+                [
+                    95,
+                    2565
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "2",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    97,
+                    2685
+                ],
+                [
+                    97,
+                    2714
+                ],
+                [
+                    147,
+                    2714
+                ],
+                [
+                    147,
+                    2685
+                ],
+                [
+                    97,
+                    2685
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "3",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    100,
+                    2801
+                ],
+                [
+                    100,
+                    2833
+                ],
+                [
+                    145,
+                    2833
+                ],
+                [
+                    145,
+                    2801
+                ],
+                [
+                    100,
+                    2801
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "4",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    102,
+                    2916
+                ],
+                [
+                    102,
+                    2949
+                ],
+                [
+                    145,
+                    2949
+                ],
+                [
+                    145,
+                    2916
+                ],
+                [
+                    102,
+                    2916
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "5",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    102,
+                    3032
+                ],
+                [
+                    102,
+                    3067
+                ],
+                [
+                    147,
+                    3067
+                ],
+                [
+                    147,
+                    3032
+                ],
+                [
+                    102,
+                    3032
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "6",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    99,
+                    3147
+                ],
+                [
+                    99,
+                    3184
+                ],
+                [
+                    149,
+                    3184
+                ],
+                [
+                    149,
+                    3147
+                ],
+                [
+                    99,
+                    3147
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "7",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    101,
+                    3263
+                ],
+                [
+                    101,
+                    3300
+                ],
+                [
+                    147,
+                    3300
+                ],
+                [
+                    147,
+                    3263
+                ],
+                [
+                    101,
+                    3263
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "8",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    101,
+                    3381
+                ],
+                [
+                    101,
+                    3414
+                ],
+                [
+                    151,
+                    3414
+                ],
+                [
+                    151,
+                    3381
+                ],
+                [
+                    101,
+                    3381
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "9",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    101,
+                    3491
+                ],
+                [
+                    101,
+                    3545
+                ],
+                [
+                    151,
+                    3545
+                ],
+                [
+                    151,
+                    3491
+                ],
+                [
+                    101,
+                    3491
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "10",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    37,
+                    3144
+                ],
+                [
+                    37,
+                    3530
+                ],
+                [
+                    101,
+                    3530
+                ],
+                [
+                    101,
+                    3144
+                ],
+                [
+                    37,
+                    3144
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "copyright reserved",
+            "worker_version": null
+        }
+    ]
+}

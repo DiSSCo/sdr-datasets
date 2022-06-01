@@ -1,0 +1,1207 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "c301e3ce-a988-469d-afb1-5af714a7123b",
+        "name": "MNHN"
+    },
+    "image": {
+        "id": "c7ece61e-6639-4e41-ae0a-6e1470c4974f",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FP00093937.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FP00093937.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "703c9a61-1e31-4b8b-922f-6ae81c4ea95b",
+        "name": "P00093937",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    2901,
+                    3121
+                ],
+                [
+                    2901,
+                    3269
+                ],
+                [
+                    3217,
+                    3269
+                ],
+                [
+                    3217,
+                    3121
+                ],
+                [
+                    2901,
+                    3121
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "TYPE",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2901,
+                    3121
+                ],
+                [
+                    2901,
+                    3269
+                ],
+                [
+                    3217,
+                    3269
+                ],
+                [
+                    3217,
+                    3121
+                ],
+                [
+                    2901,
+                    3121
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "TYPE",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3472,
+                    3338
+                ],
+                [
+                    3472,
+                    3834
+                ],
+                [
+                    3547,
+                    3834
+                ],
+                [
+                    3547,
+                    3338
+                ],
+                [
+                    3472,
+                    3338
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "copyright reserved",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3472,
+                    3338
+                ],
+                [
+                    3472,
+                    3834
+                ],
+                [
+                    3547,
+                    3834
+                ],
+                [
+                    3547,
+                    3338
+                ],
+                [
+                    3472,
+                    3338
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "reserved copyright",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3472,
+                    4467
+                ],
+                [
+                    3472,
+                    4576
+                ],
+                [
+                    3545,
+                    4576
+                ],
+                [
+                    3545,
+                    4467
+                ],
+                [
+                    3472,
+                    4467
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "cm",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3472,
+                    4467
+                ],
+                [
+                    3472,
+                    4576
+                ],
+                [
+                    3545,
+                    4576
+                ],
+                [
+                    3545,
+                    4467
+                ],
+                [
+                    3472,
+                    4467
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "cm",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2579,
+                    4497
+                ],
+                [
+                    2579,
+                    4578
+                ],
+                [
+                    3186,
+                    4578
+                ],
+                [
+                    3186,
+                    4497
+                ],
+                [
+                    2579,
+                    4497
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB . MUS . PARIS .",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2579,
+                    4497
+                ],
+                [
+                    2579,
+                    4578
+                ],
+                [
+                    3186,
+                    4578
+                ],
+                [
+                    3186,
+                    4497
+                ],
+                [
+                    2579,
+                    4497
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB . MUS . PARIS .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2299,
+                    4621
+                ],
+                [
+                    2299,
+                    4765
+                ],
+                [
+                    3492,
+                    4765
+                ],
+                [
+                    3492,
+                    4621
+                ],
+                [
+                    2299,
+                    4621
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Phyllarthron megaphyllum R. Capuron",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2299,
+                    4621
+                ],
+                [
+                    2299,
+                    4765
+                ],
+                [
+                    3492,
+                    4765
+                ],
+                [
+                    3492,
+                    4621
+                ],
+                [
+                    2299,
+                    4621
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Phy flat Fla megata e \u0432 \u0441\u0440\u043e\u043a ,",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2721,
+                    4757
+                ],
+                [
+                    2721,
+                    4807
+                ],
+                [
+                    3083,
+                    4807
+                ],
+                [
+                    3083,
+                    4757
+                ],
+                [
+                    2721,
+                    4757
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herb . Mus\u00e9um Paris",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2721,
+                    4757
+                ],
+                [
+                    2721,
+                    4807
+                ],
+                [
+                    3083,
+                    4807
+                ],
+                [
+                    3083,
+                    4757
+                ],
+                [
+                    2721,
+                    4757
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herb . Mus\u00e9um Paris",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2796,
+                    4924
+                ],
+                [
+                    2796,
+                    4977
+                ],
+                [
+                    3019,
+                    4977
+                ],
+                [
+                    3019,
+                    4924
+                ],
+                [
+                    2796,
+                    4924
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "P00093937",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2796,
+                    4924
+                ],
+                [
+                    2796,
+                    4977
+                ],
+                [
+                    3019,
+                    4977
+                ],
+                [
+                    3019,
+                    4924
+                ],
+                [
+                    2796,
+                    4924
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "P00093937",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2504,
+                    4980
+                ],
+                [
+                    2504,
+                    5065
+                ],
+                [
+                    3237,
+                    5065
+                ],
+                [
+                    3237,
+                    4980
+                ],
+                [
+                    2504,
+                    4980
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Service Forestier de Madagascar",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2504,
+                    4980
+                ],
+                [
+                    2504,
+                    5065
+                ],
+                [
+                    3237,
+                    5065
+                ],
+                [
+                    3237,
+                    4980
+                ],
+                [
+                    2504,
+                    4980
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Service Forestier de Madagascar",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3067,
+                    5081
+                ],
+                [
+                    3067,
+                    5160
+                ],
+                [
+                    3404,
+                    5160
+                ],
+                [
+                    3404,
+                    5081
+                ],
+                [
+                    3067,
+                    5081
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "leg . R . CAPURON",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3067,
+                    5081
+                ],
+                [
+                    3067,
+                    5160
+                ],
+                [
+                    3404,
+                    5160
+                ],
+                [
+                    3404,
+                    5081
+                ],
+                [
+                    3067,
+                    5081
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "leg . R . CAPURON",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2302,
+                    5070
+                ],
+                [
+                    2302,
+                    5142
+                ],
+                [
+                    2466,
+                    5142
+                ],
+                [
+                    2466,
+                    5070
+                ],
+                [
+                    2302,
+                    5070
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Re\u00e7u le",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2302,
+                    5070
+                ],
+                [
+                    2302,
+                    5142
+                ],
+                [
+                    2466,
+                    5142
+                ],
+                [
+                    2466,
+                    5070
+                ],
+                [
+                    2302,
+                    5070
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Re\u00e7u le",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    997,
+                    4432
+                ],
+                [
+                    997,
+                    4512
+                ],
+                [
+                    1286,
+                    4512
+                ],
+                [
+                    1286,
+                    4432
+                ],
+                [
+                    997,
+                    4432
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "11488-SF",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1018,
+                    4539
+                ],
+                [
+                    1018,
+                    4616
+                ],
+                [
+                    1945,
+                    4616
+                ],
+                [
+                    1945,
+                    4539
+                ],
+                [
+                    1018,
+                    4539
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Grand arbuste ou petit arbre \u00e0",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1018,
+                    4539
+                ],
+                [
+                    1018,
+                    4616
+                ],
+                [
+                    1945,
+                    4616
+                ],
+                [
+                    1945,
+                    4539
+                ],
+                [
+                    1018,
+                    4539
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Grand erbusto ou petit arbre \u00e0",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    994,
+                    4600
+                ],
+                [
+                    994,
+                    4666
+                ],
+                [
+                    1828,
+                    4666
+                ],
+                [
+                    1828,
+                    4600
+                ],
+                [
+                    994,
+                    4600
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "tige simple ou peu ramifi\u00e9e.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    994,
+                    4600
+                ],
+                [
+                    994,
+                    4666
+                ],
+                [
+                    1828,
+                    4666
+                ],
+                [
+                    1828,
+                    4600
+                ],
+                [
+                    994,
+                    4600
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "tico simple ou peu raif16e .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    997,
+                    4653
+                ],
+                [
+                    997,
+                    4722
+                ],
+                [
+                    1592,
+                    4722
+                ],
+                [
+                    1592,
+                    4653
+                ],
+                [
+                    997,
+                    4653
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Peuilles 2-3-4 n\u00e9es.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    997,
+                    4653
+                ],
+                [
+                    997,
+                    4722
+                ],
+                [
+                    1592,
+                    4722
+                ],
+                [
+                    1592,
+                    4653
+                ],
+                [
+                    997,
+                    4653
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Feuillea 2 - 4 n\u00e9es ,",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    904,
+                    4746
+                ],
+                [
+                    904,
+                    4820
+                ],
+                [
+                    1464,
+                    4820
+                ],
+                [
+                    1464,
+                    4746
+                ],
+                [
+                    904,
+                    4746
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Nom vernac: Tahila",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    904,
+                    4746
+                ],
+                [
+                    904,
+                    4820
+                ],
+                [
+                    1464,
+                    4820
+                ],
+                [
+                    1464,
+                    4746
+                ],
+                [
+                    904,
+                    4746
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "1 : Om vema : rabla",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    904,
+                    4839
+                ],
+                [
+                    904,
+                    4908
+                ],
+                [
+                    1921,
+                    4908
+                ],
+                [
+                    1921,
+                    4839
+                ],
+                [
+                    904,
+                    4839
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Sambirano: Massif de l'Antsatrotro",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    904,
+                    4839
+                ],
+                [
+                    904,
+                    4908
+                ],
+                [
+                    1921,
+                    4908
+                ],
+                [
+                    1921,
+                    4839
+                ],
+                [
+                    904,
+                    4839
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Sambirano : Mosait de l Antsatrotro",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    901,
+                    4889
+                ],
+                [
+                    901,
+                    4966
+                ],
+                [
+                    1855,
+                    4966
+                ],
+                [
+                    1855,
+                    4889
+                ],
+                [
+                    901,
+                    4889
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "(Manongarivo), vallon frais vers",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    901,
+                    4889
+                ],
+                [
+                    901,
+                    4966
+                ],
+                [
+                    1855,
+                    4966
+                ],
+                [
+                    1855,
+                    4889
+                ],
+                [
+                    901,
+                    4889
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "( Hanongarivo ) , vallon frais vers",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    898,
+                    4937
+                ],
+                [
+                    898,
+                    5022
+                ],
+                [
+                    1557,
+                    5022
+                ],
+                [
+                    1557,
+                    4937
+                ],
+                [
+                    898,
+                    4937
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "700 m\u00e8tres d'altitude.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    898,
+                    4937
+                ],
+                [
+                    898,
+                    5022
+                ],
+                [
+                    1557,
+                    5022
+                ],
+                [
+                    1557,
+                    4937
+                ],
+                [
+                    898,
+                    4937
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "700 metres d ' altitude .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1034,
+                    5062
+                ],
+                [
+                    1034,
+                    5152
+                ],
+                [
+                    1743,
+                    5152
+                ],
+                [
+                    1743,
+                    5062
+                ],
+                [
+                    1034,
+                    5062
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "leg. R. CAPURON XI/1954",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1034,
+                    5062
+                ],
+                [
+                    1034,
+                    5152
+                ],
+                [
+                    1743,
+                    5152
+                ],
+                [
+                    1743,
+                    5062
+                ],
+                [
+                    1034,
+                    5062
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "les . R . CAPOROR XI / 1954",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1586,
+                    4791
+                ],
+                [
+                    1586,
+                    4860
+                ],
+                [
+                    1958,
+                    4860
+                ],
+                [
+                    1958,
+                    4791
+                ],
+                [
+                    1586,
+                    4791
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "MADAGASCAR",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1586,
+                    4791
+                ],
+                [
+                    1586,
+                    4860
+                ],
+                [
+                    1958,
+                    4860
+                ],
+                [
+                    1958,
+                    4791
+                ],
+                [
+                    1586,
+                    4791
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "MADAGASCAR",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1560,
+                    4730
+                ],
+                [
+                    1560,
+                    4796
+                ],
+                [
+                    1980,
+                    4796
+                ],
+                [
+                    1980,
+                    4730
+                ],
+                [
+                    1560,
+                    4730
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "EAUX ET FORETS",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1560,
+                    4730
+                ],
+                [
+                    1560,
+                    4796
+                ],
+                [
+                    1980,
+                    4796
+                ],
+                [
+                    1980,
+                    4730
+                ],
+                [
+                    1560,
+                    4730
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "EAUX ET FORETS",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1717,
+                    4687
+                ],
+                [
+                    1717,
+                    4738
+                ],
+                [
+                    1828,
+                    4738
+                ],
+                [
+                    1828,
+                    4687
+                ],
+                [
+                    1717,
+                    4687
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "DES",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1717,
+                    4687
+                ],
+                [
+                    1717,
+                    4738
+                ],
+                [
+                    1828,
+                    4738
+                ],
+                [
+                    1828,
+                    4687
+                ],
+                [
+                    1717,
+                    4687
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "DES",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1669,
+                    4645
+                ],
+                [
+                    1669,
+                    4685
+                ],
+                [
+                    1900,
+                    4685
+                ],
+                [
+                    1900,
+                    4645
+                ],
+                [
+                    1669,
+                    4645
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "SERVICE",
+            "worker_version": null
+        }
+    ]
+}

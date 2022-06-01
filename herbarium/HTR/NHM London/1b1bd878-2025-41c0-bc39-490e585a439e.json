@@ -1,0 +1,964 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "01461701-dd48-4a27-ab96-27ee9853e15d",
+        "name": "NHM London"
+    },
+    "image": {
+        "id": "f8390579-1601-45c7-97c6-2cf455cab592",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FBM000773782.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FBM000773782.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "1b1bd878-2025-41c0-bc39-490e585a439e",
+        "name": "BM000773782",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    1205,
+                    401
+                ],
+                [
+                    1205,
+                    448
+                ],
+                [
+                    1386,
+                    448
+                ],
+                [
+                    1386,
+                    401
+                ],
+                [
+                    1205,
+                    401
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "23 MAY 1910",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    797,
+                    491
+                ],
+                [
+                    797,
+                    517
+                ],
+                [
+                    1107,
+                    517
+                ],
+                [
+                    1107,
+                    491
+                ],
+                [
+                    797,
+                    491
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Phycotheca Boreali-Americana.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1127,
+                    484
+                ],
+                [
+                    1127,
+                    512
+                ],
+                [
+                    1392,
+                    512
+                ],
+                [
+                    1392,
+                    484
+                ],
+                [
+                    1127,
+                    484
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Collins, Holden & Setchell.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    828,
+                    524
+                ],
+                [
+                    828,
+                    567
+                ],
+                [
+                    1353,
+                    567
+                ],
+                [
+                    1353,
+                    524
+                ],
+                [
+                    828,
+                    524
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "1648. Callithamnion rupincola C.L. Anderson.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    901,
+                    586
+                ],
+                [
+                    901,
+                    613
+                ],
+                [
+                    1289,
+                    613
+                ],
+                [
+                    1289,
+                    586
+                ],
+                [
+                    901,
+                    586
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "C.L. Anderson, Zoe, Vol. IV, p. 360, 1894.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    899,
+                    616
+                ],
+                [
+                    899,
+                    640
+                ],
+                [
+                    1295,
+                    640
+                ],
+                [
+                    1295,
+                    616
+                ],
+                [
+                    899,
+                    616
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "De Toni, Syll. Alg., Vol. IV, p. 1316, 1903.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    840,
+                    652
+                ],
+                [
+                    840,
+                    675
+                ],
+                [
+                    1380,
+                    675
+                ],
+                [
+                    1380,
+                    652
+                ],
+                [
+                    840,
+                    652
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "On various species of algae, middle of littoral zone, Moss Beach,",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    902,
+                    676
+                ],
+                [
+                    902,
+                    700
+                ],
+                [
+                    1289,
+                    700
+                ],
+                [
+                    1289,
+                    676
+                ],
+                [
+                    902,
+                    676
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "San Mateo County, California, Dec., 1909.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1149,
+                    705
+                ],
+                [
+                    1149,
+                    732
+                ],
+                [
+                    1323,
+                    732
+                ],
+                [
+                    1323,
+                    705
+                ],
+                [
+                    1149,
+                    705
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "N. L. GARDNER.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    837,
+                    743
+                ],
+                [
+                    837,
+                    767
+                ],
+                [
+                    1388,
+                    767
+                ],
+                [
+                    1388,
+                    743
+                ],
+                [
+                    837,
+                    743
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "The relation between this species and others of the genus, such",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    811,
+                    767
+                ],
+                [
+                    811,
+                    796
+                ],
+                [
+                    1383,
+                    796
+                ],
+                [
+                    1383,
+                    767
+                ],
+                [
+                    811,
+                    767
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "as C. polyspermum (cf. De Toni, Syll. Alg., Vol. IV, p. 1316) is",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    810,
+                    797
+                ],
+                [
+                    810,
+                    819
+                ],
+                [
+                    1387,
+                    819
+                ],
+                [
+                    1387,
+                    797
+                ],
+                [
+                    810,
+                    797
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "not readily determinable at present, but our plant is coarser and of",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    810,
+                    820
+                ],
+                [
+                    810,
+                    847
+                ],
+                [
+                    1054,
+                    847
+                ],
+                [
+                    1054,
+                    820
+                ],
+                [
+                    810,
+                    820
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "a somewhat different habit.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1218,
+                    843
+                ],
+                [
+                    1218,
+                    874
+                ],
+                [
+                    1331,
+                    874
+                ],
+                [
+                    1331,
+                    843
+                ],
+                [
+                    1218,
+                    843
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "W. A. S.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    719,
+                    855
+                ],
+                [
+                    719,
+                    871
+                ],
+                [
+                    944,
+                    871
+                ],
+                [
+                    944,
+                    855
+                ],
+                [
+                    719,
+                    855
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "THE NATURAL HISTORY MUSEUM, LONDON",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    763,
+                    870
+                ],
+                [
+                    763,
+                    885
+                ],
+                [
+                    904,
+                    885
+                ],
+                [
+                    904,
+                    870
+                ],
+                [
+                    763,
+                    870
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "DEPARTMENT OF BOTANY",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    775,
+                    933
+                ],
+                [
+                    775,
+                    955
+                ],
+                [
+                    898,
+                    955
+                ],
+                [
+                    898,
+                    933
+                ],
+                [
+                    775,
+                    933
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BM000773782",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    595,
+                    1144
+                ],
+                [
+                    597,
+                    1164
+                ],
+                [
+                    819,
+                    1177
+                ],
+                [
+                    818,
+                    1156
+                ],
+                [
+                    595,
+                    1144
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "THE NATURAL HISTORY MUSEUM, LON",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    638,
+                    1164
+                ],
+                [
+                    640,
+                    1180
+                ],
+                [
+                    796,
+                    1187
+                ],
+                [
+                    797,
+                    1174
+                ],
+                [
+                    638,
+                    1164
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "DEPARTMENT OF BOTANY",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    620,
+                    1240
+                ],
+                [
+                    801,
+                    1252
+                ],
+                [
+                    802,
+                    1224
+                ],
+                [
+                    622,
+                    1214
+                ],
+                [
+                    620,
+                    1240
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "000562175 (BM)",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    816,
+                    1411
+                ],
+                [
+                    816,
+                    1434
+                ],
+                [
+                    1067,
+                    1434
+                ],
+                [
+                    1067,
+                    1411
+                ],
+                [
+                    816,
+                    1411
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Phycotheca Boreali-Americana.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1148,
+                    1411
+                ],
+                [
+                    1148,
+                    1434
+                ],
+                [
+                    1391,
+                    1434
+                ],
+                [
+                    1391,
+                    1411
+                ],
+                [
+                    1148,
+                    1411
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Collins, Holden and Setchell.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    816,
+                    1451
+                ],
+                [
+                    816,
+                    1496
+                ],
+                [
+                    1387,
+                    1496
+                ],
+                [
+                    1387,
+                    1451
+                ],
+                [
+                    816,
+                    1451
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "1797. Callithamnion rupincola forma pygmaeum",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1028,
+                    1499
+                ],
+                [
+                    1028,
+                    1530
+                ],
+                [
+                    1176,
+                    1530
+                ],
+                [
+                    1176,
+                    1499
+                ],
+                [
+                    1028,
+                    1499
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "nova forma.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    858,
+                    1534
+                ],
+                [
+                    858,
+                    1560
+                ],
+                [
+                    1350,
+                    1560
+                ],
+                [
+                    1350,
+                    1534
+                ],
+                [
+                    858,
+                    1534
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "On Amphiroa and Corallina, San Pedro, California.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1212,
+                    1561
+                ],
+                [
+                    1212,
+                    1587
+                ],
+                [
+                    1374,
+                    1587
+                ],
+                [
+                    1374,
+                    1561
+                ],
+                [
+                    1212,
+                    1561
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "N.L. GARDNER.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    859,
+                    1593
+                ],
+                [
+                    859,
+                    1620
+                ],
+                [
+                    1392,
+                    1620
+                ],
+                [
+                    1392,
+                    1593
+                ],
+                [
+                    859,
+                    1593
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Forma nana, raro 1 cm. altitudine aequante; filamentis",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    819,
+                    1620
+                ],
+                [
+                    819,
+                    1647
+                ],
+                [
+                    1069,
+                    1647
+                ],
+                [
+                    1069,
+                    1620
+                ],
+                [
+                    819,
+                    1620
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "forma typica aequicrassis.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1296,
+                    1640
+                ],
+                [
+                    1296,
+                    1671
+                ],
+                [
+                    1374,
+                    1671
+                ],
+                [
+                    1374,
+                    1640
+                ],
+                [
+                    1296,
+                    1640
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "F. S. C.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    276,
+                    1989
+                ],
+                [
+                    276,
+                    2007
+                ],
+                [
+                    547,
+                    2001
+                ],
+                [
+                    546,
+                    1984
+                ],
+                [
+                    276,
+                    1989
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ALGAE DISTRIBUTED FROM THE",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    197,
+                    2011
+                ],
+                [
+                    197,
+                    2032
+                ],
+                [
+                    625,
+                    2022
+                ],
+                [
+                    623,
+                    2001
+                ],
+                [
+                    197,
+                    2011
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERBARIUM OF THE UNIVERSITY OF CALIFORNIA",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    150,
+                    2088
+                ],
+                [
+                    512,
+                    2078
+                ],
+                [
+                    511,
+                    2058
+                ],
+                [
+                    151,
+                    2065
+                ],
+                [
+                    150,
+                    2088
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "222. Callithamnion rupicola C. L. Anderson",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    204,
+                    2122
+                ],
+                [
+                    659,
+                    2109
+                ],
+                [
+                    658,
+                    2085
+                ],
+                [
+                    207,
+                    2096
+                ],
+                [
+                    204,
+                    2122
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "About for miles northwest of Santa Monica, California.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    206,
+                    2223
+                ],
+                [
+                    513,
+                    2214
+                ],
+                [
+                    513,
+                    2187
+                ],
+                [
+                    207,
+                    2195
+                ],
+                [
+                    206,
+                    2223
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "N. L. Gardner, No. 2532. Dec. 1912.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    394,
+                    2331
+                ],
+                [
+                    520,
+                    2330
+                ],
+                [
+                    521,
+                    2307
+                ],
+                [
+                    397,
+                    2310
+                ],
+                [
+                    394,
+                    2331
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BM000805122",
+            "worker_version": null
+        }
+    ]
+}

@@ -1,0 +1,181 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "c6de9a2b-ccba-43a7-8323-a163737bb1f5",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/439a658e-2870-4c00-93cc-eb84d1e5fac4",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/439a658e-2870-4c00-93cc-eb84d1e5fac4/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "ab42bd45-3dd7-4017-b980-73663675c915",
+        "name": "010811099__.2500x5792.jpeg",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    1799,
+                    1253
+                ],
+                [
+                    1799,
+                    1322
+                ],
+                [
+                    2315,
+                    1322
+                ],
+                [
+                    2315,
+                    1253
+                ],
+                [
+                    1799,
+                    1253
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK010811099",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1682,
+                    779
+                ],
+                [
+                    1682,
+                    829
+                ],
+                [
+                    2084,
+                    829
+                ],
+                [
+                    2082,
+                    773
+                ],
+                [
+                    1682,
+                    779
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "SCILLY ISLES:",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1685,
+                    831
+                ],
+                [
+                    1685,
+                    884
+                ],
+                [
+                    1970,
+                    884
+                ],
+                [
+                    1970,
+                    831
+                ],
+                [
+                    1685,
+                    831
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "St AGNES,",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1692,
+                    877
+                ],
+                [
+                    1692,
+                    937
+                ],
+                [
+                    1939,
+                    937
+                ],
+                [
+                    1939,
+                    877
+                ],
+                [
+                    1692,
+                    877
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "IX. 1957.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1685,
+                    929
+                ],
+                [
+                    1685,
+                    984
+                ],
+                [
+                    2084,
+                    984
+                ],
+                [
+                    2084,
+                    929
+                ],
+                [
+                    1685,
+                    929
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "A. RICHARDSON.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1686,
+                    982
+                ],
+                [
+                    1686,
+                    1040
+                ],
+                [
+                    2088,
+                    1040
+                ],
+                [
+                    2088,
+                    982
+                ],
+                [
+                    1686,
+                    982
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "B.M. 1957-447.",
+            "worker_version": null
+        }
+    ]
+}

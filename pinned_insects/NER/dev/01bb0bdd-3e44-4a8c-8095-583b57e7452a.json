@@ -1,0 +1,35 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "698eca92-2431-40db-b926-2bbd49e5a6e4",
+        "name": "dev"
+    },
+    "image": {
+        "id": "6b9c677d-999a-44df-8776-76a9ea75392e",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/50de5ab4-fdce-4423-b428-54ef2f218c77",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/50de5ab4-fdce-4423-b428-54ef2f218c77/full/full/0/default.jpg"
+    },
+    "named_entities": [
+        {
+            "tags": "McLachlan B-Collection/Donation\nColl I-Collection/Donation\n. I-Collection/Donation\nB B-identifier\n. I-identifier\nM I-identifier\n. I-identifier\n1938 I-identifier\n- I-identifier\n674 I-identifier",
+            "worker_version_id": null
+        },
+        {
+            "tags": "Mr B-person_name\nGedeh I-person_name\n? O\nIdera O",
+            "worker_version_id": null
+        },
+        {
+            "tags": "NHMUK011249955 B-identifier",
+            "worker_version_id": null
+        },
+        {
+            "tags": "Amphiaeschna B-taxon_name\nampla I-taxon_name\n. I-taxon_name\nSiks O",
+            "worker_version_id": null
+        }
+    ],
+    "page": {
+        "id": "01bb0bdd-3e44-4a8c-8095-583b57e7452a",
+        "name": "011249955_803523_1252916_2.2500x5153.jpeg",
+        "rotation_angle": 0
+    }
+}

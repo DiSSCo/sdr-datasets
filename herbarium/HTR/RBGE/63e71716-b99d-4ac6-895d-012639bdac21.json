@@ -1,0 +1,1702 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "479c24a2-d399-4074-b47f-7c82c51a95d8",
+        "name": "RBGE"
+    },
+    "image": {
+        "id": "626c597b-117e-4905-9172-d0fe53b53367",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FE00001162.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FE00001162.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "63e71716-b99d-4ac6-895d-012639bdac21",
+        "name": "E00001162",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    467,
+                    33
+                ],
+                [
+                    467,
+                    180
+                ],
+                [
+                    2118,
+                    180
+                ],
+                [
+                    2118,
+                    33
+                ],
+                [
+                    467,
+                    33
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "base colour indumentum",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    467,
+                    33
+                ],
+                [
+                    467,
+                    180
+                ],
+                [
+                    2118,
+                    180
+                ],
+                [
+                    2118,
+                    33
+                ],
+                [
+                    467,
+                    33
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "base colour indumentum",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    467,
+                    33
+                ],
+                [
+                    467,
+                    180
+                ],
+                [
+                    2118,
+                    180
+                ],
+                [
+                    2118,
+                    33
+                ],
+                [
+                    467,
+                    33
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "base colour indumentans",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    82,
+                    209
+                ],
+                [
+                    82,
+                    400
+                ],
+                [
+                    892,
+                    400
+                ],
+                [
+                    892,
+                    209
+                ],
+                [
+                    82,
+                    209
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "leaf cuneate",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    82,
+                    209
+                ],
+                [
+                    82,
+                    400
+                ],
+                [
+                    892,
+                    400
+                ],
+                [
+                    892,
+                    209
+                ],
+                [
+                    82,
+                    209
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "las cuneate",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    936,
+                    191
+                ],
+                [
+                    936,
+                    345
+                ],
+                [
+                    1272,
+                    345
+                ],
+                [
+                    1272,
+                    191
+                ],
+                [
+                    936,
+                    191
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "grey",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    936,
+                    191
+                ],
+                [
+                    936,
+                    345
+                ],
+                [
+                    1272,
+                    345
+                ],
+                [
+                    1272,
+                    191
+                ],
+                [
+                    936,
+                    191
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "grey",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1393,
+                    187
+                ],
+                [
+                    1393,
+                    275
+                ],
+                [
+                    2074,
+                    275
+                ],
+                [
+                    2074,
+                    187
+                ],
+                [
+                    1393,
+                    187
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "sparsely floccose",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1393,
+                    275
+                ],
+                [
+                    1393,
+                    389
+                ],
+                [
+                    2081,
+                    389
+                ],
+                [
+                    2081,
+                    275
+                ],
+                [
+                    1393,
+                    275
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "few glands",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    86,
+                    425
+                ],
+                [
+                    86,
+                    575
+                ],
+                [
+                    1602,
+                    575
+                ],
+                [
+                    1602,
+                    425
+                ],
+                [
+                    86,
+                    425
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "petioles floccose glandular",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    86,
+                    425
+                ],
+                [
+                    86,
+                    575
+                ],
+                [
+                    1602,
+                    575
+                ],
+                [
+                    1602,
+                    425
+                ],
+                [
+                    86,
+                    425
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "petioles floccose glandular",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    86,
+                    425
+                ],
+                [
+                    86,
+                    575
+                ],
+                [
+                    1602,
+                    575
+                ],
+                [
+                    1602,
+                    425
+                ],
+                [
+                    86,
+                    425
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "petioles floccose glandular",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    93,
+                    579
+                ],
+                [
+                    93,
+                    799
+                ],
+                [
+                    1887,
+                    799
+                ],
+                [
+                    1887,
+                    579
+                ],
+                [
+                    93,
+                    579
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "young shoots' floccose glandular",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    93,
+                    579
+                ],
+                [
+                    93,
+                    799
+                ],
+                [
+                    1887,
+                    799
+                ],
+                [
+                    1887,
+                    579
+                ],
+                [
+                    93,
+                    579
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "young shoots floccose glandular",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    93,
+                    579
+                ],
+                [
+                    93,
+                    799
+                ],
+                [
+                    1887,
+                    799
+                ],
+                [
+                    1887,
+                    579
+                ],
+                [
+                    93,
+                    579
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "sorang shoote ' floccode glandular",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    90,
+                    817
+                ],
+                [
+                    93,
+                    985
+                ],
+                [
+                    1759,
+                    927
+                ],
+                [
+                    1781,
+                    806
+                ],
+                [
+                    159,
+                    802
+                ],
+                [
+                    90,
+                    817
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "pedicels glands few hairs",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    90,
+                    817
+                ],
+                [
+                    93,
+                    985
+                ],
+                [
+                    1759,
+                    927
+                ],
+                [
+                    1781,
+                    806
+                ],
+                [
+                    159,
+                    802
+                ],
+                [
+                    90,
+                    817
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "pedicels",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    123,
+                    1007
+                ],
+                [
+                    123,
+                    1165
+                ],
+                [
+                    1796,
+                    1165
+                ],
+                [
+                    1796,
+                    1007
+                ],
+                [
+                    123,
+                    1007
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "calyx 3 mm gland ciliate",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    123,
+                    1007
+                ],
+                [
+                    123,
+                    1165
+                ],
+                [
+                    1796,
+                    1165
+                ],
+                [
+                    1796,
+                    1007
+                ],
+                [
+                    123,
+                    1007
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "calyx",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    123,
+                    1172
+                ],
+                [
+                    123,
+                    1337
+                ],
+                [
+                    1126,
+                    1337
+                ],
+                [
+                    1126,
+                    1172
+                ],
+                [
+                    123,
+                    1172
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "corolla white",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    123,
+                    1172
+                ],
+                [
+                    123,
+                    1337
+                ],
+                [
+                    1126,
+                    1337
+                ],
+                [
+                    1126,
+                    1172
+                ],
+                [
+                    123,
+                    1172
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "corolla",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    126,
+                    1384
+                ],
+                [
+                    126,
+                    1524
+                ],
+                [
+                    1525,
+                    1524
+                ],
+                [
+                    1525,
+                    1384
+                ],
+                [
+                    126,
+                    1384
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "stamens 10 puberulous",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    156,
+                    1593
+                ],
+                [
+                    156,
+                    1736
+                ],
+                [
+                    1254,
+                    1736
+                ],
+                [
+                    1254,
+                    1593
+                ],
+                [
+                    156,
+                    1593
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "style glabrous",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    156,
+                    1593
+                ],
+                [
+                    156,
+                    1736
+                ],
+                [
+                    1254,
+                    1736
+                ],
+                [
+                    1254,
+                    1593
+                ],
+                [
+                    156,
+                    1593
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ovary glandular",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    156,
+                    1593
+                ],
+                [
+                    156,
+                    1736
+                ],
+                [
+                    1254,
+                    1736
+                ],
+                [
+                    1254,
+                    1593
+                ],
+                [
+                    156,
+                    1593
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "glabrous",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    174,
+                    1765
+                ],
+                [
+                    174,
+                    1952
+                ],
+                [
+                    1371,
+                    1952
+                ],
+                [
+                    1371,
+                    1765
+                ],
+                [
+                    174,
+                    1765
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Style glabrous",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4170,
+                    1073
+                ],
+                [
+                    4180,
+                    1391
+                ],
+                [
+                    5211,
+                    1401
+                ],
+                [
+                    5191,
+                    1073
+                ],
+                [
+                    4170,
+                    1073
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "7.1864",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    4170,
+                    1073
+                ],
+                [
+                    4180,
+                    1391
+                ],
+                [
+                    5211,
+                    1401
+                ],
+                [
+                    5191,
+                    1073
+                ],
+                [
+                    4170,
+                    1073
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "F.18646",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4170,
+                    1073
+                ],
+                [
+                    4180,
+                    1391
+                ],
+                [
+                    5211,
+                    1401
+                ],
+                [
+                    5191,
+                    1073
+                ],
+                [
+                    4170,
+                    1073
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "71864",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2773,
+                    1430
+                ],
+                [
+                    2773,
+                    1748
+                ],
+                [
+                    5124,
+                    1748
+                ],
+                [
+                    5124,
+                    1430
+                ],
+                [
+                    2773,
+                    1430
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ovary glandular few hairs",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    2773,
+                    1430
+                ],
+                [
+                    2773,
+                    1748
+                ],
+                [
+                    5124,
+                    1748
+                ],
+                [
+                    5124,
+                    1430
+                ],
+                [
+                    2773,
+                    1430
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ovary glandular few hairs",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2773,
+                    1430
+                ],
+                [
+                    2773,
+                    1748
+                ],
+                [
+                    5124,
+                    1748
+                ],
+                [
+                    5124,
+                    1430
+                ],
+                [
+                    2773,
+                    1430
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ovary glandulan few",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2763,
+                    1786
+                ],
+                [
+                    2763,
+                    2037
+                ],
+                [
+                    4411,
+                    2037
+                ],
+                [
+                    4411,
+                    1786
+                ],
+                [
+                    2763,
+                    1786
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "style glabrous",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2917,
+                    2364
+                ],
+                [
+                    3679,
+                    2307
+                ],
+                [
+                    3968,
+                    2239
+                ],
+                [
+                    4729,
+                    2249
+                ],
+                [
+                    4719,
+                    2066
+                ],
+                [
+                    4671,
+                    2027
+                ],
+                [
+                    2966,
+                    2104
+                ],
+                [
+                    2917,
+                    2364
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Stamens puberulous",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2917,
+                    2364
+                ],
+                [
+                    3679,
+                    2307
+                ],
+                [
+                    3968,
+                    2239
+                ],
+                [
+                    4729,
+                    2249
+                ],
+                [
+                    4719,
+                    2066
+                ],
+                [
+                    4671,
+                    2027
+                ],
+                [
+                    2966,
+                    2104
+                ],
+                [
+                    2917,
+                    2364
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Stances",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    5280,
+                    7738
+                ],
+                [
+                    5280,
+                    7938
+                ],
+                [
+                    6807,
+                    7938
+                ],
+                [
+                    6807,
+                    7738
+                ],
+                [
+                    5280,
+                    7738
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "1919",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    5280,
+                    7738
+                ],
+                [
+                    5280,
+                    7938
+                ],
+                [
+                    6807,
+                    7938
+                ],
+                [
+                    6807,
+                    7738
+                ],
+                [
+                    5280,
+                    7738
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Tsarong. S. E. Tibet",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    5280,
+                    7738
+                ],
+                [
+                    5280,
+                    7938
+                ],
+                [
+                    6807,
+                    7938
+                ],
+                [
+                    6807,
+                    7738
+                ],
+                [
+                    5280,
+                    7738
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "1917 . 9",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    6818,
+                    7863
+                ],
+                [
+                    6818,
+                    8071
+                ],
+                [
+                    7549,
+                    8071
+                ],
+                [
+                    7549,
+                    7863
+                ],
+                [
+                    6818,
+                    7863
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "18646",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    6716,
+                    8199
+                ],
+                [
+                    6716,
+                    8419
+                ],
+                [
+                    7180,
+                    8419
+                ],
+                [
+                    7180,
+                    8199
+                ],
+                [
+                    6716,
+                    8199
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "1919",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    6716,
+                    8199
+                ],
+                [
+                    6716,
+                    8419
+                ],
+                [
+                    7180,
+                    8419
+                ],
+                [
+                    7180,
+                    8199
+                ],
+                [
+                    6716,
+                    8199
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Mose",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    5527,
+                    8089
+                ],
+                [
+                    5527,
+                    8220
+                ],
+                [
+                    6521,
+                    8220
+                ],
+                [
+                    6521,
+                    8089
+                ],
+                [
+                    5527,
+                    8089
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Coll. GEORGE FORREST",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    5251,
+                    8757
+                ],
+                [
+                    5251,
+                    9106
+                ],
+                [
+                    7512,
+                    9106
+                ],
+                [
+                    7512,
+                    8757
+                ],
+                [
+                    5251,
+                    8757
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "duplicate of 1917.",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    5251,
+                    8757
+                ],
+                [
+                    5251,
+                    9106
+                ],
+                [
+                    7512,
+                    9106
+                ],
+                [
+                    7512,
+                    8757
+                ],
+                [
+                    5251,
+                    8757
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Rhod. chalarocladum, Balf. f. et Forrest",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    5251,
+                    8757
+                ],
+                [
+                    5251,
+                    9106
+                ],
+                [
+                    7512,
+                    9106
+                ],
+                [
+                    7512,
+                    8757
+                ],
+                [
+                    5251,
+                    8757
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "duplication 1917 .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    5820,
+                    9157
+                ],
+                [
+                    5820,
+                    9290
+                ],
+                [
+                    6717,
+                    9290
+                ],
+                [
+                    6717,
+                    9157
+                ],
+                [
+                    5820,
+                    9157
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "= selense",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    5252,
+                    9380
+                ],
+                [
+                    5252,
+                    9806
+                ],
+                [
+                    7087,
+                    9806
+                ],
+                [
+                    7087,
+                    9380
+                ],
+                [
+                    5252,
+                    9380
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Duplicate of 1917",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2328,
+                    9264
+                ],
+                [
+                    2328,
+                    9371
+                ],
+                [
+                    3517,
+                    9371
+                ],
+                [
+                    3517,
+                    9264
+                ],
+                [
+                    2328,
+                    9264
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Det. D. F. Chamberlain",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3558,
+                    9305
+                ],
+                [
+                    3558,
+                    9402
+                ],
+                [
+                    3886,
+                    9402
+                ],
+                [
+                    3886,
+                    9305
+                ],
+                [
+                    3558,
+                    9305
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "1976",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2422,
+                    9021
+                ],
+                [
+                    2961,
+                    9029
+                ],
+                [
+                    3772,
+                    9040
+                ],
+                [
+                    3974,
+                    9046
+                ],
+                [
+                    4130,
+                    9082
+                ],
+                [
+                    4204,
+                    9072
+                ],
+                [
+                    4310,
+                    9062
+                ],
+                [
+                    4299,
+                    8901
+                ],
+                [
+                    2438,
+                    8889
+                ],
+                [
+                    2422,
+                    9021
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Type Specimen",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    2422,
+                    9021
+                ],
+                [
+                    2961,
+                    9029
+                ],
+                [
+                    3772,
+                    9040
+                ],
+                [
+                    3974,
+                    9046
+                ],
+                [
+                    4130,
+                    9082
+                ],
+                [
+                    4204,
+                    9072
+                ],
+                [
+                    4310,
+                    9062
+                ],
+                [
+                    4299,
+                    8901
+                ],
+                [
+                    2438,
+                    8889
+                ],
+                [
+                    2422,
+                    9021
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HOLOTYPE R.  chalarocladum Balf. f.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2422,
+                    9021
+                ],
+                [
+                    2961,
+                    9029
+                ],
+                [
+                    3772,
+                    9040
+                ],
+                [
+                    3974,
+                    9046
+                ],
+                [
+                    4130,
+                    9082
+                ],
+                [
+                    4204,
+                    9072
+                ],
+                [
+                    4310,
+                    9062
+                ],
+                [
+                    4299,
+                    8901
+                ],
+                [
+                    2438,
+                    8889
+                ],
+                [
+                    2422,
+                    9021
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Type Specimen",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3807,
+                    9145
+                ],
+                [
+                    4071,
+                    9178
+                ],
+                [
+                    4277,
+                    9141
+                ],
+                [
+                    4277,
+                    9070
+                ],
+                [
+                    4141,
+                    9086
+                ],
+                [
+                    3978,
+                    9048
+                ],
+                [
+                    3840,
+                    9042
+                ],
+                [
+                    3807,
+                    9145
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "& Forrest",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2399,
+                    9233
+                ],
+                [
+                    2776,
+                    9227
+                ],
+                [
+                    3225,
+                    9233
+                ],
+                [
+                    3541,
+                    9259
+                ],
+                [
+                    3618,
+                    9292
+                ],
+                [
+                    3701,
+                    9263
+                ],
+                [
+                    3933,
+                    9278
+                ],
+                [
+                    4053,
+                    9255
+                ],
+                [
+                    4037,
+                    9204
+                ],
+                [
+                    3835,
+                    9156
+                ],
+                [
+                    3441,
+                    9139
+                ],
+                [
+                    3024,
+                    9101
+                ],
+                [
+                    2462,
+                    9097
+                ],
+                [
+                    2419,
+                    9097
+                ],
+                [
+                    2399,
+                    9233
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "= R. selense Franchet subsp. selense",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    7355,
+                    175
+                ],
+                [
+                    7355,
+                    273
+                ],
+                [
+                    7965,
+                    273
+                ],
+                [
+                    7965,
+                    175
+                ],
+                [
+                    7355,
+                    175
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ROYAL BOTANIC GARDEN",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    7488,
+                    266
+                ],
+                [
+                    7488,
+                    323
+                ],
+                [
+                    7793,
+                    323
+                ],
+                [
+                    7793,
+                    266
+                ],
+                [
+                    7488,
+                    266
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "EDINBURGH",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    7368,
+                    477
+                ],
+                [
+                    7368,
+                    561
+                ],
+                [
+                    7913,
+                    561
+                ],
+                [
+                    7913,
+                    477
+                ],
+                [
+                    7368,
+                    477
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "E00001162",
+            "worker_version": null
+        }
+    ]
+}

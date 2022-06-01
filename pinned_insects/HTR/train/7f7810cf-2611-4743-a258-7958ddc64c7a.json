@@ -1,0 +1,208 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "fa9f8dec-c019-4da2-a971-50a7b3eff589",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/67adcb6d-32e1-4543-a37b-b591675d30e1",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/67adcb6d-32e1-4543-a37b-b591675d30e1/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "7f7810cf-2611-4743-a258-7958ddc64c7a",
+        "name": "010608808_151522_1858125.2500x5792.jpeg",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    1829,
+                    1373
+                ],
+                [
+                    1829,
+                    1423
+                ],
+                [
+                    2319,
+                    1423
+                ],
+                [
+                    2319,
+                    1373
+                ],
+                [
+                    1829,
+                    1373
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK01608808",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1814,
+                    1091
+                ],
+                [
+                    1814,
+                    1136
+                ],
+                [
+                    2020,
+                    1136
+                ],
+                [
+                    2020,
+                    1091
+                ],
+                [
+                    1814,
+                    1091
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "2010-62",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1816,
+                    1027
+                ],
+                [
+                    1816,
+                    1083
+                ],
+                [
+                    2069,
+                    1083
+                ],
+                [
+                    2069,
+                    1027
+                ],
+                [
+                    1816,
+                    1027
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BMNH (E)",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1818,
+                    960
+                ],
+                [
+                    1818,
+                    1012
+                ],
+                [
+                    2130,
+                    1012
+                ],
+                [
+                    2130,
+                    960
+                ],
+                [
+                    1818,
+                    960
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Christie Coll.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1769,
+                    643
+                ],
+                [
+                    1769,
+                    730
+                ],
+                [
+                    2184,
+                    730
+                ],
+                [
+                    2184,
+                    643
+                ],
+                [
+                    1769,
+                    643
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "LONDON EC",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1770,
+                    723
+                ],
+                [
+                    1770,
+                    820
+                ],
+                [
+                    2153,
+                    820
+                ],
+                [
+                    2153,
+                    723
+                ],
+                [
+                    1770,
+                    723
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "AUG 1930",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1769,
+                    817
+                ],
+                [
+                    1769,
+                    904
+                ],
+                [
+                    2184,
+                    904
+                ],
+                [
+                    2184,
+                    817
+                ],
+                [
+                    1769,
+                    817
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BH SMITH",
+            "worker_version": null
+        }
+    ]
+}

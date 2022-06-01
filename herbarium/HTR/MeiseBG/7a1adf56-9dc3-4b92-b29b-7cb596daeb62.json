@@ -1,0 +1,1557 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "40737841-bfc1-4187-b1f6-3328e53d3aa3",
+        "name": "MeiseBG"
+    },
+    "image": {
+        "id": "2d875424-efa7-44e4-97ce-4ba3748226de",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FBR0000006490454.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FBR0000006490454.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "7a1adf56-9dc3-4b92-b29b-7cb596daeb62",
+        "name": "BR0000006490454",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    5769,
+                    8613
+                ],
+                [
+                    5769,
+                    8699
+                ],
+                [
+                    6063,
+                    8699
+                ],
+                [
+                    6063,
+                    8613
+                ],
+                [
+                    5769,
+                    8613
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "scanned",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    5769,
+                    8613
+                ],
+                [
+                    5769,
+                    8699
+                ],
+                [
+                    6063,
+                    8699
+                ],
+                [
+                    6063,
+                    8613
+                ],
+                [
+                    5769,
+                    8613
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "scanned",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    5751,
+                    8706
+                ],
+                [
+                    5751,
+                    8785
+                ],
+                [
+                    6088,
+                    8785
+                ],
+                [
+                    6088,
+                    8706
+                ],
+                [
+                    5751,
+                    8706
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "DVG 2007",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    5751,
+                    8706
+                ],
+                [
+                    5751,
+                    8785
+                ],
+                [
+                    6088,
+                    8785
+                ],
+                [
+                    6088,
+                    8706
+                ],
+                [
+                    5751,
+                    8706
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "DVG 2007",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4300,
+                    8982
+                ],
+                [
+                    4300,
+                    9072
+                ],
+                [
+                    5601,
+                    9072
+                ],
+                [
+                    5601,
+                    8982
+                ],
+                [
+                    4300,
+                    8982
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB. HORTI BOT. NAT. BELG.",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    4300,
+                    8982
+                ],
+                [
+                    4300,
+                    9072
+                ],
+                [
+                    5601,
+                    9072
+                ],
+                [
+                    5601,
+                    8982
+                ],
+                [
+                    4300,
+                    8982
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB . HORTI BOT . NAT . BELG .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    5586,
+                    9732
+                ],
+                [
+                    5586,
+                    10018
+                ],
+                [
+                    6081,
+                    10018
+                ],
+                [
+                    6081,
+                    9732
+                ],
+                [
+                    5586,
+                    9732
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Acc. 1980",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    5586,
+                    9732
+                ],
+                [
+                    5586,
+                    10018
+                ],
+                [
+                    6081,
+                    10018
+                ],
+                [
+                    6081,
+                    9732
+                ],
+                [
+                    5586,
+                    9732
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "TE Hcc . 1980",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3995,
+                    9208
+                ],
+                [
+                    3995,
+                    9474
+                ],
+                [
+                    6070,
+                    9474
+                ],
+                [
+                    6070,
+                    9208
+                ],
+                [
+                    3995,
+                    9208
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Sicyos cucumerinus A. Gray",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3995,
+                    9208
+                ],
+                [
+                    3995,
+                    9474
+                ],
+                [
+                    6070,
+                    9474
+                ],
+                [
+                    6070,
+                    9208
+                ],
+                [
+                    3995,
+                    9208
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Sicyos cucumerinus A . Gray",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4024,
+                    9556
+                ],
+                [
+                    4024,
+                    9778
+                ],
+                [
+                    5264,
+                    9778
+                ],
+                [
+                    5264,
+                    9556
+                ],
+                [
+                    4024,
+                    9556
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "I. R. Telford 11 July 1986",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    4024,
+                    9556
+                ],
+                [
+                    4024,
+                    9778
+                ],
+                [
+                    5264,
+                    9778
+                ],
+                [
+                    5264,
+                    9556
+                ],
+                [
+                    4024,
+                    9556
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "I . R . Telford 11 July 1986",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    206,
+                    8021
+                ],
+                [
+                    206,
+                    8128
+                ],
+                [
+                    1593,
+                    8128
+                ],
+                [
+                    1593,
+                    8021
+                ],
+                [
+                    206,
+                    8021
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herb. Horti Bot. Nat. Belg. (BR)",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    206,
+                    8021
+                ],
+                [
+                    206,
+                    8128
+                ],
+                [
+                    1593,
+                    8128
+                ],
+                [
+                    1593,
+                    8021
+                ],
+                [
+                    206,
+                    8021
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herb . Horti Bot . Nat . Belg . ( BR",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1077,
+                    8160
+                ],
+                [
+                    1077,
+                    8289
+                ],
+                [
+                    1514,
+                    8289
+                ],
+                [
+                    1514,
+                    8160
+                ],
+                [
+                    1077,
+                    8160
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BR - S.P.",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    1077,
+                    8160
+                ],
+                [
+                    1077,
+                    8289
+                ],
+                [
+                    1514,
+                    8289
+                ],
+                [
+                    1514,
+                    8160
+                ],
+                [
+                    1077,
+                    8160
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BR - S . P .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1020,
+                    8372
+                ],
+                [
+                    1020,
+                    8519
+                ],
+                [
+                    1575,
+                    8519
+                ],
+                [
+                    1575,
+                    8372
+                ],
+                [
+                    1020,
+                    8372
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "649 045",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    1020,
+                    8372
+                ],
+                [
+                    1020,
+                    8519
+                ],
+                [
+                    1575,
+                    8519
+                ],
+                [
+                    1575,
+                    8372
+                ],
+                [
+                    1020,
+                    8372
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "649 045",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    142,
+                    8490
+                ],
+                [
+                    142,
+                    8573
+                ],
+                [
+                    1002,
+                    8573
+                ],
+                [
+                    1002,
+                    8490
+                ],
+                [
+                    142,
+                    8490
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": ") \"000006\"49045\" 4",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    142,
+                    8490
+                ],
+                [
+                    142,
+                    8573
+                ],
+                [
+                    1002,
+                    8573
+                ],
+                [
+                    1002,
+                    8490
+                ],
+                [
+                    142,
+                    8490
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": ") \" 000006 \" 49045 \" 4",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    805,
+                    8672
+                ],
+                [
+                    805,
+                    8798
+                ],
+                [
+                    2227,
+                    8798
+                ],
+                [
+                    2227,
+                    8672
+                ],
+                [
+                    805,
+                    8672
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "PLANTS OF HAWAII",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    805,
+                    8672
+                ],
+                [
+                    805,
+                    8798
+                ],
+                [
+                    2227,
+                    8798
+                ],
+                [
+                    2227,
+                    8672
+                ],
+                [
+                    805,
+                    8672
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "PLANTS OF HAWAII",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1005,
+                    8816
+                ],
+                [
+                    1005,
+                    8894
+                ],
+                [
+                    2073,
+                    8894
+                ],
+                [
+                    2073,
+                    8816
+                ],
+                [
+                    1005,
+                    8816
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "EX HERBARIUM DEGENER",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    1005,
+                    8816
+                ],
+                [
+                    1005,
+                    8894
+                ],
+                [
+                    2073,
+                    8894
+                ],
+                [
+                    2073,
+                    8816
+                ],
+                [
+                    1005,
+                    8816
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "EX HERBARIUM DEGENER",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    250,
+                    9934
+                ],
+                [
+                    250,
+                    9984
+                ],
+                [
+                    1587,
+                    9984
+                ],
+                [
+                    1587,
+                    9934
+                ],
+                [
+                    250,
+                    9934
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "DRS. DEGENER, WAIALUA, OAHU, HAWAII 96791.",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    250,
+                    9934
+                ],
+                [
+                    250,
+                    9984
+                ],
+                [
+                    1587,
+                    9984
+                ],
+                [
+                    1587,
+                    9934
+                ],
+                [
+                    250,
+                    9934
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "DRS . DEGENER , WAIALUA , OAHU , HAWAII 96791",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    275,
+                    9751
+                ],
+                [
+                    275,
+                    9816
+                ],
+                [
+                    1221,
+                    9816
+                ],
+                [
+                    1221,
+                    9751
+                ],
+                [
+                    275,
+                    9751
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "COLLECTED BY OTTO DEGENER",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    268,
+                    9823
+                ],
+                [
+                    268,
+                    9866
+                ],
+                [
+                    855,
+                    9866
+                ],
+                [
+                    855,
+                    9823
+                ],
+                [
+                    268,
+                    9823
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "AND ISA DEGENER",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    268,
+                    9823
+                ],
+                [
+                    268,
+                    9866
+                ],
+                [
+                    855,
+                    9866
+                ],
+                [
+                    855,
+                    9823
+                ],
+                [
+                    268,
+                    9823
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "AND ISA DEGENER",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    240,
+                    9879
+                ],
+                [
+                    244,
+                    9915
+                ],
+                [
+                    249,
+                    9919
+                ],
+                [
+                    2852,
+                    9924
+                ],
+                [
+                    2856,
+                    9830
+                ],
+                [
+                    2309,
+                    9834
+                ],
+                [
+                    2287,
+                    9866
+                ],
+                [
+                    240,
+                    9879
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "\"PLANTS HAW. NAT. PARK & NEW ILLUSTRATED\" FLORA HAWAIIENSIS AVAILABLE FROM",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    240,
+                    9879
+                ],
+                [
+                    244,
+                    9915
+                ],
+                [
+                    249,
+                    9919
+                ],
+                [
+                    2852,
+                    9924
+                ],
+                [
+                    2856,
+                    9830
+                ],
+                [
+                    2309,
+                    9834
+                ],
+                [
+                    2287,
+                    9866
+                ],
+                [
+                    240,
+                    9879
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "* * PLANTS HAW . NAT . PARK & NEW ILLUSTRATED FLORA WAIIENSIS AVAILABLE FROM",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    262,
+                    8979
+                ],
+                [
+                    396,
+                    9001
+                ],
+                [
+                    549,
+                    9014
+                ],
+                [
+                    822,
+                    9046
+                ],
+                [
+                    947,
+                    8983
+                ],
+                [
+                    956,
+                    8876
+                ],
+                [
+                    275,
+                    8862
+                ],
+                [
+                    271,
+                    8876
+                ],
+                [
+                    262,
+                    8979
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "No. 34,919",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    262,
+                    8979
+                ],
+                [
+                    396,
+                    9001
+                ],
+                [
+                    549,
+                    9014
+                ],
+                [
+                    822,
+                    9046
+                ],
+                [
+                    947,
+                    8983
+                ],
+                [
+                    956,
+                    8876
+                ],
+                [
+                    275,
+                    8862
+                ],
+                [
+                    271,
+                    8876
+                ],
+                [
+                    262,
+                    8979
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "SAAC No . 34 , 919",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    86,
+                    8987
+                ],
+                [
+                    86,
+                    9099
+                ],
+                [
+                    414,
+                    9126
+                ],
+                [
+                    405,
+                    9198
+                ],
+                [
+                    521,
+                    9198
+                ],
+                [
+                    705,
+                    9144
+                ],
+                [
+                    723,
+                    9055
+                ],
+                [
+                    391,
+                    9014
+                ],
+                [
+                    248,
+                    8983
+                ],
+                [
+                    261,
+                    8983
+                ],
+                [
+                    86,
+                    8987
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "\u00b1 sicyos",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    86,
+                    8987
+                ],
+                [
+                    86,
+                    9099
+                ],
+                [
+                    414,
+                    9126
+                ],
+                [
+                    405,
+                    9198
+                ],
+                [
+                    521,
+                    9198
+                ],
+                [
+                    705,
+                    9144
+                ],
+                [
+                    723,
+                    9055
+                ],
+                [
+                    391,
+                    9014
+                ],
+                [
+                    248,
+                    8983
+                ],
+                [
+                    261,
+                    8983
+                ],
+                [
+                    86,
+                    8987
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "t sicut",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    60,
+                    9319
+                ],
+                [
+                    279,
+                    9314
+                ],
+                [
+                    543,
+                    9323
+                ],
+                [
+                    857,
+                    9314
+                ],
+                [
+                    915,
+                    9310
+                ],
+                [
+                    1198,
+                    9310
+                ],
+                [
+                    1327,
+                    9274
+                ],
+                [
+                    1641,
+                    9279
+                ],
+                [
+                    2313,
+                    9270
+                ],
+                [
+                    2757,
+                    9256
+                ],
+                [
+                    2770,
+                    9090
+                ],
+                [
+                    790,
+                    9140
+                ],
+                [
+                    723,
+                    9252
+                ],
+                [
+                    391,
+                    9216
+                ],
+                [
+                    391,
+                    9135
+                ],
+                [
+                    145,
+                    9113
+                ],
+                [
+                    140,
+                    9108
+                ],
+                [
+                    60,
+                    9319
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Kilauea Forest Reserve near end of",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    60,
+                    9319
+                ],
+                [
+                    279,
+                    9314
+                ],
+                [
+                    543,
+                    9323
+                ],
+                [
+                    857,
+                    9314
+                ],
+                [
+                    915,
+                    9310
+                ],
+                [
+                    1198,
+                    9310
+                ],
+                [
+                    1327,
+                    9274
+                ],
+                [
+                    1641,
+                    9279
+                ],
+                [
+                    2313,
+                    9270
+                ],
+                [
+                    2757,
+                    9256
+                ],
+                [
+                    2770,
+                    9090
+                ],
+                [
+                    790,
+                    9140
+                ],
+                [
+                    723,
+                    9252
+                ],
+                [
+                    391,
+                    9216
+                ],
+                [
+                    391,
+                    9135
+                ],
+                [
+                    145,
+                    9113
+                ],
+                [
+                    140,
+                    9108
+                ],
+                [
+                    60,
+                    9319
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Kilauea Forest Reserve near end of",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    64,
+                    9337
+                ],
+                [
+                    69,
+                    9346
+                ],
+                [
+                    118,
+                    9480
+                ],
+                [
+                    472,
+                    9467
+                ],
+                [
+                    624,
+                    9453
+                ],
+                [
+                    1009,
+                    9453
+                ],
+                [
+                    1027,
+                    9489
+                ],
+                [
+                    1413,
+                    9449
+                ],
+                [
+                    1699,
+                    9417
+                ],
+                [
+                    2138,
+                    9440
+                ],
+                [
+                    2792,
+                    9409
+                ],
+                [
+                    2801,
+                    9270
+                ],
+                [
+                    1341,
+                    9288
+                ],
+                [
+                    1220,
+                    9319
+                ],
+                [
+                    64,
+                    9337
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Wright Road 148A, Volcano, Hawaii,",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    64,
+                    9337
+                ],
+                [
+                    69,
+                    9346
+                ],
+                [
+                    118,
+                    9480
+                ],
+                [
+                    472,
+                    9467
+                ],
+                [
+                    624,
+                    9453
+                ],
+                [
+                    1009,
+                    9453
+                ],
+                [
+                    1027,
+                    9489
+                ],
+                [
+                    1413,
+                    9449
+                ],
+                [
+                    1699,
+                    9417
+                ],
+                [
+                    2138,
+                    9440
+                ],
+                [
+                    2792,
+                    9409
+                ],
+                [
+                    2801,
+                    9270
+                ],
+                [
+                    1341,
+                    9288
+                ],
+                [
+                    1220,
+                    9319
+                ],
+                [
+                    64,
+                    9337
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Wright Road 148A , Volcano , Haware",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    266,
+                    9677
+                ],
+                [
+                    830,
+                    9682
+                ],
+                [
+                    1413,
+                    9637
+                ],
+                [
+                    1462,
+                    9592
+                ],
+                [
+                    1901,
+                    9601
+                ],
+                [
+                    2416,
+                    9641
+                ],
+                [
+                    2819,
+                    9610
+                ],
+                [
+                    2864,
+                    9503
+                ],
+                [
+                    2810,
+                    9422
+                ],
+                [
+                    2174,
+                    9449
+                ],
+                [
+                    1704,
+                    9435
+                ],
+                [
+                    1014,
+                    9503
+                ],
+                [
+                    1000,
+                    9467
+                ],
+                [
+                    642,
+                    9462
+                ],
+                [
+                    297,
+                    9485
+                ],
+                [
+                    302,
+                    9503
+                ],
+                [
+                    266,
+                    9677
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Open forest at 3,978 feet,",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    266,
+                    9677
+                ],
+                [
+                    830,
+                    9682
+                ],
+                [
+                    1413,
+                    9637
+                ],
+                [
+                    1462,
+                    9592
+                ],
+                [
+                    1901,
+                    9601
+                ],
+                [
+                    2416,
+                    9641
+                ],
+                [
+                    2819,
+                    9610
+                ],
+                [
+                    2864,
+                    9503
+                ],
+                [
+                    2810,
+                    9422
+                ],
+                [
+                    2174,
+                    9449
+                ],
+                [
+                    1704,
+                    9435
+                ],
+                [
+                    1014,
+                    9503
+                ],
+                [
+                    1000,
+                    9467
+                ],
+                [
+                    642,
+                    9462
+                ],
+                [
+                    297,
+                    9485
+                ],
+                [
+                    302,
+                    9503
+                ],
+                [
+                    266,
+                    9677
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Open forest at 3 , 978 feet ,",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1547,
+                    9857
+                ],
+                [
+                    2022,
+                    9852
+                ],
+                [
+                    2295,
+                    9821
+                ],
+                [
+                    2851,
+                    9816
+                ],
+                [
+                    2833,
+                    9633
+                ],
+                [
+                    2412,
+                    9655
+                ],
+                [
+                    2013,
+                    9624
+                ],
+                [
+                    1614,
+                    9610
+                ],
+                [
+                    1601,
+                    9615
+                ],
+                [
+                    1547,
+                    9857
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Suly / 3 , 1961 ,",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        }
+    ]
+}

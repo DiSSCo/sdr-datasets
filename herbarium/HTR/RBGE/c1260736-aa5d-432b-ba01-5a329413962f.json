@@ -1,0 +1,712 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "479c24a2-d399-4074-b47f-7c82c51a95d8",
+        "name": "RBGE"
+    },
+    "image": {
+        "id": "9da1bbcd-8f79-426e-837a-c7d38dc84024",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FE00296987.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FE00296987.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "c1260736-aa5d-432b-ba01-5a329413962f",
+        "name": "E00296987",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    5978,
+                    97
+                ],
+                [
+                    5978,
+                    275
+                ],
+                [
+                    6136,
+                    275
+                ],
+                [
+                    6136,
+                    97
+                ],
+                [
+                    5978,
+                    97
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "N",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4535,
+                    8087
+                ],
+                [
+                    4535,
+                    8281
+                ],
+                [
+                    4921,
+                    8281
+                ],
+                [
+                    4921,
+                    8087
+                ],
+                [
+                    4535,
+                    8087
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Vitex",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    5441,
+                    8263
+                ],
+                [
+                    5769,
+                    8281
+                ],
+                [
+                    5792,
+                    8218
+                ],
+                [
+                    5443,
+                    8202
+                ],
+                [
+                    5443,
+                    8200
+                ],
+                [
+                    5441,
+                    8263
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "E00296987",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    5441,
+                    8263
+                ],
+                [
+                    5769,
+                    8281
+                ],
+                [
+                    5792,
+                    8218
+                ],
+                [
+                    5443,
+                    8202
+                ],
+                [
+                    5443,
+                    8200
+                ],
+                [
+                    5441,
+                    8263
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "E00296987",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    5433,
+                    7998
+                ],
+                [
+                    5808,
+                    8019
+                ],
+                [
+                    5819,
+                    7963
+                ],
+                [
+                    5449,
+                    7948
+                ],
+                [
+                    5443,
+                    7942
+                ],
+                [
+                    5433,
+                    7998
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "EDINBURGH",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    5433,
+                    7998
+                ],
+                [
+                    5808,
+                    8019
+                ],
+                [
+                    5819,
+                    7963
+                ],
+                [
+                    5449,
+                    7948
+                ],
+                [
+                    5443,
+                    7942
+                ],
+                [
+                    5433,
+                    7998
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "EDINBURGH",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    5244,
+                    7929
+                ],
+                [
+                    6010,
+                    7963
+                ],
+                [
+                    6018,
+                    7903
+                ],
+                [
+                    5247,
+                    7874
+                ],
+                [
+                    5247,
+                    7872
+                ],
+                [
+                    5244,
+                    7929
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ROYAL BOTANIC GARDEN",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    5244,
+                    7929
+                ],
+                [
+                    6010,
+                    7963
+                ],
+                [
+                    6018,
+                    7903
+                ],
+                [
+                    5247,
+                    7874
+                ],
+                [
+                    5247,
+                    7872
+                ],
+                [
+                    5244,
+                    7929
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ROYAL BOTANIC GARDEN",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4204,
+                    8689
+                ],
+                [
+                    4204,
+                    8691
+                ],
+                [
+                    4207,
+                    8752
+                ],
+                [
+                    5954,
+                    8812
+                ],
+                [
+                    5960,
+                    8746
+                ],
+                [
+                    4204,
+                    8689
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "DISTRIBUTED FROM THE NEW YORK BOTANICAL GARDEN .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4204,
+                    8689
+                ],
+                [
+                    4204,
+                    8691
+                ],
+                [
+                    4207,
+                    8752
+                ],
+                [
+                    5954,
+                    8812
+                ],
+                [
+                    5960,
+                    8746
+                ],
+                [
+                    4204,
+                    8689
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "DISTRIBUTED FROM THE NEW YORK BOTANICAL GARDEN.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4298,
+                    8665
+                ],
+                [
+                    5849,
+                    8718
+                ],
+                [
+                    5839,
+                    8649
+                ],
+                [
+                    4312,
+                    8600
+                ],
+                [
+                    4312,
+                    8597
+                ],
+                [
+                    4298,
+                    8665
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "COLLECTED BY HERBERT H . SMITH , 1898 - 1901 .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4298,
+                    8665
+                ],
+                [
+                    5849,
+                    8718
+                ],
+                [
+                    5839,
+                    8649
+                ],
+                [
+                    4312,
+                    8600
+                ],
+                [
+                    4312,
+                    8597
+                ],
+                [
+                    4298,
+                    8665
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "COLLECTED BY HERBERT H. SMITH, 1898 - 1901.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4117,
+                    8510
+                ],
+                [
+                    4123,
+                    8565
+                ],
+                [
+                    4123,
+                    8568
+                ],
+                [
+                    6025,
+                    8631
+                ],
+                [
+                    6025,
+                    8581
+                ],
+                [
+                    4117,
+                    8510
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "PLANTS OF SANTA MARTA , UNITED STATES OF COLOMBIA",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4117,
+                    8510
+                ],
+                [
+                    4123,
+                    8565
+                ],
+                [
+                    4123,
+                    8568
+                ],
+                [
+                    6025,
+                    8631
+                ],
+                [
+                    6025,
+                    8581
+                ],
+                [
+                    4117,
+                    8510
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "PLANTS OF SANTA MARTA, UNITED STATES OF COLOMBIA",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    5047,
+                    9549
+                ],
+                [
+                    5047,
+                    9759
+                ],
+                [
+                    5710,
+                    9759
+                ],
+                [
+                    5710,
+                    9475
+                ],
+                [
+                    5047,
+                    9549
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "2107",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    5047,
+                    9549
+                ],
+                [
+                    5047,
+                    9759
+                ],
+                [
+                    5710,
+                    9759
+                ],
+                [
+                    5710,
+                    9475
+                ],
+                [
+                    5047,
+                    9549
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "2107",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    648,
+                    9329
+                ],
+                [
+                    648,
+                    9547
+                ],
+                [
+                    1192,
+                    9547
+                ],
+                [
+                    1192,
+                    9329
+                ],
+                [
+                    648,
+                    9329
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Vitex",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    356,
+                    9783
+                ],
+                [
+                    367,
+                    9854
+                ],
+                [
+                    2418,
+                    9847
+                ],
+                [
+                    2418,
+                    9760
+                ],
+                [
+                    359,
+                    9783
+                ],
+                [
+                    356,
+                    9783
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "A ! , GH ! ) . = V . compressa Turcz . Isotype : Brittomia 40 : 430 / 1988 )",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    356,
+                    9783
+                ],
+                [
+                    367,
+                    9854
+                ],
+                [
+                    2418,
+                    9847
+                ],
+                [
+                    2418,
+                    9760
+                ],
+                [
+                    359,
+                    9783
+                ],
+                [
+                    356,
+                    9783
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "A!, GH!). = V. compressa Turcz. Isotype: Brittonia 40:430 (1988)",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    356,
+                    9700
+                ],
+                [
+                    356,
+                    9772
+                ],
+                [
+                    3302,
+                    9745
+                ],
+                [
+                    3310,
+                    9674
+                ],
+                [
+                    367,
+                    9700
+                ],
+                [
+                    356,
+                    9700
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Contr . U . S . Natl . Herb . 20 : 485 . 1922 . Bolivar ( ? ) , Smith 2107 ( HOLOTYPE : US - 704075 ; ISOTYPES :",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    356,
+                    9700
+                ],
+                [
+                    356,
+                    9772
+                ],
+                [
+                    3302,
+                    9745
+                ],
+                [
+                    3310,
+                    9674
+                ],
+                [
+                    367,
+                    9700
+                ],
+                [
+                    356,
+                    9700
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Contr. U.S. Natl. Herb. 20: 485. 1922. Bolivar(?), Smith 2107 (HOLOTYPE: US - 704075; ISOTYPES:",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    288,
+                    9595
+                ],
+                [
+                    296,
+                    9682
+                ],
+                [
+                    1195,
+                    9670
+                ],
+                [
+                    1195,
+                    9595
+                ],
+                [
+                    296,
+                    9592
+                ],
+                [
+                    288,
+                    9595
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Vitex berteroana Pittier",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    288,
+                    9595
+                ],
+                [
+                    296,
+                    9682
+                ],
+                [
+                    1195,
+                    9670
+                ],
+                [
+                    1195,
+                    9595
+                ],
+                [
+                    296,
+                    9592
+                ],
+                [
+                    288,
+                    9595
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Vitex berteroana Pittier",
+            "worker_version": null
+        }
+    ]
+}

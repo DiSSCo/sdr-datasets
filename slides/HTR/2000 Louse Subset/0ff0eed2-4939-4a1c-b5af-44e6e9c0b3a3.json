@@ -1,0 +1,235 @@
+{
+    "dataset_id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+    "folder": {
+        "id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+        "name": "2000 Louse Subset"
+    },
+    "image": {
+        "id": "ac41f637-d1f4-426e-b435-da75aed8cfe6",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/6ae6cabf-8521-4bf4-9f94-8f6ab5d28df2",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/6ae6cabf-8521-4bf4-9f94-8f6ab5d28df2/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "0ff0eed2-4939-4a1c-b5af-44e6e9c0b3a3",
+        "name": "89",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    3340,
+                    432
+                ],
+                [
+                    3340,
+                    547
+                ],
+                [
+                    3724,
+                    547
+                ],
+                [
+                    3724,
+                    432
+                ],
+                [
+                    3340,
+                    432
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    7545,
+                    441
+                ],
+                [
+                    7545,
+                    2745
+                ],
+                [
+                    7977,
+                    2745
+                ],
+                [
+                    7977,
+                    441
+                ],
+                [
+                    7545,
+                    441
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Ceylon. (skin)",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    777,
+                    518
+                ],
+                [
+                    777,
+                    2803
+                ],
+                [
+                    1209,
+                    2803
+                ],
+                [
+                    1209,
+                    518
+                ],
+                [
+                    777,
+                    518
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Pseudomenopon",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    3686,
+                    499
+                ],
+                [
+                    3686,
+                    921
+                ],
+                [
+                    3801,
+                    921
+                ],
+                [
+                    3801,
+                    499
+                ],
+                [
+                    3686,
+                    499
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "010663594",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6297,
+                    643
+                ],
+                [
+                    6297,
+                    2668
+                ],
+                [
+                    6585,
+                    2668
+                ],
+                [
+                    6585,
+                    643
+                ],
+                [
+                    6297,
+                    643
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "MEINERTZHAGEN",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6825,
+                    710
+                ],
+                [
+                    6825,
+                    2822
+                ],
+                [
+                    7228,
+                    2822
+                ],
+                [
+                    7228,
+                    710
+                ],
+                [
+                    6825,
+                    710
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Amaurornis p.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    7161,
+                    768
+                ],
+                [
+                    7161,
+                    2496
+                ],
+                [
+                    7516,
+                    2496
+                ],
+                [
+                    7516,
+                    768
+                ],
+                [
+                    7161,
+                    768
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "phoenicurus.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    8188,
+                    1056
+                ],
+                [
+                    8188,
+                    2016
+                ],
+                [
+                    8563,
+                    2016
+                ],
+                [
+                    8563,
+                    1056
+                ],
+                [
+                    8188,
+                    1056
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "16252.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        }
+    ]
+}

@@ -1,0 +1,1207 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "6395c279-8d51-4fc2-b77e-eb65a3f9fcd0",
+        "name": "Kew"
+    },
+    "image": {
+        "id": "e068d127-68f0-411e-85fd-42c7fb3363fa",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FK000207860.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FK000207860.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "24ca8eb6-1a80-43b9-a495-d6f0b394116e",
+        "name": "K000207860",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    5840,
+                    252
+                ],
+                [
+                    6164,
+                    243
+                ],
+                [
+                    6173,
+                    193
+                ],
+                [
+                    5851,
+                    193
+                ],
+                [
+                    5840,
+                    252
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "pouaoltr.",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    5733,
+                    299
+                ],
+                [
+                    5736,
+                    358
+                ],
+                [
+                    6637,
+                    358
+                ],
+                [
+                    6634,
+                    299
+                ],
+                [
+                    5733,
+                    299
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ROYAL BOTANIC GARDENS KEW",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    5940,
+                    526
+                ],
+                [
+                    5952,
+                    607
+                ],
+                [
+                    6458,
+                    618
+                ],
+                [
+                    6450,
+                    532
+                ],
+                [
+                    5940,
+                    526
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "K000207860",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    6682,
+                    428
+                ],
+                [
+                    6682,
+                    518
+                ],
+                [
+                    7664,
+                    518
+                ],
+                [
+                    7664,
+                    428
+                ],
+                [
+                    6682,
+                    428
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERBARIUM KEWENSE",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    6987,
+                    551
+                ],
+                [
+                    6987,
+                    632
+                ],
+                [
+                    7337,
+                    632
+                ],
+                [
+                    7337,
+                    551
+                ],
+                [
+                    6987,
+                    551
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "PALMAE",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    6581,
+                    842
+                ],
+                [
+                    6581,
+                    949
+                ],
+                [
+                    7482,
+                    949
+                ],
+                [
+                    7482,
+                    842
+                ],
+                [
+                    6581,
+                    842
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "FLORA OF NEW GUINEA",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    6243,
+                    1131
+                ],
+                [
+                    6243,
+                    1198
+                ],
+                [
+                    7938,
+                    1198
+                ],
+                [
+                    7938,
+                    1131
+                ],
+                [
+                    6243,
+                    1131
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "of",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    6243,
+                    1131
+                ],
+                [
+                    6243,
+                    1198
+                ],
+                [
+                    7938,
+                    1198
+                ],
+                [
+                    7938,
+                    1131
+                ],
+                [
+                    6243,
+                    1131
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Botanical Collections of the Division",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    6251,
+                    1215
+                ],
+                [
+                    6251,
+                    1293
+                ],
+                [
+                    7964,
+                    1293
+                ],
+                [
+                    7964,
+                    1215
+                ],
+                [
+                    6251,
+                    1215
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "of Botany, Department of Forests, Lae.",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    6217,
+                    1402
+                ],
+                [
+                    6217,
+                    1492
+                ],
+                [
+                    7874,
+                    1492
+                ],
+                [
+                    7874,
+                    1402
+                ],
+                [
+                    6217,
+                    1402
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": ", Kundiawa subdist . ,",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    6217,
+                    1402
+                ],
+                [
+                    6217,
+                    1492
+                ],
+                [
+                    7874,
+                    1492
+                ],
+                [
+                    7874,
+                    1402
+                ],
+                [
+                    6217,
+                    1402
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NGF 36515, J. Zieck, 30/11/72",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    6243,
+                    1573
+                ],
+                [
+                    6243,
+                    1671
+                ],
+                [
+                    7961,
+                    1671
+                ],
+                [
+                    7961,
+                    1573
+                ],
+                [
+                    6243,
+                    1573
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "m .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    6243,
+                    1573
+                ],
+                [
+                    6243,
+                    1671
+                ],
+                [
+                    7961,
+                    1671
+                ],
+                [
+                    7961,
+                    1573
+                ],
+                [
+                    6243,
+                    1573
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Locality: Karimui, Kundiawa subdist.,",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    6240,
+                    1682
+                ],
+                [
+                    6240,
+                    1760
+                ],
+                [
+                    7812,
+                    1760
+                ],
+                [
+                    7812,
+                    1682
+                ],
+                [
+                    6240,
+                    1682
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Long . 144 40 E",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    6240,
+                    1682
+                ],
+                [
+                    6240,
+                    1760
+                ],
+                [
+                    7812,
+                    1760
+                ],
+                [
+                    7812,
+                    1682
+                ],
+                [
+                    6240,
+                    1682
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Eastern Highlands District, P.N.G.,",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    6226,
+                    1774
+                ],
+                [
+                    6226,
+                    1844
+                ],
+                [
+                    6953,
+                    1844
+                ],
+                [
+                    6953,
+                    1774
+                ],
+                [
+                    6226,
+                    1774
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "foothills of Mt",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    6226,
+                    1774
+                ],
+                [
+                    6226,
+                    1844
+                ],
+                [
+                    6953,
+                    1844
+                ],
+                [
+                    6953,
+                    1774
+                ],
+                [
+                    6226,
+                    1774
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "altitude 1280 m.",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    6243,
+                    1861
+                ],
+                [
+                    6243,
+                    1939
+                ],
+                [
+                    6872,
+                    1939
+                ],
+                [
+                    6872,
+                    1861
+                ],
+                [
+                    6243,
+                    1861
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "secondary bush",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    6243,
+                    1861
+                ],
+                [
+                    6243,
+                    1939
+                ],
+                [
+                    6872,
+                    1939
+                ],
+                [
+                    6872,
+                    1861
+                ],
+                [
+                    6243,
+                    1861
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Lat. 6 28 5",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    7158,
+                    1855
+                ],
+                [
+                    7158,
+                    1928
+                ],
+                [
+                    7818,
+                    1928
+                ],
+                [
+                    7818,
+                    1855
+                ],
+                [
+                    7158,
+                    1855
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Long. 144 40 E",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    6240,
+                    1955
+                ],
+                [
+                    6240,
+                    2028
+                ],
+                [
+                    7821,
+                    2028
+                ],
+                [
+                    7821,
+                    1955
+                ],
+                [
+                    6240,
+                    1955
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Habitat: on foothills of Mt Karimui",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    6240,
+                    2049
+                ],
+                [
+                    6240,
+                    2116
+                ],
+                [
+                    7726,
+                    2116
+                ],
+                [
+                    7726,
+                    2049
+                ],
+                [
+                    6240,
+                    2049
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "rattan palm , height",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    6240,
+                    2049
+                ],
+                [
+                    6240,
+                    2116
+                ],
+                [
+                    7726,
+                    2116
+                ],
+                [
+                    7726,
+                    2049
+                ],
+                [
+                    6240,
+                    2049
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "in open sunny secondary bush (old",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    6233,
+                    2126
+                ],
+                [
+                    6233,
+                    2203
+                ],
+                [
+                    6631,
+                    2203
+                ],
+                [
+                    6631,
+                    2126
+                ],
+                [
+                    6233,
+                    2126
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "6 mm .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    6233,
+                    2126
+                ],
+                [
+                    6233,
+                    2203
+                ],
+                [
+                    6631,
+                    2203
+                ],
+                [
+                    6631,
+                    2126
+                ],
+                [
+                    6233,
+                    2126
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "gardens ).",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    6240,
+                    2231
+                ],
+                [
+                    6240,
+                    2301
+                ],
+                [
+                    7915,
+                    2301
+                ],
+                [
+                    7915,
+                    2231
+                ],
+                [
+                    6240,
+                    2231
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Annot.: Climbing rattan palm, height",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    6229,
+                    2326
+                ],
+                [
+                    6229,
+                    2389
+                ],
+                [
+                    7905,
+                    2389
+                ],
+                [
+                    7905,
+                    2326
+                ],
+                [
+                    6229,
+                    2326
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "4.5 m , d.b.h. 6 mm. Wood short stay.",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    6243,
+                    2406
+                ],
+                [
+                    6243,
+                    2483
+                ],
+                [
+                    7803,
+                    2483
+                ],
+                [
+                    7803,
+                    2406
+                ],
+                [
+                    6243,
+                    2406
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": ". Clusters up to 50",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    6243,
+                    2406
+                ],
+                [
+                    6243,
+                    2483
+                ],
+                [
+                    7803,
+                    2483
+                ],
+                [
+                    7803,
+                    2406
+                ],
+                [
+                    6243,
+                    2406
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ing rattan palm 6 leaflets palmate-",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    6237,
+                    2498
+                ],
+                [
+                    6237,
+                    2571
+                ],
+                [
+                    7768,
+                    2571
+                ],
+                [
+                    7768,
+                    2498
+                ],
+                [
+                    6237,
+                    2498
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "name KIRAI .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    6237,
+                    2498
+                ],
+                [
+                    6237,
+                    2571
+                ],
+                [
+                    7768,
+                    2571
+                ],
+                [
+                    7768,
+                    2498
+                ],
+                [
+                    6237,
+                    2498
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "like on top of 10 cm long petiole.",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    6226,
+                    2593
+                ],
+                [
+                    6226,
+                    2657
+                ],
+                [
+                    7955,
+                    2657
+                ],
+                [
+                    7955,
+                    2593
+                ],
+                [
+                    6226,
+                    2593
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Flagellum. Ochrea 8 cm , distintigrat.",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    6231,
+                    2677
+                ],
+                [
+                    6231,
+                    2744
+                ],
+                [
+                    7818,
+                    2744
+                ],
+                [
+                    7818,
+                    2677
+                ],
+                [
+                    6231,
+                    2677
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ing into fibres. Clusters up to 50",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    6231,
+                    2775
+                ],
+                [
+                    6231,
+                    2848
+                ],
+                [
+                    7409,
+                    2848
+                ],
+                [
+                    7409,
+                    2775
+                ],
+                [
+                    6231,
+                    2775
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "shoots. Local name KIRAl.",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    5823,
+                    3088
+                ],
+                [
+                    5823,
+                    3225
+                ],
+                [
+                    7491,
+                    3225
+                ],
+                [
+                    7491,
+                    3088
+                ],
+                [
+                    5823,
+                    3088
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "LLLLLL tunay",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    5823,
+                    3088
+                ],
+                [
+                    5823,
+                    3225
+                ],
+                [
+                    7491,
+                    3225
+                ],
+                [
+                    7491,
+                    3088
+                ],
+                [
+                    5823,
+                    3088
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "of Calanus cheirophyllus. T.Draubf.",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    5823,
+                    3088
+                ],
+                [
+                    5823,
+                    3225
+                ],
+                [
+                    7491,
+                    3225
+                ],
+                [
+                    7491,
+                    3088
+                ],
+                [
+                    5823,
+                    3088
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "of Calamus cheirophyllus J. Dransf",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    6559,
+                    2962
+                ],
+                [
+                    6559,
+                    3035
+                ],
+                [
+                    6922,
+                    3035
+                ],
+                [
+                    6922,
+                    2962
+                ],
+                [
+                    6559,
+                    2962
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HOLOTYPE",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    6959,
+                    3234
+                ],
+                [
+                    6959,
+                    3354
+                ],
+                [
+                    7426,
+                    3354
+                ],
+                [
+                    7426,
+                    3234
+                ],
+                [
+                    6959,
+                    3234
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "GW. Baker",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    6959,
+                    3234
+                ],
+                [
+                    6959,
+                    3354
+                ],
+                [
+                    7426,
+                    3354
+                ],
+                [
+                    7426,
+                    3234
+                ],
+                [
+                    6959,
+                    3234
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "& W. Baker",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    6221,
+                    3554
+                ],
+                [
+                    6221,
+                    3672
+                ],
+                [
+                    7074,
+                    3672
+                ],
+                [
+                    7074,
+                    3554
+                ],
+                [
+                    6221,
+                    3554
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": ". Bish , PNH . US .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    6221,
+                    3554
+                ],
+                [
+                    6221,
+                    3672
+                ],
+                [
+                    7074,
+                    3672
+                ],
+                [
+                    7074,
+                    3554
+                ],
+                [
+                    6221,
+                    3554
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Name: Calamus sp.",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    6227,
+                    3726
+                ],
+                [
+                    6227,
+                    3821
+                ],
+                [
+                    7087,
+                    3821
+                ],
+                [
+                    7087,
+                    3726
+                ],
+                [
+                    6227,
+                    3726
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Dupl. sent to: L.",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    6629,
+                    4181
+                ],
+                [
+                    6629,
+                    4262
+                ],
+                [
+                    7490,
+                    4262
+                ],
+                [
+                    7490,
+                    4181
+                ],
+                [
+                    6629,
+                    4181
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB . HORT . BOT. REG. KEW.",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        }
+    ]
+}

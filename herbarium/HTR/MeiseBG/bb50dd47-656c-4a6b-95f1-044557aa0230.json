@@ -1,0 +1,745 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "40737841-bfc1-4187-b1f6-3328e53d3aa3",
+        "name": "MeiseBG"
+    },
+    "image": {
+        "id": "6879b950-36f6-4d6b-8017-d9bc0583ef10",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FBR0000013091422.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FBR0000013091422.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "bb50dd47-656c-4a6b-95f1-044557aa0230",
+        "name": "BR0000013091422",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    5157,
+                    8562
+                ],
+                [
+                    5167,
+                    8616
+                ],
+                [
+                    5608,
+                    8596
+                ],
+                [
+                    5608,
+                    8537
+                ],
+                [
+                    5167,
+                    8547
+                ],
+                [
+                    5157,
+                    8562
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BRUXELLES",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    5157,
+                    8562
+                ],
+                [
+                    5167,
+                    8616
+                ],
+                [
+                    5608,
+                    8596
+                ],
+                [
+                    5608,
+                    8537
+                ],
+                [
+                    5167,
+                    8547
+                ],
+                [
+                    5157,
+                    8562
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BRUXELLES",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    5157,
+                    8562
+                ],
+                [
+                    5167,
+                    8616
+                ],
+                [
+                    5608,
+                    8596
+                ],
+                [
+                    5608,
+                    8537
+                ],
+                [
+                    5167,
+                    8547
+                ],
+                [
+                    5157,
+                    8562
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BRUXELLES",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    4770,
+                    8547
+                ],
+                [
+                    6015,
+                    8517
+                ],
+                [
+                    6015,
+                    8448
+                ],
+                [
+                    4775,
+                    8448
+                ],
+                [
+                    4775,
+                    8472
+                ],
+                [
+                    4770,
+                    8547
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herbier du Jardin botanique de l ' \u00c9tat",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4770,
+                    8547
+                ],
+                [
+                    6015,
+                    8517
+                ],
+                [
+                    6015,
+                    8448
+                ],
+                [
+                    4775,
+                    8448
+                ],
+                [
+                    4775,
+                    8472
+                ],
+                [
+                    4770,
+                    8547
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herbier du Jardin botanique de l ' \u00c9tat",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    4770,
+                    8547
+                ],
+                [
+                    6015,
+                    8517
+                ],
+                [
+                    6015,
+                    8448
+                ],
+                [
+                    4775,
+                    8448
+                ],
+                [
+                    4775,
+                    8472
+                ],
+                [
+                    4770,
+                    8547
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herbier du Jardin botanique de l ' \u00c9tat",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    1162,
+                    8896
+                ],
+                [
+                    1162,
+                    9010
+                ],
+                [
+                    1316,
+                    9010
+                ],
+                [
+                    1316,
+                    8896
+                ],
+                [
+                    1162,
+                    8896
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "2014",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1162,
+                    8896
+                ],
+                [
+                    1162,
+                    9010
+                ],
+                [
+                    1316,
+                    9010
+                ],
+                [
+                    1316,
+                    8896
+                ],
+                [
+                    1162,
+                    8896
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "2014",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    1162,
+                    8896
+                ],
+                [
+                    1162,
+                    9010
+                ],
+                [
+                    1316,
+                    9010
+                ],
+                [
+                    1316,
+                    8896
+                ],
+                [
+                    1162,
+                    8896
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "2014",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    924,
+                    8722
+                ],
+                [
+                    924,
+                    8801
+                ],
+                [
+                    1604,
+                    8801
+                ],
+                [
+                    1604,
+                    8722
+                ],
+                [
+                    924,
+                    8722
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Databased and imaged",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    924,
+                    8722
+                ],
+                [
+                    924,
+                    8801
+                ],
+                [
+                    1604,
+                    8801
+                ],
+                [
+                    1604,
+                    8722
+                ],
+                [
+                    924,
+                    8722
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Databased and imaged",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    924,
+                    8722
+                ],
+                [
+                    924,
+                    8801
+                ],
+                [
+                    1604,
+                    8801
+                ],
+                [
+                    1604,
+                    8722
+                ],
+                [
+                    924,
+                    8722
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Databased and imaged",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    1162,
+                    8811
+                ],
+                [
+                    1162,
+                    8881
+                ],
+                [
+                    1326,
+                    8881
+                ],
+                [
+                    1326,
+                    8811
+                ],
+                [
+                    1162,
+                    8811
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "GPI",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1162,
+                    8811
+                ],
+                [
+                    1162,
+                    8881
+                ],
+                [
+                    1326,
+                    8881
+                ],
+                [
+                    1326,
+                    8811
+                ],
+                [
+                    1162,
+                    8811
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "GPI",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    1162,
+                    8811
+                ],
+                [
+                    1162,
+                    8881
+                ],
+                [
+                    1326,
+                    8881
+                ],
+                [
+                    1326,
+                    8811
+                ],
+                [
+                    1162,
+                    8811
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "GPI",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    696,
+                    8152
+                ],
+                [
+                    696,
+                    8256
+                ],
+                [
+                    1678,
+                    8256
+                ],
+                [
+                    1678,
+                    8152
+                ],
+                [
+                    696,
+                    8152
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herb . Bot . Nat . Belg . ( BR",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    696,
+                    8152
+                ],
+                [
+                    696,
+                    8256
+                ],
+                [
+                    1678,
+                    8256
+                ],
+                [
+                    1678,
+                    8152
+                ],
+                [
+                    696,
+                    8152
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herb. Bot. Nat . Belg . ( BR )",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    820,
+                    8578
+                ],
+                [
+                    820,
+                    8677
+                ],
+                [
+                    1579,
+                    8677
+                ],
+                [
+                    1579,
+                    8578
+                ],
+                [
+                    820,
+                    8578
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BR0000013091422",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    820,
+                    8578
+                ],
+                [
+                    820,
+                    8677
+                ],
+                [
+                    1579,
+                    8677
+                ],
+                [
+                    1579,
+                    8578
+                ],
+                [
+                    820,
+                    8578
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BR0000013091422",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    820,
+                    8578
+                ],
+                [
+                    820,
+                    8677
+                ],
+                [
+                    1579,
+                    8677
+                ],
+                [
+                    1579,
+                    8578
+                ],
+                [
+                    820,
+                    8578
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BR0000013091422",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    726,
+                    7948
+                ],
+                [
+                    726,
+                    8033
+                ],
+                [
+                    1633,
+                    8033
+                ],
+                [
+                    1633,
+                    7948
+                ],
+                [
+                    726,
+                    7948
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERBARIUM MARTIL",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    726,
+                    7948
+                ],
+                [
+                    726,
+                    8033
+                ],
+                [
+                    1633,
+                    8033
+                ],
+                [
+                    1633,
+                    7948
+                ],
+                [
+                    726,
+                    7948
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERBARIUM MARTII",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    190,
+                    7487
+                ],
+                [
+                    190,
+                    7815
+                ],
+                [
+                    2229,
+                    7815
+                ],
+                [
+                    2229,
+                    7487
+                ],
+                [
+                    190,
+                    7487
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Legit Preiss no 1265 . 1847 .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    190,
+                    7487
+                ],
+                [
+                    190,
+                    7815
+                ],
+                [
+                    2229,
+                    7815
+                ],
+                [
+                    2229,
+                    7487
+                ],
+                [
+                    190,
+                    7487
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Legit Preisf n\u00b0 1265. 1847.",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    210,
+                    6569
+                ],
+                [
+                    210,
+                    6822
+                ],
+                [
+                    2249,
+                    6822
+                ],
+                [
+                    2249,
+                    6569
+                ],
+                [
+                    210,
+                    6569
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Simelia argentea A . Br",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    210,
+                    6569
+                ],
+                [
+                    210,
+                    6822
+                ],
+                [
+                    2249,
+                    6822
+                ],
+                [
+                    2249,
+                    6569
+                ],
+                [
+                    210,
+                    6569
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Simelia argentea R. Br.",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        }
+    ]
+}

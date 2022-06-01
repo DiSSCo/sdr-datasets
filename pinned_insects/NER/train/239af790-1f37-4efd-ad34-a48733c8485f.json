@@ -1,0 +1,27 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "8935d0b0-cde6-4632-9d00-c18fa59d063a",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/d53bbd7b-dbfa-468a-9c3a-9eab62e90017",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/d53bbd7b-dbfa-468a-9c3a-9eab62e90017/full/full/0/default.jpg"
+    },
+    "named_entities": [
+        {
+            "tags": "NHMUK010620380 B-identifier",
+            "worker_version_id": null
+        },
+        {
+            "tags": "Folkestone B-location_name\n1890 B-date\n. O\n( O\nPurdey B-Collection/Donation\nColl I-Collection/Donation\n) O\n. O",
+            "worker_version_id": null
+        }
+    ],
+    "page": {
+        "id": "239af790-1f37-4efd-ad34-a48733c8485f",
+        "name": "010620380_136854_1083188.2500x5792.jpeg",
+        "rotation_angle": 0
+    }
+}

@@ -1,0 +1,208 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "c759c3c7-e3f3-4368-8d06-ea12e51a9869",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/79ce22ba-b0e7-450e-ae9c-22b0550a1b6b",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/79ce22ba-b0e7-450e-ae9c-22b0550a1b6b/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "d50bd69c-8a95-4604-aed7-cb317e6bc1c9",
+        "name": "010622079_D_Culapa_pauper_Oberthur_1916.2500x5792.jpeg",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    1947,
+                    1401
+                ],
+                [
+                    1947,
+                    1454
+                ],
+                [
+                    2381,
+                    1454
+                ],
+                [
+                    2381,
+                    1401
+                ],
+                [
+                    1947,
+                    1401
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK010622079",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1795,
+                    1082
+                ],
+                [
+                    2259,
+                    1103
+                ],
+                [
+                    2257,
+                    1054
+                ],
+                [
+                    1796,
+                    1034
+                ],
+                [
+                    1795,
+                    1082
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Ex Oberth\u00fcr Coll.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1795,
+                    1135
+                ],
+                [
+                    2257,
+                    1165
+                ],
+                [
+                    2260,
+                    1108
+                ],
+                [
+                    1798,
+                    1088
+                ],
+                [
+                    1795,
+                    1135
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Brit.Mus 1927-3.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1820,
+                    706
+                ],
+                [
+                    1820,
+                    758
+                ],
+                [
+                    2224,
+                    760
+                ],
+                [
+                    2224,
+                    712
+                ],
+                [
+                    1820,
+                    706
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Madagascar",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1832,
+                    761
+                ],
+                [
+                    1833,
+                    807
+                ],
+                [
+                    2208,
+                    809
+                ],
+                [
+                    2207,
+                    764
+                ],
+                [
+                    1832,
+                    761
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Antsianaka",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1841,
+                    808
+                ],
+                [
+                    1843,
+                    855
+                ],
+                [
+                    2192,
+                    860
+                ],
+                [
+                    2194,
+                    812
+                ],
+                [
+                    1841,
+                    808
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Perrot Fr\u00e8res",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1812,
+                    854
+                ],
+                [
+                    1814,
+                    906
+                ],
+                [
+                    2225,
+                    910
+                ],
+                [
+                    2224,
+                    862
+                ],
+                [
+                    1812,
+                    854
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "2 e Semestre 1893",
+            "worker_version": null
+        }
+    ]
+}

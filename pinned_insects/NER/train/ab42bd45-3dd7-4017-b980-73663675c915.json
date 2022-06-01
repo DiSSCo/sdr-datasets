@@ -1,0 +1,27 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "c6de9a2b-ccba-43a7-8323-a163737bb1f5",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/439a658e-2870-4c00-93cc-eb84d1e5fac4",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/439a658e-2870-4c00-93cc-eb84d1e5fac4/full/full/0/default.jpg"
+    },
+    "named_entities": [
+        {
+            "tags": "NHMUK010811099 B-identifier",
+            "worker_version_id": null
+        },
+        {
+            "tags": "SCILLY B-location_name\nISLES I-location_name\n: I-location_name\nSt I-location_name\nAGNES I-location_name\n, I-location_name\nIX B-date\n. I-date\n1957 I-date\n. I-date\nA B-person_name\n. I-person_name\nRICHARDSON I-person_name\n. I-person_name\nB B-identifier\n. I-identifier\nM I-identifier\n. I-identifier\n1957 I-identifier\n- I-identifier\n447 I-identifier\n. I-identifier",
+            "worker_version_id": null
+        }
+    ],
+    "page": {
+        "id": "ab42bd45-3dd7-4017-b980-73663675c915",
+        "name": "010811099__.2500x5792.jpeg",
+        "rotation_angle": 0
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "c11705ab-e6f0-413f-8225-a4689dc00801",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/71aedcd9-c08b-40bb-bcfc-8185cafb2a3e",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/71aedcd9-c08b-40bb-bcfc-8185cafb2a3e/full/full/0/default.jpg"
+    },
+    "named_entities": [
+        {
+            "tags": "SINGAPORE B-location_name\n: I-location_name\nFrasers I-location_name\nHill I-location_name\n. I-location_name\n17 B-date\n. I-date\nvi I-date\n. I-date\n1930 I-date\nV B-person_name\n. I-person_name\nN I-person_name\n. I-person_name\nRiley I-person_name\n. I-person_name\nB B-identifier\n. I-identifier\nM I-identifier\n. I-identifier\n1930 I-identifier\n- I-identifier\n501 I-identifier\n. I-identifier",
+            "worker_version_id": null
+        },
+        {
+            "tags": "NHMUK012499851 B-identifier",
+            "worker_version_id": null
+        },
+        {
+            "tags": "Fraser B-location_name\n' I-location_name\ns I-location_name\nHill I-location_name\n17 B-date\n. I-date\n6 I-date\n. I-date\n30 I-date",
+            "worker_version_id": null
+        }
+    ],
+    "page": {
+        "id": "893a698d-92e3-4da7-ac77-bc5fccf01192",
+        "name": "012499851_900315_1368482.2500x5792.jpeg",
+        "rotation_angle": 0
+    }
+}

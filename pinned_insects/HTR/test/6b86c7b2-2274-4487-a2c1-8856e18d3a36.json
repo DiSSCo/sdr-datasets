@@ -1,0 +1,316 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6ebebd79-2a28-464f-b60a-aa47a864a586",
+        "name": "test"
+    },
+    "image": {
+        "id": "8b0efb45-93b7-46a2-8fc7-08e098d1caba",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/492fb0fc-dac4-4fe1-9e6f-b2fc9bbf32b4",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/492fb0fc-dac4-4fe1-9e6f-b2fc9bbf32b4/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "6b86c7b2-2274-4487-a2c1-8856e18d3a36",
+        "name": "012499245_D_Heteropterus_disparilis_Oberthur_1916.2500x5792.jpeg",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    1662,
+                    738
+                ],
+                [
+                    1662,
+                    794
+                ],
+                [
+                    1991,
+                    794
+                ],
+                [
+                    1991,
+                    738
+                ],
+                [
+                    1662,
+                    738
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Madagascar",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1671,
+                    780
+                ],
+                [
+                    1671,
+                    830
+                ],
+                [
+                    1979,
+                    830
+                ],
+                [
+                    1979,
+                    780
+                ],
+                [
+                    1671,
+                    780
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Fianarantsoa",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1678,
+                    820
+                ],
+                [
+                    1678,
+                    872
+                ],
+                [
+                    1973,
+                    872
+                ],
+                [
+                    1973,
+                    820
+                ],
+                [
+                    1678,
+                    820
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Perrot Fr\u00e8res",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1658,
+                    856
+                ],
+                [
+                    1658,
+                    910
+                ],
+                [
+                    1996,
+                    910
+                ],
+                [
+                    1996,
+                    856
+                ],
+                [
+                    1658,
+                    856
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "2 e Semestre 1892",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1662,
+                    1072
+                ],
+                [
+                    1868,
+                    1059
+                ],
+                [
+                    1863,
+                    1013
+                ],
+                [
+                    1665,
+                    1028
+                ],
+                [
+                    1662,
+                    1072
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Brit. Mus.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1662,
+                    1069
+                ],
+                [
+                    1663,
+                    1120
+                ],
+                [
+                    1868,
+                    1103
+                ],
+                [
+                    1863,
+                    1054
+                ],
+                [
+                    1662,
+                    1069
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "1927-113",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1727,
+                    1426
+                ],
+                [
+                    1727,
+                    1480
+                ],
+                [
+                    2140,
+                    1480
+                ],
+                [
+                    2140,
+                    1426
+                ],
+                [
+                    1727,
+                    1426
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK012499245",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1652,
+                    1180
+                ],
+                [
+                    1660,
+                    1275
+                ],
+                [
+                    2402,
+                    1244
+                ],
+                [
+                    2397,
+                    1162
+                ],
+                [
+                    1652,
+                    1180
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BMNH(E) # 526572",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1685,
+                    531
+                ],
+                [
+                    1685,
+                    574
+                ],
+                [
+                    1801,
+                    574
+                ],
+                [
+                    1801,
+                    531
+                ],
+                [
+                    1685,
+                    531
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "PARA-",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1675,
+                    610
+                ],
+                [
+                    1816,
+                    610
+                ],
+                [
+                    1809,
+                    566
+                ],
+                [
+                    1678,
+                    567
+                ],
+                [
+                    1675,
+                    610
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "LECTO-",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1695,
+                    607
+                ],
+                [
+                    1695,
+                    649
+                ],
+                [
+                    1796,
+                    649
+                ],
+                [
+                    1796,
+                    607
+                ],
+                [
+                    1695,
+                    607
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "TYPE",
+            "worker_version": null
+        }
+    ]
+}

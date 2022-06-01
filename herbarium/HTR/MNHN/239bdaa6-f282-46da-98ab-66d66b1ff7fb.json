@@ -1,0 +1,656 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "c301e3ce-a988-469d-afb1-5af714a7123b",
+        "name": "MNHN"
+    },
+    "image": {
+        "id": "09675412-7710-429a-be96-123580d25fea",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FP00220127.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FP00220127.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "239bdaa6-f282-46da-98ab-66d66b1ff7fb",
+        "name": "P00220127",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    130,
+                    7144
+                ],
+                [
+                    130,
+                    7367
+                ],
+                [
+                    429,
+                    7367
+                ],
+                [
+                    429,
+                    7144
+                ],
+                [
+                    130,
+                    7144
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "366",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    130,
+                    7144
+                ],
+                [
+                    130,
+                    7367
+                ],
+                [
+                    429,
+                    7367
+                ],
+                [
+                    429,
+                    7144
+                ],
+                [
+                    130,
+                    7144
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "366",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    262,
+                    8508
+                ],
+                [
+                    262,
+                    8735
+                ],
+                [
+                    546,
+                    8735
+                ],
+                [
+                    546,
+                    8508
+                ],
+                [
+                    262,
+                    8508
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "366",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    262,
+                    8508
+                ],
+                [
+                    262,
+                    8735
+                ],
+                [
+                    546,
+                    8735
+                ],
+                [
+                    546,
+                    8508
+                ],
+                [
+                    262,
+                    8508
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "366",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    977,
+                    8678
+                ],
+                [
+                    977,
+                    8814
+                ],
+                [
+                    2080,
+                    8814
+                ],
+                [
+                    2080,
+                    8678
+                ],
+                [
+                    977,
+                    8678
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERBIER EUG . FOURNIER .",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    977,
+                    8678
+                ],
+                [
+                    977,
+                    8814
+                ],
+                [
+                    2080,
+                    8814
+                ],
+                [
+                    2080,
+                    8678
+                ],
+                [
+                    977,
+                    8678
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERBIER EUG . FOURNIER .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    618,
+                    8973
+                ],
+                [
+                    618,
+                    9200
+                ],
+                [
+                    2632,
+                    9200
+                ],
+                [
+                    2632,
+                    8973
+                ],
+                [
+                    618,
+                    8973
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Asplenium karstenianum Kl.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    618,
+                    8973
+                ],
+                [
+                    618,
+                    9200
+                ],
+                [
+                    2632,
+                    9200
+                ],
+                [
+                    2632,
+                    8973
+                ],
+                [
+                    618,
+                    8973
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "and plerum errr I arste ni \u0425\u0430\u043c\u043b\u0438 anun - - Ilf .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    451,
+                    9442
+                ],
+                [
+                    451,
+                    9714
+                ],
+                [
+                    1340,
+                    9714
+                ],
+                [
+                    1340,
+                    9442
+                ],
+                [
+                    451,
+                    9442
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Col. Tovar",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    451,
+                    9442
+                ],
+                [
+                    451,
+                    9714
+                ],
+                [
+                    1340,
+                    9714
+                ],
+                [
+                    1340,
+                    9442
+                ],
+                [
+                    451,
+                    9442
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Col . Lovar Cova",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1132,
+                    9971
+                ],
+                [
+                    1880,
+                    9941
+                ],
+                [
+                    2137,
+                    9786
+                ],
+                [
+                    2084,
+                    9563
+                ],
+                [
+                    1366,
+                    9714
+                ],
+                [
+                    1162,
+                    9718
+                ],
+                [
+                    1132,
+                    9971
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Venezuela",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1132,
+                    9971
+                ],
+                [
+                    1880,
+                    9941
+                ],
+                [
+                    2137,
+                    9786
+                ],
+                [
+                    2084,
+                    9563
+                ],
+                [
+                    1366,
+                    9714
+                ],
+                [
+                    1162,
+                    9718
+                ],
+                [
+                    1132,
+                    9971
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Venezuela",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2171,
+                    9718
+                ],
+                [
+                    2171,
+                    10118
+                ],
+                [
+                    2965,
+                    10118
+                ],
+                [
+                    2965,
+                    9718
+                ],
+                [
+                    2171,
+                    9718
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Moritz",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4887,
+                    8845
+                ],
+                [
+                    4887,
+                    8982
+                ],
+                [
+                    5824,
+                    8982
+                ],
+                [
+                    5824,
+                    8845
+                ],
+                [
+                    4887,
+                    8845
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB . MUS . PARIS .",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4887,
+                    8845
+                ],
+                [
+                    4887,
+                    8982
+                ],
+                [
+                    5824,
+                    8982
+                ],
+                [
+                    5824,
+                    8845
+                ],
+                [
+                    4887,
+                    8845
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB . MUS . PARIS .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4343,
+                    9462
+                ],
+                [
+                    4343,
+                    9549
+                ],
+                [
+                    5076,
+                    9549
+                ],
+                [
+                    5076,
+                    9462
+                ],
+                [
+                    4343,
+                    9462
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herb . Mus\u00e9um Paris",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4343,
+                    9462
+                ],
+                [
+                    4343,
+                    9549
+                ],
+                [
+                    5076,
+                    9549
+                ],
+                [
+                    5076,
+                    9462
+                ],
+                [
+                    4343,
+                    9462
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herb . Mus\u00e9um Paris",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4513,
+                    9794
+                ],
+                [
+                    4513,
+                    9881
+                ],
+                [
+                    4913,
+                    9881
+                ],
+                [
+                    4913,
+                    9794
+                ],
+                [
+                    4513,
+                    9794
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "P00220127",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4513,
+                    9794
+                ],
+                [
+                    4513,
+                    9881
+                ],
+                [
+                    4913,
+                    9881
+                ],
+                [
+                    4913,
+                    9794
+                ],
+                [
+                    4513,
+                    9794
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "PO0220127",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4622,
+                    9904
+                ],
+                [
+                    4622,
+                    10040
+                ],
+                [
+                    5892,
+                    10040
+                ],
+                [
+                    5892,
+                    9904
+                ],
+                [
+                    4622,
+                    9904
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herbier du Dr Eug\u00e8ne Fournier,",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4622,
+                    9904
+                ],
+                [
+                    4622,
+                    10040
+                ],
+                [
+                    5892,
+                    10040
+                ],
+                [
+                    5892,
+                    9904
+                ],
+                [
+                    4622,
+                    9904
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herbier du D \u2019 Eug\u00e8ne FOURNIER ,",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4792,
+                    10055
+                ],
+                [
+                    4792,
+                    10172
+                ],
+                [
+                    5703,
+                    10172
+                ],
+                [
+                    5703,
+                    10055
+                ],
+                [
+                    4792,
+                    10055
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "acquis en Janvier 1885.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4792,
+                    10055
+                ],
+                [
+                    4792,
+                    10172
+                ],
+                [
+                    5703,
+                    10172
+                ],
+                [
+                    5703,
+                    10055
+                ],
+                [
+                    4792,
+                    10055
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "acquis en Janvier 1883 .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        }
+    ]
+}

@@ -1,0 +1,651 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "438d96cb-88a1-4786-a83a-08301ba7e92a",
+        "name": "BGBM"
+    },
+    "image": {
+        "id": "3bf05422-c0a1-42b1-9c0d-9fb796a7d09e",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FB_10_0144869.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FB_10_0144869.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "cdbf0071-663d-43b2-94ca-055dfd00354c",
+        "name": "B_10_0144869",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    348,
+                    3829
+                ],
+                [
+                    348,
+                    3918
+                ],
+                [
+                    767,
+                    3905
+                ],
+                [
+                    755,
+                    3841
+                ],
+                [
+                    348,
+                    3829
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB. MUS. PARIS.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    168,
+                    3926
+                ],
+                [
+                    173,
+                    4055
+                ],
+                [
+                    729,
+                    4015
+                ],
+                [
+                    725,
+                    4055
+                ],
+                [
+                    770,
+                    4059
+                ],
+                [
+                    803,
+                    4036
+                ],
+                [
+                    990,
+                    4009
+                ],
+                [
+                    1000,
+                    3930
+                ],
+                [
+                    691,
+                    3926
+                ],
+                [
+                    168,
+                    3926
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Tanacetum Delavayi Fr.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    77,
+                    4176
+                ],
+                [
+                    111,
+                    4191
+                ],
+                [
+                    168,
+                    4157
+                ],
+                [
+                    285,
+                    4140
+                ],
+                [
+                    285,
+                    4180
+                ],
+                [
+                    317,
+                    4182
+                ],
+                [
+                    355,
+                    4151
+                ],
+                [
+                    619,
+                    4119
+                ],
+                [
+                    636,
+                    4148
+                ],
+                [
+                    717,
+                    4148
+                ],
+                [
+                    795,
+                    4123
+                ],
+                [
+                    818,
+                    4153
+                ],
+                [
+                    918,
+                    4134
+                ],
+                [
+                    1079,
+                    4127
+                ],
+                [
+                    1113,
+                    4047
+                ],
+                [
+                    1038,
+                    4015
+                ],
+                [
+                    839,
+                    4049
+                ],
+                [
+                    761,
+                    4070
+                ],
+                [
+                    658,
+                    4068
+                ],
+                [
+                    628,
+                    4043
+                ],
+                [
+                    469,
+                    4042
+                ],
+                [
+                    226,
+                    4064
+                ],
+                [
+                    128,
+                    4078
+                ],
+                [
+                    77,
+                    4176
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "paturages de Frang-yang--Vihang",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    367,
+                    4220
+                ],
+                [
+                    465,
+                    4229
+                ],
+                [
+                    503,
+                    4246
+                ],
+                [
+                    569,
+                    4233
+                ],
+                [
+                    749,
+                    4231
+                ],
+                [
+                    801,
+                    4199
+                ],
+                [
+                    801,
+                    4153
+                ],
+                [
+                    791,
+                    4138
+                ],
+                [
+                    704,
+                    4155
+                ],
+                [
+                    596,
+                    4153
+                ],
+                [
+                    509,
+                    4153
+                ],
+                [
+                    393,
+                    4155
+                ],
+                [
+                    367,
+                    4220
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "5 Sept 1887",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    154,
+                    4284
+                ],
+                [
+                    156,
+                    4354
+                ],
+                [
+                    844,
+                    4339
+                ],
+                [
+                    839,
+                    4282
+                ],
+                [
+                    154,
+                    4284
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Plantes de CHINE (Province du YUN-NAN)",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    219,
+                    4366
+                ],
+                [
+                    221,
+                    4422
+                ],
+                [
+                    763,
+                    4409
+                ],
+                [
+                    755,
+                    4360
+                ],
+                [
+                    219,
+                    4366
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "M. l'Abb\u00e9 DELAVAY. 1883-1885.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    742,
+                    4263
+                ],
+                [
+                    768,
+                    4286
+                ],
+                [
+                    821,
+                    4260
+                ],
+                [
+                    909,
+                    4237
+                ],
+                [
+                    973,
+                    4248
+                ],
+                [
+                    977,
+                    4212
+                ],
+                [
+                    911,
+                    4203
+                ],
+                [
+                    820,
+                    4212
+                ],
+                [
+                    770,
+                    4237
+                ],
+                [
+                    742,
+                    4263
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "EX HERBARIO",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    769,
+                    4348
+                ],
+                [
+                    804,
+                    4366
+                ],
+                [
+                    853,
+                    4367
+                ],
+                [
+                    910,
+                    4352
+                ],
+                [
+                    962,
+                    4328
+                ],
+                [
+                    994,
+                    4297
+                ],
+                [
+                    963,
+                    4278
+                ],
+                [
+                    933,
+                    4302
+                ],
+                [
+                    878,
+                    4316
+                ],
+                [
+                    834,
+                    4328
+                ],
+                [
+                    806,
+                    4332
+                ],
+                [
+                    777,
+                    4325
+                ],
+                [
+                    769,
+                    4348
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "PARISIENSIS",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    797,
+                    4287
+                ],
+                [
+                    806,
+                    4311
+                ],
+                [
+                    807,
+                    4323
+                ],
+                [
+                    941,
+                    4285
+                ],
+                [
+                    933,
+                    4246
+                ],
+                [
+                    797,
+                    4287
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "MUSEI",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1368,
+                    4362
+                ],
+                [
+                    1394,
+                    4500
+                ],
+                [
+                    1836,
+                    4498
+                ],
+                [
+                    1823,
+                    4379
+                ],
+                [
+                    1368,
+                    4362
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "\u00a9BGBM2004",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2258,
+                    3912
+                ],
+                [
+                    2260,
+                    3993
+                ],
+                [
+                    2533,
+                    3989
+                ],
+                [
+                    2529,
+                    3916
+                ],
+                [
+                    2258,
+                    3912
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Image 2004",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2292,
+                    4027
+                ],
+                [
+                    2292,
+                    4075
+                ],
+                [
+                    2607,
+                    4073
+                ],
+                [
+                    2591,
+                    4012
+                ],
+                [
+                    2292,
+                    4027
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Mus. Bot. Berol.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2341,
+                    4173
+                ],
+                [
+                    2550,
+                    4171
+                ],
+                [
+                    2550,
+                    4132
+                ],
+                [
+                    2345,
+                    4135
+                ],
+                [
+                    2341,
+                    4173
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "B 10 0144869",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2349,
+                    4355
+                ],
+                [
+                    2436,
+                    4365
+                ],
+                [
+                    2591,
+                    4351
+                ],
+                [
+                    2743,
+                    4344
+                ],
+                [
+                    2758,
+                    4264
+                ],
+                [
+                    2679,
+                    4251
+                ],
+                [
+                    2476,
+                    4268
+                ],
+                [
+                    2353,
+                    4270
+                ],
+                [
+                    2349,
+                    4355
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "39/2004-69",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2355,
+                    4389
+                ],
+                [
+                    2360,
+                    4477
+                ],
+                [
+                    2754,
+                    4463
+                ],
+                [
+                    2743,
+                    4368
+                ],
+                [
+                    2355,
+                    4389
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Mus. Bot. Berol.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2660,
+                    2973
+                ],
+                [
+                    2660,
+                    3124
+                ],
+                [
+                    2730,
+                    3117
+                ],
+                [
+                    2738,
+                    2982
+                ],
+                [
+                    2660,
+                    2973
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "5 cm",
+            "worker_version": null
+        }
+    ]
+}

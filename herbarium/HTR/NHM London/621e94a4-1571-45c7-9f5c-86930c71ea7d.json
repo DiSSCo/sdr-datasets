@@ -1,0 +1,370 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "01461701-dd48-4a27-ab96-27ee9853e15d",
+        "name": "NHM London"
+    },
+    "image": {
+        "id": "e2af446a-85e4-4224-91b7-b5949d30c1c7",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FBM000815211.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FBM000815211.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "621e94a4-1571-45c7-9f5c-86930c71ea7d",
+        "name": "BM000815211",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    503,
+                    25
+                ],
+                [
+                    503,
+                    53
+                ],
+                [
+                    651,
+                    53
+                ],
+                [
+                    651,
+                    25
+                ],
+                [
+                    503,
+                    25
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB. MUS. BRIT.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    60,
+                    173
+                ],
+                [
+                    61,
+                    180
+                ],
+                [
+                    157,
+                    184
+                ],
+                [
+                    157,
+                    177
+                ],
+                [
+                    60,
+                    173
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "THE NATURAL HISTORY MUSEUM, LONDON",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    75,
+                    187
+                ],
+                [
+                    138,
+                    189
+                ],
+                [
+                    139,
+                    184
+                ],
+                [
+                    76,
+                    181
+                ],
+                [
+                    75,
+                    187
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "DEPARTMENT OF BOTANY",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    80,
+                    217
+                ],
+                [
+                    133,
+                    219
+                ],
+                [
+                    133,
+                    210
+                ],
+                [
+                    82,
+                    207
+                ],
+                [
+                    80,
+                    217
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BM000815211",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    417,
+                    881
+                ],
+                [
+                    417,
+                    901
+                ],
+                [
+                    593,
+                    901
+                ],
+                [
+                    593,
+                    881
+                ],
+                [
+                    417,
+                    881
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Alchemilla wichurae (Buser) Stef.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    417,
+                    902
+                ],
+                [
+                    417,
+                    915
+                ],
+                [
+                    510,
+                    915
+                ],
+                [
+                    510,
+                    902
+                ],
+                [
+                    417,
+                    902
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Det./Conf.: F.J. Rumsey",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    551,
+                    903
+                ],
+                [
+                    551,
+                    916
+                ],
+                [
+                    649,
+                    916
+                ],
+                [
+                    649,
+                    903
+                ],
+                [
+                    551,
+                    903
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Date: July 2008",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    438,
+                    925
+                ],
+                [
+                    438,
+                    949
+                ],
+                [
+                    596,
+                    949
+                ],
+                [
+                    596,
+                    925
+                ],
+                [
+                    438,
+                    925
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Alchemilla ?acutidens",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    436,
+                    977
+                ],
+                [
+                    436,
+                    993
+                ],
+                [
+                    668,
+                    993
+                ],
+                [
+                    668,
+                    977
+                ],
+                [
+                    436,
+                    977
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "PERTSHIRE lower rock of BEINN LAOIGH",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    523,
+                    995
+                ],
+                [
+                    523,
+                    1017
+                ],
+                [
+                    609,
+                    1017
+                ],
+                [
+                    609,
+                    995
+                ],
+                [
+                    523,
+                    995
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "(Stob. Garble)",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    441,
+                    1017
+                ],
+                [
+                    441,
+                    1029
+                ],
+                [
+                    509,
+                    1029
+                ],
+                [
+                    509,
+                    1017
+                ],
+                [
+                    441,
+                    1017
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "A. J. WILMOTT",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    573,
+                    1024
+                ],
+                [
+                    573,
+                    1040
+                ],
+                [
+                    640,
+                    1040
+                ],
+                [
+                    640,
+                    1024
+                ],
+                [
+                    573,
+                    1024
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "28 July 1931",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    456,
+                    1029
+                ],
+                [
+                    456,
+                    1045
+                ],
+                [
+                    534,
+                    1045
+                ],
+                [
+                    534,
+                    1029
+                ],
+                [
+                    456,
+                    1029
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Ref. No. 3854 [b]",
+            "worker_version": null
+        }
+    ]
+}

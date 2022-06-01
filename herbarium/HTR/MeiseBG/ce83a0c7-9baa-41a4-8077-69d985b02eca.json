@@ -1,0 +1,908 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "40737841-bfc1-4187-b1f6-3328e53d3aa3",
+        "name": "MeiseBG"
+    },
+    "image": {
+        "id": "d1f086eb-165b-4c57-a6a4-211a626f909f",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FBR0000005906659.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FBR0000005906659.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "ce83a0c7-9baa-41a4-8077-69d985b02eca",
+        "name": "BR0000005906659",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    1974,
+                    7788
+                ],
+                [
+                    1982,
+                    7870
+                ],
+                [
+                    3292,
+                    7854
+                ],
+                [
+                    3286,
+                    7741
+                ],
+                [
+                    1987,
+                    7775
+                ],
+                [
+                    1974,
+                    7788
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herb . Horti Bot . Nat . Belg . ( BR )",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1974,
+                    7788
+                ],
+                [
+                    1982,
+                    7870
+                ],
+                [
+                    3292,
+                    7854
+                ],
+                [
+                    3286,
+                    7741
+                ],
+                [
+                    1987,
+                    7775
+                ],
+                [
+                    1974,
+                    7788
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herb . Horti Bot . Nat . Belg . ( BR )",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2799,
+                    7893
+                ],
+                [
+                    2799,
+                    7982
+                ],
+                [
+                    3192,
+                    7982
+                ],
+                [
+                    3192,
+                    7893
+                ],
+                [
+                    2799,
+                    7893
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BR - S . P .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2799,
+                    7893
+                ],
+                [
+                    2799,
+                    7982
+                ],
+                [
+                    3192,
+                    7982
+                ],
+                [
+                    3192,
+                    7893
+                ],
+                [
+                    2799,
+                    7893
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BR - S . P .",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2736,
+                    8092
+                ],
+                [
+                    2736,
+                    8213
+                ],
+                [
+                    3278,
+                    8213
+                ],
+                [
+                    3278,
+                    8092
+                ],
+                [
+                    2736,
+                    8092
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "590 665",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2736,
+                    8092
+                ],
+                [
+                    2736,
+                    8213
+                ],
+                [
+                    3278,
+                    8213
+                ],
+                [
+                    3278,
+                    8092
+                ],
+                [
+                    2736,
+                    8092
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "590 665",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1888,
+                    8255
+                ],
+                [
+                    1890,
+                    8307
+                ],
+                [
+                    2705,
+                    8299
+                ],
+                [
+                    2702,
+                    8231
+                ],
+                [
+                    1890,
+                    8244
+                ],
+                [
+                    1888,
+                    8255
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "o \" 000005 \" 90665 \" ,",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1888,
+                    8255
+                ],
+                [
+                    1890,
+                    8307
+                ],
+                [
+                    2705,
+                    8299
+                ],
+                [
+                    2702,
+                    8231
+                ],
+                [
+                    1890,
+                    8244
+                ],
+                [
+                    1888,
+                    8255
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "o \" 000005 \" 90665 \" 9",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3544,
+                    8242
+                ],
+                [
+                    3544,
+                    8312
+                ],
+                [
+                    4180,
+                    8312
+                ],
+                [
+                    4180,
+                    8242
+                ],
+                [
+                    3544,
+                    8242
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Databased and imaged",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3544,
+                    8242
+                ],
+                [
+                    3544,
+                    8312
+                ],
+                [
+                    4180,
+                    8312
+                ],
+                [
+                    4180,
+                    8242
+                ],
+                [
+                    3544,
+                    8242
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Databased and imaged",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3790,
+                    8328
+                ],
+                [
+                    3790,
+                    8391
+                ],
+                [
+                    3931,
+                    8391
+                ],
+                [
+                    3931,
+                    8328
+                ],
+                [
+                    3790,
+                    8328
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "GPI",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3790,
+                    8328
+                ],
+                [
+                    3790,
+                    8391
+                ],
+                [
+                    3931,
+                    8391
+                ],
+                [
+                    3931,
+                    8328
+                ],
+                [
+                    3790,
+                    8328
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "GPI",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3790,
+                    8407
+                ],
+                [
+                    3790,
+                    8464
+                ],
+                [
+                    3937,
+                    8464
+                ],
+                [
+                    3937,
+                    8407
+                ],
+                [
+                    3790,
+                    8407
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "2012",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3790,
+                    8407
+                ],
+                [
+                    3790,
+                    8464
+                ],
+                [
+                    3937,
+                    8464
+                ],
+                [
+                    3937,
+                    8407
+                ],
+                [
+                    3790,
+                    8407
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "2012",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3042,
+                    8546
+                ],
+                [
+                    3042,
+                    8638
+                ],
+                [
+                    4286,
+                    8638
+                ],
+                [
+                    4286,
+                    8546
+                ],
+                [
+                    3042,
+                    8546
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herbier du Jardin botanique de l ' Etat ,",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3042,
+                    8546
+                ],
+                [
+                    3042,
+                    8638
+                ],
+                [
+                    4286,
+                    8638
+                ],
+                [
+                    4286,
+                    8546
+                ],
+                [
+                    3042,
+                    8546
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herbier du Jardin botanique de l ' Etat ,",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3448,
+                    8645
+                ],
+                [
+                    3448,
+                    8713
+                ],
+                [
+                    3901,
+                    8713
+                ],
+                [
+                    3901,
+                    8645
+                ],
+                [
+                    3448,
+                    8645
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BRUXELLES .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3448,
+                    8645
+                ],
+                [
+                    3448,
+                    8713
+                ],
+                [
+                    3901,
+                    8713
+                ],
+                [
+                    3901,
+                    8645
+                ],
+                [
+                    3448,
+                    8645
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BRUXELLES .",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    187,
+                    8732
+                ],
+                [
+                    266,
+                    8922
+                ],
+                [
+                    403,
+                    8814
+                ],
+                [
+                    511,
+                    8807
+                ],
+                [
+                    544,
+                    8915
+                ],
+                [
+                    695,
+                    8807
+                ],
+                [
+                    1215,
+                    8817
+                ],
+                [
+                    1327,
+                    8942
+                ],
+                [
+                    1487,
+                    8801
+                ],
+                [
+                    1791,
+                    8788
+                ],
+                [
+                    1791,
+                    8856
+                ],
+                [
+                    1867,
+                    8804
+                ],
+                [
+                    2053,
+                    8794
+                ],
+                [
+                    2080,
+                    8886
+                ],
+                [
+                    2155,
+                    8873
+                ],
+                [
+                    2129,
+                    8647
+                ],
+                [
+                    1353,
+                    8631
+                ],
+                [
+                    1255,
+                    8657
+                ],
+                [
+                    531,
+                    8703
+                ],
+                [
+                    426,
+                    8614
+                ],
+                [
+                    200,
+                    8716
+                ],
+                [
+                    187,
+                    8732
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Apocynum and rofaemifolia",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    187,
+                    8732
+                ],
+                [
+                    266,
+                    8922
+                ],
+                [
+                    403,
+                    8814
+                ],
+                [
+                    511,
+                    8807
+                ],
+                [
+                    544,
+                    8915
+                ],
+                [
+                    695,
+                    8807
+                ],
+                [
+                    1215,
+                    8817
+                ],
+                [
+                    1327,
+                    8942
+                ],
+                [
+                    1487,
+                    8801
+                ],
+                [
+                    1791,
+                    8788
+                ],
+                [
+                    1791,
+                    8856
+                ],
+                [
+                    1867,
+                    8804
+                ],
+                [
+                    2053,
+                    8794
+                ],
+                [
+                    2080,
+                    8886
+                ],
+                [
+                    2155,
+                    8873
+                ],
+                [
+                    2129,
+                    8647
+                ],
+                [
+                    1353,
+                    8631
+                ],
+                [
+                    1255,
+                    8657
+                ],
+                [
+                    531,
+                    8703
+                ],
+                [
+                    426,
+                    8614
+                ],
+                [
+                    200,
+                    8716
+                ],
+                [
+                    187,
+                    8732
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Apocynum androsaemifolium",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1844,
+                    8915
+                ],
+                [
+                    1847,
+                    8925
+                ],
+                [
+                    1867,
+                    8974
+                ],
+                [
+                    2053,
+                    8978
+                ],
+                [
+                    2044,
+                    8834
+                ],
+                [
+                    2017,
+                    8827
+                ],
+                [
+                    1844,
+                    8915
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "L.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    245,
+                    9165
+                ],
+                [
+                    245,
+                    9328
+                ],
+                [
+                    2151,
+                    9328
+                ],
+                [
+                    2151,
+                    9165
+                ],
+                [
+                    245,
+                    9165
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Whike CENTER plains ( Amer . sept",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    245,
+                    9165
+                ],
+                [
+                    245,
+                    9328
+                ],
+                [
+                    2151,
+                    9328
+                ],
+                [
+                    2151,
+                    9165
+                ],
+                [
+                    245,
+                    9165
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "White plains (Amer. sept.)",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    147,
+                    9469
+                ],
+                [
+                    147,
+                    9698
+                ],
+                [
+                    2134,
+                    9698
+                ],
+                [
+                    2134,
+                    9469
+                ],
+                [
+                    147,
+                    9469
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Communi\u0107 . Z . I . Clark 1837",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    147,
+                    9469
+                ],
+                [
+                    147,
+                    9698
+                ],
+                [
+                    2134,
+                    9698
+                ],
+                [
+                    2134,
+                    9469
+                ],
+                [
+                    147,
+                    9469
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Communic . H . J . Clark 1857",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    691,
+                    9901
+                ],
+                [
+                    691,
+                    9976
+                ],
+                [
+                    1627,
+                    9976
+                ],
+                [
+                    1627,
+                    9901
+                ],
+                [
+                    691,
+                    9901
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERBARIUM MARTII .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    691,
+                    9901
+                ],
+                [
+                    691,
+                    9976
+                ],
+                [
+                    1627,
+                    9976
+                ],
+                [
+                    1627,
+                    9901
+                ],
+                [
+                    691,
+                    9901
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERBARIUM MARTII .",
+            "worker_version": null
+        }
+    ]
+}

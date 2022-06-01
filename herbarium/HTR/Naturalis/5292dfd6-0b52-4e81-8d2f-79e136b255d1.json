@@ -1,0 +1,1318 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "635f3d84-ced6-4b17-b64a-86be7aa87304",
+        "name": "Naturalis"
+    },
+    "image": {
+        "id": "35c451a3-a5ef-4af1-a1f2-b40e4b4a68d1",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FL.1246493.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FL.1246493.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "5292dfd6-0b52-4e81-8d2f-79e136b255d1",
+        "name": "L.1246493",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    2794,
+                    105
+                ],
+                [
+                    2794,
+                    189
+                ],
+                [
+                    3286,
+                    189
+                ],
+                [
+                    3286,
+                    105
+                ],
+                [
+                    2794,
+                    105
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "\u2116964233 192",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2301,
+                    97
+                ],
+                [
+                    2301,
+                    166
+                ],
+                [
+                    2726,
+                    166
+                ],
+                [
+                    2726,
+                    97
+                ],
+                [
+                    2301,
+                    97
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB. LUGD. BAT.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2301,
+                    97
+                ],
+                [
+                    2301,
+                    166
+                ],
+                [
+                    2726,
+                    166
+                ],
+                [
+                    2726,
+                    97
+                ],
+                [
+                    2301,
+                    97
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB . LUGD . BAT",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1809,
+                    2296
+                ],
+                [
+                    1809,
+                    2355
+                ],
+                [
+                    2011,
+                    2355
+                ],
+                [
+                    2011,
+                    2296
+                ],
+                [
+                    1809,
+                    2296
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "L. 1246493",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1809,
+                    2296
+                ],
+                [
+                    1809,
+                    2355
+                ],
+                [
+                    2011,
+                    2355
+                ],
+                [
+                    2011,
+                    2296
+                ],
+                [
+                    1809,
+                    2296
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "L . 1246493",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1607,
+                    5774
+                ],
+                [
+                    1607,
+                    5880
+                ],
+                [
+                    1886,
+                    5880
+                ],
+                [
+                    1886,
+                    5774
+                ],
+                [
+                    1607,
+                    5774
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "200190",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1607,
+                    5774
+                ],
+                [
+                    1607,
+                    5880
+                ],
+                [
+                    1886,
+                    5880
+                ],
+                [
+                    1886,
+                    5774
+                ],
+                [
+                    1607,
+                    5774
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "200190",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2782,
+                    3998
+                ],
+                [
+                    2782,
+                    4080
+                ],
+                [
+                    3244,
+                    4080
+                ],
+                [
+                    3244,
+                    3998
+                ],
+                [
+                    2782,
+                    3998
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Flora Malesiana",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2782,
+                    3998
+                ],
+                [
+                    2782,
+                    4080
+                ],
+                [
+                    3244,
+                    4080
+                ],
+                [
+                    3244,
+                    3998
+                ],
+                [
+                    2782,
+                    3998
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Flora Malesiana",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2465,
+                    4004
+                ],
+                [
+                    2465,
+                    4067
+                ],
+                [
+                    2658,
+                    4067
+                ],
+                [
+                    2658,
+                    4004
+                ],
+                [
+                    2465,
+                    4004
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Revised for",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2465,
+                    4004
+                ],
+                [
+                    2465,
+                    4067
+                ],
+                [
+                    2658,
+                    4067
+                ],
+                [
+                    2658,
+                    4004
+                ],
+                [
+                    2465,
+                    4004
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Revised for",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2462,
+                    4139
+                ],
+                [
+                    2462,
+                    4209
+                ],
+                [
+                    3386,
+                    4209
+                ],
+                [
+                    3386,
+                    4139
+                ],
+                [
+                    2462,
+                    4139
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Digitaria setigera Roth ex R. & S.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2462,
+                    4139
+                ],
+                [
+                    2462,
+                    4209
+                ],
+                [
+                    3386,
+                    4209
+                ],
+                [
+                    3386,
+                    4139
+                ],
+                [
+                    2462,
+                    4139
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Digitaria setigera Roth ex R . & S .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2470,
+                    4312
+                ],
+                [
+                    2470,
+                    4384
+                ],
+                [
+                    2909,
+                    4384
+                ],
+                [
+                    2909,
+                    4312
+                ],
+                [
+                    2470,
+                    4312
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "det. J.F. Veldkamp",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2470,
+                    4312
+                ],
+                [
+                    2470,
+                    4384
+                ],
+                [
+                    2909,
+                    4384
+                ],
+                [
+                    2909,
+                    4312
+                ],
+                [
+                    2470,
+                    4312
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "det . J . F . Veldkamp",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3024,
+                    4308
+                ],
+                [
+                    3024,
+                    4394
+                ],
+                [
+                    3223,
+                    4394
+                ],
+                [
+                    3223,
+                    4308
+                ],
+                [
+                    3024,
+                    4308
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "4/1923",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2900,
+                    4402
+                ],
+                [
+                    2900,
+                    4474
+                ],
+                [
+                    3524,
+                    4474
+                ],
+                [
+                    3524,
+                    4402
+                ],
+                [
+                    2900,
+                    4402
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "N. Leeuwen Kai 3",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2900,
+                    4402
+                ],
+                [
+                    2900,
+                    4474
+                ],
+                [
+                    3524,
+                    4474
+                ],
+                [
+                    3524,
+                    4402
+                ],
+                [
+                    2900,
+                    4402
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "r . heeunen Kaiz",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2486,
+                    4465
+                ],
+                [
+                    2486,
+                    4611
+                ],
+                [
+                    2940,
+                    4611
+                ],
+                [
+                    2940,
+                    4465
+                ],
+                [
+                    2486,
+                    4465
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Digitaria",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2486,
+                    4465
+                ],
+                [
+                    2486,
+                    4611
+                ],
+                [
+                    2940,
+                    4611
+                ],
+                [
+                    2940,
+                    4465
+                ],
+                [
+                    2486,
+                    4465
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "utaria",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2549,
+                    4579
+                ],
+                [
+                    2549,
+                    4664
+                ],
+                [
+                    3082,
+                    4664
+                ],
+                [
+                    3082,
+                    4579
+                ],
+                [
+                    2549,
+                    4579
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "microbachne",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2782,
+                    4651
+                ],
+                [
+                    2782,
+                    4737
+                ],
+                [
+                    3336,
+                    4737
+                ],
+                [
+                    3336,
+                    4651
+                ],
+                [
+                    2782,
+                    4651
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "(Presl) Hitchc.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3082,
+                    4740
+                ],
+                [
+                    3082,
+                    4859
+                ],
+                [
+                    3383,
+                    4859
+                ],
+                [
+                    3383,
+                    4740
+                ],
+                [
+                    3082,
+                    4740
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "5/V/'58",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2460,
+                    4742
+                ],
+                [
+                    2460,
+                    4861
+                ],
+                [
+                    2752,
+                    4861
+                ],
+                [
+                    2752,
+                    4742
+                ],
+                [
+                    2460,
+                    4742
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Gram.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2357,
+                    4466
+                ],
+                [
+                    2357,
+                    4872
+                ],
+                [
+                    2426,
+                    4872
+                ],
+                [
+                    2426,
+                    4466
+                ],
+                [
+                    2357,
+                    4466
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herb. Lugd. Bat.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2357,
+                    4466
+                ],
+                [
+                    2357,
+                    4872
+                ],
+                [
+                    2426,
+                    4872
+                ],
+                [
+                    2426,
+                    4466
+                ],
+                [
+                    2357,
+                    4466
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": ". Bat . Lugd . Herb",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2232,
+                    4586
+                ],
+                [
+                    2232,
+                    4721
+                ],
+                [
+                    2343,
+                    4721
+                ],
+                [
+                    2343,
+                    4586
+                ],
+                [
+                    2232,
+                    4586
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "37",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2375,
+                    5046
+                ],
+                [
+                    2375,
+                    5177
+                ],
+                [
+                    3176,
+                    5177
+                ],
+                [
+                    3176,
+                    5046
+                ],
+                [
+                    2375,
+                    5046
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herb. Lugd. Batav.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2375,
+                    5046
+                ],
+                [
+                    2375,
+                    5177
+                ],
+                [
+                    3176,
+                    5177
+                ],
+                [
+                    3176,
+                    5046
+                ],
+                [
+                    2375,
+                    5046
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herb . Lugd . Batav .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2214,
+                    5605
+                ],
+                [
+                    3442,
+                    5635
+                ],
+                [
+                    3423,
+                    5511
+                ],
+                [
+                    2218,
+                    5511
+                ],
+                [
+                    2214,
+                    5605
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Loc. Kaimana (Zur. N. G.)",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2214,
+                    5605
+                ],
+                [
+                    3442,
+                    5635
+                ],
+                [
+                    3423,
+                    5511
+                ],
+                [
+                    2218,
+                    5511
+                ],
+                [
+                    2214,
+                    5605
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Loc . Kaimana ( Zw . N . G . )",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2228,
+                    5712
+                ],
+                [
+                    2333,
+                    5768
+                ],
+                [
+                    3031,
+                    5742
+                ],
+                [
+                    3128,
+                    5684
+                ],
+                [
+                    3104,
+                    5625
+                ],
+                [
+                    2256,
+                    5607
+                ],
+                [
+                    2228,
+                    5712
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Omgeving Vliegveld.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2228,
+                    5712
+                ],
+                [
+                    2333,
+                    5768
+                ],
+                [
+                    3031,
+                    5742
+                ],
+                [
+                    3128,
+                    5684
+                ],
+                [
+                    3104,
+                    5625
+                ],
+                [
+                    2256,
+                    5607
+                ],
+                [
+                    2228,
+                    5712
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "angering vliegveld .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2345,
+                    5505
+                ],
+                [
+                    3444,
+                    5509
+                ],
+                [
+                    3440,
+                    5412
+                ],
+                [
+                    2363,
+                    5428
+                ],
+                [
+                    2359,
+                    5438
+                ],
+                [
+                    2345,
+                    5505
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Dat. 14. X. 1957 \u2116 KAI 3",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2345,
+                    5505
+                ],
+                [
+                    3444,
+                    5509
+                ],
+                [
+                    3440,
+                    5412
+                ],
+                [
+                    2363,
+                    5428
+                ],
+                [
+                    2359,
+                    5438
+                ],
+                [
+                    2345,
+                    5505
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Dat : 14 . 8 . 1957 No KH13",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2184,
+                    5269
+                ],
+                [
+                    2806,
+                    5257
+                ],
+                [
+                    2810,
+                    5301
+                ],
+                [
+                    2878,
+                    5257
+                ],
+                [
+                    3361,
+                    5271
+                ],
+                [
+                    3347,
+                    5161
+                ],
+                [
+                    2949,
+                    5177
+                ],
+                [
+                    2896,
+                    5159
+                ],
+                [
+                    2779,
+                    5181
+                ],
+                [
+                    2224,
+                    5169
+                ],
+                [
+                    2184,
+                    5269
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Planten van Afv. Veeteels",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2184,
+                    5269
+                ],
+                [
+                    2806,
+                    5257
+                ],
+                [
+                    2810,
+                    5301
+                ],
+                [
+                    2878,
+                    5257
+                ],
+                [
+                    3361,
+                    5271
+                ],
+                [
+                    3347,
+                    5161
+                ],
+                [
+                    2949,
+                    5177
+                ],
+                [
+                    2896,
+                    5159
+                ],
+                [
+                    2779,
+                    5181
+                ],
+                [
+                    2224,
+                    5169
+                ],
+                [
+                    2184,
+                    5269
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Planten van Afr . Veeteelt",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2584,
+                    5346
+                ],
+                [
+                    2945,
+                    5332
+                ],
+                [
+                    2961,
+                    5364
+                ],
+                [
+                    3039,
+                    5324
+                ],
+                [
+                    3321,
+                    5336
+                ],
+                [
+                    3345,
+                    5275
+                ],
+                [
+                    2910,
+                    5265
+                ],
+                [
+                    2876,
+                    5259
+                ],
+                [
+                    2810,
+                    5299
+                ],
+                [
+                    2796,
+                    5263
+                ],
+                [
+                    2606,
+                    5265
+                ],
+                [
+                    2584,
+                    5346
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Ned. N. Guinea",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2584,
+                    5346
+                ],
+                [
+                    2945,
+                    5332
+                ],
+                [
+                    2961,
+                    5364
+                ],
+                [
+                    3039,
+                    5324
+                ],
+                [
+                    3321,
+                    5336
+                ],
+                [
+                    3345,
+                    5275
+                ],
+                [
+                    2910,
+                    5265
+                ],
+                [
+                    2876,
+                    5259
+                ],
+                [
+                    2810,
+                    5299
+                ],
+                [
+                    2796,
+                    5263
+                ],
+                [
+                    2606,
+                    5265
+                ],
+                [
+                    2584,
+                    5346
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Ned . A . Gainen",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2192,
+                    5432
+                ],
+                [
+                    2298,
+                    5432
+                ],
+                [
+                    2307,
+                    5474
+                ],
+                [
+                    2361,
+                    5420
+                ],
+                [
+                    3409,
+                    5406
+                ],
+                [
+                    3411,
+                    5356
+                ],
+                [
+                    3037,
+                    5324
+                ],
+                [
+                    2961,
+                    5366
+                ],
+                [
+                    2870,
+                    5336
+                ],
+                [
+                    2578,
+                    5354
+                ],
+                [
+                    2437,
+                    5311
+                ],
+                [
+                    2224,
+                    5313
+                ],
+                [
+                    2192,
+                    5432
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Leg.  Jr. A. van Leeuwen",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2192,
+                    5432
+                ],
+                [
+                    2298,
+                    5432
+                ],
+                [
+                    2307,
+                    5474
+                ],
+                [
+                    2361,
+                    5420
+                ],
+                [
+                    3409,
+                    5406
+                ],
+                [
+                    3411,
+                    5356
+                ],
+                [
+                    3037,
+                    5324
+                ],
+                [
+                    2961,
+                    5366
+                ],
+                [
+                    2870,
+                    5336
+                ],
+                [
+                    2578,
+                    5354
+                ],
+                [
+                    2437,
+                    5311
+                ],
+                [
+                    2224,
+                    5313
+                ],
+                [
+                    2192,
+                    5432
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Ir . A . van Leannen",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        }
+    ]
+}

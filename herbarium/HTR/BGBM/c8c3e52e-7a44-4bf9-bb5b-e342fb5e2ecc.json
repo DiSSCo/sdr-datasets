@@ -1,0 +1,232 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "438d96cb-88a1-4786-a83a-08301ba7e92a",
+        "name": "BGBM"
+    },
+    "image": {
+        "id": "ed8f7a82-8a98-4477-abff-78e33a98cb34",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FB_10_0002520.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FB_10_0002520.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "c8c3e52e-7a44-4bf9-bb5b-e342fb5e2ecc",
+        "name": "B_10_0002520",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    75,
+                    3277
+                ],
+                [
+                    75,
+                    3326
+                ],
+                [
+                    908,
+                    3323
+                ],
+                [
+                    911,
+                    3283
+                ],
+                [
+                    78,
+                    3274
+                ],
+                [
+                    75,
+                    3277
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Unangwa Hill about 6 km. E. of Songea",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    87,
+                    3320
+                ],
+                [
+                    87,
+                    3365
+                ],
+                [
+                    857,
+                    3368
+                ],
+                [
+                    860,
+                    3323
+                ],
+                [
+                    90,
+                    3323
+                ],
+                [
+                    87,
+                    3320
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "in crevices in vertical rock faces:",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1608,
+                    4214
+                ],
+                [
+                    1932,
+                    4227
+                ],
+                [
+                    1940,
+                    4152
+                ],
+                [
+                    1610,
+                    4131
+                ],
+                [
+                    1613,
+                    4131
+                ],
+                [
+                    1608,
+                    4214
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Image 2001",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1595,
+                    4254
+                ],
+                [
+                    1595,
+                    4305
+                ],
+                [
+                    1902,
+                    4312
+                ],
+                [
+                    1898,
+                    4260
+                ],
+                [
+                    1595,
+                    4254
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Mus. Bot. Berol.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1644,
+                    4376
+                ],
+                [
+                    1644,
+                    4410
+                ],
+                [
+                    1833,
+                    4414
+                ],
+                [
+                    1835,
+                    4380
+                ],
+                [
+                    1652,
+                    4373
+                ],
+                [
+                    1644,
+                    4376
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "B 10 0002520",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    972,
+                    4177
+                ],
+                [
+                    972,
+                    4214
+                ],
+                [
+                    1073,
+                    4217
+                ],
+                [
+                    1076,
+                    4178
+                ],
+                [
+                    973,
+                    4178
+                ],
+                [
+                    972,
+                    4177
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "acc.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    42,
+                    4254
+                ],
+                [
+                    42,
+                    4298
+                ],
+                [
+                    573,
+                    4298
+                ],
+                [
+                    573,
+                    4256
+                ],
+                [
+                    45,
+                    4250
+                ],
+                [
+                    42,
+                    4254
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "TANGANYIKA: Songea District",
+            "worker_version": null
+        }
+    ]
+}

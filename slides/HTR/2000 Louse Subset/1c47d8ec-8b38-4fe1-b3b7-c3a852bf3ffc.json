@@ -1,0 +1,289 @@
+{
+    "dataset_id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+    "folder": {
+        "id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+        "name": "2000 Louse Subset"
+    },
+    "image": {
+        "id": "5dce089f-e1c6-4253-b52e-53a6f61a975c",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fsynthesys%2Fslides_images%2F1c47d8ec-8b38-4fe1-b3b7-c3a852bf3ffc.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fsynthesys%2Fslides_images%2F1c47d8ec-8b38-4fe1-b3b7-c3a852bf3ffc.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "1c47d8ec-8b38-4fe1-b3b7-c3a852bf3ffc",
+        "name": "129",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    511,
+                    6898
+                ],
+                [
+                    511,
+                    7538
+                ],
+                [
+                    2584,
+                    7538
+                ],
+                [
+                    2584,
+                    6898
+                ],
+                [
+                    511,
+                    6898
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Degeeriella",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    938,
+                    476
+                ],
+                [
+                    938,
+                    781
+                ],
+                [
+                    2198,
+                    781
+                ],
+                [
+                    2198,
+                    476
+                ],
+                [
+                    938,
+                    476
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Ramsay.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    2189,
+                    4683
+                ],
+                [
+                    2189,
+                    4770
+                ],
+                [
+                    2652,
+                    4770
+                ],
+                [
+                    2652,
+                    4683
+                ],
+                [
+                    2189,
+                    4683
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "010673213",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    2129,
+                    4776
+                ],
+                [
+                    2129,
+                    5110
+                ],
+                [
+                    2267,
+                    5110
+                ],
+                [
+                    2267,
+                    4776
+                ],
+                [
+                    2129,
+                    4776
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    562,
+                    730
+                ],
+                [
+                    562,
+                    1187
+                ],
+                [
+                    2432,
+                    1187
+                ],
+                [
+                    2432,
+                    730
+                ],
+                [
+                    562,
+                    730
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "R. G. Wardlaw",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    918,
+                    1015
+                ],
+                [
+                    918,
+                    1370
+                ],
+                [
+                    2198,
+                    1370
+                ],
+                [
+                    2198,
+                    1015
+                ],
+                [
+                    918,
+                    1015
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "2. x. 1875",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    928,
+                    1309
+                ],
+                [
+                    928,
+                    1706
+                ],
+                [
+                    2168,
+                    1706
+                ],
+                [
+                    2168,
+                    1309
+                ],
+                [
+                    928,
+                    1309
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Tonghoo.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    412,
+                    1843
+                ],
+                [
+                    2546,
+                    1843
+                ],
+                [
+                    2564,
+                    1563
+                ],
+                [
+                    430,
+                    1563
+                ],
+                [
+                    412,
+                    1843
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "melanuroides.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    887,
+                    1807
+                ],
+                [
+                    887,
+                    2193
+                ],
+                [
+                    2462,
+                    2193
+                ],
+                [
+                    2462,
+                    1807
+                ],
+                [
+                    887,
+                    1807
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "melanura",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    958,
+                    2122
+                ],
+                [
+                    958,
+                    2488
+                ],
+                [
+                    2411,
+                    2488
+                ],
+                [
+                    2411,
+                    2122
+                ],
+                [
+                    958,
+                    2122
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Limosa",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        }
+    ]
+}

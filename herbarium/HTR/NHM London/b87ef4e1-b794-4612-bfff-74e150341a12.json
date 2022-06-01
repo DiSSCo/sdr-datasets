@@ -1,0 +1,545 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "01461701-dd48-4a27-ab96-27ee9853e15d",
+        "name": "NHM London"
+    },
+    "image": {
+        "id": "d1c6347e-0db1-440d-b1b2-8528701d5e8c",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FBM000804813.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FBM000804813.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "b87ef4e1-b794-4612-bfff-74e150341a12",
+        "name": "BM000804813",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    38,
+                    36
+                ],
+                [
+                    41,
+                    50
+                ],
+                [
+                    272,
+                    41
+                ],
+                [
+                    271,
+                    27
+                ],
+                [
+                    38,
+                    36
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "THE NATURAL HISTORY MUSEUM, LONDON",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    82,
+                    48
+                ],
+                [
+                    83,
+                    62
+                ],
+                [
+                    228,
+                    56
+                ],
+                [
+                    227,
+                    43
+                ],
+                [
+                    82,
+                    48
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "DEPARTMENT OF BOTANY",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    73,
+                    97
+                ],
+                [
+                    74,
+                    116
+                ],
+                [
+                    243,
+                    112
+                ],
+                [
+                    242,
+                    92
+                ],
+                [
+                    73,
+                    97
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "000563370 (BM)",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    22,
+                    1372
+                ],
+                [
+                    22,
+                    1389
+                ],
+                [
+                    235,
+                    1389
+                ],
+                [
+                    235,
+                    1372
+                ],
+                [
+                    22,
+                    1372
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "THE NATURAL HISTORY MUSEUM, LONDON",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    60,
+                    1388
+                ],
+                [
+                    60,
+                    1402
+                ],
+                [
+                    194,
+                    1402
+                ],
+                [
+                    194,
+                    1388
+                ],
+                [
+                    60,
+                    1388
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "DEPARTMENT OF BOTANY",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    71,
+                    1445
+                ],
+                [
+                    71,
+                    1465
+                ],
+                [
+                    187,
+                    1465
+                ],
+                [
+                    187,
+                    1445
+                ],
+                [
+                    71,
+                    1445
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BM000804813",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2,
+                    1490
+                ],
+                [
+                    2,
+                    1520
+                ],
+                [
+                    339,
+                    1520
+                ],
+                [
+                    339,
+                    1490
+                ],
+                [
+                    2,
+                    1490
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "E. LEMPRIEU. W. AUSTRALIA.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    5,
+                    1521
+                ],
+                [
+                    5,
+                    1545
+                ],
+                [
+                    357,
+                    1545
+                ],
+                [
+                    357,
+                    1521
+                ],
+                [
+                    5,
+                    1521
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "COMM. MISS A GOSSET. 1921.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    315,
+                    2000
+                ],
+                [
+                    419,
+                    2065
+                ],
+                [
+                    432,
+                    2046
+                ],
+                [
+                    331,
+                    1974
+                ],
+                [
+                    315,
+                    2000
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "main stem",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    34,
+                    2232
+                ],
+                [
+                    34,
+                    2284
+                ],
+                [
+                    378,
+                    2284
+                ],
+                [
+                    378,
+                    2232
+                ],
+                [
+                    34,
+                    2232
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Cystophora racemosa Harv.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    427,
+                    2234
+                ],
+                [
+                    427,
+                    2275
+                ],
+                [
+                    482,
+                    2275
+                ],
+                [
+                    482,
+                    2234
+                ],
+                [
+                    427,
+                    2234
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "a",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    347,
+                    2330
+                ],
+                [
+                    347,
+                    2386
+                ],
+                [
+                    950,
+                    2386
+                ],
+                [
+                    950,
+                    2330
+                ],
+                [
+                    347,
+                    2330
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Cystophora racemosa Harv.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1071,
+                    2138
+                ],
+                [
+                    1071,
+                    2169
+                ],
+                [
+                    1428,
+                    2169
+                ],
+                [
+                    1428,
+                    2138
+                ],
+                [
+                    1071,
+                    2138
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "5. CYSTOPHORA racemosa n. sp.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    998,
+                    2313
+                ],
+                [
+                    1090,
+                    2246
+                ],
+                [
+                    1089,
+                    2224
+                ],
+                [
+                    1181,
+                    2218
+                ],
+                [
+                    1208,
+                    2225
+                ],
+                [
+                    1215,
+                    2216
+                ],
+                [
+                    1245,
+                    2224
+                ],
+                [
+                    1379,
+                    2226
+                ],
+                [
+                    1372,
+                    2174
+                ],
+                [
+                    1007,
+                    2172
+                ],
+                [
+                    998,
+                    2313
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Cape Riche, Western",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1081,
+                    2253
+                ],
+                [
+                    1263,
+                    2261
+                ],
+                [
+                    1267,
+                    2226
+                ],
+                [
+                    1216,
+                    2217
+                ],
+                [
+                    1212,
+                    2226
+                ],
+                [
+                    1185,
+                    2218
+                ],
+                [
+                    1089,
+                    2225
+                ],
+                [
+                    1088,
+                    2247
+                ],
+                [
+                    1081,
+                    2253
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Australia",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1205,
+                    2263
+                ],
+                [
+                    1205,
+                    2312
+                ],
+                [
+                    1435,
+                    2312
+                ],
+                [
+                    1435,
+                    2263
+                ],
+                [
+                    1205,
+                    2263
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "W. H. Harvey",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1441,
+                    2279
+                ],
+                [
+                    1441,
+                    2316
+                ],
+                [
+                    1475,
+                    2316
+                ],
+                [
+                    1475,
+                    2279
+                ],
+                [
+                    1441,
+                    2279
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "b",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1450,
+                    2358
+                ],
+                [
+                    1450,
+                    2386
+                ],
+                [
+                    1491,
+                    2386
+                ],
+                [
+                    1491,
+                    2358
+                ],
+                [
+                    1450,
+                    2358
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "7",
+            "worker_version": null
+        }
+    ]
+}

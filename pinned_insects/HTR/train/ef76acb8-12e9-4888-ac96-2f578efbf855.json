@@ -1,0 +1,208 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "a4bdf73f-a3d0-4a8a-8b61-47884a3f4ea5",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/4029017a-f868-4e63-b4ac-ee09d1782f36",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/4029017a-f868-4e63-b4ac-ee09d1782f36/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "ef76acb8-12e9-4888-ac96-2f578efbf855",
+        "name": "010519828_151436_1083619.2500x5792.jpeg",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    1664,
+                    1432
+                ],
+                [
+                    1665,
+                    1482
+                ],
+                [
+                    2140,
+                    1475
+                ],
+                [
+                    2137,
+                    1423
+                ],
+                [
+                    1664,
+                    1432
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK010519828",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1666,
+                    979
+                ],
+                [
+                    1666,
+                    1027
+                ],
+                [
+                    1958,
+                    1027
+                ],
+                [
+                    1958,
+                    979
+                ],
+                [
+                    1666,
+                    979
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Withers Coll.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1671,
+                    1039
+                ],
+                [
+                    1671,
+                    1096
+                ],
+                [
+                    1906,
+                    1096
+                ],
+                [
+                    1906,
+                    1039
+                ],
+                [
+                    1671,
+                    1039
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BMNH (E)",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1664,
+                    1100
+                ],
+                [
+                    1664,
+                    1148
+                ],
+                [
+                    1889,
+                    1148
+                ],
+                [
+                    1889,
+                    1100
+                ],
+                [
+                    1664,
+                    1100
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "2010-119",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1700,
+                    658
+                ],
+                [
+                    1700,
+                    731
+                ],
+                [
+                    2008,
+                    731
+                ],
+                [
+                    2008,
+                    658
+                ],
+                [
+                    1700,
+                    658
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herts MV",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1630,
+                    734
+                ],
+                [
+                    1630,
+                    816
+                ],
+                [
+                    2043,
+                    816
+                ],
+                [
+                    2043,
+                    734
+                ],
+                [
+                    1630,
+                    734
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "14:8 :1973",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1628,
+                    811
+                ],
+                [
+                    1628,
+                    873
+                ],
+                [
+                    2050,
+                    873
+                ],
+                [
+                    2050,
+                    811
+                ],
+                [
+                    1628,
+                    811
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "B.G.Withers",
+            "worker_version": null
+        }
+    ]
+}

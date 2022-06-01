@@ -1,0 +1,27 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "698eca92-2431-40db-b926-2bbd49e5a6e4",
+        "name": "dev"
+    },
+    "image": {
+        "id": "f24d4831-78cc-43c7-8bc4-a78cc8db56dd",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/64843042-8701-4421-8ee6-236351650027",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/64843042-8701-4421-8ee6-236351650027/full/full/0/default.jpg"
+    },
+    "named_entities": [
+        {
+            "tags": "NHMUK010515925 B-identifier",
+            "worker_version_id": null
+        },
+        {
+            "tags": "BRIDGEWATER B-location_name\n. I-location_name\n16 B-date\n. I-date\n7 I-date\n. I-date\n07 I-date",
+            "worker_version_id": null
+        }
+    ],
+    "page": {
+        "id": "df18c629-f22b-44e0-9173-893827244a44",
+        "name": "010515925_136852_1082903.2500x5792.jpeg",
+        "rotation_angle": 0
+    }
+}

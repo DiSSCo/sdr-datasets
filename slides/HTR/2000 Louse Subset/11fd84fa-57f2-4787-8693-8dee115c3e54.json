@@ -1,0 +1,181 @@
+{
+    "dataset_id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+    "folder": {
+        "id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+        "name": "2000 Louse Subset"
+    },
+    "image": {
+        "id": "858f946c-92de-4060-82be-271f6c03aaab",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/342725a6-5d9f-4f00-aab1-96a6490dc081",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/342725a6-5d9f-4f00-aab1-96a6490dc081/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "11fd84fa-57f2-4787-8693-8dee115c3e54",
+        "name": "55",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    6301,
+                    434
+                ],
+                [
+                    6301,
+                    2551
+                ],
+                [
+                    6809,
+                    2551
+                ],
+                [
+                    6809,
+                    434
+                ],
+                [
+                    6301,
+                    434
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "White Goshwak.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    917,
+                    513
+                ],
+                [
+                    935,
+                    2641
+                ],
+                [
+                    1835,
+                    2641
+                ],
+                [
+                    1817,
+                    513
+                ],
+                [
+                    917,
+                    513
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Colocephalum",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    3542,
+                    2135
+                ],
+                [
+                    3542,
+                    2220
+                ],
+                [
+                    3970,
+                    2220
+                ],
+                [
+                    3970,
+                    2135
+                ],
+                [
+                    3542,
+                    2135
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6950,
+                    489
+                ],
+                [
+                    6950,
+                    2574
+                ],
+                [
+                    7482,
+                    2574
+                ],
+                [
+                    7482,
+                    489
+                ],
+                [
+                    6950,
+                    489
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Lon. Zoo. Gdns.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    2477,
+                    1315
+                ],
+                [
+                    2477,
+                    2410
+                ],
+                [
+                    2912,
+                    2410
+                ],
+                [
+                    2912,
+                    1315
+                ],
+                [
+                    2477,
+                    1315
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Larva.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    3915,
+                    2178
+                ],
+                [
+                    3915,
+                    2606
+                ],
+                [
+                    4062,
+                    2606
+                ],
+                [
+                    4062,
+                    2178
+                ],
+                [
+                    3915,
+                    2178
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "010654795",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        }
+    ]
+}

@@ -1,0 +1,636 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "01461701-dd48-4a27-ab96-27ee9853e15d",
+        "name": "NHM London"
+    },
+    "image": {
+        "id": "82a8d137-f39b-46e0-a139-8bfc944b4b2a",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FBM000625345.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FBM000625345.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "73cb49aa-e052-4c82-bf11-a6357779ca5e",
+        "name": "BM000625345",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    167,
+                    30
+                ],
+                [
+                    167,
+                    41
+                ],
+                [
+                    348,
+                    41
+                ],
+                [
+                    348,
+                    30
+                ],
+                [
+                    167,
+                    30
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "THE NATURAL HISTORY MUSEUM, LONDON",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    198,
+                    42
+                ],
+                [
+                    198,
+                    55
+                ],
+                [
+                    329,
+                    55
+                ],
+                [
+                    329,
+                    42
+                ],
+                [
+                    198,
+                    42
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "DEPARTMENT OF BOTANY",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    206,
+                    85
+                ],
+                [
+                    206,
+                    101
+                ],
+                [
+                    319,
+                    101
+                ],
+                [
+                    319,
+                    85
+                ],
+                [
+                    206,
+                    85
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BM000625345",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1292,
+                    1559
+                ],
+                [
+                    1292,
+                    1606
+                ],
+                [
+                    1375,
+                    1606
+                ],
+                [
+                    1375,
+                    1559
+                ],
+                [
+                    1292,
+                    1559
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "VC.64",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    997,
+                    1567
+                ],
+                [
+                    997,
+                    1595
+                ],
+                [
+                    1247,
+                    1595
+                ],
+                [
+                    1247,
+                    1567
+                ],
+                [
+                    997,
+                    1567
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Cypripedium calceolus L.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1018,
+                    1856
+                ],
+                [
+                    1018,
+                    1883
+                ],
+                [
+                    1276,
+                    1883
+                ],
+                [
+                    1276,
+                    1856
+                ],
+                [
+                    1018,
+                    1856
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Collected by THOS. J. FOGGITT.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    956,
+                    1707
+                ],
+                [
+                    1027,
+                    1704
+                ],
+                [
+                    1034,
+                    1717
+                ],
+                [
+                    1038,
+                    1706
+                ],
+                [
+                    1119,
+                    1705
+                ],
+                [
+                    1116,
+                    1716
+                ],
+                [
+                    1138,
+                    1716
+                ],
+                [
+                    1150,
+                    1704
+                ],
+                [
+                    1199,
+                    1702
+                ],
+                [
+                    1281,
+                    1705
+                ],
+                [
+                    1289,
+                    1698
+                ],
+                [
+                    1277,
+                    1667
+                ],
+                [
+                    1171,
+                    1667
+                ],
+                [
+                    1160,
+                    1679
+                ],
+                [
+                    960,
+                    1680
+                ],
+                [
+                    956,
+                    1707
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "No. 1470 Order 79. Orchidea",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    955,
+                    1734
+                ],
+                [
+                    1027,
+                    1733
+                ],
+                [
+                    1031,
+                    1745
+                ],
+                [
+                    1041,
+                    1745
+                ],
+                [
+                    1065,
+                    1734
+                ],
+                [
+                    1081,
+                    1742
+                ],
+                [
+                    1344,
+                    1735
+                ],
+                [
+                    1348,
+                    1728
+                ],
+                [
+                    1342,
+                    1707
+                ],
+                [
+                    1306,
+                    1707
+                ],
+                [
+                    1308,
+                    1696
+                ],
+                [
+                    1297,
+                    1697
+                ],
+                [
+                    1294,
+                    1704
+                ],
+                [
+                    1281,
+                    1704
+                ],
+                [
+                    1190,
+                    1702
+                ],
+                [
+                    1149,
+                    1703
+                ],
+                [
+                    1138,
+                    1716
+                ],
+                [
+                    1117,
+                    1717
+                ],
+                [
+                    1118,
+                    1705
+                ],
+                [
+                    1039,
+                    1707
+                ],
+                [
+                    1034,
+                    1718
+                ],
+                [
+                    1025,
+                    1703
+                ],
+                [
+                    957,
+                    1708
+                ],
+                [
+                    955,
+                    1734
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Name Cypripedium Calceolus Linn.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    974,
+                    1763
+                ],
+                [
+                    1111,
+                    1761
+                ],
+                [
+                    1113,
+                    1744
+                ],
+                [
+                    1080,
+                    1743
+                ],
+                [
+                    1065,
+                    1734
+                ],
+                [
+                    1040,
+                    1747
+                ],
+                [
+                    1030,
+                    1745
+                ],
+                [
+                    1026,
+                    1734
+                ],
+                [
+                    975,
+                    1735
+                ],
+                [
+                    974,
+                    1763
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Ex horteri :",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    955,
+                    1795
+                ],
+                [
+                    1077,
+                    1792
+                ],
+                [
+                    1104,
+                    1802
+                ],
+                [
+                    1136,
+                    1801
+                ],
+                [
+                    1147,
+                    1792
+                ],
+                [
+                    1292,
+                    1793
+                ],
+                [
+                    1288,
+                    1759
+                ],
+                [
+                    1138,
+                    1759
+                ],
+                [
+                    957,
+                    1764
+                ],
+                [
+                    955,
+                    1795
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Habitat Arncliffe, Littondale",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1169,
+                    1792
+                ],
+                [
+                    1172,
+                    1817
+                ],
+                [
+                    1231,
+                    1816
+                ],
+                [
+                    1248,
+                    1829
+                ],
+                [
+                    1258,
+                    1818
+                ],
+                [
+                    1344,
+                    1819
+                ],
+                [
+                    1352,
+                    1805
+                ],
+                [
+                    1317,
+                    1784
+                ],
+                [
+                    1282,
+                    1787
+                ],
+                [
+                    1274,
+                    1793
+                ],
+                [
+                    1169,
+                    1792
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "N.W. Yorkshire",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    954,
+                    1845
+                ],
+                [
+                    1004,
+                    1854
+                ],
+                [
+                    1078,
+                    1857
+                ],
+                [
+                    1087,
+                    1852
+                ],
+                [
+                    1237,
+                    1850
+                ],
+                [
+                    1267,
+                    1837
+                ],
+                [
+                    1232,
+                    1818
+                ],
+                [
+                    1221,
+                    1814
+                ],
+                [
+                    1169,
+                    1819
+                ],
+                [
+                    1020,
+                    1807
+                ],
+                [
+                    959,
+                    1810
+                ],
+                [
+                    954,
+                    1845
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Date 11 June 1930 Vice County 64",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    167,
+                    1891
+                ],
+                [
+                    167,
+                    1941
+                ],
+                [
+                    226,
+                    1941
+                ],
+                [
+                    226,
+                    1891
+                ],
+                [
+                    167,
+                    1891
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "623",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1368,
+                    1929
+                ],
+                [
+                    1368,
+                    1968
+                ],
+                [
+                    1398,
+                    1968
+                ],
+                [
+                    1398,
+                    1929
+                ],
+                [
+                    1368,
+                    1929
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "1",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1078,
+                    10
+                ],
+                [
+                    1078,
+                    38
+                ],
+                [
+                    1371,
+                    38
+                ],
+                [
+                    1371,
+                    10
+                ],
+                [
+                    1078,
+                    10
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB. T. J. FOGGITT - Bequeathed 1935",
+            "worker_version": null
+        }
+    ]
+}

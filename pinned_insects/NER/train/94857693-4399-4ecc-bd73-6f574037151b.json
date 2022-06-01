@@ -1,0 +1,31 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "59a16bfa-b1ed-481f-a5dd-e22421566949",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/4de189f3-00ba-4976-ad40-1fa61086898c",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/4de189f3-00ba-4976-ad40-1fa61086898c/full/full/0/default.jpg"
+    },
+    "named_entities": [
+        {
+            "tags": "Ex B-Collection/Donation\n. I-Collection/Donation\nF I-Collection/Donation\n. I-Collection/Donation\nM I-Collection/Donation\n. I-Collection/Donation\nS I-Collection/Donation\n. I-Collection/Donation\nMuseum I-Collection/Donation\n. I-Collection/Donation\nB B-identifier\n. I-identifier\nM I-identifier\n. I-identifier\n1955 I-identifier\n- I-identifier\n354 I-identifier",
+            "worker_version_id": null
+        },
+        {
+            "tags": "NHMUK012495948 B-identifier",
+            "worker_version_id": null
+        },
+        {
+            "tags": "Lubok B-location_name\nTamang I-location_name\nLipis I-location_name\nDistrict I-location_name\nPahang I-location_name\n3500ft I-location_name\n. I-location_name\nJune B-date\n, I-date\n1923 I-date\n, I-date\nF B-person_name\n. I-person_name\nN I-person_name\n. I-person_name\nC I-person_name\n. I-person_name",
+            "worker_version_id": null
+        }
+    ],
+    "page": {
+        "id": "94857693-4399-4ecc-bd73-6f574037151b",
+        "name": "012495948_111982_87806.2500x4009.jpeg",
+        "rotation_angle": 0
+    }
+}

@@ -1,0 +1,208 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "438d96cb-88a1-4786-a83a-08301ba7e92a",
+        "name": "BGBM"
+    },
+    "image": {
+        "id": "bf176be5-2883-4284-90c0-2188a87369c1",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FB_10_0375247.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FB_10_0375247.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "eb22a68c-f491-438f-865e-d4a37abf24c3",
+        "name": "B_10_0375247",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    4025,
+                    10425
+                ],
+                [
+                    4779,
+                    10411
+                ],
+                [
+                    4765,
+                    10307
+                ],
+                [
+                    4029,
+                    10330
+                ],
+                [
+                    4025,
+                    10425
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Mus. Bot. Berol.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4151,
+                    10596
+                ],
+                [
+                    4174,
+                    10659
+                ],
+                [
+                    4639,
+                    10646
+                ],
+                [
+                    4643,
+                    10582
+                ],
+                [
+                    4151,
+                    10596
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "B 10 0375247",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    5624,
+                    10284
+                ],
+                [
+                    6739,
+                    10302
+                ],
+                [
+                    6748,
+                    10135
+                ],
+                [
+                    5628,
+                    10112
+                ],
+                [
+                    5624,
+                    10284
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "?????????? 19",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    5665,
+                    10568
+                ],
+                [
+                    6658,
+                    10591
+                ],
+                [
+                    6662,
+                    10383
+                ],
+                [
+                    5674,
+                    10360
+                ],
+                [
+                    5665,
+                    10568
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Mus. bot. Berol.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    38,
+                    4083
+                ],
+                [
+                    38,
+                    4923
+                ],
+                [
+                    181,
+                    4923
+                ],
+                [
+                    181,
+                    4083
+                ],
+                [
+                    38,
+                    4083
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "copyright reserved",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    16,
+                    5181
+                ],
+                [
+                    16,
+                    5647
+                ],
+                [
+                    188,
+                    5647
+                ],
+                [
+                    188,
+                    5181
+                ],
+                [
+                    16,
+                    5181
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BGBM",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    198,
+                    2371
+                ],
+                [
+                    198,
+                    4969
+                ],
+                [
+                    315,
+                    4969
+                ],
+                [
+                    315,
+                    2371
+                ],
+                [
+                    198,
+                    2371
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "0    1    2    3    4    5    6    7    8    9    10",
+            "worker_version": null
+        }
+    ]
+}

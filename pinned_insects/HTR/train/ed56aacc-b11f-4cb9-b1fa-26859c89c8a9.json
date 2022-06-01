@@ -1,0 +1,154 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "1484cec2-61ed-4ba0-98cd-5bec0d459e6f",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/d5305503-d9a1-4e6e-a39f-2d03c6feca38",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/d5305503-d9a1-4e6e-a39f-2d03c6feca38/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "ed56aacc-b11f-4cb9-b1fa-26859c89c8a9",
+        "name": "010619516_136912_1084980.2500x3456.jpeg",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    1793,
+                    1337
+                ],
+                [
+                    1793,
+                    1386
+                ],
+                [
+                    2295,
+                    1388
+                ],
+                [
+                    2295,
+                    1337
+                ],
+                [
+                    1793,
+                    1337
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHM010619516",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1794,
+                    868
+                ],
+                [
+                    1794,
+                    911
+                ],
+                [
+                    2338,
+                    902
+                ],
+                [
+                    2338,
+                    863
+                ],
+                [
+                    1794,
+                    868
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Mathew's Collection",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1935,
+                    918
+                ],
+                [
+                    1937,
+                    961
+                ],
+                [
+                    2180,
+                    956
+                ],
+                [
+                    2179,
+                    912
+                ],
+                [
+                    1935,
+                    918
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Stevens's",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1826,
+                    970
+                ],
+                [
+                    1827,
+                    1020
+                ],
+                [
+                    2291,
+                    1007
+                ],
+                [
+                    2289,
+                    962
+                ],
+                [
+                    1826,
+                    970
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "28 & 29. iv. 1914.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1749,
+                    707
+                ],
+                [
+                    1751,
+                    785
+                ],
+                [
+                    2157,
+                    799
+                ],
+                [
+                    2158,
+                    720
+                ],
+                [
+                    1749,
+                    707
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Norfolk 02",
+            "worker_version": null
+        }
+    ]
+}

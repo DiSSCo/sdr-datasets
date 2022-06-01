@@ -1,0 +1,834 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "635f3d84-ced6-4b17-b64a-86be7aa87304",
+        "name": "Naturalis"
+    },
+    "image": {
+        "id": "23c98e04-f79b-497d-99be-11912429f341",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FL.2272418.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FL.2272418.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "7a2bfe5f-a2fd-4d75-842f-a1079770a442",
+        "name": "L.2272418",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    2367,
+                    106
+                ],
+                [
+                    2367,
+                    184
+                ],
+                [
+                    2791,
+                    184
+                ],
+                [
+                    2791,
+                    106
+                ],
+                [
+                    2367,
+                    106
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB. LUGD. BAT.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2833,
+                    111
+                ],
+                [
+                    2833,
+                    216
+                ],
+                [
+                    3323,
+                    216
+                ],
+                [
+                    3323,
+                    111
+                ],
+                [
+                    2833,
+                    111
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "\u2116922.320...603",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2717,
+                    3537
+                ],
+                [
+                    2717,
+                    3595
+                ],
+                [
+                    2914,
+                    3595
+                ],
+                [
+                    2914,
+                    3537
+                ],
+                [
+                    2717,
+                    3537
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "L.2272418",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3054,
+                    3970
+                ],
+                [
+                    3054,
+                    4018
+                ],
+                [
+                    3405,
+                    4018
+                ],
+                [
+                    3405,
+                    3970
+                ],
+                [
+                    3054,
+                    3970
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Anacardiac.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2714,
+                    4015
+                ],
+                [
+                    2714,
+                    4070
+                ],
+                [
+                    3140,
+                    4070
+                ],
+                [
+                    3140,
+                    4015
+                ],
+                [
+                    2714,
+                    4015
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Flora Malesiana",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2401,
+                    4018
+                ],
+                [
+                    2401,
+                    4057
+                ],
+                [
+                    2569,
+                    4057
+                ],
+                [
+                    2569,
+                    4018
+                ],
+                [
+                    2401,
+                    4018
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Revised for",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2438,
+                    4138
+                ],
+                [
+                    2438,
+                    4215
+                ],
+                [
+                    3332,
+                    4215
+                ],
+                [
+                    3332,
+                    4138
+                ],
+                [
+                    2438,
+                    4138
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Semecarpus heterophyllus Bl.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2378,
+                    4310
+                ],
+                [
+                    2378,
+                    4387
+                ],
+                [
+                    2738,
+                    4387
+                ],
+                [
+                    2738,
+                    4310
+                ],
+                [
+                    2378,
+                    4310
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "det. Ding Hou",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2947,
+                    4309
+                ],
+                [
+                    2947,
+                    4377
+                ],
+                [
+                    3171,
+                    4377
+                ],
+                [
+                    3171,
+                    4309
+                ],
+                [
+                    2947,
+                    4309
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "8/1972",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2715,
+                    4497
+                ],
+                [
+                    2715,
+                    4555
+                ],
+                [
+                    3396,
+                    4555
+                ],
+                [
+                    3396,
+                    4497
+                ],
+                [
+                    2715,
+                    4497
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Communic. ex Museo Botanico Hort. Bogor.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2655,
+                    4555
+                ],
+                [
+                    2655,
+                    4632
+                ],
+                [
+                    3460,
+                    4632
+                ],
+                [
+                    3460,
+                    4555
+                ],
+                [
+                    2655,
+                    4555
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Semecarpus albescens Kurz",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2701,
+                    4633
+                ],
+                [
+                    2706,
+                    4656
+                ],
+                [
+                    2850,
+                    4659
+                ],
+                [
+                    2858,
+                    4636
+                ],
+                [
+                    2701,
+                    4633
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Insula Java",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2642,
+                    4680
+                ],
+                [
+                    2876,
+                    4683
+                ],
+                [
+                    2879,
+                    4659
+                ],
+                [
+                    2697,
+                    4656
+                ],
+                [
+                    2691,
+                    4635
+                ],
+                [
+                    2654,
+                    4636
+                ],
+                [
+                    2642,
+                    4680
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Provincia",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2637,
+                    4739
+                ],
+                [
+                    2900,
+                    4732
+                ],
+                [
+                    2916,
+                    4687
+                ],
+                [
+                    2652,
+                    4682
+                ],
+                [
+                    2637,
+                    4739
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Banjumas",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3126,
+                    4636
+                ],
+                [
+                    3126,
+                    4670
+                ],
+                [
+                    3409,
+                    4674
+                ],
+                [
+                    3426,
+                    4640
+                ],
+                [
+                    3126,
+                    4636
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Legit: S.H. Koorders",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2913,
+                    4739
+                ],
+                [
+                    3246,
+                    4734
+                ],
+                [
+                    3255,
+                    4677
+                ],
+                [
+                    2928,
+                    4669
+                ],
+                [
+                    2913,
+                    4739
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herb. Kds. 12159 B",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2412,
+                    4873
+                ],
+                [
+                    2412,
+                    4941
+                ],
+                [
+                    2532,
+                    4941
+                ],
+                [
+                    2532,
+                    4873
+                ],
+                [
+                    2412,
+                    4873
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "No.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2530,
+                    4981
+                ],
+                [
+                    2530,
+                    5055
+                ],
+                [
+                    3405,
+                    5055
+                ],
+                [
+                    3405,
+                    4981
+                ],
+                [
+                    2530,
+                    4981
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Communic. ex. Herb. Hort. Bot. Bog.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2371,
+                    5086
+                ],
+                [
+                    2371,
+                    5193
+                ],
+                [
+                    3393,
+                    5193
+                ],
+                [
+                    3393,
+                    5086
+                ],
+                [
+                    2371,
+                    5086
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Semecarpus albescens Kurz.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2550,
+                    5331
+                ],
+                [
+                    2550,
+                    5394
+                ],
+                [
+                    3069,
+                    5394
+                ],
+                [
+                    3069,
+                    5331
+                ],
+                [
+                    2550,
+                    5331
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Archipel. Ind. Java.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2415,
+                    5500
+                ],
+                [
+                    3476,
+                    5454
+                ],
+                [
+                    3487,
+                    5381
+                ],
+                [
+                    3083,
+                    5384
+                ],
+                [
+                    3066,
+                    5399
+                ],
+                [
+                    3053,
+                    5396
+                ],
+                [
+                    2438,
+                    5402
+                ],
+                [
+                    2415,
+                    5500
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "afd Bandjarnegara Res. Banjoemas",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2534,
+                    5577
+                ],
+                [
+                    2545,
+                    5650
+                ],
+                [
+                    2647,
+                    5652
+                ],
+                [
+                    3190,
+                    5665
+                ],
+                [
+                    3325,
+                    5637
+                ],
+                [
+                    3335,
+                    5569
+                ],
+                [
+                    2534,
+                    5577
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Leg. Koorders. \u2116 12159 B",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3189,
+                    5740
+                ],
+                [
+                    3489,
+                    5748
+                ],
+                [
+                    3489,
+                    5696
+                ],
+                [
+                    3328,
+                    5644
+                ],
+                [
+                    3213,
+                    5668
+                ],
+                [
+                    3189,
+                    5740
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "15/9 - 92.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2538,
+                    5659
+                ],
+                [
+                    2542,
+                    5759
+                ],
+                [
+                    2902,
+                    5756
+                ],
+                [
+                    2910,
+                    5667
+                ],
+                [
+                    2538,
+                    5659
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "det. Th. V.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2310,
+                    5866
+                ],
+                [
+                    3015,
+                    5869
+                ],
+                [
+                    3009,
+                    5766
+                ],
+                [
+                    2339,
+                    5777
+                ],
+                [
+                    2310,
+                    5866
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "n. ind. Rengas J.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1628,
+                    5631
+                ],
+                [
+                    1628,
+                    5738
+                ],
+                [
+                    1939,
+                    5738
+                ],
+                [
+                    1939,
+                    5631
+                ],
+                [
+                    1628,
+                    5631
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "201530",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1587,
+                    5770
+                ],
+                [
+                    1587,
+                    5809
+                ],
+                [
+                    1967,
+                    5809
+                ],
+                [
+                    1967,
+                    5770
+                ],
+                [
+                    1587,
+                    5770
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Nationaal Herbarium Nederland",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1660,
+                    5874
+                ],
+                [
+                    1660,
+                    5926
+                ],
+                [
+                    1869,
+                    5926
+                ],
+                [
+                    1869,
+                    5874
+                ],
+                [
+                    1660,
+                    5874
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "L. 0725368",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1378,
+                    5019
+                ],
+                [
+                    1378,
+                    5238
+                ],
+                [
+                    1769,
+                    5238
+                ],
+                [
+                    1769,
+                    5019
+                ],
+                [
+                    1378,
+                    5019
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "12159 B",
+            "worker_version": null
+        }
+    ]
+}

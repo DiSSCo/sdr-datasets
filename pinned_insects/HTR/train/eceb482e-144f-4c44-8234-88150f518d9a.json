@@ -1,0 +1,100 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "b56c961d-d64a-4e6e-965f-0e7e070683d1",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/e5aa4117-5ef1-4275-8350-cf05ea2acf90",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/e5aa4117-5ef1-4275-8350-cf05ea2acf90/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "eceb482e-144f-4c44-8234-88150f518d9a",
+        "name": "012542159_136821_1082909.2500x5792.jpeg",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    1478,
+                    1250
+                ],
+                [
+                    1478,
+                    1312
+                ],
+                [
+                    2047,
+                    1312
+                ],
+                [
+                    2047,
+                    1250
+                ],
+                [
+                    1478,
+                    1250
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK 012542159",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1477,
+                    750
+                ],
+                [
+                    1477,
+                    809
+                ],
+                [
+                    1865,
+                    809
+                ],
+                [
+                    1865,
+                    750
+                ],
+                [
+                    1477,
+                    750
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "J.H. Wood Coll.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1477,
+                    811
+                ],
+                [
+                    1477,
+                    872
+                ],
+                [
+                    1952,
+                    872
+                ],
+                [
+                    1952,
+                    811
+                ],
+                [
+                    1477,
+                    811
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BMNH (E) 1966-56",
+            "worker_version": null
+        }
+    ]
+}

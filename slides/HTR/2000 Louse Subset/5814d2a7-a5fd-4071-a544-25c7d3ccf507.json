@@ -1,0 +1,262 @@
+{
+    "dataset_id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+    "folder": {
+        "id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+        "name": "2000 Louse Subset"
+    },
+    "image": {
+        "id": "b6e7ae68-dc1b-47c3-bf82-0b53b7f34482",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fsynthesys%2Fslides_images%2F5814d2a7-a5fd-4071-a544-25c7d3ccf507.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fsynthesys%2Fslides_images%2F5814d2a7-a5fd-4071-a544-25c7d3ccf507.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "5814d2a7-a5fd-4071-a544-25c7d3ccf507",
+        "name": "142",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    694,
+                    7520
+                ],
+                [
+                    694,
+                    7983
+                ],
+                [
+                    2703,
+                    7983
+                ],
+                [
+                    2703,
+                    7520
+                ],
+                [
+                    694,
+                    7520
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Columbicola",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    1072,
+                    210
+                ],
+                [
+                    1072,
+                    610
+                ],
+                [
+                    1998,
+                    610
+                ],
+                [
+                    1998,
+                    210
+                ],
+                [
+                    1072,
+                    210
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "7363.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    455,
+                    4639
+                ],
+                [
+                    455,
+                    4758
+                ],
+                [
+                    900,
+                    4758
+                ],
+                [
+                    900,
+                    4639
+                ],
+                [
+                    455,
+                    4639
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "010672728",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    384,
+                    4752
+                ],
+                [
+                    384,
+                    5090
+                ],
+                [
+                    497,
+                    5090
+                ],
+                [
+                    497,
+                    4752
+                ],
+                [
+                    384,
+                    4752
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    283,
+                    441
+                ],
+                [
+                    283,
+                    820
+                ],
+                [
+                    1009,
+                    820
+                ],
+                [
+                    1009,
+                    441
+                ],
+                [
+                    283,
+                    441
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "1936.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    368,
+                    578
+                ],
+                [
+                    368,
+                    1051
+                ],
+                [
+                    2671,
+                    1051
+                ],
+                [
+                    2671,
+                    578
+                ],
+                [
+                    368,
+                    578
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Kenya. March",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    357,
+                    1093
+                ],
+                [
+                    357,
+                    1609
+                ],
+                [
+                    2661,
+                    1609
+                ],
+                [
+                    2661,
+                    1093
+                ],
+                [
+                    357,
+                    1093
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "capicola tropica.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    746,
+                    1472
+                ],
+                [
+                    746,
+                    1945
+                ],
+                [
+                    2692,
+                    1945
+                ],
+                [
+                    2692,
+                    1472
+                ],
+                [
+                    746,
+                    1472
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Streptopelia",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    473,
+                    2082
+                ],
+                [
+                    473,
+                    2450
+                ],
+                [
+                    2513,
+                    2450
+                ],
+                [
+                    2513,
+                    2082
+                ],
+                [
+                    473,
+                    2082
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "MEINERTZHAGEN",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        }
+    ]
+}

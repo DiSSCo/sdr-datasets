@@ -1,0 +1,27 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "7c4b0235-e44f-4c21-b68d-8d17c393b6da",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/c6cb3fac-2bd2-4697-8db0-c44cbbaf772f",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/c6cb3fac-2bd2-4697-8db0-c44cbbaf772f/full/full/0/default.jpg"
+    },
+    "named_entities": [
+        {
+            "tags": "NHMUK B-identifier\n012541753 I-identifier",
+            "worker_version_id": null
+        },
+        {
+            "tags": "Assynt B-location_name\nSUTHERLAND I-location_name\nSCOTLAND I-location_name\n1 B-date\n. I-date\nVI I-date\n. I-date\n1911 I-date\nEsson B-person_name\nC B-person_name\n. I-person_name\nRthschld I-person_name\n. I-person_name",
+            "worker_version_id": null
+        }
+    ],
+    "page": {
+        "id": "d824766a-df57-4b4f-ad64-80cbb066dc81",
+        "name": "012541753_136809_1083186.2500x5792.jpeg",
+        "rotation_angle": 0
+    }
+}

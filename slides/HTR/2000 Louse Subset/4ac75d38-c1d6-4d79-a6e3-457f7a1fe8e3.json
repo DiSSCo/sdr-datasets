@@ -1,0 +1,262 @@
+{
+    "dataset_id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+    "folder": {
+        "id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+        "name": "2000 Louse Subset"
+    },
+    "image": {
+        "id": "45588fa0-74d2-4396-b642-c936c16a026d",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fsynthesys%2Fslides_images%2F4ac75d38-c1d6-4d79-a6e3-457f7a1fe8e3.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fsynthesys%2Fslides_images%2F4ac75d38-c1d6-4d79-a6e3-457f7a1fe8e3.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "4ac75d38-c1d6-4d79-a6e3-457f7a1fe8e3",
+        "name": "157",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    703,
+                    6564
+                ],
+                [
+                    703,
+                    7070
+                ],
+                [
+                    2580,
+                    7070
+                ],
+                [
+                    2580,
+                    6564
+                ],
+                [
+                    703,
+                    6564
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Degeeriella",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    2376,
+                    4562
+                ],
+                [
+                    2376,
+                    4716
+                ],
+                [
+                    2805,
+                    4716
+                ],
+                [
+                    2805,
+                    4562
+                ],
+                [
+                    2376,
+                    4562
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "010673270",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    811,
+                    727
+                ],
+                [
+                    811,
+                    1062
+                ],
+                [
+                    2732,
+                    1062
+                ],
+                [
+                    2732,
+                    727
+                ],
+                [
+                    811,
+                    727
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "W. Davison.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    755,
+                    7100
+                ],
+                [
+                    755,
+                    7554
+                ],
+                [
+                    2467,
+                    7554
+                ],
+                [
+                    2467,
+                    7100
+                ],
+                [
+                    755,
+                    7100
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Immature",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    819,
+                    1039
+                ],
+                [
+                    819,
+                    1345
+                ],
+                [
+                    2330,
+                    1345
+                ],
+                [
+                    2330,
+                    1039
+                ],
+                [
+                    819,
+                    1039
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "31. xii. 1872",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    2275,
+                    4687
+                ],
+                [
+                    2275,
+                    5029
+                ],
+                [
+                    2410,
+                    5029
+                ],
+                [
+                    2410,
+                    4687
+                ],
+                [
+                    2275,
+                    4687
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    796,
+                    1367
+                ],
+                [
+                    796,
+                    1665
+                ],
+                [
+                    2613,
+                    1665
+                ],
+                [
+                    2613,
+                    1367
+                ],
+                [
+                    796,
+                    1367
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Andaman Is.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    573,
+                    1989
+                ],
+                [
+                    2852,
+                    1989
+                ],
+                [
+                    2859,
+                    1613
+                ],
+                [
+                    580,
+                    1613
+                ],
+                [
+                    573,
+                    1989
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Dunnyleaf Creek",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    521,
+                    2111
+                ],
+                [
+                    521,
+                    2469
+                ],
+                [
+                    2784,
+                    2469
+                ],
+                [
+                    2784,
+                    2111
+                ],
+                [
+                    521,
+                    2111
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Terekia cinerea",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        }
+    ]
+}

@@ -1,0 +1,343 @@
+{
+    "dataset_id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+    "folder": {
+        "id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+        "name": "2000 Louse Subset"
+    },
+    "image": {
+        "id": "cf5e97c1-d1bf-40c8-8efb-60036cd66575",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/b91c1a27-afb7-440d-add2-093231fafada",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/b91c1a27-afb7-440d-add2-093231fafada/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "785cd2aa-a58e-4518-8592-60962a8125bd",
+        "name": "36",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    3004,
+                    298
+                ],
+                [
+                    3004,
+                    417
+                ],
+                [
+                    3380,
+                    417
+                ],
+                [
+                    3380,
+                    298
+                ],
+                [
+                    3004,
+                    298
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    2509,
+                    341
+                ],
+                [
+                    2509,
+                    2609
+                ],
+                [
+                    2832,
+                    2609
+                ],
+                [
+                    2832,
+                    341
+                ],
+                [
+                    2509,
+                    341
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Det. W.C. SchaRF",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    7464,
+                    417
+                ],
+                [
+                    7464,
+                    2588
+                ],
+                [
+                    7830,
+                    2588
+                ],
+                [
+                    7830,
+                    417
+                ],
+                [
+                    7464,
+                    417
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Zoo (Burma)",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    3315,
+                    395
+                ],
+                [
+                    3315,
+                    825
+                ],
+                [
+                    3466,
+                    825
+                ],
+                [
+                    3466,
+                    395
+                ],
+                [
+                    3315,
+                    395
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "010651079",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    1864,
+                    395
+                ],
+                [
+                    1864,
+                    2072
+                ],
+                [
+                    2187,
+                    2072
+                ],
+                [
+                    2187,
+                    395
+                ],
+                [
+                    1864,
+                    395
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Emerson, 1961",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6336,
+                    503
+                ],
+                [
+                    6336,
+                    2545
+                ],
+                [
+                    6680,
+                    2545
+                ],
+                [
+                    6680,
+                    503
+                ],
+                [
+                    6336,
+                    503
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "MEINERTZHAGEN",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    1155,
+                    470
+                ],
+                [
+                    1155,
+                    2362
+                ],
+                [
+                    1553,
+                    2362
+                ],
+                [
+                    1553,
+                    470
+                ],
+                [
+                    1155,
+                    470
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "(Angimenopon)",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    7002,
+                    545
+                ],
+                [
+                    7002,
+                    2760
+                ],
+                [
+                    7324,
+                    2760
+                ],
+                [
+                    7324,
+                    545
+                ],
+                [
+                    7002,
+                    545
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Pavo muticus",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    650,
+                    685
+                ],
+                [
+                    650,
+                    2534
+                ],
+                [
+                    1273,
+                    2534
+                ],
+                [
+                    1273,
+                    685
+                ],
+                [
+                    650,
+                    685
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Amyrsidea",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    8206,
+                    1094
+                ],
+                [
+                    8206,
+                    1932
+                ],
+                [
+                    8528,
+                    1932
+                ],
+                [
+                    8528,
+                    1094
+                ],
+                [
+                    8206,
+                    1094
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "1138.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    1553,
+                    1169
+                ],
+                [
+                    1553,
+                    2405
+                ],
+                [
+                    1875,
+                    2405
+                ],
+                [
+                    1875,
+                    1169
+                ],
+                [
+                    1553,
+                    1169
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "minuta",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6755,
+                    1631
+                ],
+                [
+                    6755,
+                    1911
+                ],
+                [
+                    7099,
+                    1911
+                ],
+                [
+                    7099,
+                    1631
+                ],
+                [
+                    6755,
+                    1631
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "\u2640",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        }
+    ]
+}

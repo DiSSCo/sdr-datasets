@@ -1,0 +1,586 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "e28d3ac9-9c27-461f-a8d0-9f42d20da281",
+        "name": "Luomus"
+    },
+    "image": {
+        "id": "080ebeaf-d2c9-4392-b43a-48f31373d915",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FEIG.3644.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FEIG.3644.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "c8829350-7a4d-43ec-86a5-6542630b438c",
+        "name": "EIG.3644",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    4995,
+                    77
+                ],
+                [
+                    4995,
+                    212
+                ],
+                [
+                    5448,
+                    212
+                ],
+                [
+                    5448,
+                    77
+                ],
+                [
+                    4995,
+                    77
+                ]
+            ],
+            "rotation_angle": 180,
+            "transcription": "confluens",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1380,
+                    7316
+                ],
+                [
+                    1380,
+                    7577
+                ],
+                [
+                    1433,
+                    7577
+                ],
+                [
+                    1433,
+                    7316
+                ],
+                [
+                    1380,
+                    7316
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Digitarium",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1750,
+                    7359
+                ],
+                [
+                    1750,
+                    7415
+                ],
+                [
+                    2284,
+                    7415
+                ],
+                [
+                    2284,
+                    7359
+                ],
+                [
+                    1750,
+                    7359
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "http://id.luomus.fi/",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1869,
+                    7428
+                ],
+                [
+                    1869,
+                    7491
+                ],
+                [
+                    2145,
+                    7491
+                ],
+                [
+                    2145,
+                    7428
+                ],
+                [
+                    1869,
+                    7428
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "EIG.3644",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1841,
+                    7506
+                ],
+                [
+                    1841,
+                    7572
+                ],
+                [
+                    2160,
+                    7572
+                ],
+                [
+                    2160,
+                    7506
+                ],
+                [
+                    1841,
+                    7506
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "2013-04-03",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2378,
+                    7301
+                ],
+                [
+                    2383,
+                    7359
+                ],
+                [
+                    2998,
+                    7301
+                ],
+                [
+                    2998,
+                    7248
+                ],
+                [
+                    2378,
+                    7301
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "MUSEUM BOTANICUM",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2385,
+                    7435
+                ],
+                [
+                    3000,
+                    7374
+                ],
+                [
+                    2990,
+                    7314
+                ],
+                [
+                    2388,
+                    7367
+                ],
+                [
+                    2385,
+                    7435
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "UNIV. (H), HELSINKI",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2461,
+                    7460
+                ],
+                [
+                    2474,
+                    7562
+                ],
+                [
+                    2927,
+                    7524
+                ],
+                [
+                    2914,
+                    7420
+                ],
+                [
+                    2461,
+                    7460
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "1591217 ..",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2393,
+                    7620
+                ],
+                [
+                    2405,
+                    7724
+                ],
+                [
+                    2676,
+                    7698
+                ],
+                [
+                    2643,
+                    7587
+                ],
+                [
+                    2393,
+                    7620
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "QUADR.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4257,
+                    5568
+                ],
+                [
+                    4257,
+                    5727
+                ],
+                [
+                    5616,
+                    5727
+                ],
+                [
+                    5616,
+                    5568
+                ],
+                [
+                    4257,
+                    5568
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Deparia confluens (Kunze) M. Kato",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4777,
+                    5915
+                ],
+                [
+                    4777,
+                    5979
+                ],
+                [
+                    5466,
+                    5979
+                ],
+                [
+                    5466,
+                    5915
+                ],
+                [
+                    4777,
+                    5915
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "rev. JAAKKO SARVELA 1989",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4595,
+                    5987
+                ],
+                [
+                    4595,
+                    6048
+                ],
+                [
+                    5240,
+                    6048
+                ],
+                [
+                    5240,
+                    5987
+                ],
+                [
+                    4595,
+                    5987
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "University of Helsinki, Finland",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3377,
+                    6363
+                ],
+                [
+                    3377,
+                    6508
+                ],
+                [
+                    5431,
+                    6508
+                ],
+                [
+                    5431,
+                    6363
+                ],
+                [
+                    3377,
+                    6363
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "C. M\u00fcller, Herbarium javanicum. \u2116 240",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    5110,
+                    6158
+                ],
+                [
+                    5110,
+                    6300
+                ],
+                [
+                    5365,
+                    6300
+                ],
+                [
+                    5365,
+                    6158
+                ],
+                [
+                    5110,
+                    6158
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "fol. 2",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3502,
+                    6531
+                ],
+                [
+                    3502,
+                    6705
+                ],
+                [
+                    5367,
+                    6705
+                ],
+                [
+                    5367,
+                    6531
+                ],
+                [
+                    3502,
+                    6531
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Asplenium grammitoides Hook",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3371,
+                    6809
+                ],
+                [
+                    3371,
+                    6965
+                ],
+                [
+                    4387,
+                    6965
+                ],
+                [
+                    4387,
+                    6809
+                ],
+                [
+                    3371,
+                    6809
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Fundort: Wonosari",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4618,
+                    6844
+                ],
+                [
+                    4618,
+                    6977
+                ],
+                [
+                    5362,
+                    6977
+                ],
+                [
+                    5362,
+                    6844
+                ],
+                [
+                    4618,
+                    6844
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "H\u00f6he: 1200 m",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3357,
+                    6988
+                ],
+                [
+                    3357,
+                    7092
+                ],
+                [
+                    5393,
+                    7092
+                ],
+                [
+                    5393,
+                    6988
+                ],
+                [
+                    3357,
+                    6988
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Bemerkungen: An feuchtem Pestein & an",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3533,
+                    7098
+                ],
+                [
+                    3533,
+                    7272
+                ],
+                [
+                    4786,
+                    7272
+                ],
+                [
+                    4786,
+                    7098
+                ],
+                [
+                    3533,
+                    7098
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Fl\u00fcssen im Tengger",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4627,
+                    7405
+                ],
+                [
+                    4627,
+                    7529
+                ],
+                [
+                    5402,
+                    7529
+                ],
+                [
+                    5402,
+                    7405
+                ],
+                [
+                    4627,
+                    7405
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "leg. J. P. Mousset.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3441,
+                    7338
+                ],
+                [
+                    3441,
+                    7573
+                ],
+                [
+                    4398,
+                    7573
+                ],
+                [
+                    4398,
+                    7338
+                ],
+                [
+                    3441,
+                    7338
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Januar 1910",
+            "worker_version": null
+        }
+    ]
+}

@@ -1,0 +1,980 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "70771f04-7915-4ea6-ab09-1ef9009105f3",
+        "name": "Tartu"
+    },
+    "image": {
+        "id": "cfba1439-9b8f-47d2-bfc0-9ee5b3997b3e",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FTU253563.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FTU253563.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "f027b384-c948-4723-8a04-4fd6dc89602c",
+        "name": "TU253563",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    4605,
+                    110
+                ],
+                [
+                    4605,
+                    200
+                ],
+                [
+                    5708,
+                    159
+                ],
+                [
+                    5701,
+                    64
+                ],
+                [
+                    4605,
+                    110
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herbarium Universitatis",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4605,
+                    110
+                ],
+                [
+                    4605,
+                    200
+                ],
+                [
+                    5708,
+                    159
+                ],
+                [
+                    5701,
+                    64
+                ],
+                [
+                    4605,
+                    110
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herb\u00e1rium Universiteto",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4605,
+                    259
+                ],
+                [
+                    4626,
+                    366
+                ],
+                [
+                    5734,
+                    340
+                ],
+                [
+                    5721,
+                    225
+                ],
+                [
+                    4605,
+                    259
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Tartuensis (TU)",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4605,
+                    259
+                ],
+                [
+                    4626,
+                    366
+                ],
+                [
+                    5734,
+                    340
+                ],
+                [
+                    5721,
+                    225
+                ],
+                [
+                    4605,
+                    259
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Ta tuensis ( TU )",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1662,
+                    7063
+                ],
+                [
+                    2466,
+                    7057
+                ],
+                [
+                    2478,
+                    6911
+                ],
+                [
+                    1670,
+                    6920
+                ],
+                [
+                    1662,
+                    7063
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "TU253563",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1662,
+                    7063
+                ],
+                [
+                    2466,
+                    7057
+                ],
+                [
+                    2478,
+                    6911
+                ],
+                [
+                    1670,
+                    6920
+                ],
+                [
+                    1662,
+                    7063
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "T0253563",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1361,
+                    7204
+                ],
+                [
+                    1366,
+                    7286
+                ],
+                [
+                    2607,
+                    7290
+                ],
+                [
+                    2602,
+                    7183
+                ],
+                [
+                    1361,
+                    7204
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "TARTU RIIKLIKU \u00dcLIKOOLI",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1361,
+                    7204
+                ],
+                [
+                    1366,
+                    7286
+                ],
+                [
+                    2607,
+                    7290
+                ],
+                [
+                    2602,
+                    7183
+                ],
+                [
+                    1361,
+                    7204
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "TARTU RIIKLIKU \u00dcLIKOOLI",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    604,
+                    7122
+                ],
+                [
+                    612,
+                    7241
+                ],
+                [
+                    710,
+                    7245
+                ],
+                [
+                    714,
+                    7122
+                ],
+                [
+                    604,
+                    7122
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "B",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    739,
+                    7310
+                ],
+                [
+                    3151,
+                    7290
+                ],
+                [
+                    3155,
+                    7380
+                ],
+                [
+                    743,
+                    7380
+                ],
+                [
+                    747,
+                    7380
+                ],
+                [
+                    739,
+                    7310
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "TAIMESUSTEMAATIKA JA GEOBOTAANIKA KATEEDRI",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    739,
+                    7310
+                ],
+                [
+                    3151,
+                    7290
+                ],
+                [
+                    3155,
+                    7380
+                ],
+                [
+                    743,
+                    7380
+                ],
+                [
+                    747,
+                    7380
+                ],
+                [
+                    739,
+                    7310
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "TAIMESUSTEMAATIKA JA GEOBOTAANIKA KATEEDRI",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1067,
+                    7527
+                ],
+                [
+                    2824,
+                    7515
+                ],
+                [
+                    2819,
+                    7417
+                ],
+                [
+                    1079,
+                    7425
+                ],
+                [
+                    1067,
+                    7527
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "EESTI NSV TAIMEDE HERBAARIUM",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1067,
+                    7527
+                ],
+                [
+                    2824,
+                    7515
+                ],
+                [
+                    2819,
+                    7417
+                ],
+                [
+                    1079,
+                    7425
+                ],
+                [
+                    1067,
+                    7527
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "EESTI NSV TAIMEDE HERBAARIUM",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2557,
+                    7634
+                ],
+                [
+                    3209,
+                    7618
+                ],
+                [
+                    3209,
+                    7523
+                ],
+                [
+                    2574,
+                    7531
+                ],
+                [
+                    2557,
+                    7634
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Cruciferae",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    825,
+                    7749
+                ],
+                [
+                    2353,
+                    7749
+                ],
+                [
+                    2344,
+                    7630
+                ],
+                [
+                    833,
+                    7646
+                ],
+                [
+                    825,
+                    7749
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Cardamine hirsuta L.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    825,
+                    7749
+                ],
+                [
+                    2353,
+                    7749
+                ],
+                [
+                    2344,
+                    7630
+                ],
+                [
+                    833,
+                    7646
+                ],
+                [
+                    825,
+                    7749
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Cardamine hirsuto d",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    903,
+                    7921
+                ],
+                [
+                    1607,
+                    7908
+                ],
+                [
+                    1607,
+                    7798
+                ],
+                [
+                    936,
+                    7806
+                ],
+                [
+                    903,
+                    7921
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "kare f\u00fcrelell",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    903,
+                    7921
+                ],
+                [
+                    1607,
+                    7908
+                ],
+                [
+                    1607,
+                    7798
+                ],
+                [
+                    936,
+                    7806
+                ],
+                [
+                    903,
+                    7921
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Kate \u0438\u043b\u0438\u0438 . .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    858,
+                    8076
+                ],
+                [
+                    2869,
+                    8060
+                ],
+                [
+                    2877,
+                    7937
+                ],
+                [
+                    878,
+                    7957
+                ],
+                [
+                    858,
+                    8076
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Hiiumaa, Hanikatsi laiul",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    858,
+                    8076
+                ],
+                [
+                    2869,
+                    8060
+                ],
+                [
+                    2877,
+                    7937
+                ],
+                [
+                    878,
+                    7957
+                ],
+                [
+                    858,
+                    8076
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Hiiumaa , Hanikatsi lavius",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    804,
+                    8232
+                ],
+                [
+                    2582,
+                    8220
+                ],
+                [
+                    2582,
+                    8117
+                ],
+                [
+                    809,
+                    8121
+                ],
+                [
+                    804,
+                    8232
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "mererannal adrupeenral.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    804,
+                    8232
+                ],
+                [
+                    2582,
+                    8220
+                ],
+                [
+                    2582,
+                    8117
+                ],
+                [
+                    809,
+                    8121
+                ],
+                [
+                    804,
+                    8232
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "mererannal adrupeenrala",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1054,
+                    8437
+                ],
+                [
+                    2009,
+                    8457
+                ],
+                [
+                    2000,
+                    8297
+                ],
+                [
+                    1083,
+                    8293
+                ],
+                [
+                    1058,
+                    8437
+                ],
+                [
+                    1054,
+                    8437
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "15. VI 1971.a",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1054,
+                    8437
+                ],
+                [
+                    2009,
+                    8457
+                ],
+                [
+                    2000,
+                    8297
+                ],
+                [
+                    1083,
+                    8293
+                ],
+                [
+                    1058,
+                    8437
+                ],
+                [
+                    1054,
+                    8437
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "15 . u . 1931 . a .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    727,
+                    8670
+                ],
+                [
+                    903,
+                    8674
+                ],
+                [
+                    911,
+                    8564
+                ],
+                [
+                    755,
+                    8559
+                ],
+                [
+                    727,
+                    8670
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Nr .",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    727,
+                    8670
+                ],
+                [
+                    903,
+                    8674
+                ],
+                [
+                    911,
+                    8564
+                ],
+                [
+                    755,
+                    8559
+                ],
+                [
+                    727,
+                    8670
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Nr .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2209,
+                    8355
+                ],
+                [
+                    2217,
+                    8449
+                ],
+                [
+                    2471,
+                    8453
+                ],
+                [
+                    2488,
+                    8351
+                ],
+                [
+                    2209,
+                    8355
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Kogus",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2209,
+                    8355
+                ],
+                [
+                    2217,
+                    8449
+                ],
+                [
+                    2471,
+                    8453
+                ],
+                [
+                    2488,
+                    8351
+                ],
+                [
+                    2209,
+                    8355
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Kogus",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2217,
+                    8641
+                ],
+                [
+                    2516,
+                    8650
+                ],
+                [
+                    2516,
+                    8572
+                ],
+                [
+                    2234,
+                    8559
+                ],
+                [
+                    2217,
+                    8641
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "M\u00e4\u00e4ras",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2217,
+                    8641
+                ],
+                [
+                    2516,
+                    8650
+                ],
+                [
+                    2516,
+                    8572
+                ],
+                [
+                    2234,
+                    8559
+                ],
+                [
+                    2217,
+                    8641
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "M\u00e4\u00e4ras",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2582,
+                    8469
+                ],
+                [
+                    3172,
+                    8482
+                ],
+                [
+                    3172,
+                    8355
+                ],
+                [
+                    2615,
+                    8355
+                ],
+                [
+                    2582,
+                    8469
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "M. Karsk,",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2582,
+                    8469
+                ],
+                [
+                    3172,
+                    8482
+                ],
+                [
+                    3172,
+                    8355
+                ],
+                [
+                    2615,
+                    8355
+                ],
+                [
+                    2582,
+                    8469
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "M . Harle",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    609,
+                    8865
+                ],
+                [
+                    615,
+                    8932
+                ],
+                [
+                    2025,
+                    8923
+                ],
+                [
+                    2028,
+                    8853
+                ],
+                [
+                    609,
+                    8865
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "H . Heidemanni nim . trk . Tartu . 1957 . 2746 10 . 000",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    609,
+                    8865
+                ],
+                [
+                    615,
+                    8932
+                ],
+                [
+                    2025,
+                    8923
+                ],
+                [
+                    2028,
+                    8853
+                ],
+                [
+                    609,
+                    8865
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "H . Heidemanni nim . trk . Tartu . 1957 . 2746 10 . 000",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2595,
+                    8494
+                ],
+                [
+                    2595,
+                    8666
+                ],
+                [
+                    3351,
+                    8666
+                ],
+                [
+                    3351,
+                    8494
+                ],
+                [
+                    2595,
+                    8494
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "E. Tammem\u00e4gi",
+            "worker_version": null
+        }
+    ]
+}

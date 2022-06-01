@@ -1,0 +1,559 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "c301e3ce-a988-469d-afb1-5af714a7123b",
+        "name": "MNHN"
+    },
+    "image": {
+        "id": "87a303e0-4814-4e32-93b8-39cf8875b1b5",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FP00116857.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FP00116857.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "761198e9-8870-4bed-98d5-44cb13c711c4",
+        "name": "P00116857",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    4513,
+                    3054
+                ],
+                [
+                    4513,
+                    3226
+                ],
+                [
+                    4630,
+                    3226
+                ],
+                [
+                    4630,
+                    3054
+                ],
+                [
+                    4513,
+                    3054
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "cm",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4513,
+                    3054
+                ],
+                [
+                    4513,
+                    3226
+                ],
+                [
+                    4630,
+                    3226
+                ],
+                [
+                    4630,
+                    3054
+                ],
+                [
+                    4513,
+                    3054
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "cm",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4503,
+                    1421
+                ],
+                [
+                    4503,
+                    2174
+                ],
+                [
+                    4637,
+                    2174
+                ],
+                [
+                    4637,
+                    1421
+                ],
+                [
+                    4503,
+                    1421
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "copyright reserved",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4503,
+                    1421
+                ],
+                [
+                    4503,
+                    2174
+                ],
+                [
+                    4637,
+                    2174
+                ],
+                [
+                    4637,
+                    1421
+                ],
+                [
+                    4503,
+                    1421
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "reserved copyright",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3552,
+                    5187
+                ],
+                [
+                    3552,
+                    5240
+                ],
+                [
+                    4054,
+                    5240
+                ],
+                [
+                    4054,
+                    5187
+                ],
+                [
+                    3552,
+                    5187
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herb . Mus\u00e9um Paris",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3552,
+                    5187
+                ],
+                [
+                    3552,
+                    5240
+                ],
+                [
+                    4054,
+                    5240
+                ],
+                [
+                    4054,
+                    5187
+                ],
+                [
+                    3552,
+                    5187
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herb . Mus\u00e9um Paris",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3684,
+                    5421
+                ],
+                [
+                    3684,
+                    5476
+                ],
+                [
+                    3961,
+                    5476
+                ],
+                [
+                    3961,
+                    5421
+                ],
+                [
+                    3684,
+                    5421
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "P00116857",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3684,
+                    5421
+                ],
+                [
+                    3684,
+                    5476
+                ],
+                [
+                    3961,
+                    5476
+                ],
+                [
+                    3961,
+                    5421
+                ],
+                [
+                    3684,
+                    5421
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "P00116857",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3478,
+                    5493
+                ],
+                [
+                    3478,
+                    5584
+                ],
+                [
+                    4119,
+                    5584
+                ],
+                [
+                    4119,
+                    5493
+                ],
+                [
+                    3478,
+                    5493
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB. MUS. PARIS",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3478,
+                    5493
+                ],
+                [
+                    3478,
+                    5584
+                ],
+                [
+                    4119,
+                    5584
+                ],
+                [
+                    4119,
+                    5493
+                ],
+                [
+                    3478,
+                    5493
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB . MUS PARIS",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3254,
+                    5665
+                ],
+                [
+                    3254,
+                    5780
+                ],
+                [
+                    4231,
+                    5780
+                ],
+                [
+                    4231,
+                    5665
+                ],
+                [
+                    3254,
+                    5665
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Leandra acutiflora (Naud.) Cogn.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3254,
+                    5665
+                ],
+                [
+                    3254,
+                    5780
+                ],
+                [
+                    4231,
+                    5780
+                ],
+                [
+                    4231,
+                    5665
+                ],
+                [
+                    3254,
+                    5665
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Leandra acutiflora ( Naud . ) cogn .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3732,
+                    5828
+                ],
+                [
+                    3732,
+                    5981
+                ],
+                [
+                    4155,
+                    5981
+                ],
+                [
+                    4155,
+                    5828
+                ],
+                [
+                    3732,
+                    5828
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ISOTYPE",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3732,
+                    5828
+                ],
+                [
+                    3732,
+                    5981
+                ],
+                [
+                    4155,
+                    5981
+                ],
+                [
+                    4155,
+                    5828
+                ],
+                [
+                    3732,
+                    5828
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ISOTYPE",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    162,
+                    5682
+                ],
+                [
+                    162,
+                    5877
+                ],
+                [
+                    660,
+                    5877
+                ],
+                [
+                    660,
+                    5682
+                ],
+                [
+                    162,
+                    5682
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "N\u00ba 42",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    162,
+                    5682
+                ],
+                [
+                    162,
+                    5877
+                ],
+                [
+                    660,
+                    5877
+                ],
+                [
+                    660,
+                    5682
+                ],
+                [
+                    162,
+                    5682
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "PE 2",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    174,
+                    6013
+                ],
+                [
+                    174,
+                    6248
+                ],
+                [
+                    1730,
+                    6248
+                ],
+                [
+                    1730,
+                    6013
+                ],
+                [
+                    174,
+                    6013
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herbier du Br\u00e9sil (Mr Vauthier 1833)",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    174,
+                    6013
+                ],
+                [
+                    174,
+                    6248
+                ],
+                [
+                    1730,
+                    6248
+                ],
+                [
+                    1730,
+                    6013
+                ],
+                [
+                    174,
+                    6013
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "berbier du Bresil ( or Saathio 1833 )",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    165,
+                    6252
+                ],
+                [
+                    165,
+                    6415
+                ],
+                [
+                    1688,
+                    6415
+                ],
+                [
+                    1688,
+                    6252
+                ],
+                [
+                    165,
+                    6252
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Serra dos Orga\u00f2s. (Pce. de Rio de Janeiro)",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    165,
+                    6252
+                ],
+                [
+                    165,
+                    6415
+                ],
+                [
+                    1688,
+                    6415
+                ],
+                [
+                    1688,
+                    6252
+                ],
+                [
+                    165,
+                    6252
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Serra dos Orgao ) ( Donje Rio de Janeiro . )",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        }
+    ]
+}

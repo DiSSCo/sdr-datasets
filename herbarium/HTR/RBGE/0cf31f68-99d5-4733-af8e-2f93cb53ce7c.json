@@ -1,0 +1,1241 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "479c24a2-d399-4074-b47f-7c82c51a95d8",
+        "name": "RBGE"
+    },
+    "image": {
+        "id": "50f2048c-4145-4eb0-a374-3c5cce5559e7",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FE00065926.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FE00065926.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "0cf31f68-99d5-4733-af8e-2f93cb53ce7c",
+        "name": "E00065926",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    3664,
+                    51
+                ],
+                [
+                    3664,
+                    274
+                ],
+                [
+                    4975,
+                    274
+                ],
+                [
+                    4975,
+                    51
+                ],
+                [
+                    3664,
+                    51
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB. HORT. EDINB.",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3664,
+                    51
+                ],
+                [
+                    3664,
+                    274
+                ],
+                [
+                    4975,
+                    274
+                ],
+                [
+                    4975,
+                    51
+                ],
+                [
+                    3664,
+                    51
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB . HORT . EDINB .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    136,
+                    7517
+                ],
+                [
+                    136,
+                    7582
+                ],
+                [
+                    693,
+                    7582
+                ],
+                [
+                    693,
+                    7517
+                ],
+                [
+                    136,
+                    7517
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ROYAL BOTANIC GARDEN",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    136,
+                    7517
+                ],
+                [
+                    136,
+                    7582
+                ],
+                [
+                    693,
+                    7582
+                ],
+                [
+                    693,
+                    7517
+                ],
+                [
+                    136,
+                    7517
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ROYAL BOTANIC GARDEN",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    270,
+                    7582
+                ],
+                [
+                    270,
+                    7626
+                ],
+                [
+                    555,
+                    7626
+                ],
+                [
+                    555,
+                    7582
+                ],
+                [
+                    270,
+                    7582
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "EDINBURGH",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    270,
+                    7582
+                ],
+                [
+                    270,
+                    7626
+                ],
+                [
+                    555,
+                    7626
+                ],
+                [
+                    555,
+                    7582
+                ],
+                [
+                    270,
+                    7582
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "EDINBURGH",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    218,
+                    7781
+                ],
+                [
+                    218,
+                    7821
+                ],
+                [
+                    652,
+                    7821
+                ],
+                [
+                    640,
+                    7775
+                ],
+                [
+                    218,
+                    7781
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "E00065926",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    218,
+                    7781
+                ],
+                [
+                    218,
+                    7821
+                ],
+                [
+                    652,
+                    7821
+                ],
+                [
+                    640,
+                    7775
+                ],
+                [
+                    218,
+                    7781
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "E00065926",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3628,
+                    5894
+                ],
+                [
+                    3628,
+                    6011
+                ],
+                [
+                    4387,
+                    6011
+                ],
+                [
+                    4387,
+                    5894
+                ],
+                [
+                    3628,
+                    5894
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Plants of Qinghai, China",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3628,
+                    5894
+                ],
+                [
+                    3628,
+                    6011
+                ],
+                [
+                    4387,
+                    6011
+                ],
+                [
+                    4387,
+                    5894
+                ],
+                [
+                    3628,
+                    5894
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Plants of Qinghai , China",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3087,
+                    6064
+                ],
+                [
+                    3087,
+                    6179
+                ],
+                [
+                    3803,
+                    6179
+                ],
+                [
+                    3803,
+                    6064
+                ],
+                [
+                    3087,
+                    6064
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Pedicularis anas Maxim.",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3087,
+                    6064
+                ],
+                [
+                    3087,
+                    6179
+                ],
+                [
+                    3803,
+                    6179
+                ],
+                [
+                    3803,
+                    6064
+                ],
+                [
+                    3087,
+                    6064
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Pedicularis anas Maxim .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4448,
+                    6000
+                ],
+                [
+                    4448,
+                    6102
+                ],
+                [
+                    4949,
+                    6102
+                ],
+                [
+                    4949,
+                    6000
+                ],
+                [
+                    4448,
+                    6000
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Scrophulariaceae",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    4448,
+                    6000
+                ],
+                [
+                    4448,
+                    6102
+                ],
+                [
+                    4949,
+                    6102
+                ],
+                [
+                    4949,
+                    6000
+                ],
+                [
+                    4448,
+                    6000
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Scrophulariaceae",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3097,
+                    6347
+                ],
+                [
+                    3097,
+                    6486
+                ],
+                [
+                    4740,
+                    6486
+                ],
+                [
+                    4740,
+                    6347
+                ],
+                [
+                    3097,
+                    6347
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Yushu Xian: S of the road between Yushu and Gyairong",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3097,
+                    6347
+                ],
+                [
+                    3097,
+                    6486
+                ],
+                [
+                    4740,
+                    6486
+                ],
+                [
+                    4740,
+                    6347
+                ],
+                [
+                    3097,
+                    6347
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Yushu Xian : S of the road between Yushu and Gyairong",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3089,
+                    6563
+                ],
+                [
+                    4435,
+                    6552
+                ],
+                [
+                    4435,
+                    6489
+                ],
+                [
+                    3094,
+                    6489
+                ],
+                [
+                    3089,
+                    6563
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "and ca. 1/4 of the way between the two towns.",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3089,
+                    6563
+                ],
+                [
+                    4435,
+                    6552
+                ],
+                [
+                    4435,
+                    6489
+                ],
+                [
+                    3094,
+                    6489
+                ],
+                [
+                    3089,
+                    6563
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "and ca . 1 / 4 of the way between the two towns .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3094,
+                    6568
+                ],
+                [
+                    3094,
+                    6644
+                ],
+                [
+                    3640,
+                    6644
+                ],
+                [
+                    3640,
+                    6568
+                ],
+                [
+                    3094,
+                    6568
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Elev. 3850-3950 m",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3094,
+                    6568
+                ],
+                [
+                    3094,
+                    6644
+                ],
+                [
+                    3640,
+                    6644
+                ],
+                [
+                    3640,
+                    6568
+                ],
+                [
+                    3094,
+                    6568
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Elev . 3850 - 3950 m",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4158,
+                    6555
+                ],
+                [
+                    4158,
+                    6644
+                ],
+                [
+                    4704,
+                    6644
+                ],
+                [
+                    4704,
+                    6555
+                ],
+                [
+                    4158,
+                    6555
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "33\u00b0 3' N, 96\u00b0 51' E",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    4158,
+                    6555
+                ],
+                [
+                    4158,
+                    6644
+                ],
+                [
+                    4704,
+                    6644
+                ],
+                [
+                    4704,
+                    6555
+                ],
+                [
+                    4158,
+                    6555
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "33\u00b0 3 ' N , 96\u00b0 51 ' E",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3084,
+                    6700
+                ],
+                [
+                    3084,
+                    6797
+                ],
+                [
+                    4560,
+                    6797
+                ],
+                [
+                    4560,
+                    6700
+                ],
+                [
+                    3084,
+                    6700
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Valley: one side with areas of very closely cropped",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3084,
+                    6700
+                ],
+                [
+                    3084,
+                    6797
+                ],
+                [
+                    4560,
+                    6797
+                ],
+                [
+                    4560,
+                    6700
+                ],
+                [
+                    3084,
+                    6700
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Valley : one side with areas of very closely cropped",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3092,
+                    6802
+                ],
+                [
+                    3092,
+                    6873
+                ],
+                [
+                    4631,
+                    6873
+                ],
+                [
+                    4631,
+                    6802
+                ],
+                [
+                    3092,
+                    6802
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Kobesia meadow and mostly low bushland with Salix,",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3092,
+                    6802
+                ],
+                [
+                    3092,
+                    6873
+                ],
+                [
+                    4631,
+                    6873
+                ],
+                [
+                    4631,
+                    6802
+                ],
+                [
+                    3092,
+                    6802
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Kobesia meadow and mostly low bushland with Salix ,",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3089,
+                    6883
+                ],
+                [
+                    3089,
+                    6957
+                ],
+                [
+                    4633,
+                    6957
+                ],
+                [
+                    4633,
+                    6883
+                ],
+                [
+                    3089,
+                    6883
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Sibirea, and some Rhododendron, densest along side",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3089,
+                    6883
+                ],
+                [
+                    3089,
+                    6957
+                ],
+                [
+                    4633,
+                    6957
+                ],
+                [
+                    4633,
+                    6883
+                ],
+                [
+                    3089,
+                    6883
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Sibirea , and some Rhododendron , densest along side",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3102,
+                    6967
+                ],
+                [
+                    3104,
+                    7051
+                ],
+                [
+                    4608,
+                    7033
+                ],
+                [
+                    4605,
+                    6964
+                ],
+                [
+                    3102,
+                    6967
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "valley with dry stream bed; the other side with more",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3102,
+                    6967
+                ],
+                [
+                    3104,
+                    7051
+                ],
+                [
+                    4608,
+                    7033
+                ],
+                [
+                    4605,
+                    6964
+                ],
+                [
+                    3102,
+                    6967
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "valley with dry stream bed ; the other side with more",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3099,
+                    7129
+                ],
+                [
+                    3099,
+                    7132
+                ],
+                [
+                    3107,
+                    7053
+                ],
+                [
+                    3643,
+                    7043
+                ],
+                [
+                    4438,
+                    7041
+                ],
+                [
+                    4483,
+                    7081
+                ],
+                [
+                    4455,
+                    7119
+                ],
+                [
+                    3666,
+                    7107
+                ],
+                [
+                    3099,
+                    7129
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "open bushland and areas of consolidated scree.",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3099,
+                    7129
+                ],
+                [
+                    3099,
+                    7132
+                ],
+                [
+                    3107,
+                    7053
+                ],
+                [
+                    3643,
+                    7043
+                ],
+                [
+                    4438,
+                    7041
+                ],
+                [
+                    4483,
+                    7081
+                ],
+                [
+                    4455,
+                    7119
+                ],
+                [
+                    3666,
+                    7107
+                ],
+                [
+                    3099,
+                    7129
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "open bushland and areas of consolidated scree .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3099,
+                    7274
+                ],
+                [
+                    3521,
+                    7267
+                ],
+                [
+                    3887,
+                    7272
+                ],
+                [
+                    4582,
+                    7272
+                ],
+                [
+                    4555,
+                    7188
+                ],
+                [
+                    3102,
+                    7203
+                ],
+                [
+                    3099,
+                    7274
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Perennial herb to 40 cm; corolla with lower lip and",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3099,
+                    7274
+                ],
+                [
+                    3521,
+                    7267
+                ],
+                [
+                    3887,
+                    7272
+                ],
+                [
+                    4582,
+                    7272
+                ],
+                [
+                    4555,
+                    7188
+                ],
+                [
+                    3102,
+                    7203
+                ],
+                [
+                    3099,
+                    7274
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Perennial herb to 40 cm ; corolla with lower lip and",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3094,
+                    7287
+                ],
+                [
+                    3104,
+                    7366
+                ],
+                [
+                    3793,
+                    7350
+                ],
+                [
+                    3907,
+                    7353
+                ],
+                [
+                    4491,
+                    7353
+                ],
+                [
+                    4476,
+                    7305
+                ],
+                [
+                    4443,
+                    7277
+                ],
+                [
+                    3721,
+                    7279
+                ],
+                [
+                    3094,
+                    7287
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "base of galea white, apical part of galea purple.",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3094,
+                    7287
+                ],
+                [
+                    3104,
+                    7366
+                ],
+                [
+                    3793,
+                    7350
+                ],
+                [
+                    3907,
+                    7353
+                ],
+                [
+                    4491,
+                    7353
+                ],
+                [
+                    4476,
+                    7305
+                ],
+                [
+                    4443,
+                    7277
+                ],
+                [
+                    3721,
+                    7279
+                ],
+                [
+                    3094,
+                    7287
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "base of galea white , apical part of galea purple .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3102,
+                    7429
+                ],
+                [
+                    3549,
+                    7439
+                ],
+                [
+                    4400,
+                    7429
+                ],
+                [
+                    4395,
+                    7356
+                ],
+                [
+                    3104,
+                    7361
+                ],
+                [
+                    3102,
+                    7429
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Growing on slopes and in disturbed meadow.",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3102,
+                    7429
+                ],
+                [
+                    3549,
+                    7439
+                ],
+                [
+                    4400,
+                    7429
+                ],
+                [
+                    4395,
+                    7356
+                ],
+                [
+                    3104,
+                    7361
+                ],
+                [
+                    3102,
+                    7429
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Growing on slopes and in disturbed meadow .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3099,
+                    7549
+                ],
+                [
+                    3099,
+                    7678
+                ],
+                [
+                    4869,
+                    7678
+                ],
+                [
+                    4869,
+                    7549
+                ],
+                [
+                    3099,
+                    7549
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "T. N. Ho (HNWP), B. Bartholomew (CAS), M. Watson (E)",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3099,
+                    7549
+                ],
+                [
+                    3099,
+                    7678
+                ],
+                [
+                    4869,
+                    7678
+                ],
+                [
+                    4869,
+                    7549
+                ],
+                [
+                    3099,
+                    7549
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "T . N . Ho ( HNWP ) , B . Bartholomew ( CAS ) , M . Watson ( E )",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3099,
+                    7683
+                ],
+                [
+                    3099,
+                    7762
+                ],
+                [
+                    4618,
+                    7762
+                ],
+                [
+                    4618,
+                    7683
+                ],
+                [
+                    3099,
+                    7683
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "and M. Gilbert (MO at BM) 2092, 19 August 1996",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3099,
+                    7683
+                ],
+                [
+                    3099,
+                    7762
+                ],
+                [
+                    4618,
+                    7762
+                ],
+                [
+                    4618,
+                    7683
+                ],
+                [
+                    3099,
+                    7683
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "and M . Gilbert ( MO at BM ) 2092 , 19 August 1996",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        }
+    ]
+}

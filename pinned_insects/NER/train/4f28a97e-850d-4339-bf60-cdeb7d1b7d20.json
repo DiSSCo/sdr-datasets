@@ -1,0 +1,35 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "92cb45be-1cd0-440c-b479-caacc0613064",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/fce16f67-e86a-4c6d-aa39-518ff7e5039d",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/fce16f67-e86a-4c6d-aa39-518ff7e5039d/full/full/0/default.jpg"
+    },
+    "named_entities": [
+        {
+            "tags": "Stephens B-Collection/Donation\n/ I-Collection/Donation\nStainton I-Collection/Donation\ncoll I-Collection/Donation\n. I-Collection/Donation\nBM B-identifier\n1893 I-identifier\n- I-identifier\n134 I-identifier",
+            "worker_version_id": null
+        },
+        {
+            "tags": "Stainton B-Collection/Donation\nColl I-Collection/Donation\n. I-Collection/Donation\nCrambus B-taxon_name\ncontaminellus I-taxon_name\nC B-person_name\n. I-person_name\nH\u00fcbn I-person_name\n. I-person_name\nnamed B-Determination\nby I-Determination\nStn I-Determination",
+            "worker_version_id": null
+        },
+        {
+            "tags": "Salt B-location_name\nmarsh I-location_name\nWorthing I-location_name\nFletcher B-person_name\n19 B-date\n. I-date\n8 I-date\n. I-date\n87 I-date",
+            "worker_version_id": null
+        },
+        {
+            "tags": "NHMUK010516659 B-identifier",
+            "worker_version_id": null
+        }
+    ],
+    "page": {
+        "id": "4f28a97e-850d-4339-bf60-cdeb7d1b7d20",
+        "name": "010516659_136908_1084407.2500x5792.jpeg",
+        "rotation_angle": 0
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "0589e71e-e11f-4cfa-a2b8-431a7328d071",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/1adc9b54-5645-4940-b7a6-bb1ce2d7976c",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/1adc9b54-5645-4940-b7a6-bb1ce2d7976c/full/full/0/default.jpg"
+    },
+    "named_entities": [
+        {
+            "tags": "Para B-type_status\n- I-type_status\ntype I-type_status\n. I-type_status",
+            "worker_version_id": null
+        },
+        {
+            "tags": "Noliproctis B-taxon_name\nlithoides I-taxon_name\nCollenette B-person_name\nParatype B-type_status\n. I-type_status",
+            "worker_version_id": null
+        },
+        {
+            "tags": "B B-identifier\n. I-identifier\nM I-identifier\n. I-identifier\n1936 I-identifier\n- I-identifier\n642 I-identifier\n. I-identifier",
+            "worker_version_id": null
+        },
+        {
+            "tags": "NHMUK010621476 B-identifier",
+            "worker_version_id": null
+        },
+        {
+            "tags": "Station B-taxon_name\nPerinet I-taxon_name\n, I-taxon_name\n149km I-taxon_name\n. I-taxon_name\neast I-taxon_name\nof I-taxon_name\nTananarivo I-taxon_name\n, I-taxon_name\n20 B-date\n. I-date\nx I-date\n- I-date\n10 I-date\n. I-date\nXI I-date\n. I-date\n1930 I-date\n. I-date\n( O\nMme B-person_name\nN I-person_name\n. I-person_name\nd I-person_name\n' I-person_name\nOlsoufieff I-person_name\n) O\n. O",
+            "worker_version_id": null
+        }
+    ],
+    "page": {
+        "id": "afcc7d12-4288-4aee-ab0c-1f342d0493b3",
+        "name": "010621476_D_Porthesaroa_lithoides_Collenette_1936_3.84.6.18.2500x3456.jpeg",
+        "rotation_angle": 0
+    }
+}

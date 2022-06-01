@@ -1,0 +1,262 @@
+{
+    "dataset_id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+    "folder": {
+        "id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+        "name": "2000 Louse Subset"
+    },
+    "image": {
+        "id": "261f116b-07f2-4912-a4b9-3aff47b9980e",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fsynthesys%2Fslides_images%2Fbb1ba536-5d8b-4301-9e95-2037dc497569.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fsynthesys%2Fslides_images%2Fbb1ba536-5d8b-4301-9e95-2037dc497569.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "bb1ba536-5d8b-4301-9e95-2037dc497569",
+        "name": "98",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    963,
+                    224
+                ],
+                [
+                    963,
+                    499
+                ],
+                [
+                    2168,
+                    499
+                ],
+                [
+                    2168,
+                    224
+                ],
+                [
+                    963,
+                    224
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "11584",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    550,
+                    7609
+                ],
+                [
+                    550,
+                    8070
+                ],
+                [
+                    2691,
+                    8070
+                ],
+                [
+                    2691,
+                    7609
+                ],
+                [
+                    550,
+                    7609
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Fulicoffula",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    663,
+                    5113
+                ],
+                [
+                    663,
+                    5201
+                ],
+                [
+                    1089,
+                    5201
+                ],
+                [
+                    1089,
+                    5113
+                ],
+                [
+                    663,
+                    5113
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "010671140",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    550,
+                    5180
+                ],
+                [
+                    550,
+                    5605
+                ],
+                [
+                    698,
+                    5605
+                ],
+                [
+                    698,
+                    5180
+                ],
+                [
+                    550,
+                    5180
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    248,
+                    690
+                ],
+                [
+                    248,
+                    1047
+                ],
+                [
+                    2783,
+                    1047
+                ],
+                [
+                    2783,
+                    690
+                ],
+                [
+                    248,
+                    690
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Orkney. Aug. 1938.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    464,
+                    981
+                ],
+                [
+                    464,
+                    1346
+                ],
+                [
+                    2226,
+                    1346
+                ],
+                [
+                    2226,
+                    981
+                ],
+                [
+                    464,
+                    981
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "chloropus.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    1046,
+                    1354
+                ],
+                [
+                    1046,
+                    1695
+                ],
+                [
+                    2791,
+                    1695
+                ],
+                [
+                    2791,
+                    1354
+                ],
+                [
+                    1046,
+                    1354
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Gallinula c.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    1396,
+                    1694
+                ],
+                [
+                    1396,
+                    2005
+                ],
+                [
+                    2073,
+                    2005
+                ],
+                [
+                    2073,
+                    1694
+                ],
+                [
+                    1396,
+                    1694
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "juv.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    311,
+                    2141
+                ],
+                [
+                    311,
+                    2439
+                ],
+                [
+                    2656,
+                    2439
+                ],
+                [
+                    2656,
+                    2141
+                ],
+                [
+                    311,
+                    2141
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "MEINERTZHAGEN",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        }
+    ]
+}

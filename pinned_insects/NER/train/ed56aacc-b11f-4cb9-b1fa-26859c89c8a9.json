@@ -1,0 +1,31 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "1484cec2-61ed-4ba0-98cd-5bec0d459e6f",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/d5305503-d9a1-4e6e-a39f-2d03c6feca38",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/d5305503-d9a1-4e6e-a39f-2d03c6feca38/full/full/0/default.jpg"
+    },
+    "named_entities": [
+        {
+            "tags": "Norfolk B-location_name\n02 B-date",
+            "worker_version_id": null
+        },
+        {
+            "tags": "Mathew B-Collection/Donation\n' I-Collection/Donation\ns I-Collection/Donation\nCollection I-Collection/Donation\nStevens O\n' O\ns O\n28 B-date\n& I-date\n29 I-date\n. I-date\niv I-date\n. I-date\n1914 I-date\n. O",
+            "worker_version_id": null
+        },
+        {
+            "tags": "NHM010619516 B-identifier",
+            "worker_version_id": null
+        }
+    ],
+    "page": {
+        "id": "ed56aacc-b11f-4cb9-b1fa-26859c89c8a9",
+        "name": "010619516_136912_1084980.2500x3456.jpeg",
+        "rotation_angle": 0
+    }
+}

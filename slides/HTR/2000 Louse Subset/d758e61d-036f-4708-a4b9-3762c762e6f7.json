@@ -1,0 +1,397 @@
+{
+    "dataset_id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+    "folder": {
+        "id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+        "name": "2000 Louse Subset"
+    },
+    "image": {
+        "id": "1c8622f9-8207-461b-b7af-8406b7e1b322",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/c08e5756-7d97-44e7-ba77-d0d036dc0705",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/c08e5756-7d97-44e7-ba77-d0d036dc0705/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "d758e61d-036f-4708-a4b9-3762c762e6f7",
+        "name": "81",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    1584,
+                    422
+                ],
+                [
+                    1584,
+                    1411
+                ],
+                [
+                    1872,
+                    1411
+                ],
+                [
+                    1872,
+                    422
+                ],
+                [
+                    1584,
+                    422
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Waterst.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6864,
+                    451
+                ],
+                [
+                    6864,
+                    2736
+                ],
+                [
+                    7152,
+                    2736
+                ],
+                [
+                    7152,
+                    451
+                ],
+                [
+                    6864,
+                    451
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Loc. nr Tibbie Shiels'",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    3820,
+                    2352
+                ],
+                [
+                    3820,
+                    2467
+                ],
+                [
+                    4195,
+                    2467
+                ],
+                [
+                    4195,
+                    2352
+                ],
+                [
+                    3820,
+                    2352
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    1305,
+                    547
+                ],
+                [
+                    1305,
+                    2697
+                ],
+                [
+                    1680,
+                    2697
+                ],
+                [
+                    1680,
+                    547
+                ],
+                [
+                    1305,
+                    547
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Genus Myrsidea",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    7209,
+                    489
+                ],
+                [
+                    7209,
+                    2582
+                ],
+                [
+                    7603,
+                    2582
+                ],
+                [
+                    7603,
+                    489
+                ],
+                [
+                    7209,
+                    489
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "St. Mary's Loch.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    4137,
+                    2419
+                ],
+                [
+                    4137,
+                    2860
+                ],
+                [
+                    4272,
+                    2860
+                ],
+                [
+                    4272,
+                    2419
+                ],
+                [
+                    4137,
+                    2419
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "010661631",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    2812,
+                    681
+                ],
+                [
+                    2812,
+                    2524
+                ],
+                [
+                    3100,
+                    2524
+                ],
+                [
+                    3100,
+                    681
+                ],
+                [
+                    2812,
+                    681
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "COLLECTION",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    7593,
+                    499
+                ],
+                [
+                    7593,
+                    2755
+                ],
+                [
+                    8044,
+                    2755
+                ],
+                [
+                    8044,
+                    499
+                ],
+                [
+                    7593,
+                    499
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Coll. J.F. Cormack.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    739,
+                    691
+                ],
+                [
+                    739,
+                    2544
+                ],
+                [
+                    1017,
+                    2544
+                ],
+                [
+                    1017,
+                    691
+                ],
+                [
+                    739,
+                    691
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "WATERSTON",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    8035,
+                    748
+                ],
+                [
+                    8035,
+                    2227
+                ],
+                [
+                    8409,
+                    2227
+                ],
+                [
+                    8409,
+                    748
+                ],
+                [
+                    8035,
+                    748
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "25.vii.'12.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    2140,
+                    1708
+                ],
+                [
+                    2140,
+                    2688
+                ],
+                [
+                    2572,
+                    2688
+                ],
+                [
+                    2572,
+                    1708
+                ],
+                [
+                    2140,
+                    1708
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Sex \u2642.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6028,
+                    998
+                ],
+                [
+                    6028,
+                    2726
+                ],
+                [
+                    6374,
+                    2726
+                ],
+                [
+                    6374,
+                    998
+                ],
+                [
+                    6028,
+                    998
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Host. Corvus",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    1881,
+                    2332
+                ],
+                [
+                    1881,
+                    2697
+                ],
+                [
+                    2160,
+                    2697
+                ],
+                [
+                    2160,
+                    2332
+                ],
+                [
+                    1881,
+                    2332
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Sp.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6432,
+                    998
+                ],
+                [
+                    6432,
+                    2217
+                ],
+                [
+                    6777,
+                    2217
+                ],
+                [
+                    6777,
+                    998
+                ],
+                [
+                    6432,
+                    998
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "corone",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        }
+    ]
+}

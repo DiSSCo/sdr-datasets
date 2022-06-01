@@ -1,0 +1,31 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "a8aa7c86-dffd-4ec3-9b44-10412ab24056",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/609ae3f6-4094-45d5-bc13-aed62324171d",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/609ae3f6-4094-45d5-bc13-aed62324171d/full/full/0/default.jpg"
+    },
+    "named_entities": [
+        {
+            "tags": "E B-Collection/Donation\n. I-Collection/Donation\nG I-Collection/Donation\n. I-Collection/Donation\nPhilp I-Collection/Donation\nbequest I-Collection/Donation\nBMNH B-identifier\n- I-identifier\nENT I-identifier\n- I-identifier\n2013 I-identifier\n- I-identifier\n35 I-identifier\n( I-identifier\nACQ I-identifier\n) I-identifier",
+            "worker_version_id": null
+        },
+        {
+            "tags": "Aylesford B-location_name\nG O\n. O\nKENT B-location_name\n. I-location_name\nTQ I-location_name\n- I-location_name\n7359 I-location_name\n20 B-date\nApril I-date\n1996 I-date\n. I-date\nE B-person_name\n. I-person_name\nG I-person_name\n. I-person_name\nPhilp I-person_name",
+            "worker_version_id": null
+        },
+        {
+            "tags": "NHMUK010810209 B-identifier",
+            "worker_version_id": null
+        }
+    ],
+    "page": {
+        "id": "fb2b6d0e-e1cc-4c46-94c5-00afcb32927b",
+        "name": "010810209__.2500x5792.jpeg",
+        "rotation_angle": 0
+    }
+}

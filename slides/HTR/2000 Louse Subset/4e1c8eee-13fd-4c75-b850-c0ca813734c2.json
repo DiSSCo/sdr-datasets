@@ -1,0 +1,343 @@
+{
+    "dataset_id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+    "folder": {
+        "id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+        "name": "2000 Louse Subset"
+    },
+    "image": {
+        "id": "731aab0d-de6e-4b7e-94db-087d5b0e31d4",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/6d4fd86a-ae14-46ef-a20e-5e1d672d63c0",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/6d4fd86a-ae14-46ef-a20e-5e1d672d63c0/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "4e1c8eee-13fd-4c75-b850-c0ca813734c2",
+        "name": "92",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    753,
+                    619
+                ],
+                [
+                    753,
+                    2045
+                ],
+                [
+                    1090,
+                    2045
+                ],
+                [
+                    1090,
+                    619
+                ],
+                [
+                    753,
+                    619
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "1\u2642. Brit. Mus.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6424,
+                    822
+                ],
+                [
+                    6424,
+                    2630
+                ],
+                [
+                    7002,
+                    2630
+                ],
+                [
+                    7002,
+                    822
+                ],
+                [
+                    6424,
+                    822
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Lagidium",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    3730,
+                    2184
+                ],
+                [
+                    3730,
+                    2281
+                ],
+                [
+                    4081,
+                    2281
+                ],
+                [
+                    4081,
+                    2184
+                ],
+                [
+                    3730,
+                    2184
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    2403,
+                    657
+                ],
+                [
+                    2403,
+                    2660
+                ],
+                [
+                    2718,
+                    2660
+                ],
+                [
+                    2718,
+                    657
+                ],
+                [
+                    2403,
+                    657
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "F.L. Werneck det.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    7707,
+                    889
+                ],
+                [
+                    7707,
+                    2217
+                ],
+                [
+                    8052,
+                    2217
+                ],
+                [
+                    8052,
+                    889
+                ],
+                [
+                    7707,
+                    889
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Bolivia",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    4081,
+                    2265
+                ],
+                [
+                    4081,
+                    2659
+                ],
+                [
+                    4162,
+                    2659
+                ],
+                [
+                    4162,
+                    2265
+                ],
+                [
+                    4081,
+                    2265
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "010665264",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    1188,
+                    694
+                ],
+                [
+                    1188,
+                    2630
+                ],
+                [
+                    1683,
+                    2630
+                ],
+                [
+                    1683,
+                    694
+                ],
+                [
+                    1188,
+                    694
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Philandesia",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6927,
+                    1272
+                ],
+                [
+                    6927,
+                    2322
+                ],
+                [
+                    7242,
+                    2322
+                ],
+                [
+                    7242,
+                    1272
+                ],
+                [
+                    6927,
+                    1272
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "inca.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    2043,
+                    762
+                ],
+                [
+                    2043,
+                    2097
+                ],
+                [
+                    2441,
+                    2097
+                ],
+                [
+                    2441,
+                    762
+                ],
+                [
+                    2043,
+                    762
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "(Werneck)",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    8217,
+                    1332
+                ],
+                [
+                    8217,
+                    2157
+                ],
+                [
+                    8442,
+                    2157
+                ],
+                [
+                    8442,
+                    1332
+                ],
+                [
+                    8217,
+                    1332
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "268.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    1690,
+                    889
+                ],
+                [
+                    1690,
+                    2615
+                ],
+                [
+                    2058,
+                    2615
+                ],
+                [
+                    2058,
+                    889
+                ],
+                [
+                    1690,
+                    889
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "chinchillae",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    7264,
+                    1497
+                ],
+                [
+                    7264,
+                    2630
+                ],
+                [
+                    7729,
+                    2630
+                ],
+                [
+                    7729,
+                    1497
+                ],
+                [
+                    7264,
+                    1497
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "La Paz.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        }
+    ]
+}

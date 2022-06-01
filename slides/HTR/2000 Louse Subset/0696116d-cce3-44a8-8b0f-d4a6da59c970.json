@@ -1,0 +1,370 @@
+{
+    "dataset_id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+    "folder": {
+        "id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+        "name": "2000 Louse Subset"
+    },
+    "image": {
+        "id": "f19697e8-6c0c-45e1-93d4-81df1de624b1",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/fe5e9b3d-a77b-434d-8306-72e2cb698b7f",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/fe5e9b3d-a77b-434d-8306-72e2cb698b7f/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "0696116d-cce3-44a8-8b0f-d4a6da59c970",
+        "name": "96",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    3522,
+                    387
+                ],
+                [
+                    3522,
+                    793
+                ],
+                [
+                    3668,
+                    793
+                ],
+                [
+                    3668,
+                    387
+                ],
+                [
+                    3522,
+                    387
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6239,
+                    430
+                ],
+                [
+                    6239,
+                    856
+                ],
+                [
+                    8095,
+                    856
+                ],
+                [
+                    8095,
+                    430
+                ],
+                [
+                    6239,
+                    430
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Dacelo tyro",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    722,
+                    378
+                ],
+                [
+                    722,
+                    780
+                ],
+                [
+                    2650,
+                    780
+                ],
+                [
+                    2650,
+                    378
+                ],
+                [
+                    722,
+                    378
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Alcedoecus",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    5500,
+                    559
+                ],
+                [
+                    5500,
+                    1142
+                ],
+                [
+                    6068,
+                    1142
+                ],
+                [
+                    6068,
+                    559
+                ],
+                [
+                    5500,
+                    559
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "4",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    3253,
+                    2173
+                ],
+                [
+                    3253,
+                    2590
+                ],
+                [
+                    3573,
+                    2590
+                ],
+                [
+                    3573,
+                    2173
+                ],
+                [
+                    3253,
+                    2173
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "1",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    3133,
+                    762
+                ],
+                [
+                    3133,
+                    877
+                ],
+                [
+                    3553,
+                    877
+                ],
+                [
+                    3553,
+                    762
+                ],
+                [
+                    3133,
+                    762
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "010665716",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6218,
+                    758
+                ],
+                [
+                    6218,
+                    1309
+                ],
+                [
+                    8528,
+                    1309
+                ],
+                [
+                    8528,
+                    758
+                ],
+                [
+                    6218,
+                    758
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Wando, Western Dis,",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    2330,
+                    2225
+                ],
+                [
+                    2330,
+                    2694
+                ],
+                [
+                    2925,
+                    2694
+                ],
+                [
+                    2925,
+                    2225
+                ],
+                [
+                    2330,
+                    2225
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "\u2642\u2640",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6218,
+                    1163
+                ],
+                [
+                    6218,
+                    1518
+                ],
+                [
+                    7418,
+                    1518
+                ],
+                [
+                    7418,
+                    1163
+                ],
+                [
+                    6218,
+                    1163
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Papua.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6239,
+                    1477
+                ],
+                [
+                    6239,
+                    1756
+                ],
+                [
+                    7523,
+                    1756
+                ],
+                [
+                    7523,
+                    1477
+                ],
+                [
+                    6239,
+                    1477
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "x. 1969.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6246,
+                    1777
+                ],
+                [
+                    6246,
+                    2105
+                ],
+                [
+                    7816,
+                    2105
+                ],
+                [
+                    7816,
+                    1777
+                ],
+                [
+                    6246,
+                    1777
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "I.L. Owen.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6218,
+                    2077
+                ],
+                [
+                    6218,
+                    2412
+                ],
+                [
+                    8005,
+                    2412
+                ],
+                [
+                    8005,
+                    2077
+                ],
+                [
+                    6218,
+                    2077
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "6910151136.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6211,
+                    2433
+                ],
+                [
+                    6211,
+                    2740
+                ],
+                [
+                    8514,
+                    2740
+                ],
+                [
+                    8514,
+                    2433
+                ],
+                [
+                    6211,
+                    2433
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Brit Mus 1970-381.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        }
+    ]
+}

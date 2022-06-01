@@ -1,0 +1,262 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "7daad67d-bdb1-4a31-a20e-e0d3605e30e5",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/e63bb601-33fd-4299-a81c-9fe50cc49dfd",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/e63bb601-33fd-4299-a81c-9fe50cc49dfd/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "59e18166-47b0-4678-a7dd-2bd89afd8895",
+        "name": "012499064_71389_82914.2500x5792.jpeg",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    1739,
+                    766
+                ],
+                [
+                    1739,
+                    813
+                ],
+                [
+                    2071,
+                    813
+                ],
+                [
+                    2071,
+                    766
+                ],
+                [
+                    1739,
+                    766
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK 012499064",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1759,
+                    916
+                ],
+                [
+                    1762,
+                    974
+                ],
+                [
+                    2118,
+                    974
+                ],
+                [
+                    2122,
+                    916
+                ],
+                [
+                    1759,
+                    916
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Chifawe?",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1764,
+                    1047
+                ],
+                [
+                    2224,
+                    1054
+                ],
+                [
+                    2220,
+                    988
+                ],
+                [
+                    1769,
+                    987
+                ],
+                [
+                    1764,
+                    1047
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "mirabilis Cal",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1824,
+                    1058
+                ],
+                [
+                    1825,
+                    1096
+                ],
+                [
+                    2128,
+                    1095
+                ],
+                [
+                    2128,
+                    1055
+                ],
+                [
+                    1824,
+                    1058
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Ramme det.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1759,
+                    1223
+                ],
+                [
+                    1759,
+                    1293
+                ],
+                [
+                    2038,
+                    1293
+                ],
+                [
+                    2038,
+                    1223
+                ],
+                [
+                    1759,
+                    1223
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "1933-166",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2142,
+                    795
+                ],
+                [
+                    2424,
+                    810
+                ],
+                [
+                    2427,
+                    781
+                ],
+                [
+                    2149,
+                    765
+                ],
+                [
+                    2142,
+                    795
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "H. Fruhstorfen",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2148,
+                    698
+                ],
+                [
+                    2399,
+                    704
+                ],
+                [
+                    2405,
+                    665
+                ],
+                [
+                    2155,
+                    656
+                ],
+                [
+                    2148,
+                    698
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "S. Celebes",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2133,
+                    726
+                ],
+                [
+                    2436,
+                    740
+                ],
+                [
+                    2438,
+                    713
+                ],
+                [
+                    2139,
+                    699
+                ],
+                [
+                    2133,
+                    726
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Bawa- Karaeng",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2132,
+                    759
+                ],
+                [
+                    2431,
+                    776
+                ],
+                [
+                    2435,
+                    745
+                ],
+                [
+                    2136,
+                    731
+                ],
+                [
+                    2132,
+                    759
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "5000' Feb. 1896",
+            "worker_version": null
+        }
+    ]
+}

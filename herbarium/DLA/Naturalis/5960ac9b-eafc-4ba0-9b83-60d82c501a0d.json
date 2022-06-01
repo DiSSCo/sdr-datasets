@@ -1,0 +1,87 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "635f3d84-ced6-4b17-b64a-86be7aa87304",
+        "name": "Naturalis"
+    },
+    "image": {
+        "id": "a4bf94b3-1410-40d9-9c4c-4cea900acb59",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FL.1152156.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FL.1152156.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "5960ac9b-eafc-4ba0-9b83-60d82c501a0d",
+        "name": "L.1152156",
+        "rotation_angle": 180
+    },
+    "polygons": {
+        "text_line": [
+            [
+                [
+                    534,
+                    2673
+                ],
+                [
+                    534,
+                    2777
+                ],
+                [
+                    914,
+                    2777
+                ],
+                [
+                    914,
+                    2673
+                ],
+                [
+                    534,
+                    2673
+                ]
+            ],
+            [
+                [
+                    111,
+                    2492
+                ],
+                [
+                    111,
+                    2654
+                ],
+                [
+                    917,
+                    2654
+                ],
+                [
+                    917,
+                    2492
+                ],
+                [
+                    111,
+                    2492
+                ]
+            ],
+            [
+                [
+                    353,
+                    2296
+                ],
+                [
+                    353,
+                    2430
+                ],
+                [
+                    733,
+                    2430
+                ],
+                [
+                    733,
+                    2296
+                ],
+                [
+                    353,
+                    2296
+                ]
+            ]
+        ]
+    }
+}

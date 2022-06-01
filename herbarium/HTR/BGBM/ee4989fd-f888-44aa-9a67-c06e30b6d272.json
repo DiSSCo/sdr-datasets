@@ -1,0 +1,907 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "438d96cb-88a1-4786-a83a-08301ba7e92a",
+        "name": "BGBM"
+    },
+    "image": {
+        "id": "46755c0c-d018-4514-a135-dc2e99dc58e1",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FB_10_0068694.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FB_10_0068694.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "ee4989fd-f888-44aa-9a67-c06e30b6d272",
+        "name": "B_10_0068694",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    808,
+                    8333
+                ],
+                [
+                    824,
+                    8513
+                ],
+                [
+                    2760,
+                    8476
+                ],
+                [
+                    2749,
+                    8318
+                ],
+                [
+                    1990,
+                    8333
+                ],
+                [
+                    1346,
+                    8339
+                ],
+                [
+                    808,
+                    8333
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Museum botanicum Berolinense.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2892,
+                    8508
+                ],
+                [
+                    2897,
+                    8671
+                ],
+                [
+                    3256,
+                    8671
+                ],
+                [
+                    3340,
+                    8544
+                ],
+                [
+                    2892,
+                    8508
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "T\u00fcrkei",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    650,
+                    8908
+                ],
+                [
+                    2881,
+                    8850
+                ],
+                [
+                    3029,
+                    8866
+                ],
+                [
+                    3029,
+                    8924
+                ],
+                [
+                    3087,
+                    8903
+                ],
+                [
+                    3108,
+                    8745
+                ],
+                [
+                    2960,
+                    8703
+                ],
+                [
+                    2369,
+                    8724
+                ],
+                [
+                    1615,
+                    8719
+                ],
+                [
+                    1030,
+                    8708
+                ],
+                [
+                    972,
+                    8671
+                ],
+                [
+                    655,
+                    8692
+                ],
+                [
+                    650,
+                    8908
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "2. kurdicum Boiss et Hausskn. ! O. L. Schulz",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2823,
+                    8940
+                ],
+                [
+                    2934,
+                    8951
+                ],
+                [
+                    3039,
+                    8935
+                ],
+                [
+                    3013,
+                    8882
+                ],
+                [
+                    2849,
+                    8861
+                ],
+                [
+                    2823,
+                    8940
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "1931.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    824,
+                    8988
+                ],
+                [
+                    829,
+                    9114
+                ],
+                [
+                    2602,
+                    9135
+                ],
+                [
+                    2554,
+                    9172
+                ],
+                [
+                    2665,
+                    9177
+                ],
+                [
+                    2749,
+                    9035
+                ],
+                [
+                    2570,
+                    9003
+                ],
+                [
+                    1969,
+                    8993
+                ],
+                [
+                    824,
+                    8988
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Professor C. Haussknecht. Iter orientale 1867",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    750,
+                    9367
+                ],
+                [
+                    829,
+                    9373
+                ],
+                [
+                    829,
+                    9436
+                ],
+                [
+                    919,
+                    9420
+                ],
+                [
+                    977,
+                    9367
+                ],
+                [
+                    1489,
+                    9330
+                ],
+                [
+                    1536,
+                    9246
+                ],
+                [
+                    966,
+                    9235
+                ],
+                [
+                    924,
+                    9193
+                ],
+                [
+                    755,
+                    9183
+                ],
+                [
+                    750,
+                    9367
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Erysimum",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1462,
+                    9415
+                ],
+                [
+                    1478,
+                    9468
+                ],
+                [
+                    1773,
+                    9446
+                ],
+                [
+                    1800,
+                    9336
+                ],
+                [
+                    1536,
+                    9309
+                ],
+                [
+                    1462,
+                    9415
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "St. u.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1462,
+                    9415
+                ],
+                [
+                    1478,
+                    9468
+                ],
+                [
+                    1773,
+                    9446
+                ],
+                [
+                    1800,
+                    9336
+                ],
+                [
+                    1536,
+                    9309
+                ],
+                [
+                    1462,
+                    9415
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "sp. n.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    892,
+                    9657
+                ],
+                [
+                    1051,
+                    9668
+                ],
+                [
+                    1061,
+                    9715
+                ],
+                [
+                    1177,
+                    9679
+                ],
+                [
+                    2965,
+                    9673
+                ],
+                [
+                    3023,
+                    9478
+                ],
+                [
+                    2412,
+                    9457
+                ],
+                [
+                    1921,
+                    9478
+                ],
+                [
+                    1225,
+                    9520
+                ],
+                [
+                    924,
+                    9504
+                ],
+                [
+                    892,
+                    9657
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "in granium M. Schahu, Kurdistan",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    892,
+                    9657
+                ],
+                [
+                    1051,
+                    9668
+                ],
+                [
+                    1061,
+                    9715
+                ],
+                [
+                    1177,
+                    9679
+                ],
+                [
+                    2965,
+                    9673
+                ],
+                [
+                    3023,
+                    9478
+                ],
+                [
+                    2412,
+                    9457
+                ],
+                [
+                    1921,
+                    9478
+                ],
+                [
+                    1225,
+                    9520
+                ],
+                [
+                    924,
+                    9504
+                ],
+                [
+                    892,
+                    9657
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "in gramin M. Schahu, Kurdistan",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2406,
+                    9842
+                ],
+                [
+                    2406,
+                    10011
+                ],
+                [
+                    2549,
+                    10011
+                ],
+                [
+                    2538,
+                    10069
+                ],
+                [
+                    2828,
+                    10048
+                ],
+                [
+                    2855,
+                    9890
+                ],
+                [
+                    2406,
+                    9842
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Jul.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2406,
+                    9842
+                ],
+                [
+                    2406,
+                    10011
+                ],
+                [
+                    2549,
+                    10011
+                ],
+                [
+                    2538,
+                    10069
+                ],
+                [
+                    2828,
+                    10048
+                ],
+                [
+                    2855,
+                    9890
+                ],
+                [
+                    2406,
+                    9842
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "leg Jul.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    502,
+                    10222
+                ],
+                [
+                    507,
+                    10370
+                ],
+                [
+                    1145,
+                    10370
+                ],
+                [
+                    1129,
+                    10238
+                ],
+                [
+                    502,
+                    10222
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "IMAGE 2008",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1736,
+                    10217
+                ],
+                [
+                    1747,
+                    10359
+                ],
+                [
+                    2427,
+                    10364
+                ],
+                [
+                    2390,
+                    10217
+                ],
+                [
+                    1736,
+                    10217
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Image 2002",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1710,
+                    10480
+                ],
+                [
+                    1725,
+                    10597
+                ],
+                [
+                    2469,
+                    10607
+                ],
+                [
+                    2469,
+                    10486
+                ],
+                [
+                    1710,
+                    10480
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Mus. Bot. Berol.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1863,
+                    10760
+                ],
+                [
+                    1863,
+                    10850
+                ],
+                [
+                    2348,
+                    10844
+                ],
+                [
+                    2348,
+                    10760
+                ],
+                [
+                    1863,
+                    10760
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "B 10 006894",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    565,
+                    10633
+                ],
+                [
+                    597,
+                    10792
+                ],
+                [
+                    929,
+                    10723
+                ],
+                [
+                    929,
+                    10591
+                ],
+                [
+                    565,
+                    10633
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "2 - 4",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3848,
+                    9780
+                ],
+                [
+                    3863,
+                    9891
+                ],
+                [
+                    5096,
+                    9902
+                ],
+                [
+                    5358,
+                    9861
+                ],
+                [
+                    5321,
+                    9780
+                ],
+                [
+                    3848,
+                    9780
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB. MUSEI HIST. NATUR. VINDOB.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3445,
+                    9839
+                ],
+                [
+                    3453,
+                    10024
+                ],
+                [
+                    3752,
+                    10013
+                ],
+                [
+                    3744,
+                    10087
+                ],
+                [
+                    3807,
+                    10094
+                ],
+                [
+                    3922,
+                    10017
+                ],
+                [
+                    4140,
+                    10002
+                ],
+                [
+                    4121,
+                    9913
+                ],
+                [
+                    3759,
+                    9895
+                ],
+                [
+                    3730,
+                    9836
+                ],
+                [
+                    3445,
+                    9839
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Isotype",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4750,
+                    10398
+                ],
+                [
+                    4765,
+                    10398
+                ],
+                [
+                    4770,
+                    10562
+                ],
+                [
+                    5789,
+                    10542
+                ],
+                [
+                    5779,
+                    10389
+                ],
+                [
+                    4750,
+                    10398
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "rev. A. POLATSCHEK",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3449,
+                    10422
+                ],
+                [
+                    3463,
+                    10551
+                ],
+                [
+                    3680,
+                    10533
+                ],
+                [
+                    3684,
+                    10427
+                ],
+                [
+                    3449,
+                    10422
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "1984",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4303,
+                    10925
+                ],
+                [
+                    4640,
+                    10944
+                ],
+                [
+                    5401,
+                    10893
+                ],
+                [
+                    5434,
+                    10722
+                ],
+                [
+                    4667,
+                    10708
+                ],
+                [
+                    4335,
+                    10731
+                ],
+                [
+                    4303,
+                    10925
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "15/2004-205",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    5840,
+                    10834
+                ],
+                [
+                    6730,
+                    10857
+                ],
+                [
+                    6716,
+                    10668
+                ],
+                [
+                    5853,
+                    10640
+                ],
+                [
+                    5840,
+                    10834
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Mus. bot. Berol.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3432,
+                    10038
+                ],
+                [
+                    3442,
+                    10196
+                ],
+                [
+                    3991,
+                    10186
+                ],
+                [
+                    4898,
+                    10186
+                ],
+                [
+                    5921,
+                    10133
+                ],
+                [
+                    5921,
+                    9954
+                ],
+                [
+                    5310,
+                    9964
+                ],
+                [
+                    4692,
+                    9996
+                ],
+                [
+                    4281,
+                    9996
+                ],
+                [
+                    4207,
+                    9996
+                ],
+                [
+                    4044,
+                    10022
+                ],
+                [
+                    3917,
+                    10017
+                ],
+                [
+                    3806,
+                    10102
+                ],
+                [
+                    3695,
+                    10080
+                ],
+                [
+                    3680,
+                    10033
+                ],
+                [
+                    3432,
+                    10038
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Erysimum kurdicum BOISS et. HAUSSKN.",
+            "worker_version": null
+        }
+    ]
+}

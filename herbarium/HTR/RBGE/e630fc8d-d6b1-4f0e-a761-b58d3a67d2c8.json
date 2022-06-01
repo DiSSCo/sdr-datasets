@@ -1,0 +1,1918 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "479c24a2-d399-4074-b47f-7c82c51a95d8",
+        "name": "RBGE"
+    },
+    "image": {
+        "id": "91b8d98c-fe6b-4cf7-bead-cf400e96e61e",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FE00639834.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FE00639834.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "e630fc8d-d6b1-4f0e-a761-b58d3a67d2c8",
+        "name": "E00639834",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    885,
+                    950
+                ],
+                [
+                    885,
+                    1059
+                ],
+                [
+                    1201,
+                    1059
+                ],
+                [
+                    1201,
+                    950
+                ],
+                [
+                    885,
+                    950
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "3365",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    885,
+                    950
+                ],
+                [
+                    885,
+                    1059
+                ],
+                [
+                    1201,
+                    1059
+                ],
+                [
+                    1201,
+                    950
+                ],
+                [
+                    885,
+                    950
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "5365",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    98,
+                    1084
+                ],
+                [
+                    98,
+                    1212
+                ],
+                [
+                    1024,
+                    1212
+                ],
+                [
+                    1024,
+                    1084
+                ],
+                [
+                    98,
+                    1084
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "RBGE Data Capture",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    98,
+                    1084
+                ],
+                [
+                    98,
+                    1212
+                ],
+                [
+                    1024,
+                    1212
+                ],
+                [
+                    1024,
+                    1084
+                ],
+                [
+                    98,
+                    1084
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Regit Datatapture",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3674,
+                    127
+                ],
+                [
+                    3674,
+                    318
+                ],
+                [
+                    4868,
+                    318
+                ],
+                [
+                    4868,
+                    127
+                ],
+                [
+                    3674,
+                    127
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB . HORT . EDINB",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3674,
+                    127
+                ],
+                [
+                    3674,
+                    318
+                ],
+                [
+                    4868,
+                    318
+                ],
+                [
+                    4868,
+                    127
+                ],
+                [
+                    3674,
+                    127
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB. HORT. EDINB.",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3566,
+                    6118
+                ],
+                [
+                    3566,
+                    6208
+                ],
+                [
+                    4274,
+                    6208
+                ],
+                [
+                    4274,
+                    6118
+                ],
+                [
+                    3566,
+                    6118
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Cultivated Plants",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3566,
+                    6118
+                ],
+                [
+                    3566,
+                    6208
+                ],
+                [
+                    4274,
+                    6208
+                ],
+                [
+                    4274,
+                    6118
+                ],
+                [
+                    3566,
+                    6118
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Cultivated Plants",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3566,
+                    6118
+                ],
+                [
+                    3566,
+                    6208
+                ],
+                [
+                    4274,
+                    6208
+                ],
+                [
+                    4274,
+                    6118
+                ],
+                [
+                    3566,
+                    6118
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Cultivated Plants",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    3370,
+                    6216
+                ],
+                [
+                    3370,
+                    6306
+                ],
+                [
+                    4467,
+                    6306
+                ],
+                [
+                    4467,
+                    6216
+                ],
+                [
+                    3370,
+                    6216
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Royal Botanic Garden Edinburgh",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3370,
+                    6216
+                ],
+                [
+                    3370,
+                    6306
+                ],
+                [
+                    4467,
+                    6306
+                ],
+                [
+                    4467,
+                    6216
+                ],
+                [
+                    3370,
+                    6216
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Royal Botanic Garden Edinburgh",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3370,
+                    6216
+                ],
+                [
+                    3370,
+                    6306
+                ],
+                [
+                    4467,
+                    6306
+                ],
+                [
+                    4467,
+                    6216
+                ],
+                [
+                    3370,
+                    6216
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Royal Botanic Garden Edinburgh",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    3043,
+                    6398
+                ],
+                [
+                    4712,
+                    6398
+                ],
+                [
+                    4707,
+                    6306
+                ],
+                [
+                    3048,
+                    6309
+                ],
+                [
+                    3043,
+                    6398
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "UK Barcoding Project ( Part of the Barcode for Life )",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3043,
+                    6398
+                ],
+                [
+                    4712,
+                    6398
+                ],
+                [
+                    4707,
+                    6306
+                ],
+                [
+                    3048,
+                    6309
+                ],
+                [
+                    3043,
+                    6398
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "UK Barcoding Project ( Part of the Barcode for Life )",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3043,
+                    6398
+                ],
+                [
+                    4712,
+                    6398
+                ],
+                [
+                    4707,
+                    6306
+                ],
+                [
+                    3048,
+                    6309
+                ],
+                [
+                    3043,
+                    6398
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "UK Barcoding Project ( Part of the Barcode for Life )",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    4429,
+                    6407
+                ],
+                [
+                    4429,
+                    6491
+                ],
+                [
+                    4870,
+                    6491
+                ],
+                [
+                    4870,
+                    6407
+                ],
+                [
+                    4429,
+                    6407
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Primulaceae",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4429,
+                    6407
+                ],
+                [
+                    4429,
+                    6491
+                ],
+                [
+                    4870,
+                    6491
+                ],
+                [
+                    4870,
+                    6407
+                ],
+                [
+                    4429,
+                    6407
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Primulaceae",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    4429,
+                    6407
+                ],
+                [
+                    4429,
+                    6491
+                ],
+                [
+                    4870,
+                    6491
+                ],
+                [
+                    4870,
+                    6407
+                ],
+                [
+                    4429,
+                    6407
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Primulaceae",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    3035,
+                    6518
+                ],
+                [
+                    3035,
+                    6603
+                ],
+                [
+                    3615,
+                    6603
+                ],
+                [
+                    3615,
+                    6518
+                ],
+                [
+                    3035,
+                    6518
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Primula farinosa L .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3035,
+                    6518
+                ],
+                [
+                    3035,
+                    6603
+                ],
+                [
+                    3615,
+                    6603
+                ],
+                [
+                    3615,
+                    6518
+                ],
+                [
+                    3035,
+                    6518
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Primula farinosa L.",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3035,
+                    6518
+                ],
+                [
+                    3035,
+                    6603
+                ],
+                [
+                    3615,
+                    6603
+                ],
+                [
+                    3615,
+                    6518
+                ],
+                [
+                    3035,
+                    6518
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Primula farinosa L .",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    3029,
+                    6660
+                ],
+                [
+                    3029,
+                    6744
+                ],
+                [
+                    4402,
+                    6744
+                ],
+                [
+                    4402,
+                    6660
+                ],
+                [
+                    3029,
+                    6660
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Determined by : Frachon , Natacha 18 JUL 2012",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3029,
+                    6660
+                ],
+                [
+                    3029,
+                    6744
+                ],
+                [
+                    4402,
+                    6744
+                ],
+                [
+                    4402,
+                    6660
+                ],
+                [
+                    3029,
+                    6660
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Determined by: Frachon, Natacha 18 JUL 2012",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3029,
+                    6660
+                ],
+                [
+                    3029,
+                    6744
+                ],
+                [
+                    4402,
+                    6744
+                ],
+                [
+                    4402,
+                    6660
+                ],
+                [
+                    3029,
+                    6660
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Determined by : Frachon , Natacha 18 JUL 2012",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    3029,
+                    6813
+                ],
+                [
+                    3029,
+                    6878
+                ],
+                [
+                    3721,
+                    6878
+                ],
+                [
+                    3721,
+                    6813
+                ],
+                [
+                    3029,
+                    6813
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Living collection info . :",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3029,
+                    6813
+                ],
+                [
+                    3029,
+                    6878
+                ],
+                [
+                    3721,
+                    6878
+                ],
+                [
+                    3721,
+                    6813
+                ],
+                [
+                    3029,
+                    6813
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Living collection info.:",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3029,
+                    6813
+                ],
+                [
+                    3029,
+                    6878
+                ],
+                [
+                    3721,
+                    6878
+                ],
+                [
+                    3721,
+                    6813
+                ],
+                [
+                    3029,
+                    6813
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Living collection info . :",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    3043,
+                    6892
+                ],
+                [
+                    3043,
+                    6951
+                ],
+                [
+                    4710,
+                    6951
+                ],
+                [
+                    4710,
+                    6892
+                ],
+                [
+                    3043,
+                    6892
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "RBGE Data Capture Project - Natacha Frachon No . 3365",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3043,
+                    6892
+                ],
+                [
+                    3043,
+                    6951
+                ],
+                [
+                    4710,
+                    6951
+                ],
+                [
+                    4710,
+                    6892
+                ],
+                [
+                    3043,
+                    6892
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "RBGE Data Capture Project - Natacha Frachon No. 3365",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3043,
+                    6892
+                ],
+                [
+                    3043,
+                    6951
+                ],
+                [
+                    4710,
+                    6951
+                ],
+                [
+                    4710,
+                    6892
+                ],
+                [
+                    3043,
+                    6892
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "RBGE Data Capture Project - Natacha Frachon No . 3365",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    3051,
+                    6957
+                ],
+                [
+                    3051,
+                    7022
+                ],
+                [
+                    3402,
+                    7022
+                ],
+                [
+                    3402,
+                    6957
+                ],
+                [
+                    3051,
+                    6957
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "18 JUL 2012",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3051,
+                    6957
+                ],
+                [
+                    3051,
+                    7022
+                ],
+                [
+                    3402,
+                    7022
+                ],
+                [
+                    3402,
+                    6957
+                ],
+                [
+                    3051,
+                    6957
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "18 JUL 2012",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3051,
+                    6957
+                ],
+                [
+                    3051,
+                    7022
+                ],
+                [
+                    3402,
+                    7022
+                ],
+                [
+                    3402,
+                    6957
+                ],
+                [
+                    3051,
+                    6957
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "18 JUL 2012",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    3043,
+                    7033
+                ],
+                [
+                    3043,
+                    7088
+                ],
+                [
+                    4260,
+                    7088
+                ],
+                [
+                    4260,
+                    7033
+                ],
+                [
+                    3043,
+                    7033
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Accession number & Qualifier : 20080702 * A",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3043,
+                    7033
+                ],
+                [
+                    3043,
+                    7088
+                ],
+                [
+                    4260,
+                    7088
+                ],
+                [
+                    4260,
+                    7033
+                ],
+                [
+                    3043,
+                    7033
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Accession number & Qualifier. 20080702\"A",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3035,
+                    7104
+                ],
+                [
+                    3035,
+                    7167
+                ],
+                [
+                    3767,
+                    7167
+                ],
+                [
+                    3767,
+                    7104
+                ],
+                [
+                    3035,
+                    7104
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "E07 Experimental Garden",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3035,
+                    7104
+                ],
+                [
+                    3035,
+                    7167
+                ],
+                [
+                    3767,
+                    7167
+                ],
+                [
+                    3767,
+                    7104
+                ],
+                [
+                    3035,
+                    7104
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "E07 Experimental Garden",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3035,
+                    7104
+                ],
+                [
+                    3035,
+                    7167
+                ],
+                [
+                    3767,
+                    7167
+                ],
+                [
+                    3767,
+                    7104
+                ],
+                [
+                    3035,
+                    7104
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "E07 Experimental Garden",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    3026,
+                    7237
+                ],
+                [
+                    3026,
+                    7311
+                ],
+                [
+                    4761,
+                    7311
+                ],
+                [
+                    4761,
+                    7237
+                ],
+                [
+                    3026,
+                    7237
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Associated material : DNA sample ( UK Barcode Project ) ( 336 ) ;",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3026,
+                    7237
+                ],
+                [
+                    3026,
+                    7311
+                ],
+                [
+                    4761,
+                    7311
+                ],
+                [
+                    4761,
+                    7237
+                ],
+                [
+                    3026,
+                    7237
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Associated material: DNA sample (UK Barcode Project) (336):",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3043,
+                    7319
+                ],
+                [
+                    3043,
+                    7379
+                ],
+                [
+                    3955,
+                    7379
+                ],
+                [
+                    3955,
+                    7319
+                ],
+                [
+                    3043,
+                    7319
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "DNA sample ( E ) ; photograph ( E ) .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3043,
+                    7319
+                ],
+                [
+                    3043,
+                    7379
+                ],
+                [
+                    3955,
+                    7379
+                ],
+                [
+                    3955,
+                    7319
+                ],
+                [
+                    3043,
+                    7319
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "DNA sample ( E); photograph (E).",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3043,
+                    7319
+                ],
+                [
+                    3043,
+                    7379
+                ],
+                [
+                    3955,
+                    7379
+                ],
+                [
+                    3955,
+                    7319
+                ],
+                [
+                    3043,
+                    7319
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "DNA sample ( E ) ; photograph ( E ) .",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    3035,
+                    7439
+                ],
+                [
+                    3035,
+                    7521
+                ],
+                [
+                    4206,
+                    7521
+                ],
+                [
+                    4206,
+                    7439
+                ],
+                [
+                    3035,
+                    7439
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Grown on from original wild collection :",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3035,
+                    7439
+                ],
+                [
+                    3035,
+                    7521
+                ],
+                [
+                    4206,
+                    7521
+                ],
+                [
+                    4206,
+                    7439
+                ],
+                [
+                    3035,
+                    7439
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Grown on from original wild collection:",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3035,
+                    7439
+                ],
+                [
+                    3035,
+                    7521
+                ],
+                [
+                    4206,
+                    7521
+                ],
+                [
+                    4206,
+                    7439
+                ],
+                [
+                    3035,
+                    7439
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Grown on from original wild collection :",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    3035,
+                    7529
+                ],
+                [
+                    3035,
+                    7578
+                ],
+                [
+                    3615,
+                    7578
+                ],
+                [
+                    3615,
+                    7529
+                ],
+                [
+                    3035,
+                    7529
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "McHaffie , Heather S",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3035,
+                    7529
+                ],
+                [
+                    3035,
+                    7578
+                ],
+                [
+                    3615,
+                    7578
+                ],
+                [
+                    3615,
+                    7529
+                ],
+                [
+                    3035,
+                    7529
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "McHlaffie , Heather S.",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3040,
+                    7589
+                ],
+                [
+                    3040,
+                    7657
+                ],
+                [
+                    4723,
+                    7657
+                ],
+                [
+                    4723,
+                    7589
+                ],
+                [
+                    3040,
+                    7589
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "UNITED KINGDOM : England : South - East Yorkshire ( VC 61 ) :",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3040,
+                    7589
+                ],
+                [
+                    3040,
+                    7657
+                ],
+                [
+                    4723,
+                    7657
+                ],
+                [
+                    4723,
+                    7589
+                ],
+                [
+                    3040,
+                    7589
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "UNITED KINGDOM: England: South - East Yorkshire (VC 61):",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3040,
+                    7589
+                ],
+                [
+                    3040,
+                    7657
+                ],
+                [
+                    4723,
+                    7657
+                ],
+                [
+                    4723,
+                    7589
+                ],
+                [
+                    3040,
+                    7589
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "UNITED KINGDOM : England : South - East Yorkshire ( VC 61 ) :",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    3043,
+                    7665
+                ],
+                [
+                    3043,
+                    7728
+                ],
+                [
+                    4582,
+                    7728
+                ],
+                [
+                    4582,
+                    7665
+                ],
+                [
+                    3043,
+                    7665
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Upper Teesdale : Raven Scar . Calcareous flush . 400 m .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3043,
+                    7665
+                ],
+                [
+                    3043,
+                    7728
+                ],
+                [
+                    4582,
+                    7728
+                ],
+                [
+                    4582,
+                    7665
+                ],
+                [
+                    3043,
+                    7665
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Upper Teesdale: Raven Scar. Calcareous flush . 400 m.",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3043,
+                    7665
+                ],
+                [
+                    3043,
+                    7728
+                ],
+                [
+                    4582,
+                    7728
+                ],
+                [
+                    4582,
+                    7665
+                ],
+                [
+                    3043,
+                    7665
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Upper Teesdale : Raven Scar . Calcareous flush . 400 m .",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    3045,
+                    7736
+                ],
+                [
+                    3045,
+                    7799
+                ],
+                [
+                    4753,
+                    7799
+                ],
+                [
+                    4753,
+                    7736
+                ],
+                [
+                    3045,
+                    7736
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NY836294 . Rosettes uprooted by sheep eating seed pods . 03",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3045,
+                    7736
+                ],
+                [
+                    3045,
+                    7799
+                ],
+                [
+                    4753,
+                    7799
+                ],
+                [
+                    4753,
+                    7736
+                ],
+                [
+                    3045,
+                    7736
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NY836294 . Rosettes uprooted by sheep eating seed pods. 03",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3045,
+                    7736
+                ],
+                [
+                    3045,
+                    7799
+                ],
+                [
+                    4753,
+                    7799
+                ],
+                [
+                    4753,
+                    7736
+                ],
+                [
+                    3045,
+                    7736
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NY836294 . Rosettes uprooted by sheep eating seed pods . 03",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    3048,
+                    7807
+                ],
+                [
+                    3048,
+                    7859
+                ],
+                [
+                    3329,
+                    7859
+                ],
+                [
+                    3329,
+                    7807
+                ],
+                [
+                    3048,
+                    7807
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "JUL 2007",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3048,
+                    7807
+                ],
+                [
+                    3048,
+                    7859
+                ],
+                [
+                    3329,
+                    7859
+                ],
+                [
+                    3329,
+                    7807
+                ],
+                [
+                    3048,
+                    7807
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "JUL 2007",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3048,
+                    7807
+                ],
+                [
+                    3048,
+                    7859
+                ],
+                [
+                    3329,
+                    7859
+                ],
+                [
+                    3329,
+                    7807
+                ],
+                [
+                    3048,
+                    7807
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "JUL 2007",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    66,
+                    7564
+                ],
+                [
+                    701,
+                    7584
+                ],
+                [
+                    709,
+                    7540
+                ],
+                [
+                    74,
+                    7507
+                ],
+                [
+                    74,
+                    7510
+                ],
+                [
+                    66,
+                    7564
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ROYAL BOTANIC GARDEN",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    66,
+                    7564
+                ],
+                [
+                    701,
+                    7584
+                ],
+                [
+                    709,
+                    7540
+                ],
+                [
+                    74,
+                    7507
+                ],
+                [
+                    74,
+                    7510
+                ],
+                [
+                    66,
+                    7564
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ROYAL BOTANIC GARDEN",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    66,
+                    7564
+                ],
+                [
+                    701,
+                    7584
+                ],
+                [
+                    709,
+                    7540
+                ],
+                [
+                    74,
+                    7507
+                ],
+                [
+                    74,
+                    7510
+                ],
+                [
+                    66,
+                    7564
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ROYAL BOTANIC GARDEN",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    237,
+                    7578
+                ],
+                [
+                    237,
+                    7581
+                ],
+                [
+                    237,
+                    7619
+                ],
+                [
+                    537,
+                    7627
+                ],
+                [
+                    537,
+                    7589
+                ],
+                [
+                    237,
+                    7578
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "EDINBURGH",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    237,
+                    7578
+                ],
+                [
+                    237,
+                    7581
+                ],
+                [
+                    237,
+                    7619
+                ],
+                [
+                    537,
+                    7627
+                ],
+                [
+                    537,
+                    7589
+                ],
+                [
+                    237,
+                    7578
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "EDINBURGH",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    237,
+                    7578
+                ],
+                [
+                    237,
+                    7581
+                ],
+                [
+                    237,
+                    7619
+                ],
+                [
+                    537,
+                    7627
+                ],
+                [
+                    537,
+                    7589
+                ],
+                [
+                    237,
+                    7578
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "EDINBURGH",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    213,
+                    7826
+                ],
+                [
+                    526,
+                    7842
+                ],
+                [
+                    521,
+                    7793
+                ],
+                [
+                    227,
+                    7777
+                ],
+                [
+                    227,
+                    7785
+                ],
+                [
+                    213,
+                    7826
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "E00639834",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    213,
+                    7826
+                ],
+                [
+                    526,
+                    7842
+                ],
+                [
+                    521,
+                    7793
+                ],
+                [
+                    227,
+                    7777
+                ],
+                [
+                    227,
+                    7785
+                ],
+                [
+                    213,
+                    7826
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "E00639834",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    213,
+                    7826
+                ],
+                [
+                    526,
+                    7842
+                ],
+                [
+                    521,
+                    7793
+                ],
+                [
+                    227,
+                    7777
+                ],
+                [
+                    227,
+                    7785
+                ],
+                [
+                    213,
+                    7826
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "E00639834",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        }
+    ]
+}

@@ -1,0 +1,316 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6ebebd79-2a28-464f-b60a-aa47a864a586",
+        "name": "test"
+    },
+    "image": {
+        "id": "4bcd96cc-b120-4bba-9e23-8cf1eb15754c",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/a5874c22-b853-4013-8466-4eef33f5767f",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/a5874c22-b853-4013-8466-4eef33f5767f/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "ec353ce8-a1d7-400a-817e-f79d54f17016",
+        "name": "010810652.2500x5792.jpeg",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    1876,
+                    1512
+                ],
+                [
+                    1876,
+                    1570
+                ],
+                [
+                    2317,
+                    1570
+                ],
+                [
+                    2317,
+                    1512
+                ],
+                [
+                    1876,
+                    1512
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK010810652",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1820,
+                    1097
+                ],
+                [
+                    1820,
+                    1158
+                ],
+                [
+                    2179,
+                    1158
+                ],
+                [
+                    2179,
+                    1097
+                ],
+                [
+                    1820,
+                    1097
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BRITISH ISLES:",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1815,
+                    1166
+                ],
+                [
+                    1815,
+                    1214
+                ],
+                [
+                    2156,
+                    1214
+                ],
+                [
+                    2156,
+                    1166
+                ],
+                [
+                    1815,
+                    1166
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "T. Bainbrigge-",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1818,
+                    1215
+                ],
+                [
+                    1818,
+                    1269
+                ],
+                [
+                    2144,
+                    1269
+                ],
+                [
+                    2144,
+                    1215
+                ],
+                [
+                    1818,
+                    1215
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Fletcher Coll.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1812,
+                    1268
+                ],
+                [
+                    1812,
+                    1330
+                ],
+                [
+                    2146,
+                    1330
+                ],
+                [
+                    2146,
+                    1268
+                ],
+                [
+                    1812,
+                    1268
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "B.M. 1968-501",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1781,
+                    797
+                ],
+                [
+                    1781,
+                    878
+                ],
+                [
+                    2046,
+                    878
+                ],
+                [
+                    2046,
+                    797
+                ],
+                [
+                    1781,
+                    797
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Bombus",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1781,
+                    863
+                ],
+                [
+                    1781,
+                    955
+                ],
+                [
+                    2194,
+                    955
+                ],
+                [
+                    2194,
+                    863
+                ],
+                [
+                    1781,
+                    863
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "lapidarius ?",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1782,
+                    963
+                ],
+                [
+                    1782,
+                    1040
+                ],
+                [
+                    2298,
+                    1040
+                ],
+                [
+                    2298,
+                    963
+                ],
+                [
+                    1782,
+                    963
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Richards det 1943",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1786,
+                    594
+                ],
+                [
+                    2289,
+                    588
+                ],
+                [
+                    2289,
+                    489
+                ],
+                [
+                    1790,
+                    476
+                ],
+                [
+                    1786,
+                    594
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Rodborough fort",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1804,
+                    597
+                ],
+                [
+                    1804,
+                    669
+                ],
+                [
+                    2225,
+                    654
+                ],
+                [
+                    2221,
+                    595
+                ],
+                [
+                    1804,
+                    597
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "23. VII. 42",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1806,
+                    668
+                ],
+                [
+                    1809,
+                    750
+                ],
+                [
+                    2120,
+                    752
+                ],
+                [
+                    2119,
+                    668
+                ],
+                [
+                    1806,
+                    668
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Illegible",
+            "worker_version": null
+        }
+    ]
+}

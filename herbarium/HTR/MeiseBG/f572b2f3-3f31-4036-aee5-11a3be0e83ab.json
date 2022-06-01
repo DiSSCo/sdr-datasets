@@ -1,0 +1,788 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "40737841-bfc1-4187-b1f6-3328e53d3aa3",
+        "name": "MeiseBG"
+    },
+    "image": {
+        "id": "9de4a2ff-a5f2-4fec-b833-1121f672320e",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FBR0000025601466V.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FBR0000025601466V.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "f572b2f3-3f31-4036-aee5-11a3be0e83ab",
+        "name": "BR0000025601466V",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    2666,
+                    5605
+                ],
+                [
+                    2666,
+                    5649
+                ],
+                [
+                    3670,
+                    5649
+                ],
+                [
+                    3670,
+                    5605
+                ],
+                [
+                    2666,
+                    5605
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "VRIJE UNIVERSITEIT BRUSSEL",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2666,
+                    5605
+                ],
+                [
+                    2666,
+                    5649
+                ],
+                [
+                    3670,
+                    5649
+                ],
+                [
+                    3670,
+                    5605
+                ],
+                [
+                    2666,
+                    5605
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "VRIJE UNIVERSITEIT BRUSSEL",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    2666,
+                    5605
+                ],
+                [
+                    2666,
+                    5649
+                ],
+                [
+                    3670,
+                    5649
+                ],
+                [
+                    3670,
+                    5605
+                ],
+                [
+                    2666,
+                    5605
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "VRIJE UNIVERSITEIT BRUSSEL",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    2479,
+                    5678
+                ],
+                [
+                    2479,
+                    5748
+                ],
+                [
+                    3931,
+                    5748
+                ],
+                [
+                    3931,
+                    5678
+                ],
+                [
+                    2479,
+                    5678
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "LABORATORIUM VOOR EKOLOGIE EN SYSTEMATIEK",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2479,
+                    5678
+                ],
+                [
+                    2479,
+                    5748
+                ],
+                [
+                    3931,
+                    5748
+                ],
+                [
+                    3931,
+                    5678
+                ],
+                [
+                    2479,
+                    5678
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "L.ABORATORIUM VOOR EKOLOGIE EN SYSTEMATIEK",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    2387,
+                    5906
+                ],
+                [
+                    2387,
+                    5976
+                ],
+                [
+                    3130,
+                    5976
+                ],
+                [
+                    3130,
+                    5906
+                ],
+                [
+                    2387,
+                    5906
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "FAMILIE Cruciferae",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2387,
+                    5906
+                ],
+                [
+                    2387,
+                    5976
+                ],
+                [
+                    3130,
+                    5976
+                ],
+                [
+                    3130,
+                    5906
+                ],
+                [
+                    2387,
+                    5906
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "FAmilie Cruciferae",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    2376,
+                    6013
+                ],
+                [
+                    2376,
+                    6101
+                ],
+                [
+                    4038,
+                    6101
+                ],
+                [
+                    4038,
+                    6013
+                ],
+                [
+                    2376,
+                    6013
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NAAM Capsella bursa - pastoris ( L ) Med .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2376,
+                    6013
+                ],
+                [
+                    2376,
+                    6101
+                ],
+                [
+                    4038,
+                    6101
+                ],
+                [
+                    4038,
+                    6013
+                ],
+                [
+                    2376,
+                    6013
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NAAM Capsella bursa-pastoris(L) Med.",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    2376,
+                    6013
+                ],
+                [
+                    2376,
+                    6101
+                ],
+                [
+                    4038,
+                    6101
+                ],
+                [
+                    4038,
+                    6013
+                ],
+                [
+                    2376,
+                    6013
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NAAM Capsella bursa - pastoris ( L ) Med .",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    2368,
+                    6134
+                ],
+                [
+                    2368,
+                    6233
+                ],
+                [
+                    3269,
+                    6233
+                ],
+                [
+                    3269,
+                    6134
+                ],
+                [
+                    2368,
+                    6134
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "MILIEU Langs de weg .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2368,
+                    6134
+                ],
+                [
+                    2368,
+                    6233
+                ],
+                [
+                    3269,
+                    6233
+                ],
+                [
+                    3269,
+                    6134
+                ],
+                [
+                    2368,
+                    6134
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "milleu Langs de weg.",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    2394,
+                    6513
+                ],
+                [
+                    2394,
+                    6590
+                ],
+                [
+                    3313,
+                    6590
+                ],
+                [
+                    3313,
+                    6513
+                ],
+                [
+                    2394,
+                    6513
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "VINDPLAATS Wezembeek",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2394,
+                    6513
+                ],
+                [
+                    2394,
+                    6590
+                ],
+                [
+                    3313,
+                    6590
+                ],
+                [
+                    3313,
+                    6513
+                ],
+                [
+                    2394,
+                    6513
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "VINDPLAATS Wezembeek",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    2394,
+                    6513
+                ],
+                [
+                    2394,
+                    6590
+                ],
+                [
+                    3313,
+                    6590
+                ],
+                [
+                    3313,
+                    6513
+                ],
+                [
+                    2394,
+                    6513
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "VINDPLAATS Wezembeek",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    2365,
+                    6745
+                ],
+                [
+                    2365,
+                    6825
+                ],
+                [
+                    3652,
+                    6825
+                ],
+                [
+                    3652,
+                    6745
+                ],
+                [
+                    2365,
+                    6745
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "VERZAMELAAR Deronde NR",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2365,
+                    6745
+                ],
+                [
+                    2365,
+                    6825
+                ],
+                [
+                    3652,
+                    6825
+                ],
+                [
+                    3652,
+                    6745
+                ],
+                [
+                    2365,
+                    6745
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "VERZAMELAAR Deronde L . NR",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    2361,
+                    6859
+                ],
+                [
+                    2361,
+                    6928
+                ],
+                [
+                    4104,
+                    6928
+                ],
+                [
+                    4104,
+                    6859
+                ],
+                [
+                    2361,
+                    6859
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "DETERM . DATUM 23 - 4 - 71",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2361,
+                    6859
+                ],
+                [
+                    2361,
+                    6928
+                ],
+                [
+                    4104,
+                    6928
+                ],
+                [
+                    4104,
+                    6859
+                ],
+                [
+                    2361,
+                    6859
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "DETERM. I DATUM 23-4-71",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    264,
+                    6507
+                ],
+                [
+                    889,
+                    6526
+                ],
+                [
+                    881,
+                    6459
+                ],
+                [
+                    889,
+                    6445
+                ],
+                [
+                    275,
+                    6434
+                ],
+                [
+                    264,
+                    6507
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB . PLANTENTUIN MEISE",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    264,
+                    6507
+                ],
+                [
+                    889,
+                    6526
+                ],
+                [
+                    881,
+                    6459
+                ],
+                [
+                    889,
+                    6445
+                ],
+                [
+                    275,
+                    6434
+                ],
+                [
+                    264,
+                    6507
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB. PLANTENTUIN MEISE",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    264,
+                    6507
+                ],
+                [
+                    889,
+                    6526
+                ],
+                [
+                    881,
+                    6459
+                ],
+                [
+                    889,
+                    6445
+                ],
+                [
+                    275,
+                    6434
+                ],
+                [
+                    264,
+                    6507
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB . PLANTENTUIN MEISE",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    297,
+                    6687
+                ],
+                [
+                    315,
+                    6735
+                ],
+                [
+                    837,
+                    6746
+                ],
+                [
+                    834,
+                    6699
+                ],
+                [
+                    300,
+                    6684
+                ],
+                [
+                    297,
+                    6687
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BR0000025601466V",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    297,
+                    6687
+                ],
+                [
+                    315,
+                    6735
+                ],
+                [
+                    837,
+                    6746
+                ],
+                [
+                    834,
+                    6699
+                ],
+                [
+                    300,
+                    6684
+                ],
+                [
+                    297,
+                    6687
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BR0000025601466V",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    297,
+                    6687
+                ],
+                [
+                    315,
+                    6735
+                ],
+                [
+                    837,
+                    6746
+                ],
+                [
+                    834,
+                    6699
+                ],
+                [
+                    300,
+                    6684
+                ],
+                [
+                    297,
+                    6687
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BR0000025601466V",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    186,
+                    6816
+                ],
+                [
+                    209,
+                    6960
+                ],
+                [
+                    867,
+                    6967
+                ],
+                [
+                    870,
+                    6813
+                ],
+                [
+                    212,
+                    6790
+                ],
+                [
+                    212,
+                    6783
+                ],
+                [
+                    186,
+                    6816
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ACC 2016 - 3",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    186,
+                    6816
+                ],
+                [
+                    209,
+                    6960
+                ],
+                [
+                    867,
+                    6967
+                ],
+                [
+                    870,
+                    6813
+                ],
+                [
+                    212,
+                    6790
+                ],
+                [
+                    212,
+                    6783
+                ],
+                [
+                    186,
+                    6816
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ACC 2016-53",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        }
+    ]
+}

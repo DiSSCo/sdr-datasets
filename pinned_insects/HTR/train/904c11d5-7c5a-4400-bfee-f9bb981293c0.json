@@ -1,0 +1,262 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "e7b5da23-df0a-4fa7-a14b-a930778a38f4",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/58df403b-c293-4048-9e9b-f7c1f82e529e",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/58df403b-c293-4048-9e9b-f7c1f82e529e/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "904c11d5-7c5a-4400-bfee-f9bb981293c0",
+        "name": "012810837_806333_1263207.2500x3181.jpeg",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    1748,
+                    370
+                ],
+                [
+                    1750,
+                    427
+                ],
+                [
+                    2085,
+                    431
+                ],
+                [
+                    2085,
+                    370
+                ],
+                [
+                    1748,
+                    370
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Ross Isld",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1819,
+                    436
+                ],
+                [
+                    1821,
+                    489
+                ],
+                [
+                    2015,
+                    488
+                ],
+                [
+                    2016,
+                    442
+                ],
+                [
+                    1819,
+                    436
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "5- 04",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1748,
+                    484
+                ],
+                [
+                    1752,
+                    526
+                ],
+                [
+                    2080,
+                    533
+                ],
+                [
+                    2081,
+                    492
+                ],
+                [
+                    1748,
+                    484
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Bingham Col",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1748,
+                    484
+                ],
+                [
+                    1752,
+                    526
+                ],
+                [
+                    2080,
+                    533
+                ],
+                [
+                    2081,
+                    492
+                ],
+                [
+                    1748,
+                    484
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Bingham Col",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1793,
+                    718
+                ],
+                [
+                    1793,
+                    770
+                ],
+                [
+                    2204,
+                    770
+                ],
+                [
+                    2204,
+                    718
+                ],
+                [
+                    1793,
+                    718
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK 012810837",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1399,
+                    487
+                ],
+                [
+                    1401,
+                    552
+                ],
+                [
+                    1613,
+                    552
+                ],
+                [
+                    1612,
+                    486
+                ],
+                [
+                    1399,
+                    487
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Ross Is.,",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1334,
+                    557
+                ],
+                [
+                    1335,
+                    623
+                ],
+                [
+                    1677,
+                    627
+                ],
+                [
+                    1678,
+                    557
+                ],
+                [
+                    1334,
+                    557
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "andaman Is.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1365,
+                    639
+                ],
+                [
+                    1367,
+                    687
+                ],
+                [
+                    1638,
+                    691
+                ],
+                [
+                    1640,
+                    647
+                ],
+                [
+                    1365,
+                    639
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "april, 1904",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1336,
+                    690
+                ],
+                [
+                    1336,
+                    757
+                ],
+                [
+                    1688,
+                    757
+                ],
+                [
+                    1694,
+                    691
+                ],
+                [
+                    1336,
+                    690
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Col. Bingham",
+            "worker_version": null
+        }
+    ]
+}

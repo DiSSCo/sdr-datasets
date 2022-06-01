@@ -1,0 +1,370 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "635f3d84-ced6-4b17-b64a-86be7aa87304",
+        "name": "Naturalis"
+    },
+    "image": {
+        "id": "fca2414d-9155-4186-a1a8-e00dbd35fcf1",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FL.1086850.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FL.1086850.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "8f266d96-a4cd-437c-a209-f73bb688f616",
+        "name": "L.1086850",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    28,
+                    23
+                ],
+                [
+                    28,
+                    585
+                ],
+                [
+                    114,
+                    585
+                ],
+                [
+                    114,
+                    23
+                ],
+                [
+                    28,
+                    23
+                ]
+            ],
+            "rotation_angle": 90,
+            "transcription": "Rijksherbariu",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    28,
+                    23
+                ],
+                [
+                    28,
+                    585
+                ],
+                [
+                    114,
+                    585
+                ],
+                [
+                    114,
+                    23
+                ],
+                [
+                    28,
+                    23
+                ]
+            ],
+            "rotation_angle": 90,
+            "transcription": "Rijksherbariui",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    114,
+                    105
+                ],
+                [
+                    114,
+                    409
+                ],
+                [
+                    191,
+                    409
+                ],
+                [
+                    191,
+                    105
+                ],
+                [
+                    114,
+                    105
+                ]
+            ],
+            "rotation_angle": 90,
+            "transcription": "Leiden",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    114,
+                    105
+                ],
+                [
+                    114,
+                    409
+                ],
+                [
+                    191,
+                    409
+                ],
+                [
+                    191,
+                    105
+                ],
+                [
+                    114,
+                    105
+                ]
+            ],
+            "rotation_angle": 90,
+            "transcription": "Leiden",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    251,
+                    56
+                ],
+                [
+                    251,
+                    735
+                ],
+                [
+                    350,
+                    735
+                ],
+                [
+                    350,
+                    56
+                ],
+                [
+                    251,
+                    56
+                ]
+            ],
+            "rotation_angle": 90,
+            "transcription": "HORSFIELDIA",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    341,
+                    6
+                ],
+                [
+                    341,
+                    722
+                ],
+                [
+                    433,
+                    722
+                ],
+                [
+                    433,
+                    6
+                ],
+                [
+                    341,
+                    6
+                ]
+            ],
+            "rotation_angle": 90,
+            "transcription": "glabra (Bl) Wa",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    341,
+                    6
+                ],
+                [
+                    341,
+                    722
+                ],
+                [
+                    433,
+                    722
+                ],
+                [
+                    433,
+                    6
+                ],
+                [
+                    341,
+                    6
+                ]
+            ],
+            "rotation_angle": 90,
+            "transcription": "glabna B1 Wa",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    482,
+                    23
+                ],
+                [
+                    482,
+                    726
+                ],
+                [
+                    594,
+                    726
+                ],
+                [
+                    594,
+                    23
+                ],
+                [
+                    482,
+                    23
+                ]
+            ],
+            "rotation_angle": 90,
+            "transcription": "Junghuhn no.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    482,
+                    23
+                ],
+                [
+                    482,
+                    726
+                ],
+                [
+                    594,
+                    726
+                ],
+                [
+                    594,
+                    23
+                ],
+                [
+                    482,
+                    23
+                ]
+            ],
+            "rotation_angle": 90,
+            "transcription": "Junghuhn no .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    627,
+                    224
+                ],
+                [
+                    627,
+                    503
+                ],
+                [
+                    729,
+                    503
+                ],
+                [
+                    729,
+                    224
+                ],
+                [
+                    627,
+                    224
+                ]
+            ],
+            "rotation_angle": 90,
+            "transcription": "Java",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    627,
+                    224
+                ],
+                [
+                    627,
+                    503
+                ],
+                [
+                    729,
+                    503
+                ],
+                [
+                    729,
+                    224
+                ],
+                [
+                    627,
+                    224
+                ]
+            ],
+            "rotation_angle": 90,
+            "transcription": "Java",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    771,
+                    398
+                ],
+                [
+                    771,
+                    783
+                ],
+                [
+                    898,
+                    783
+                ],
+                [
+                    898,
+                    398
+                ],
+                [
+                    771,
+                    398
+                ]
+            ],
+            "rotation_angle": 90,
+            "transcription": "L. 1086850",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    771,
+                    398
+                ],
+                [
+                    771,
+                    783
+                ],
+                [
+                    898,
+                    783
+                ],
+                [
+                    898,
+                    398
+                ],
+                [
+                    771,
+                    398
+                ]
+            ],
+            "rotation_angle": 90,
+            "transcription": "L . 1086850",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        }
+    ]
+}

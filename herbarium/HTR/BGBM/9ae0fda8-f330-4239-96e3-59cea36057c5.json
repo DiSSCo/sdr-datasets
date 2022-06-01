@@ -1,0 +1,532 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "438d96cb-88a1-4786-a83a-08301ba7e92a",
+        "name": "BGBM"
+    },
+    "image": {
+        "id": "f27a9bd7-e70e-4251-9253-5e0b6119afdb",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FB_10_0003463.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FB_10_0003463.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "9ae0fda8-f330-4239-96e3-59cea36057c5",
+        "name": "B_10_0003463",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    6525,
+                    1759
+                ],
+                [
+                    6525,
+                    2079
+                ],
+                [
+                    6739,
+                    2079
+                ],
+                [
+                    6739,
+                    1759
+                ],
+                [
+                    6525,
+                    1759
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "5 cm",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    474,
+                    8961
+                ],
+                [
+                    474,
+                    9086
+                ],
+                [
+                    1576,
+                    9086
+                ],
+                [
+                    1576,
+                    8961
+                ],
+                [
+                    474,
+                    8961
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Gymnospermae Collections",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    249,
+                    9126
+                ],
+                [
+                    249,
+                    9255
+                ],
+                [
+                    884,
+                    9255
+                ],
+                [
+                    884,
+                    9126
+                ],
+                [
+                    249,
+                    9126
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Araucariaceae",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    249,
+                    9303
+                ],
+                [
+                    249,
+                    9428
+                ],
+                [
+                    1443,
+                    9428
+                ],
+                [
+                    1443,
+                    9303
+                ],
+                [
+                    249,
+                    9303
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Agathis atropurpurea Hyland",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    253,
+                    9440
+                ],
+                [
+                    253,
+                    9596
+                ],
+                [
+                    2665,
+                    9596
+                ],
+                [
+                    2665,
+                    9440
+                ],
+                [
+                    253,
+                    9440
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Australia: Queensland, Springbrook, Repeater Station Rd.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    241,
+                    9604
+                ],
+                [
+                    241,
+                    9765
+                ],
+                [
+                    1137,
+                    9765
+                ],
+                [
+                    1137,
+                    9604
+                ],
+                [
+                    241,
+                    9604
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Nursery, cultivated.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1990,
+                    9809
+                ],
+                [
+                    1990,
+                    10059
+                ],
+                [
+                    2504,
+                    10059
+                ],
+                [
+                    2504,
+                    9809
+                ],
+                [
+                    1990,
+                    9809
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "acc.",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    1990,
+                    9809
+                ],
+                [
+                    1990,
+                    10059
+                ],
+                [
+                    2504,
+                    10059
+                ],
+                [
+                    2504,
+                    9809
+                ],
+                [
+                    1990,
+                    9809
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "acc.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1990,
+                    9809
+                ],
+                [
+                    1990,
+                    10059
+                ],
+                [
+                    2504,
+                    10059
+                ],
+                [
+                    2504,
+                    9809
+                ],
+                [
+                    1990,
+                    9809
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "acc.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1949,
+                    10111
+                ],
+                [
+                    1949,
+                    10296
+                ],
+                [
+                    2564,
+                    10296
+                ],
+                [
+                    2564,
+                    10111
+                ],
+                [
+                    1949,
+                    10111
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "22. JAN. 1997",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    241,
+                    9942
+                ],
+                [
+                    241,
+                    10067
+                ],
+                [
+                    1101,
+                    10067
+                ],
+                [
+                    1101,
+                    9942
+                ],
+                [
+                    241,
+                    9942
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Coll: C.H. Wild 009",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    498,
+                    10103
+                ],
+                [
+                    498,
+                    10244
+                ],
+                [
+                    1186,
+                    10244
+                ],
+                [
+                    1186,
+                    10103
+                ],
+                [
+                    498,
+                    10103
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "10th June 1989",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    338,
+                    10553
+                ],
+                [
+                    338,
+                    10710
+                ],
+                [
+                    1391,
+                    10710
+                ],
+                [
+                    1391,
+                    10553
+                ],
+                [
+                    338,
+                    10553
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herbarium of John Silba",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3300,
+                    10172
+                ],
+                [
+                    3300,
+                    10355
+                ],
+                [
+                    4060,
+                    10355
+                ],
+                [
+                    4060,
+                    10172
+                ],
+                [
+                    3300,
+                    10172
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Image 2001",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3317,
+                    10428
+                ],
+                [
+                    3317,
+                    10574
+                ],
+                [
+                    4068,
+                    10574
+                ],
+                [
+                    4068,
+                    10428
+                ],
+                [
+                    3317,
+                    10428
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Mus. Bot. Berol.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3435,
+                    10735
+                ],
+                [
+                    3435,
+                    10833
+                ],
+                [
+                    3933,
+                    10833
+                ],
+                [
+                    3933,
+                    10735
+                ],
+                [
+                    3435,
+                    10735
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "B 10 0003463",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4620,
+                    10738
+                ],
+                [
+                    4620,
+                    10915
+                ],
+                [
+                    5489,
+                    10915
+                ],
+                [
+                    5489,
+                    10738
+                ],
+                [
+                    4620,
+                    10738
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "0153/2001-1",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    5600,
+                    10553
+                ],
+                [
+                    5600,
+                    10869
+                ],
+                [
+                    6693,
+                    10869
+                ],
+                [
+                    6693,
+                    10553
+                ],
+                [
+                    5600,
+                    10553
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Mus. bot. Berol.",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    5600,
+                    10553
+                ],
+                [
+                    5600,
+                    10869
+                ],
+                [
+                    6693,
+                    10869
+                ],
+                [
+                    6693,
+                    10553
+                ],
+                [
+                    5600,
+                    10553
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Mus. bot. Berol.",
+            "worker_version": null
+        }
+    ]
+}

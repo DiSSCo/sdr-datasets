@@ -1,0 +1,262 @@
+{
+    "dataset_id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+    "folder": {
+        "id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+        "name": "2000 Louse Subset"
+    },
+    "image": {
+        "id": "3f8f1f4a-9d4b-48ac-a85a-436d8d44410f",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/53f83cf2-d0e6-4fb0-a7ee-f0bb00b4c22a",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/53f83cf2-d0e6-4fb0-a7ee-f0bb00b4c22a/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "e36b9abc-44b4-4517-9b8d-287da15f076f",
+        "name": "23",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    5301,
+                    366
+                ],
+                [
+                    5301,
+                    459
+                ],
+                [
+                    5659,
+                    459
+                ],
+                [
+                    5659,
+                    366
+                ],
+                [
+                    5301,
+                    366
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    7330,
+                    342
+                ],
+                [
+                    7330,
+                    2756
+                ],
+                [
+                    7602,
+                    2756
+                ],
+                [
+                    7602,
+                    342
+                ],
+                [
+                    7330,
+                    342
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "O. Johnston Reid",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    5791,
+                    1120
+                ],
+                [
+                    5791,
+                    2553
+                ],
+                [
+                    6095,
+                    2553
+                ],
+                [
+                    6095,
+                    1120
+                ],
+                [
+                    5791,
+                    1120
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "B.M. 1980-40",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    5644,
+                    393
+                ],
+                [
+                    5644,
+                    877
+                ],
+                [
+                    5734,
+                    877
+                ],
+                [
+                    5734,
+                    393
+                ],
+                [
+                    5644,
+                    393
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "010648276",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6579,
+                    503
+                ],
+                [
+                    6579,
+                    2673
+                ],
+                [
+                    7031,
+                    2673
+                ],
+                [
+                    7031,
+                    503
+                ],
+                [
+                    6579,
+                    503
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "phaenerocerata",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    7150,
+                    508
+                ],
+                [
+                    7150,
+                    2691
+                ],
+                [
+                    7436,
+                    2691
+                ],
+                [
+                    7436,
+                    508
+                ],
+                [
+                    7150,
+                    508
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "nasuta. Ingham",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6879,
+                    825
+                ],
+                [
+                    6879,
+                    2548
+                ],
+                [
+                    7136,
+                    2548
+                ],
+                [
+                    7136,
+                    825
+                ],
+                [
+                    6879,
+                    825
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Ex. Perameles",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6340,
+                    1171
+                ],
+                [
+                    6340,
+                    2700
+                ],
+                [
+                    6703,
+                    2700
+                ],
+                [
+                    6703,
+                    1171
+                ],
+                [
+                    6340,
+                    1171
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Boophia",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    7533,
+                    2180
+                ],
+                [
+                    7533,
+                    2710
+                ],
+                [
+                    7786,
+                    2710
+                ],
+                [
+                    7786,
+                    2180
+                ],
+                [
+                    7533,
+                    2180
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "No.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        }
+    ]
+}

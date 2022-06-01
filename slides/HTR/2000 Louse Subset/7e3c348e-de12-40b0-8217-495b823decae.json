@@ -1,0 +1,532 @@
+{
+    "dataset_id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+    "folder": {
+        "id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+        "name": "2000 Louse Subset"
+    },
+    "image": {
+        "id": "b34244ac-14b3-4036-bdb5-a7c5b7d6fe71",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/e97d3b56-ee21-4044-bab3-19d947f6c9d8",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/e97d3b56-ee21-4044-bab3-19d947f6c9d8/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "7e3c348e-de12-40b0-8217-495b823decae",
+        "name": "63",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    5995,
+                    422
+                ],
+                [
+                    5995,
+                    746
+                ],
+                [
+                    7862,
+                    746
+                ],
+                [
+                    7862,
+                    422
+                ],
+                [
+                    5995,
+                    422
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Aerodramus",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    752,
+                    636
+                ],
+                [
+                    752,
+                    935
+                ],
+                [
+                    2306,
+                    935
+                ],
+                [
+                    2306,
+                    636
+                ],
+                [
+                    752,
+                    636
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Dennyus",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    3628,
+                    2373
+                ],
+                [
+                    3628,
+                    2796
+                ],
+                [
+                    3811,
+                    2796
+                ],
+                [
+                    3811,
+                    2373
+                ],
+                [
+                    3628,
+                    2373
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6259,
+                    679
+                ],
+                [
+                    6283,
+                    941
+                ],
+                [
+                    8253,
+                    941
+                ],
+                [
+                    8229,
+                    679
+                ],
+                [
+                    6259,
+                    679
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Spodiopygius",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    899,
+                    833
+                ],
+                [
+                    899,
+                    1212
+                ],
+                [
+                    2961,
+                    1212
+                ],
+                [
+                    2961,
+                    833
+                ],
+                [
+                    899,
+                    833
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "(Collodennyus)",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    3261,
+                    2710
+                ],
+                [
+                    3261,
+                    2875
+                ],
+                [
+                    3762,
+                    2875
+                ],
+                [
+                    3762,
+                    2710
+                ],
+                [
+                    3261,
+                    2710
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "010656238",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6442,
+                    978
+                ],
+                [
+                    6442,
+                    1248
+                ],
+                [
+                    8363,
+                    1248
+                ],
+                [
+                    8363,
+                    978
+                ],
+                [
+                    6442,
+                    978
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Spodiopygius",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    930,
+                    1169
+                ],
+                [
+                    930,
+                    1536
+                ],
+                [
+                    2612,
+                    1536
+                ],
+                [
+                    2612,
+                    1169
+                ],
+                [
+                    930,
+                    1169
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Kristinae",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6007,
+                    1498
+                ],
+                [
+                    7684,
+                    1498
+                ],
+                [
+                    7696,
+                    1216
+                ],
+                [
+                    6019,
+                    1216
+                ],
+                [
+                    6007,
+                    1498
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Peapea Cave",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    746,
+                    1481
+                ],
+                [
+                    746,
+                    1867
+                ],
+                [
+                    2961,
+                    1867
+                ],
+                [
+                    2961,
+                    1481
+                ],
+                [
+                    746,
+                    1481
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Clayton, Price",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6161,
+                    1388
+                ],
+                [
+                    6161,
+                    1786
+                ],
+                [
+                    8486,
+                    1786
+                ],
+                [
+                    8486,
+                    1388
+                ],
+                [
+                    6161,
+                    1388
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Ole Pupu-Pue Nat Pla",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    1884,
+                    1806
+                ],
+                [
+                    1884,
+                    2160
+                ],
+                [
+                    2955,
+                    2160
+                ],
+                [
+                    2955,
+                    1806
+                ],
+                [
+                    1884,
+                    1806
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "+ Page",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6228,
+                    1780
+                ],
+                [
+                    6228,
+                    2031
+                ],
+                [
+                    7164,
+                    2031
+                ],
+                [
+                    7164,
+                    1780
+                ],
+                [
+                    6228,
+                    1780
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Upolu",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    771,
+                    2093
+                ],
+                [
+                    771,
+                    2460
+                ],
+                [
+                    2979,
+                    2460
+                ],
+                [
+                    2979,
+                    2093
+                ],
+                [
+                    771,
+                    2093
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BMNHE 2000-186",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6130,
+                    1915
+                ],
+                [
+                    6130,
+                    2276
+                ],
+                [
+                    8522,
+                    2276
+                ],
+                [
+                    8522,
+                    1915
+                ],
+                [
+                    6130,
+                    1915
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Western Samoa",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    764,
+                    2430
+                ],
+                [
+                    764,
+                    2711
+                ],
+                [
+                    2386,
+                    2711
+                ],
+                [
+                    2386,
+                    2430
+                ],
+                [
+                    764,
+                    2430
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HOLOTYPE \u2640",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6087,
+                    2220
+                ],
+                [
+                    6087,
+                    2508
+                ],
+                [
+                    7721,
+                    2508
+                ],
+                [
+                    7721,
+                    2220
+                ],
+                [
+                    6087,
+                    2220
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "31 Mar 1994",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    7923,
+                    2361
+                ],
+                [
+                    7923,
+                    2771
+                ],
+                [
+                    8467,
+                    2771
+                ],
+                [
+                    8467,
+                    2361
+                ],
+                [
+                    7923,
+                    2361
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "22",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6063,
+                    2453
+                ],
+                [
+                    6063,
+                    2734
+                ],
+                [
+                    7629,
+                    2734
+                ],
+                [
+                    7629,
+                    2453
+                ],
+                [
+                    6063,
+                    2453
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "DH Clayton",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        }
+    ]
+}

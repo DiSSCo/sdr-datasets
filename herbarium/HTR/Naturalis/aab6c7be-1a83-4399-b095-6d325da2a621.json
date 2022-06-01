@@ -1,0 +1,802 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "635f3d84-ced6-4b17-b64a-86be7aa87304",
+        "name": "Naturalis"
+    },
+    "image": {
+        "id": "7c08e2f0-0096-4cd1-9076-acc1fb1d8f2b",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FL.1933299.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FL.1933299.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "aab6c7be-1a83-4399-b095-6d325da2a621",
+        "name": "L.1933299",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    2408,
+                    65
+                ],
+                [
+                    2408,
+                    135
+                ],
+                [
+                    2842,
+                    135
+                ],
+                [
+                    2842,
+                    65
+                ],
+                [
+                    2408,
+                    65
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB. LUGD. BAT.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2868,
+                    46
+                ],
+                [
+                    2868,
+                    162
+                ],
+                [
+                    3487,
+                    162
+                ],
+                [
+                    3487,
+                    46
+                ],
+                [
+                    2868,
+                    46
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "\u2116 996.015 226",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3230,
+                    217
+                ],
+                [
+                    3230,
+                    425
+                ],
+                [
+                    3566,
+                    425
+                ],
+                [
+                    3566,
+                    217
+                ],
+                [
+                    3230,
+                    217
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Vel1",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1055,
+                    5707
+                ],
+                [
+                    1055,
+                    5760
+                ],
+                [
+                    1504,
+                    5760
+                ],
+                [
+                    1504,
+                    5707
+                ],
+                [
+                    1055,
+                    5707
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Nationaal Herbarium Nederland",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1162,
+                    5817
+                ],
+                [
+                    1162,
+                    5872
+                ],
+                [
+                    1416,
+                    5872
+                ],
+                [
+                    1416,
+                    5817
+                ],
+                [
+                    1162,
+                    5817
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "L 0395518",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1753,
+                    5671
+                ],
+                [
+                    1753,
+                    5765
+                ],
+                [
+                    2057,
+                    5765
+                ],
+                [
+                    2057,
+                    5671
+                ],
+                [
+                    1753,
+                    5671
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "201280",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2719,
+                    4693
+                ],
+                [
+                    2719,
+                    4777
+                ],
+                [
+                    3289,
+                    4777
+                ],
+                [
+                    3289,
+                    4693
+                ],
+                [
+                    2719,
+                    4693
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "PLANTS OF INDONESIA",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3258,
+                    4799
+                ],
+                [
+                    3258,
+                    4872
+                ],
+                [
+                    3518,
+                    4872
+                ],
+                [
+                    3518,
+                    4799
+                ],
+                [
+                    3258,
+                    4799
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Cat. # 4005",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2480,
+                    4768
+                ],
+                [
+                    2480,
+                    4856
+                ],
+                [
+                    2699,
+                    4856
+                ],
+                [
+                    2699,
+                    4768
+                ],
+                [
+                    2480,
+                    4768
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Fabaceae",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2486,
+                    4878
+                ],
+                [
+                    2486,
+                    4955
+                ],
+                [
+                    2938,
+                    4955
+                ],
+                [
+                    2938,
+                    4878
+                ],
+                [
+                    2486,
+                    4878
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Albizia aff. corniculata",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2543,
+                    4981
+                ],
+                [
+                    2543,
+                    5042
+                ],
+                [
+                    3015,
+                    5042
+                ],
+                [
+                    3015,
+                    4981
+                ],
+                [
+                    2543,
+                    4981
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Det. By: McDonald 1993",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2494,
+                    5032
+                ],
+                [
+                    2494,
+                    5085
+                ],
+                [
+                    2671,
+                    5085
+                ],
+                [
+                    2671,
+                    5032
+                ],
+                [
+                    2494,
+                    5032
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Locality:",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2535,
+                    5089
+                ],
+                [
+                    2535,
+                    5133
+                ],
+                [
+                    2888,
+                    5133
+                ],
+                [
+                    2888,
+                    5089
+                ],
+                [
+                    2535,
+                    5089
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Kabaena; Kabaena,",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2537,
+                    5135
+                ],
+                [
+                    2537,
+                    5184
+                ],
+                [
+                    3477,
+                    5184
+                ],
+                [
+                    3477,
+                    5135
+                ],
+                [
+                    2537,
+                    5135
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Mountain range between Tangkeno and Batu Sangia,",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2539,
+                    5188
+                ],
+                [
+                    2539,
+                    5226
+                ],
+                [
+                    2979,
+                    5226
+                ],
+                [
+                    2979,
+                    5188
+                ],
+                [
+                    2539,
+                    5188
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "1-3 km W of Tangkeno.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2537,
+                    5228
+                ],
+                [
+                    2537,
+                    5273
+                ],
+                [
+                    3161,
+                    5273
+                ],
+                [
+                    3161,
+                    5228
+                ],
+                [
+                    2537,
+                    5228
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "5\u00b016'S 121\u00b056'E Alt: 700-900 m",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2484,
+                    5271
+                ],
+                [
+                    2484,
+                    5322
+                ],
+                [
+                    2671,
+                    5322
+                ],
+                [
+                    2671,
+                    5271
+                ],
+                [
+                    2484,
+                    5271
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Habitat:",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2539,
+                    5324
+                ],
+                [
+                    2539,
+                    5372
+                ],
+                [
+                    3479,
+                    5372
+                ],
+                [
+                    3479,
+                    5324
+                ],
+                [
+                    2539,
+                    5324
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Secondary forest around ladangs. Associates include",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2539,
+                    5374
+                ],
+                [
+                    2539,
+                    5415
+                ],
+                [
+                    3461,
+                    5415
+                ],
+                [
+                    3461,
+                    5374
+                ],
+                [
+                    2539,
+                    5374
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Arenga, bamboos, Ficus, Trichospermum, Albizia.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2482,
+                    5415
+                ],
+                [
+                    2482,
+                    5470
+                ],
+                [
+                    2729,
+                    5470
+                ],
+                [
+                    2729,
+                    5415
+                ],
+                [
+                    2482,
+                    5415
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Field Char:",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2539,
+                    5474
+                ],
+                [
+                    2539,
+                    5516
+                ],
+                [
+                    3496,
+                    5516
+                ],
+                [
+                    3496,
+                    5474
+                ],
+                [
+                    2539,
+                    5474
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Short tree 7 m tall, branching above and below; bole",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2537,
+                    5518
+                ],
+                [
+                    2537,
+                    5561
+                ],
+                [
+                    3433,
+                    5561
+                ],
+                [
+                    3433,
+                    5518
+                ],
+                [
+                    2537,
+                    5518
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "cylindrical, 8 cm. diam; bark grayish white; fruits",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2537,
+                    5565
+                ],
+                [
+                    2537,
+                    5614
+                ],
+                [
+                    2892,
+                    5614
+                ],
+                [
+                    2892,
+                    5565
+                ],
+                [
+                    2537,
+                    5565
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "green, mottled red.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2476,
+                    5644
+                ],
+                [
+                    2476,
+                    5703
+                ],
+                [
+                    2969,
+                    5703
+                ],
+                [
+                    2969,
+                    5644
+                ],
+                [
+                    2476,
+                    5644
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "McDonald & Ismail 4005",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3244,
+                    5654
+                ],
+                [
+                    3244,
+                    5715
+                ],
+                [
+                    3483,
+                    5715
+                ],
+                [
+                    3483,
+                    5654
+                ],
+                [
+                    3244,
+                    5654
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "27 July 1993",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2695,
+                    5747
+                ],
+                [
+                    2695,
+                    5800
+                ],
+                [
+                    3285,
+                    5800
+                ],
+                [
+                    3285,
+                    5747
+                ],
+                [
+                    2695,
+                    5747
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERBARIUM BOGORIENSE",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2610,
+                    5802
+                ],
+                [
+                    2610,
+                    5859
+                ],
+                [
+                    3380,
+                    5859
+                ],
+                [
+                    3380,
+                    5802
+                ],
+                [
+                    2610,
+                    5802
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HARVARD UNIVERSITY HERBARIA",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2321,
+                    4257
+                ],
+                [
+                    2410,
+                    4393
+                ],
+                [
+                    2642,
+                    4283
+                ],
+                [
+                    2540,
+                    4122
+                ],
+                [
+                    2321,
+                    4257
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "4005",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2895,
+                    4362
+                ],
+                [
+                    2895,
+                    4425
+                ],
+                [
+                    3088,
+                    4425
+                ],
+                [
+                    3088,
+                    4362
+                ],
+                [
+                    2895,
+                    4362
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "L. 1933299",
+            "worker_version": null
+        }
+    ]
+}

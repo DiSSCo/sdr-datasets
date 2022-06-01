@@ -1,0 +1,35 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "9233d9de-075d-4903-8d1a-f221e84b4b94",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/c841c914-ba8d-41a0-9468-7278437226b6",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/c841c914-ba8d-41a0-9468-7278437226b6/full/full/0/default.jpg"
+    },
+    "named_entities": [
+        {
+            "tags": "NMW B-Expedition\nSabah I-Expedition\n( I-Expedition\nBorneo I-Expedition\n) I-Expedition\nExpedition I-Expedition\n. I-Expedition\nNMW B-identifier\n. I-identifier\nZ I-identifier\n. I-identifier\n1987 I-identifier\n. I-identifier\n094 I-identifier",
+            "worker_version_id": null
+        },
+        {
+            "tags": "BORNEO B-location_name\n: I-location_name\nSabah I-location_name\n, I-location_name\nDanum I-location_name\nValley I-location_name\n, I-location_name\n5 I-location_name\n. I-location_name\n01 I-location_name\n' I-location_name\nN I-location_name\n, I-location_name\n117 I-location_name\n. I-location_name\n47 I-location_name\n' I-location_name\nE I-location_name\n. I-location_name\n10 B-date\n. I-date\nix I-date\n. I-date\n1987 I-date\n100m B-location_name\n. I-location_name\nA B-person_name\n. I-person_name\nH I-person_name\n. I-person_name\nKirk I-person_name\n- I-person_name\nSpriggs I-person_name",
+            "worker_version_id": null
+        },
+        {
+            "tags": "light B-Sampling protocol\ntrap I-Sampling protocol\nsample I-Sampling protocol\nroadside B-location_name\n, I-location_name\nsecondary I-location_name\nforest I-location_name",
+            "worker_version_id": null
+        },
+        {
+            "tags": "NHMUK B-identifier\n013321786 I-identifier",
+            "worker_version_id": null
+        }
+    ],
+    "page": {
+        "id": "e99be88d-2007-473e-97fc-1f153a8cb024",
+        "name": "013321786_900095_1378305.2500x5792.jpeg",
+        "rotation_angle": 0
+    }
+}

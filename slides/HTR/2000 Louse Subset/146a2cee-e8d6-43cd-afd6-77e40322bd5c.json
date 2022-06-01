@@ -1,0 +1,559 @@
+{
+    "dataset_id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+    "folder": {
+        "id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+        "name": "2000 Louse Subset"
+    },
+    "image": {
+        "id": "450d8d56-941a-4ffa-b563-4e7aa680a4a0",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fsynthesys%2Fslides_images%2F146a2cee-e8d6-43cd-afd6-77e40322bd5c.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fsynthesys%2Fslides_images%2F146a2cee-e8d6-43cd-afd6-77e40322bd5c.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "146a2cee-e8d6-43cd-afd6-77e40322bd5c",
+        "name": "109",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    2528,
+                    3592
+                ],
+                [
+                    2528,
+                    4513
+                ],
+                [
+                    2760,
+                    4513
+                ],
+                [
+                    2760,
+                    3592
+                ],
+                [
+                    2528,
+                    3592
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "1960-440",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    238,
+                    5141
+                ],
+                [
+                    238,
+                    6078
+                ],
+                [
+                    700,
+                    6078
+                ],
+                [
+                    700,
+                    5141
+                ],
+                [
+                    238,
+                    5141
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "\u2642, 2\u2640",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    2191,
+                    409
+                ],
+                [
+                    2191,
+                    518
+                ],
+                [
+                    2573,
+                    518
+                ],
+                [
+                    2573,
+                    409
+                ],
+                [
+                    2191,
+                    409
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    2343,
+                    3623
+                ],
+                [
+                    2343,
+                    4536
+                ],
+                [
+                    2528,
+                    4536
+                ],
+                [
+                    2528,
+                    3623
+                ],
+                [
+                    2343,
+                    3623
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Brit.Mus.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    1073,
+                    5141
+                ],
+                [
+                    1073,
+                    8087
+                ],
+                [
+                    1581,
+                    8087
+                ],
+                [
+                    1581,
+                    5141
+                ],
+                [
+                    1073,
+                    5141
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Kellogg & Chapman",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    2552,
+                    439
+                ],
+                [
+                    2552,
+                    930
+                ],
+                [
+                    2632,
+                    930
+                ],
+                [
+                    2632,
+                    439
+                ],
+                [
+                    2552,
+                    439
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "010671686",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    239,
+                    684
+                ],
+                [
+                    239,
+                    1293
+                ],
+                [
+                    439,
+                    1293
+                ],
+                [
+                    439,
+                    684
+                ],
+                [
+                    239,
+                    684
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "H G D",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    1502,
+                    5141
+                ],
+                [
+                    1502,
+                    8008
+                ],
+                [
+                    2123,
+                    8008
+                ],
+                [
+                    2123,
+                    5141
+                ],
+                [
+                    1502,
+                    5141
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "1\u2642, 2\u2640\u2640 / KCE",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    2439,
+                    5265
+                ],
+                [
+                    2439,
+                    8256
+                ],
+                [
+                    2845,
+                    8256
+                ],
+                [
+                    2845,
+                    5265
+                ],
+                [
+                    2439,
+                    5265
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Mt: RE/im 23 Mar'57",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    883,
+                    695
+                ],
+                [
+                    883,
+                    2821
+                ],
+                [
+                    1018,
+                    2821
+                ],
+                [
+                    1018,
+                    695
+                ],
+                [
+                    883,
+                    695
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Thailand: Loei Don",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    1279,
+                    2804
+                ],
+                [
+                    1481,
+                    2804
+                ],
+                [
+                    1487,
+                    711
+                ],
+                [
+                    1285,
+                    711
+                ],
+                [
+                    1279,
+                    2804
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Phu Phak Khinak Mt",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    2123,
+                    5412
+                ],
+                [
+                    2123,
+                    7500
+                ],
+                [
+                    2529,
+                    7500
+                ],
+                [
+                    2529,
+                    5412
+                ],
+                [
+                    2123,
+                    5412
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Robert E. Elbel",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    734,
+                    6337
+                ],
+                [
+                    734,
+                    8064
+                ],
+                [
+                    1107,
+                    8064
+                ],
+                [
+                    1107,
+                    6337
+                ],
+                [
+                    734,
+                    6337
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "chinensis",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    1082,
+                    717
+                ],
+                [
+                    1082,
+                    2802
+                ],
+                [
+                    1236,
+                    2802
+                ],
+                [
+                    1236,
+                    717
+                ],
+                [
+                    1082,
+                    717
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Sai, Kok Sathon",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    717,
+                    751
+                ],
+                [
+                    717,
+                    2806
+                ],
+                [
+                    845,
+                    2806
+                ],
+                [
+                    845,
+                    751
+                ],
+                [
+                    717,
+                    751
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Chinensis tigrina",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    339,
+                    6349
+                ],
+                [
+                    339,
+                    8166
+                ],
+                [
+                    791,
+                    8166
+                ],
+                [
+                    791,
+                    6349
+                ],
+                [
+                    339,
+                    6349
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Coloceras",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    1514,
+                    1077
+                ],
+                [
+                    1514,
+                    2741
+                ],
+                [
+                    1733,
+                    2741
+                ],
+                [
+                    1733,
+                    1077
+                ],
+                [
+                    1514,
+                    1077
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "20 Mar. 1955",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    491,
+                    1165
+                ],
+                [
+                    491,
+                    2795
+                ],
+                [
+                    683,
+                    2795
+                ],
+                [
+                    683,
+                    1165
+                ],
+                [
+                    491,
+                    1165
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Streptopelia",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    2014,
+                    1792
+                ],
+                [
+                    2014,
+                    2796
+                ],
+                [
+                    2212,
+                    2796
+                ],
+                [
+                    2212,
+                    1792
+                ],
+                [
+                    2014,
+                    1792
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "RE4990",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    1741,
+                    1830
+                ],
+                [
+                    1741,
+                    2779
+                ],
+                [
+                    1997,
+                    2779
+                ],
+                [
+                    1997,
+                    1830
+                ],
+                [
+                    1741,
+                    1830
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "R E Elbel",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        }
+    ]
+}

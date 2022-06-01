@@ -1,0 +1,35 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "2e075297-e78f-454c-950d-caecbb01cbf1",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/bf50286d-6108-408f-a988-76c371daba57",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/bf50286d-6108-408f-a988-76c371daba57/full/full/0/default.jpg"
+    },
+    "named_entities": [
+        {
+            "tags": "NHMUK012497033 B-identifier",
+            "worker_version_id": null
+        },
+        {
+            "tags": "BMNH B-identifier\n( I-identifier\nE I-identifier\n) I-identifier\n2005 I-identifier\n- I-identifier\n98 I-identifier",
+            "worker_version_id": null
+        },
+        {
+            "tags": "Philippines B-location_name\n: I-location_name\nSierra I-location_name\nMadre I-location_name\n, I-location_name\nQuezon I-location_name\n, I-location_name\nE I-location_name\n. I-location_name\nLuzon I-location_name\n( I-location_name\nInfanta I-location_name\n) I-location_name\nv B-date\n. I-date\n1999 I-date\nI B-person_name\n. I-person_name\nO I-person_name\n. I-person_name\nLumawig I-person_name",
+            "worker_version_id": null
+        },
+        {
+            "tags": "Eubulides B-taxon_name\nigorrote I-taxon_name\nRehn O\n& O\nRehn B-person_name\n, O\n\u2640 B-Sex\n1939 B-date\ndet B-Determination\n. I-Determination\nP I-Determination\n. I-Determination\nD I-Determination\n. I-Determination\nBrock I-Determination\n2005 I-Determination",
+            "worker_version_id": null
+        }
+    ],
+    "page": {
+        "id": "de7eca50-d5dd-403f-8d9a-4517c084674c",
+        "name": "012497033_72486_87207.2500x5792.jpeg",
+        "rotation_angle": 0
+    }
+}

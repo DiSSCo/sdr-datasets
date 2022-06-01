@@ -1,0 +1,27 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "698eca92-2431-40db-b926-2bbd49e5a6e4",
+        "name": "dev"
+    },
+    "image": {
+        "id": "6c50c7f9-f8e6-4a28-9e55-ccf57a3459ed",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/5392a3c9-c7f9-4f3c-acec-d0c17ee89f48",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/5392a3c9-c7f9-4f3c-acec-d0c17ee89f48/full/full/0/default.jpg"
+    },
+    "named_entities": [
+        {
+            "tags": "H B-Collection/Donation\n. I-Collection/Donation\nDoubleday I-Collection/Donation\nCollection I-Collection/Donation",
+            "worker_version_id": null
+        },
+        {
+            "tags": "NHMUK010515478 B-identifier",
+            "worker_version_id": null
+        }
+    ],
+    "page": {
+        "id": "20b8de10-e944-459b-b62d-fd7aaa06dfed",
+        "name": "010515478_136820_1856556.2500x5792.jpeg",
+        "rotation_angle": 0
+    }
+}

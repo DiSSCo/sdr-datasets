@@ -1,0 +1,409 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "01461701-dd48-4a27-ab96-27ee9853e15d",
+        "name": "NHM London"
+    },
+    "image": {
+        "id": "b9b40304-6fe5-4324-8211-b8e4f9f2a0a0",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FBM000625363.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FBM000625363.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "a9a68548-08b3-494b-b80d-935fbb8ce912",
+        "name": "BM000625363",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    242,
+                    12
+                ],
+                [
+                    244,
+                    26
+                ],
+                [
+                    425,
+                    18
+                ],
+                [
+                    423,
+                    3
+                ],
+                [
+                    242,
+                    12
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "THE NATURAL HISTORY MUSEUM, LONDON",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    279,
+                    25
+                ],
+                [
+                    280,
+                    35
+                ],
+                [
+                    402,
+                    29
+                ],
+                [
+                    404,
+                    18
+                ],
+                [
+                    279,
+                    25
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "DEPARTMENT OF BOTANY",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    286,
+                    66
+                ],
+                [
+                    287,
+                    84
+                ],
+                [
+                    394,
+                    80
+                ],
+                [
+                    399,
+                    63
+                ],
+                [
+                    286,
+                    66
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BM000625363",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    777,
+                    121
+                ],
+                [
+                    777,
+                    164
+                ],
+                [
+                    923,
+                    164
+                ],
+                [
+                    923,
+                    121
+                ],
+                [
+                    777,
+                    121
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herb. Winch.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    373,
+                    1555
+                ],
+                [
+                    373,
+                    1572
+                ],
+                [
+                    643,
+                    1572
+                ],
+                [
+                    643,
+                    1555
+                ],
+                [
+                    373,
+                    1555
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BRITISH HERBARIUM OF THE",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    373,
+                    1575
+                ],
+                [
+                    373,
+                    1594
+                ],
+                [
+                    650,
+                    1594
+                ],
+                [
+                    650,
+                    1575
+                ],
+                [
+                    373,
+                    1575
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "LINNEAN SOCIETY OF LONDON",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    385,
+                    1602
+                ],
+                [
+                    385,
+                    1620
+                ],
+                [
+                    641,
+                    1620
+                ],
+                [
+                    641,
+                    1602
+                ],
+                [
+                    385,
+                    1602
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "PURCHASED FROM THE SOCIETY, 1963",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    327,
+                    1623
+                ],
+                [
+                    327,
+                    1641
+                ],
+                [
+                    696,
+                    1641
+                ],
+                [
+                    696,
+                    1623
+                ],
+                [
+                    327,
+                    1623
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "A standard collection of native British plants assembled",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    326,
+                    1642
+                ],
+                [
+                    326,
+                    1657
+                ],
+                [
+                    693,
+                    1657
+                ],
+                [
+                    693,
+                    1642
+                ],
+                [
+                    326,
+                    1642
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "by the Linnean Society, incorporating various private",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    326,
+                    1658
+                ],
+                [
+                    326,
+                    1673
+                ],
+                [
+                    693,
+                    1673
+                ],
+                [
+                    693,
+                    1658
+                ],
+                [
+                    326,
+                    1658
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "British herbaria; cf. Proc. Linn. Soc. 3 (May 1858):",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    326,
+                    1674
+                ],
+                [
+                    326,
+                    1689
+                ],
+                [
+                    691,
+                    1689
+                ],
+                [
+                    691,
+                    1674
+                ],
+                [
+                    326,
+                    1674
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "xx ; Journ. Proc. Linn. Soc., Bot. 4: 194 (1860).",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    727,
+                    1730
+                ],
+                [
+                    727,
+                    1796
+                ],
+                [
+                    872,
+                    1796
+                ],
+                [
+                    872,
+                    1730
+                ],
+                [
+                    727,
+                    1730
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "1065",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    887,
+                    1684
+                ],
+                [
+                    889,
+                    1770
+                ],
+                [
+                    975,
+                    1750
+                ],
+                [
+                    1025,
+                    1736
+                ],
+                [
+                    1268,
+                    1749
+                ],
+                [
+                    1267,
+                    1698
+                ],
+                [
+                    887,
+                    1684
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Cypripedium calceolus",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    966,
+                    1753
+                ],
+                [
+                    967,
+                    1793
+                ],
+                [
+                    1240,
+                    1801
+                ],
+                [
+                    1244,
+                    1753
+                ],
+                [
+                    1028,
+                    1737
+                ],
+                [
+                    966,
+                    1753
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Eden Deane",
+            "worker_version": null
+        }
+    ]
+}

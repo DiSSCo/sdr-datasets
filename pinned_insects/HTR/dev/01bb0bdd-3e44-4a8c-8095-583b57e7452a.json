@@ -1,0 +1,208 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "698eca92-2431-40db-b926-2bbd49e5a6e4",
+        "name": "dev"
+    },
+    "image": {
+        "id": "6b9c677d-999a-44df-8776-76a9ea75392e",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/50de5ab4-fdce-4423-b428-54ef2f218c77",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/50de5ab4-fdce-4423-b428-54ef2f218c77/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "01bb0bdd-3e44-4a8c-8095-583b57e7452a",
+        "name": "011249955_803523_1252916_2.2500x5153.jpeg",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    2137,
+                    326
+                ],
+                [
+                    2353,
+                    328
+                ],
+                [
+                    2355,
+                    303
+                ],
+                [
+                    2139,
+                    300
+                ],
+                [
+                    2137,
+                    326
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK011249955",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2109,
+                    364
+                ],
+                [
+                    2110,
+                    404
+                ],
+                [
+                    2276,
+                    402
+                ],
+                [
+                    2283,
+                    364
+                ],
+                [
+                    2109,
+                    364
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Mr Gedeh?",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2132,
+                    403
+                ],
+                [
+                    2137,
+                    435
+                ],
+                [
+                    2249,
+                    438
+                ],
+                [
+                    2250,
+                    403
+                ],
+                [
+                    2132,
+                    403
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Idera",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2102,
+                    493
+                ],
+                [
+                    2104,
+                    560
+                ],
+                [
+                    2450,
+                    536
+                ],
+                [
+                    2453,
+                    485
+                ],
+                [
+                    2102,
+                    493
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Amphiaeschna",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2107,
+                    564
+                ],
+                [
+                    2107,
+                    634
+                ],
+                [
+                    2458,
+                    623
+                ],
+                [
+                    2458,
+                    556
+                ],
+                [
+                    2107,
+                    564
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ampla. Siks",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2122,
+                    723
+                ],
+                [
+                    2324,
+                    724
+                ],
+                [
+                    2321,
+                    699
+                ],
+                [
+                    2126,
+                    697
+                ],
+                [
+                    2122,
+                    723
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "McLachlan Coll.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2133,
+                    726
+                ],
+                [
+                    2133,
+                    751
+                ],
+                [
+                    2309,
+                    751
+                ],
+                [
+                    2308,
+                    729
+                ],
+                [
+                    2133,
+                    726
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "B.M. 1938-674",
+            "worker_version": null
+        }
+    ]
+}

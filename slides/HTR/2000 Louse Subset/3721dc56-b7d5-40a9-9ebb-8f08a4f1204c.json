@@ -1,0 +1,316 @@
+{
+    "dataset_id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+    "folder": {
+        "id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+        "name": "2000 Louse Subset"
+    },
+    "image": {
+        "id": "9492d6bc-589b-4ec8-a9f9-d7c3ed4f4448",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/b7fc4dea-fd09-4873-937e-21a7130a3f53",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/b7fc4dea-fd09-4873-937e-21a7130a3f53/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "3721dc56-b7d5-40a9-9ebb-8f08a4f1204c",
+        "name": "88",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    3504,
+                    460
+                ],
+                [
+                    3504,
+                    854
+                ],
+                [
+                    3648,
+                    854
+                ],
+                [
+                    3648,
+                    460
+                ],
+                [
+                    3504,
+                    460
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    537,
+                    460
+                ],
+                [
+                    537,
+                    921
+                ],
+                [
+                    2832,
+                    921
+                ],
+                [
+                    2832,
+                    460
+                ],
+                [
+                    537,
+                    460
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Pseudomenopon",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6288,
+                    499
+                ],
+                [
+                    6288,
+                    931
+                ],
+                [
+                    8150,
+                    931
+                ],
+                [
+                    8150,
+                    499
+                ],
+                [
+                    6288,
+                    499
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Laterallus",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    3120,
+                    787
+                ],
+                [
+                    3120,
+                    912
+                ],
+                [
+                    3552,
+                    912
+                ],
+                [
+                    3552,
+                    787
+                ],
+                [
+                    3120,
+                    787
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "010663576",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    681,
+                    883
+                ],
+                [
+                    681,
+                    1334
+                ],
+                [
+                    2889,
+                    1334
+                ],
+                [
+                    2889,
+                    883
+                ],
+                [
+                    681,
+                    883
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "scopulacorne",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6537,
+                    931
+                ],
+                [
+                    6537,
+                    1459
+                ],
+                [
+                    8467,
+                    1459
+                ],
+                [
+                    8467,
+                    931
+                ],
+                [
+                    6537,
+                    931
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "leucopyrrhus",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    816,
+                    1219
+                ],
+                [
+                    816,
+                    1718
+                ],
+                [
+                    2889,
+                    1718
+                ],
+                [
+                    2889,
+                    1219
+                ],
+                [
+                    816,
+                    1219
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "(Denny, 1872)",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6163,
+                    1363
+                ],
+                [
+                    6163,
+                    1814
+                ],
+                [
+                    7872,
+                    1814
+                ],
+                [
+                    7872,
+                    1363
+                ],
+                [
+                    6163,
+                    1363
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "mid-1966.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    537,
+                    2371
+                ],
+                [
+                    537,
+                    2803
+                ],
+                [
+                    2899,
+                    2803
+                ],
+                [
+                    2899,
+                    2371
+                ],
+                [
+                    537,
+                    2371
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "det RD Price \u2642",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6201,
+                    1747
+                ],
+                [
+                    6201,
+                    2217
+                ],
+                [
+                    8534,
+                    2217
+                ],
+                [
+                    8534,
+                    1747
+                ],
+                [
+                    6201,
+                    1747
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "R.S.Balter. 145.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6220,
+                    2448
+                ],
+                [
+                    6220,
+                    2812
+                ],
+                [
+                    8544,
+                    2812
+                ],
+                [
+                    8544,
+                    2448
+                ],
+                [
+                    6220,
+                    2448
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Brit.Mus. 1969-101.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        }
+    ]
+}

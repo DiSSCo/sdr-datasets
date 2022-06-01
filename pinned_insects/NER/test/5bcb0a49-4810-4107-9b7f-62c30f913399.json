@@ -1,0 +1,31 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6ebebd79-2a28-464f-b60a-aa47a864a586",
+        "name": "test"
+    },
+    "image": {
+        "id": "9c09af04-a9de-4093-9283-a935cd47fb4b",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/65e0b37b-1eb7-4235-83c7-9adbf312e14d",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/65e0b37b-1eb7-4235-83c7-9adbf312e14d/full/full/0/default.jpg"
+    },
+    "named_entities": [
+        {
+            "tags": "Mathew B-Collection/Donation\n' I-Collection/Donation\ns I-Collection/Donation\nCollection I-Collection/Donation\nStevens O\n' O\ns O\n28 B-date\n& I-date\n29 I-date\n. I-date\niv I-date\n. I-date\n1914 I-date\n. O",
+            "worker_version_id": null
+        },
+        {
+            "tags": "NHMUK010618184 B-identifier",
+            "worker_version_id": null
+        },
+        {
+            "tags": "I B-location_name\n. I-location_name\nof I-location_name\nAran I-location_name\n6 B-date\n. I-date\n01 I-date\n. I-date",
+            "worker_version_id": null
+        }
+    ],
+    "page": {
+        "id": "5bcb0a49-4810-4107-9b7f-62c30f913399",
+        "name": "010618184_151495_1084648.2500x5792.jpeg",
+        "rotation_angle": 0
+    }
+}

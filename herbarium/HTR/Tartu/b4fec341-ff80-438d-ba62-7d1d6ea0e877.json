@@ -1,0 +1,964 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "70771f04-7915-4ea6-ab09-1ef9009105f3",
+        "name": "Tartu"
+    },
+    "image": {
+        "id": "9883e51f-7ee9-4714-9f17-fdf5e25a2926",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FTU250942.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FTU250942.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "b4fec341-ff80-438d-ba62-7d1d6ea0e877",
+        "name": "TU250942",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    1960,
+                    197
+                ],
+                [
+                    3118,
+                    247
+                ],
+                [
+                    3118,
+                    142
+                ],
+                [
+                    1977,
+                    100
+                ],
+                [
+                    1960,
+                    197
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herbarium Universitatis",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1960,
+                    197
+                ],
+                [
+                    3118,
+                    247
+                ],
+                [
+                    3118,
+                    142
+                ],
+                [
+                    1977,
+                    100
+                ],
+                [
+                    1960,
+                    197
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herbarium Universitatis",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1964,
+                    239
+                ],
+                [
+                    1964,
+                    348
+                ],
+                [
+                    3113,
+                    420
+                ],
+                [
+                    3118,
+                    294
+                ],
+                [
+                    1964,
+                    239
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Tartuensis (TU)",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1964,
+                    239
+                ],
+                [
+                    1964,
+                    348
+                ],
+                [
+                    3113,
+                    420
+                ],
+                [
+                    3118,
+                    294
+                ],
+                [
+                    1964,
+                    239
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Tartuensis ( TU )",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4902,
+                    298
+                ],
+                [
+                    5765,
+                    298
+                ],
+                [
+                    5786,
+                    189
+                ],
+                [
+                    4915,
+                    168
+                ],
+                [
+                    4902,
+                    298
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "TU250942",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4902,
+                    298
+                ],
+                [
+                    5765,
+                    298
+                ],
+                [
+                    5786,
+                    189
+                ],
+                [
+                    4915,
+                    168
+                ],
+                [
+                    4902,
+                    298
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "TU 250942",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4510,
+                    437
+                ],
+                [
+                    4510,
+                    517
+                ],
+                [
+                    5752,
+                    517
+                ],
+                [
+                    5752,
+                    437
+                ],
+                [
+                    4510,
+                    437
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "TARTU RIIKLIKU \u00dcLIKOOLI",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4510,
+                    437
+                ],
+                [
+                    4510,
+                    517
+                ],
+                [
+                    5752,
+                    517
+                ],
+                [
+                    5752,
+                    437
+                ],
+                [
+                    4510,
+                    437
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "TARTU RIIKLIKU \u00dcLIKOOLI",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3881,
+                    620
+                ],
+                [
+                    6329,
+                    601
+                ],
+                [
+                    6330,
+                    525
+                ],
+                [
+                    3883,
+                    538
+                ],
+                [
+                    3881,
+                    620
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "TAIMES\u00dcSTEMAATIKA JA GEOBOTAANIKA KATEEDRI",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3881,
+                    620
+                ],
+                [
+                    6329,
+                    601
+                ],
+                [
+                    6330,
+                    525
+                ],
+                [
+                    3883,
+                    538
+                ],
+                [
+                    3881,
+                    620
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "TAIMESUSTEMAATIKA JA GEOBOTAANIKA KATEEDRI",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4221,
+                    665
+                ],
+                [
+                    4223,
+                    751
+                ],
+                [
+                    5997,
+                    736
+                ],
+                [
+                    5999,
+                    648
+                ],
+                [
+                    4221,
+                    665
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "EESTI NSV TAIMEDE HERBAARIUM",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4221,
+                    665
+                ],
+                [
+                    4223,
+                    751
+                ],
+                [
+                    5997,
+                    736
+                ],
+                [
+                    5999,
+                    648
+                ],
+                [
+                    4221,
+                    665
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "EESTI NSV TAIMEDE HERBAARIUM",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4554,
+                    798
+                ],
+                [
+                    4554,
+                    982
+                ],
+                [
+                    5911,
+                    982
+                ],
+                [
+                    5911,
+                    798
+                ],
+                [
+                    4554,
+                    798
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Allium vineale L.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4554,
+                    798
+                ],
+                [
+                    4554,
+                    982
+                ],
+                [
+                    5911,
+                    982
+                ],
+                [
+                    5911,
+                    798
+                ],
+                [
+                    4554,
+                    798
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Allium vineale L .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3895,
+                    1026
+                ],
+                [
+                    3895,
+                    1153
+                ],
+                [
+                    6386,
+                    1153
+                ],
+                [
+                    6386,
+                    1026
+                ],
+                [
+                    3895,
+                    1026
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "P\u00f5lva raj. Kanepi, aias kasvanud Hiin-",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3895,
+                    1026
+                ],
+                [
+                    3895,
+                    1153
+                ],
+                [
+                    6386,
+                    1153
+                ],
+                [
+                    6386,
+                    1026
+                ],
+                [
+                    3895,
+                    1026
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "P\u00f6lvu raj . Kanepi , cas kasvanud Hiie",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3903,
+                    1174
+                ],
+                [
+                    3903,
+                    1305
+                ],
+                [
+                    6361,
+                    1301
+                ],
+                [
+                    6361,
+                    1179
+                ],
+                [
+                    3903,
+                    1174
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "maalt K\u00f5pu l\u00f5unarannikult Suure-",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3903,
+                    1174
+                ],
+                [
+                    3903,
+                    1305
+                ],
+                [
+                    6361,
+                    1301
+                ],
+                [
+                    6361,
+                    1179
+                ],
+                [
+                    3903,
+                    1174
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "mavalt K\u00f3nu l\u00f3unarannikult Suecere -",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3911,
+                    1482
+                ],
+                [
+                    6352,
+                    1457
+                ],
+                [
+                    6348,
+                    1322
+                ],
+                [
+                    3928,
+                    1343
+                ],
+                [
+                    3911,
+                    1482
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "rannast mere \u00e4\u00e4rest 12. VII 1970 kogutud",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3911,
+                    1482
+                ],
+                [
+                    6352,
+                    1457
+                ],
+                [
+                    6348,
+                    1322
+                ],
+                [
+                    3928,
+                    1343
+                ],
+                [
+                    3911,
+                    1482
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "rannast mere \u00e4\u00e4rest 12 . 0T 1970 kogutud",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3881,
+                    1595
+                ],
+                [
+                    5472,
+                    1595
+                ],
+                [
+                    5468,
+                    1478
+                ],
+                [
+                    3898,
+                    1499
+                ],
+                [
+                    3881,
+                    1595
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "taimede sigisibulatest.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3881,
+                    1595
+                ],
+                [
+                    5472,
+                    1595
+                ],
+                [
+                    5468,
+                    1478
+                ],
+                [
+                    3898,
+                    1499
+                ],
+                [
+                    3881,
+                    1595
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "taimede sigisibulatest",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3933,
+                    1600
+                ],
+                [
+                    3944,
+                    1679
+                ],
+                [
+                    4533,
+                    1673
+                ],
+                [
+                    4528,
+                    1597
+                ],
+                [
+                    3933,
+                    1600
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "21. juuli",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4823,
+                    1694
+                ],
+                [
+                    5157,
+                    1697
+                ],
+                [
+                    5152,
+                    1600
+                ],
+                [
+                    4833,
+                    1608
+                ],
+                [
+                    4823,
+                    1694
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "1973. a.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4823,
+                    1694
+                ],
+                [
+                    5157,
+                    1697
+                ],
+                [
+                    5152,
+                    1600
+                ],
+                [
+                    4833,
+                    1608
+                ],
+                [
+                    4823,
+                    1694
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "1953 . a .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3854,
+                    1826
+                ],
+                [
+                    3854,
+                    1936
+                ],
+                [
+                    4054,
+                    1936
+                ],
+                [
+                    4054,
+                    1826
+                ],
+                [
+                    3854,
+                    1826
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Nr.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3854,
+                    1826
+                ],
+                [
+                    3854,
+                    1936
+                ],
+                [
+                    4054,
+                    1936
+                ],
+                [
+                    4054,
+                    1826
+                ],
+                [
+                    3854,
+                    1826
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Nr .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    5350,
+                    1605
+                ],
+                [
+                    5350,
+                    1700
+                ],
+                [
+                    5623,
+                    1700
+                ],
+                [
+                    5623,
+                    1605
+                ],
+                [
+                    5350,
+                    1605
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Kogus",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    5350,
+                    1605
+                ],
+                [
+                    5350,
+                    1700
+                ],
+                [
+                    5623,
+                    1700
+                ],
+                [
+                    5623,
+                    1605
+                ],
+                [
+                    5350,
+                    1605
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Kogus",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    5381,
+                    1803
+                ],
+                [
+                    5381,
+                    1908
+                ],
+                [
+                    5680,
+                    1908
+                ],
+                [
+                    5680,
+                    1803
+                ],
+                [
+                    5381,
+                    1803
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "M\u00e4\u00e4ras",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    5381,
+                    1803
+                ],
+                [
+                    5381,
+                    1908
+                ],
+                [
+                    5680,
+                    1908
+                ],
+                [
+                    5680,
+                    1803
+                ],
+                [
+                    5381,
+                    1803
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "M\u00e4\u00e4ras",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    5702,
+                    1560
+                ],
+                [
+                    5702,
+                    1933
+                ],
+                [
+                    6418,
+                    1933
+                ],
+                [
+                    6418,
+                    1560
+                ],
+                [
+                    5702,
+                    1560
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "} A Nihlapun",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    5702,
+                    1560
+                ],
+                [
+                    5702,
+                    1933
+                ],
+                [
+                    6418,
+                    1933
+                ],
+                [
+                    6418,
+                    1560
+                ],
+                [
+                    5702,
+                    1560
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "y Wihloepen",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3721,
+                    2104
+                ],
+                [
+                    3721,
+                    2180
+                ],
+                [
+                    5158,
+                    2180
+                ],
+                [
+                    5158,
+                    2104
+                ],
+                [
+                    3721,
+                    2104
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "H. Heidemanni nim. trk. Tartu. 1957. 2746 10.000",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3721,
+                    2104
+                ],
+                [
+                    3721,
+                    2180
+                ],
+                [
+                    5158,
+                    2180
+                ],
+                [
+                    5158,
+                    2104
+                ],
+                [
+                    3721,
+                    2104
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "I Heidemanni nim . trk . Tartu . 1957 . 2746 10 . 000",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        }
+    ]
+}

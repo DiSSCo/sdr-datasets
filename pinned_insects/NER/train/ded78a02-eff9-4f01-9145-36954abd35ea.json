@@ -1,0 +1,27 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "8c1ecd59-5fe5-4147-9db0-62576c4cd577",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/003dc7c5-bd81-4e0b-ae42-344a0251e02b",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/003dc7c5-bd81-4e0b-ae42-344a0251e02b/full/full/0/default.jpg"
+    },
+    "named_entities": [
+        {
+            "tags": "Falmouth B-location_name\n, I-location_name\nC I-location_name\nnwall I-location_name\n11 B-date\n. I-date\n6 I-date\n. I-date\n1955 I-date\nW B-person_name\n. I-person_name\nG I-person_name\n. I-person_name\nTremewan I-person_name",
+            "worker_version_id": null
+        },
+        {
+            "tags": "NHMUK010517120 B-identifier",
+            "worker_version_id": null
+        }
+    ],
+    "page": {
+        "id": "ded78a02-eff9-4f01-9145-36954abd35ea",
+        "name": "010517120_136899_1084567.2500x3456.jpeg",
+        "rotation_angle": 0
+    }
+}

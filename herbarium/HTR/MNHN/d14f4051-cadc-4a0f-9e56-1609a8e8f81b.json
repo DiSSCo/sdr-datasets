@@ -1,0 +1,667 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "c301e3ce-a988-469d-afb1-5af714a7123b",
+        "name": "MNHN"
+    },
+    "image": {
+        "id": "bff6f7ec-4705-481f-a297-65149d6f3d54",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FP00260987.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FP00260987.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "d14f4051-cadc-4a0f-9e56-1609a8e8f81b",
+        "name": "P00260987",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    226,
+                    260
+                ],
+                [
+                    335,
+                    274
+                ],
+                [
+                    351,
+                    247
+                ],
+                [
+                    233,
+                    231
+                ],
+                [
+                    226,
+                    260
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "PL02688603",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    226,
+                    260
+                ],
+                [
+                    335,
+                    274
+                ],
+                [
+                    351,
+                    247
+                ],
+                [
+                    233,
+                    231
+                ],
+                [
+                    226,
+                    260
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "PLO2688603",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2946,
+                    4282
+                ],
+                [
+                    2946,
+                    4407
+                ],
+                [
+                    3111,
+                    4407
+                ],
+                [
+                    3111,
+                    4282
+                ],
+                [
+                    2946,
+                    4282
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "2621",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2160,
+                    4061
+                ],
+                [
+                    2160,
+                    4141
+                ],
+                [
+                    2528,
+                    4141
+                ],
+                [
+                    2528,
+                    4061
+                ],
+                [
+                    2160,
+                    4061
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herb . Mus\u00e9um Paris",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2160,
+                    4061
+                ],
+                [
+                    2160,
+                    4141
+                ],
+                [
+                    2528,
+                    4141
+                ],
+                [
+                    2528,
+                    4061
+                ],
+                [
+                    2160,
+                    4061
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herb . Mus\u00e9um Paris",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2227,
+                    4242
+                ],
+                [
+                    2227,
+                    4304
+                ],
+                [
+                    2435,
+                    4304
+                ],
+                [
+                    2435,
+                    4242
+                ],
+                [
+                    2227,
+                    4242
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "P00260987",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2227,
+                    4242
+                ],
+                [
+                    2227,
+                    4304
+                ],
+                [
+                    2435,
+                    4304
+                ],
+                [
+                    2435,
+                    4242
+                ],
+                [
+                    2227,
+                    4242
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "P00260987",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2025,
+                    4298
+                ],
+                [
+                    2025,
+                    4383
+                ],
+                [
+                    2640,
+                    4383
+                ],
+                [
+                    2640,
+                    4298
+                ],
+                [
+                    2025,
+                    4298
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERBIER E. G. CAMUS",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2025,
+                    4298
+                ],
+                [
+                    2025,
+                    4383
+                ],
+                [
+                    2640,
+                    4383
+                ],
+                [
+                    2640,
+                    4298
+                ],
+                [
+                    2025,
+                    4298
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "MERBIER E . & . CAMUS",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2019,
+                    4442
+                ],
+                [
+                    2629,
+                    4463
+                ],
+                [
+                    2621,
+                    4386
+                ],
+                [
+                    2025,
+                    4383
+                ],
+                [
+                    2019,
+                    4442
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "SOCI\u00c9T\u00c9 ROCHELAISE 1894 .",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2019,
+                    4442
+                ],
+                [
+                    2629,
+                    4463
+                ],
+                [
+                    2621,
+                    4386
+                ],
+                [
+                    2025,
+                    4383
+                ],
+                [
+                    2019,
+                    4442
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "SOCI\u00c9T\u00c9 ROCHELAISE 1894 .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1785,
+                    4588
+                ],
+                [
+                    2875,
+                    4631
+                ],
+                [
+                    2876,
+                    4572
+                ],
+                [
+                    1790,
+                    4532
+                ],
+                [
+                    1785,
+                    4588
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "3668. - LAURENTIA MICHELII DC. Prodr. 7, p. 409;",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1785,
+                    4588
+                ],
+                [
+                    2875,
+                    4631
+                ],
+                [
+                    2876,
+                    4572
+                ],
+                [
+                    1790,
+                    4532
+                ],
+                [
+                    1785,
+                    4588
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": ". 3668 et G . . Fl - . LAURENTIA Fr . 2 , p . 397 ; de MICHELII Marsilly DC . Prodr . 7 , p . 409 ;",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1751,
+                    4616
+                ],
+                [
+                    2873,
+                    4670
+                ],
+                [
+                    2873,
+                    4631
+                ],
+                [
+                    1756,
+                    4583
+                ],
+                [
+                    1751,
+                    4616
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "G. et G. Fl. Fr. 2, p. 397 ; de Marsilly, Cat. Corse, p. 93 ; Camus,",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1751,
+                    4616
+                ],
+                [
+                    2873,
+                    4670
+                ],
+                [
+                    2873,
+                    4631
+                ],
+                [
+                    1756,
+                    4583
+                ],
+                [
+                    1751,
+                    4616
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Cat G . p . 185 . , Cat , Corse , p . 93 ; Camus ,",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1746,
+                    4656
+                ],
+                [
+                    1971,
+                    4665
+                ],
+                [
+                    1976,
+                    4630
+                ],
+                [
+                    1751,
+                    4620
+                ],
+                [
+                    1746,
+                    4656
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Cat. p. 185.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1770,
+                    4753
+                ],
+                [
+                    2588,
+                    4783
+                ],
+                [
+                    2590,
+                    4731
+                ],
+                [
+                    1776,
+                    4693
+                ],
+                [
+                    1770,
+                    4753
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Marais de Santa - Manza pr\u00e8s de Bonifacio ( Corse ) .",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1770,
+                    4753
+                ],
+                [
+                    2588,
+                    4783
+                ],
+                [
+                    2590,
+                    4731
+                ],
+                [
+                    1776,
+                    4693
+                ],
+                [
+                    1770,
+                    4753
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Marais de Santa - Manza pr\u00e8s de Bonifacio ( Corse ) .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2289,
+                    4863
+                ],
+                [
+                    2655,
+                    4873
+                ],
+                [
+                    2660,
+                    4824
+                ],
+                [
+                    2294,
+                    4804
+                ],
+                [
+                    2289,
+                    4863
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Legit E . Reverchon .",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2289,
+                    4863
+                ],
+                [
+                    2655,
+                    4873
+                ],
+                [
+                    2660,
+                    4824
+                ],
+                [
+                    2294,
+                    4804
+                ],
+                [
+                    2289,
+                    4863
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Legit E . Reverchon .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2580,
+                    4959
+                ],
+                [
+                    2786,
+                    4969
+                ],
+                [
+                    2786,
+                    4922
+                ],
+                [
+                    2585,
+                    4911
+                ],
+                [
+                    2580,
+                    4959
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "J . Hervier .",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2580,
+                    4959
+                ],
+                [
+                    2786,
+                    4969
+                ],
+                [
+                    2786,
+                    4922
+                ],
+                [
+                    2585,
+                    4911
+                ],
+                [
+                    2580,
+                    4959
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "J . Hervier .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1770,
+                    4934
+                ],
+                [
+                    1951,
+                    4939
+                ],
+                [
+                    1953,
+                    4884
+                ],
+                [
+                    1778,
+                    4879
+                ],
+                [
+                    1770,
+                    4934
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Mai 1894 .",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1770,
+                    4934
+                ],
+                [
+                    1951,
+                    4939
+                ],
+                [
+                    1953,
+                    4884
+                ],
+                [
+                    1778,
+                    4879
+                ],
+                [
+                    1770,
+                    4934
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Mai 1894 .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        }
+    ]
+}

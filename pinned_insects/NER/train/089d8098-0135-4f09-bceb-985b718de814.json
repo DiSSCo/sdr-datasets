@@ -1,0 +1,27 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "0bb2b69c-c72d-4ecf-825c-7f92137e29df",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/73f3d3ee-30d6-4e51-b9c2-8449ec4d19b9",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/73f3d3ee-30d6-4e51-b9c2-8449ec4d19b9/full/full/0/default.jpg"
+    },
+    "named_entities": [
+        {
+            "tags": "NHMUK010518593 B-identifier",
+            "worker_version_id": null
+        },
+        {
+            "tags": "W B-Collection/Donation\n. I-Collection/Donation\nRait I-Collection/Donation\n- I-Collection/Donation\nSmith I-Collection/Donation\nBequest I-Collection/Donation\nBMNH B-identifier\n( I-identifier\nE I-identifier\n) I-identifier\n1959 I-identifier\n- I-identifier\n79 I-identifier",
+            "worker_version_id": null
+        }
+    ],
+    "page": {
+        "id": "089d8098-0135-4f09-bceb-985b718de814",
+        "name": "010518593_136905_1856543.2500x5792.jpeg",
+        "rotation_angle": 0
+    }
+}

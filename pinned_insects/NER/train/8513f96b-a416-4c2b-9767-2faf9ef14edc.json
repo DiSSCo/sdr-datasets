@@ -1,0 +1,31 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "e3959c6f-1960-4947-aa70-7a11a79ceab8",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/ed561c05-2d08-4ffc-a85d-710fe5336490",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/ed561c05-2d08-4ffc-a85d-710fe5336490/full/full/0/default.jpg"
+    },
+    "named_entities": [
+        {
+            "tags": "Withers B-Collection/Donation\nColl I-Collection/Donation\n. O\nBMNH B-identifier\n( I-identifier\nE I-identifier\n) I-identifier\n2010 I-identifier\n- I-identifier\n119 I-identifier",
+            "worker_version_id": null
+        },
+        {
+            "tags": "NHMUK010607833 B-identifier",
+            "worker_version_id": null
+        },
+        {
+            "tags": "13 B-date\n- I-date\n10 I-date\n- I-date\n79 I-date\nSTOBOROUGH B-location_name\n, I-location_name\nDORSET I-location_name\nMV B-Sampling protocol\nB B-person_name\n. I-person_name\nG I-person_name\n. I-person_name\nWITHERS I-person_name",
+            "worker_version_id": null
+        }
+    ],
+    "page": {
+        "id": "8513f96b-a416-4c2b-9767-2faf9ef14edc",
+        "name": "010607833_151457_1084235.2500x3456.jpeg",
+        "rotation_angle": 0
+    }
+}

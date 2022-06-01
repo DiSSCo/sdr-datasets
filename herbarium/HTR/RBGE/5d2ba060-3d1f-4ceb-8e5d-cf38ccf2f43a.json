@@ -1,0 +1,2026 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "479c24a2-d399-4074-b47f-7c82c51a95d8",
+        "name": "RBGE"
+    },
+    "image": {
+        "id": "fb05332d-1bd0-4323-b5e9-81e2b9ca4221",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FE00531689.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FE00531689.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "5d2ba060-3d1f-4ceb-8e5d-cf38ccf2f43a",
+        "name": "E00531689",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    3581,
+                    8
+                ],
+                [
+                    3581,
+                    286
+                ],
+                [
+                    4791,
+                    286
+                ],
+                [
+                    4791,
+                    8
+                ],
+                [
+                    3581,
+                    8
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB . HORT . EDINB .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3581,
+                    8
+                ],
+                [
+                    3581,
+                    286
+                ],
+                [
+                    4791,
+                    286
+                ],
+                [
+                    4791,
+                    8
+                ],
+                [
+                    3581,
+                    8
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB. HORT. EDINB.",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3581,
+                    8
+                ],
+                [
+                    3581,
+                    286
+                ],
+                [
+                    4791,
+                    286
+                ],
+                [
+                    4791,
+                    8
+                ],
+                [
+                    3581,
+                    8
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB . HORT . EDINB .",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    3281,
+                    5317
+                ],
+                [
+                    3281,
+                    5517
+                ],
+                [
+                    4913,
+                    5517
+                ],
+                [
+                    4913,
+                    5317
+                ],
+                [
+                    3281,
+                    5317
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Costus torkinensis Gagnep .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3281,
+                    5317
+                ],
+                [
+                    3281,
+                    5517
+                ],
+                [
+                    4913,
+                    5517
+                ],
+                [
+                    4913,
+                    5317
+                ],
+                [
+                    3281,
+                    5317
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Costus tonkinensis Gagnef.",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3303,
+                    5573
+                ],
+                [
+                    3303,
+                    5761
+                ],
+                [
+                    5025,
+                    5761
+                ],
+                [
+                    5025,
+                    5573
+                ],
+                [
+                    3303,
+                    5573
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Det . M . Newmn 15x 2009",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3303,
+                    5573
+                ],
+                [
+                    3303,
+                    5761
+                ],
+                [
+                    5025,
+                    5761
+                ],
+                [
+                    5025,
+                    5573
+                ],
+                [
+                    3303,
+                    5573
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Det. M . Newmen 15 7 2009",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3116,
+                    5913
+                ],
+                [
+                    3116,
+                    6001
+                ],
+                [
+                    4742,
+                    6001
+                ],
+                [
+                    4742,
+                    5913
+                ],
+                [
+                    3116,
+                    5913
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "PLANTS OF THE GAOLIGONG SHAN REGION ,",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3116,
+                    5913
+                ],
+                [
+                    3116,
+                    6001
+                ],
+                [
+                    4742,
+                    6001
+                ],
+                [
+                    4742,
+                    5913
+                ],
+                [
+                    3116,
+                    5913
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "PLANTS OF THE GAOLIGONC SHAN REGION,",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3658,
+                    6015
+                ],
+                [
+                    3658,
+                    6095
+                ],
+                [
+                    4258,
+                    6095
+                ],
+                [
+                    4258,
+                    6015
+                ],
+                [
+                    3658,
+                    6015
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "YUNNAN , CHINA",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3658,
+                    6015
+                ],
+                [
+                    3658,
+                    6095
+                ],
+                [
+                    4258,
+                    6095
+                ],
+                [
+                    4258,
+                    6015
+                ],
+                [
+                    3658,
+                    6015
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "YUNNAN, CHINA",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3658,
+                    6015
+                ],
+                [
+                    3658,
+                    6095
+                ],
+                [
+                    4258,
+                    6095
+                ],
+                [
+                    4258,
+                    6015
+                ],
+                [
+                    3658,
+                    6015
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "YUNNAN , CHINA",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    2983,
+                    6064
+                ],
+                [
+                    2983,
+                    6157
+                ],
+                [
+                    3547,
+                    6157
+                ],
+                [
+                    3547,
+                    6064
+                ],
+                [
+                    2983,
+                    6064
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NON - OAD",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2983,
+                    6064
+                ],
+                [
+                    2983,
+                    6157
+                ],
+                [
+                    3547,
+                    6157
+                ],
+                [
+                    3547,
+                    6064
+                ],
+                [
+                    2983,
+                    6064
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Ner - emtite",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3267,
+                    6170
+                ],
+                [
+                    3267,
+                    6250
+                ],
+                [
+                    3938,
+                    6250
+                ],
+                [
+                    3938,
+                    6170
+                ],
+                [
+                    3267,
+                    6170
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "( Ginger Formily ?",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3267,
+                    6170
+                ],
+                [
+                    3267,
+                    6250
+                ],
+                [
+                    3938,
+                    6250
+                ],
+                [
+                    3938,
+                    6170
+                ],
+                [
+                    3267,
+                    6170
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "(Ginges faumily 7)",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    4489,
+                    6126
+                ],
+                [
+                    4489,
+                    6237
+                ],
+                [
+                    4907,
+                    6237
+                ],
+                [
+                    4907,
+                    6126
+                ],
+                [
+                    4489,
+                    6126
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Orchidaceae",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4489,
+                    6126
+                ],
+                [
+                    4489,
+                    6237
+                ],
+                [
+                    4907,
+                    6237
+                ],
+                [
+                    4907,
+                    6126
+                ],
+                [
+                    4489,
+                    6126
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Orchidaceae",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    4489,
+                    6126
+                ],
+                [
+                    4489,
+                    6237
+                ],
+                [
+                    4907,
+                    6237
+                ],
+                [
+                    4907,
+                    6126
+                ],
+                [
+                    4489,
+                    6126
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Orchidaceae",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    2992,
+                    6321
+                ],
+                [
+                    3334,
+                    6343
+                ],
+                [
+                    3378,
+                    6268
+                ],
+                [
+                    3250,
+                    6268
+                ],
+                [
+                    3201,
+                    6237
+                ],
+                [
+                    3019,
+                    6224
+                ],
+                [
+                    2992,
+                    6321
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Calanthe",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2992,
+                    6321
+                ],
+                [
+                    3334,
+                    6343
+                ],
+                [
+                    3378,
+                    6268
+                ],
+                [
+                    3250,
+                    6268
+                ],
+                [
+                    3201,
+                    6237
+                ],
+                [
+                    3019,
+                    6224
+                ],
+                [
+                    2992,
+                    6321
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Calayltlie",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3017,
+                    6467
+                ],
+                [
+                    3017,
+                    6550
+                ],
+                [
+                    4747,
+                    6550
+                ],
+                [
+                    4747,
+                    6467
+                ],
+                [
+                    3017,
+                    6467
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Tengchong : Jietou . Datang Cun . Vicinity of Dazidi , NNE of",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3017,
+                    6467
+                ],
+                [
+                    3017,
+                    6550
+                ],
+                [
+                    4747,
+                    6550
+                ],
+                [
+                    4747,
+                    6467
+                ],
+                [
+                    3017,
+                    6467
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Tengchong: Jietou. Datang Cun. Vicinity of Dazidi, NNE of",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3017,
+                    6467
+                ],
+                [
+                    3017,
+                    6550
+                ],
+                [
+                    4747,
+                    6550
+                ],
+                [
+                    4747,
+                    6467
+                ],
+                [
+                    3017,
+                    6467
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Tengchong : Jietou . Datang Cun . Vicinity of Dazidi , NNE of",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    3023,
+                    6559
+                ],
+                [
+                    3023,
+                    6626
+                ],
+                [
+                    4010,
+                    6626
+                ],
+                [
+                    4010,
+                    6559
+                ],
+                [
+                    3023,
+                    6559
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Datang . W side of Gaoligong Shan",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3023,
+                    6559
+                ],
+                [
+                    3023,
+                    6626
+                ],
+                [
+                    4010,
+                    6626
+                ],
+                [
+                    4010,
+                    6559
+                ],
+                [
+                    3023,
+                    6559
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Datang . W side of Gaoligong Shan",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3023,
+                    6559
+                ],
+                [
+                    3023,
+                    6626
+                ],
+                [
+                    4010,
+                    6626
+                ],
+                [
+                    4010,
+                    6559
+                ],
+                [
+                    3023,
+                    6559
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Datang . W side of Gaoligong Shan",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    3017,
+                    6639
+                ],
+                [
+                    3017,
+                    6712
+                ],
+                [
+                    3433,
+                    6712
+                ],
+                [
+                    3433,
+                    6639
+                ],
+                [
+                    3017,
+                    6639
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Elev . 2390 m",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3017,
+                    6639
+                ],
+                [
+                    3017,
+                    6712
+                ],
+                [
+                    3433,
+                    6712
+                ],
+                [
+                    3433,
+                    6639
+                ],
+                [
+                    3017,
+                    6639
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Elev. 2390 m",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3017,
+                    6639
+                ],
+                [
+                    3017,
+                    6712
+                ],
+                [
+                    3433,
+                    6712
+                ],
+                [
+                    3433,
+                    6639
+                ],
+                [
+                    3017,
+                    6639
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Elev . 2390 m",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    3960,
+                    6654
+                ],
+                [
+                    3960,
+                    6727
+                ],
+                [
+                    4902,
+                    6727
+                ],
+                [
+                    4902,
+                    6654
+                ],
+                [
+                    3960,
+                    6654
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "25\u00b0 46 ' 39 . 7 \" N , 98\u00b0 42 ' 30 . 1 \" E",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3960,
+                    6654
+                ],
+                [
+                    3960,
+                    6727
+                ],
+                [
+                    4902,
+                    6727
+                ],
+                [
+                    4902,
+                    6654
+                ],
+                [
+                    3960,
+                    6654
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "25\u00b0 46' 39 .7 \" N , 98\u00b0 42' 30 . 1 \" E",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3960,
+                    6654
+                ],
+                [
+                    3960,
+                    6727
+                ],
+                [
+                    4902,
+                    6727
+                ],
+                [
+                    4902,
+                    6654
+                ],
+                [
+                    3960,
+                    6654
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "25\u00b0 46 ' 39 . 7 \" N , 98\u00b0 42 ' 30 . 1 \" E",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    3043,
+                    6731
+                ],
+                [
+                    3043,
+                    6823
+                ],
+                [
+                    3715,
+                    6823
+                ],
+                [
+                    3715,
+                    6731
+                ],
+                [
+                    3043,
+                    6731
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "SW facing 30 - 60\u00b0 slope",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3043,
+                    6731
+                ],
+                [
+                    3043,
+                    6823
+                ],
+                [
+                    3715,
+                    6823
+                ],
+                [
+                    3715,
+                    6731
+                ],
+                [
+                    3043,
+                    6731
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "SW facing 30-60\u00b0 slope",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3043,
+                    6731
+                ],
+                [
+                    3043,
+                    6823
+                ],
+                [
+                    3715,
+                    6823
+                ],
+                [
+                    3715,
+                    6731
+                ],
+                [
+                    3043,
+                    6731
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "SW facing 30 - 60\u00b0 slope",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    3023,
+                    6937
+                ],
+                [
+                    3023,
+                    7013
+                ],
+                [
+                    4131,
+                    7013
+                ],
+                [
+                    4131,
+                    6937
+                ],
+                [
+                    3023,
+                    6937
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Subtropical evergreen broadleaf forest",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3023,
+                    6937
+                ],
+                [
+                    3023,
+                    7013
+                ],
+                [
+                    4131,
+                    7013
+                ],
+                [
+                    4131,
+                    6937
+                ],
+                [
+                    3023,
+                    6937
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Subtropical evergreen broadleaf forest",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3023,
+                    6937
+                ],
+                [
+                    3023,
+                    7013
+                ],
+                [
+                    4131,
+                    7013
+                ],
+                [
+                    4131,
+                    6937
+                ],
+                [
+                    3023,
+                    6937
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Subtropical evergreen broadleaf forest",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    3017,
+                    7026
+                ],
+                [
+                    3017,
+                    7108
+                ],
+                [
+                    3436,
+                    7108
+                ],
+                [
+                    3436,
+                    7026
+                ],
+                [
+                    3017,
+                    7026
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Undisturbed",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3017,
+                    7026
+                ],
+                [
+                    3017,
+                    7108
+                ],
+                [
+                    3436,
+                    7108
+                ],
+                [
+                    3436,
+                    7026
+                ],
+                [
+                    3017,
+                    7026
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Undisturbed.",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3014,
+                    7121
+                ],
+                [
+                    3014,
+                    7200
+                ],
+                [
+                    4588,
+                    7200
+                ],
+                [
+                    4588,
+                    7121
+                ],
+                [
+                    3014,
+                    7121
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Forest dominated by Lithocarpus and Cyclobalanopsis .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3014,
+                    7121
+                ],
+                [
+                    3014,
+                    7200
+                ],
+                [
+                    4588,
+                    7200
+                ],
+                [
+                    4588,
+                    7121
+                ],
+                [
+                    3014,
+                    7121
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Forest dominated by Lithocarpus and Cyclobalanopsis.",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3014,
+                    7121
+                ],
+                [
+                    3014,
+                    7200
+                ],
+                [
+                    4588,
+                    7200
+                ],
+                [
+                    4588,
+                    7121
+                ],
+                [
+                    3014,
+                    7121
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Forest dominated by Lithocarpus and Cyclobalanopsis .",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    3033,
+                    7324
+                ],
+                [
+                    3033,
+                    7413
+                ],
+                [
+                    4737,
+                    7413
+                ],
+                [
+                    4737,
+                    7324
+                ],
+                [
+                    3033,
+                    7324
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Terrestrial orchid 40 - 50 cm tall . Flowers white . Young fruit",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3033,
+                    7324
+                ],
+                [
+                    3033,
+                    7413
+                ],
+                [
+                    4737,
+                    7413
+                ],
+                [
+                    4737,
+                    7324
+                ],
+                [
+                    3033,
+                    7324
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Terrestrial orchid 40-50 cm tall. Flowers white. Young fruit",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3033,
+                    7324
+                ],
+                [
+                    3033,
+                    7413
+                ],
+                [
+                    4737,
+                    7413
+                ],
+                [
+                    4737,
+                    7324
+                ],
+                [
+                    3033,
+                    7324
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Terrestrial orchid 40 - 50 cm tall . Flowers white . Young fruit",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    3039,
+                    7422
+                ],
+                [
+                    3039,
+                    7499
+                ],
+                [
+                    4271,
+                    7499
+                ],
+                [
+                    4271,
+                    7422
+                ],
+                [
+                    3039,
+                    7422
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "green . Rare . Growing under forest in shade .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3039,
+                    7422
+                ],
+                [
+                    3039,
+                    7499
+                ],
+                [
+                    4271,
+                    7499
+                ],
+                [
+                    4271,
+                    7422
+                ],
+                [
+                    3039,
+                    7422
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "green. Rare. Growing under forest in shade.",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3039,
+                    7422
+                ],
+                [
+                    3039,
+                    7499
+                ],
+                [
+                    4271,
+                    7499
+                ],
+                [
+                    4271,
+                    7422
+                ],
+                [
+                    3039,
+                    7422
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "green . Rare . Growing under forest in shade .",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    3030,
+                    7511
+                ],
+                [
+                    3030,
+                    7587
+                ],
+                [
+                    3598,
+                    7587
+                ],
+                [
+                    3598,
+                    7511
+                ],
+                [
+                    3030,
+                    7511
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "In loam on granite .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3030,
+                    7511
+                ],
+                [
+                    3030,
+                    7587
+                ],
+                [
+                    3598,
+                    7587
+                ],
+                [
+                    3598,
+                    7511
+                ],
+                [
+                    3030,
+                    7511
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "In loam on granite.",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3030,
+                    7511
+                ],
+                [
+                    3030,
+                    7587
+                ],
+                [
+                    3598,
+                    7587
+                ],
+                [
+                    3598,
+                    7511
+                ],
+                [
+                    3030,
+                    7511
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "In loam on granite .",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    3023,
+                    7689
+                ],
+                [
+                    3023,
+                    7784
+                ],
+                [
+                    4277,
+                    7784
+                ],
+                [
+                    4277,
+                    7689
+                ],
+                [
+                    3023,
+                    7689
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Gaoligong Shan Biodiversity Survey 30228",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3023,
+                    7689
+                ],
+                [
+                    3023,
+                    7784
+                ],
+                [
+                    4277,
+                    7784
+                ],
+                [
+                    4277,
+                    7689
+                ],
+                [
+                    3023,
+                    7689
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Gaoligong Shan Biodiversity Survey 30228",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3023,
+                    7689
+                ],
+                [
+                    3023,
+                    7784
+                ],
+                [
+                    4277,
+                    7784
+                ],
+                [
+                    4277,
+                    7689
+                ],
+                [
+                    3023,
+                    7689
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Gaoligong Shan Biodiversity Survey 30228",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    4496,
+                    7689
+                ],
+                [
+                    4496,
+                    7806
+                ],
+                [
+                    4915,
+                    7806
+                ],
+                [
+                    4915,
+                    7689
+                ],
+                [
+                    4496,
+                    7689
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "17 May 2006",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4496,
+                    7689
+                ],
+                [
+                    4496,
+                    7806
+                ],
+                [
+                    4915,
+                    7806
+                ],
+                [
+                    4915,
+                    7689
+                ],
+                [
+                    4496,
+                    7689
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "17 May 2006",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    4496,
+                    7689
+                ],
+                [
+                    4496,
+                    7806
+                ],
+                [
+                    4915,
+                    7806
+                ],
+                [
+                    4915,
+                    7689
+                ],
+                [
+                    4496,
+                    7689
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "17 May 2006",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    3065,
+                    7962
+                ],
+                [
+                    4816,
+                    7990
+                ],
+                [
+                    4835,
+                    7924
+                ],
+                [
+                    3093,
+                    7895
+                ],
+                [
+                    3084,
+                    7895
+                ],
+                [
+                    3065,
+                    7962
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Participants : Li Heng , Dao Zhiling , Ji Yunheng , Jin Xiaohua ( KUN ) ; Bruce",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3065,
+                    7962
+                ],
+                [
+                    4816,
+                    7990
+                ],
+                [
+                    4835,
+                    7924
+                ],
+                [
+                    3093,
+                    7895
+                ],
+                [
+                    3084,
+                    7895
+                ],
+                [
+                    3065,
+                    7962
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Participants: Li Heng, Dao Zhiling, Ji Yunheng. Jin Xiaohua (KUN); Bruce",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3315,
+                    8044
+                ],
+                [
+                    4585,
+                    8054
+                ],
+                [
+                    4591,
+                    8000
+                ],
+                [
+                    3331,
+                    7981
+                ],
+                [
+                    3319,
+                    7987
+                ],
+                [
+                    3315,
+                    8044
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Bartholomew , Lihua Zhou ( CAS ) ; Neil McCheyne ( E )",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3315,
+                    8044
+                ],
+                [
+                    4585,
+                    8054
+                ],
+                [
+                    4591,
+                    8000
+                ],
+                [
+                    3331,
+                    7981
+                ],
+                [
+                    3319,
+                    7987
+                ],
+                [
+                    3315,
+                    8044
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Bartholomew, Lihua Zhou (CAS); Neil McCheyne (E)",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3315,
+                    8044
+                ],
+                [
+                    4585,
+                    8054
+                ],
+                [
+                    4591,
+                    8000
+                ],
+                [
+                    3331,
+                    7981
+                ],
+                [
+                    3319,
+                    7987
+                ],
+                [
+                    3315,
+                    8044
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Bartholomew , Lihua Zhou ( CAS ) ; Neil McCheyne ( E )",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    113,
+                    7612
+                ],
+                [
+                    113,
+                    7660
+                ],
+                [
+                    769,
+                    7660
+                ],
+                [
+                    769,
+                    7612
+                ],
+                [
+                    113,
+                    7612
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ROYAL BOTANIC GARDEN",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    113,
+                    7612
+                ],
+                [
+                    113,
+                    7660
+                ],
+                [
+                    769,
+                    7660
+                ],
+                [
+                    769,
+                    7612
+                ],
+                [
+                    113,
+                    7612
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ROYAL BOTANIC GARDEN",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    113,
+                    7612
+                ],
+                [
+                    113,
+                    7660
+                ],
+                [
+                    769,
+                    7660
+                ],
+                [
+                    769,
+                    7612
+                ],
+                [
+                    113,
+                    7612
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ROYAL BOTANIC GARDEN",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    287,
+                    7672
+                ],
+                [
+                    287,
+                    7711
+                ],
+                [
+                    600,
+                    7711
+                ],
+                [
+                    600,
+                    7672
+                ],
+                [
+                    287,
+                    7672
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "EDINBURGH",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    287,
+                    7672
+                ],
+                [
+                    287,
+                    7711
+                ],
+                [
+                    600,
+                    7711
+                ],
+                [
+                    600,
+                    7672
+                ],
+                [
+                    287,
+                    7672
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "EDINBURGH",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    287,
+                    7672
+                ],
+                [
+                    287,
+                    7711
+                ],
+                [
+                    600,
+                    7711
+                ],
+                [
+                    600,
+                    7672
+                ],
+                [
+                    287,
+                    7672
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "EDINBURGH",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    278,
+                    7876
+                ],
+                [
+                    278,
+                    7927
+                ],
+                [
+                    589,
+                    7927
+                ],
+                [
+                    589,
+                    7876
+                ],
+                [
+                    278,
+                    7876
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "E00531689",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    278,
+                    7876
+                ],
+                [
+                    278,
+                    7927
+                ],
+                [
+                    589,
+                    7927
+                ],
+                [
+                    589,
+                    7876
+                ],
+                [
+                    278,
+                    7876
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "E00531689",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    278,
+                    7876
+                ],
+                [
+                    278,
+                    7927
+                ],
+                [
+                    589,
+                    7927
+                ],
+                [
+                    589,
+                    7876
+                ],
+                [
+                    278,
+                    7876
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "E00531689",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        }
+    ]
+}

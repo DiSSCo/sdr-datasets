@@ -1,0 +1,883 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "e28d3ac9-9c27-461f-a8d0-9f42d20da281",
+        "name": "Luomus"
+    },
+    "image": {
+        "id": "f8413fef-f0d7-49c2-a1c3-19615bcff82e",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FEIG.2748.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FEIG.2748.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "0e44fafa-01ea-410e-8a86-8fbfceee9007",
+        "name": "EIG.2748",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    3508,
+                    3391
+                ],
+                [
+                    3508,
+                    3524
+                ],
+                [
+                    3717,
+                    3524
+                ],
+                [
+                    3717,
+                    3391
+                ],
+                [
+                    3508,
+                    3391
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Sa",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2449,
+                    3653
+                ],
+                [
+                    2477,
+                    3725
+                ],
+                [
+                    3473,
+                    3687
+                ],
+                [
+                    3457,
+                    3600
+                ],
+                [
+                    2449,
+                    3653
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "CANBERRA BOTANIC GARDENS",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2479,
+                    3739
+                ],
+                [
+                    2487,
+                    3816
+                ],
+                [
+                    2858,
+                    3804
+                ],
+                [
+                    2851,
+                    3717
+                ],
+                [
+                    2479,
+                    3739
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "CANBERRA",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2485,
+                    3826
+                ],
+                [
+                    2485,
+                    3916
+                ],
+                [
+                    3310,
+                    3872
+                ],
+                [
+                    3302,
+                    3784
+                ],
+                [
+                    2485,
+                    3826
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Australian Capital Territory",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2310,
+                    3951
+                ],
+                [
+                    2312,
+                    4065
+                ],
+                [
+                    3741,
+                    3985
+                ],
+                [
+                    3729,
+                    3888
+                ],
+                [
+                    2310,
+                    3951
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "+1597 ATHYRIUM AUSTRALE C. FRESL.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2407,
+                    4082
+                ],
+                [
+                    2413,
+                    4186
+                ],
+                [
+                    2797,
+                    4178
+                ],
+                [
+                    2785,
+                    4065
+                ],
+                [
+                    2407,
+                    4082
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "750777",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3254,
+                    4158
+                ],
+                [
+                    3717,
+                    4140
+                ],
+                [
+                    3703,
+                    3999
+                ],
+                [
+                    3262,
+                    4021
+                ],
+                [
+                    3254,
+                    4158
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "79-1127",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2413,
+                    4194
+                ],
+                [
+                    2431,
+                    4305
+                ],
+                [
+                    3252,
+                    4305
+                ],
+                [
+                    3242,
+                    4170
+                ],
+                [
+                    2413,
+                    4194
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Head at Soda Creek",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2441,
+                    4319
+                ],
+                [
+                    2447,
+                    4414
+                ],
+                [
+                    2888,
+                    4402
+                ],
+                [
+                    2884,
+                    4315
+                ],
+                [
+                    2441,
+                    4319
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Mt. Drummer",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2443,
+                    4422
+                ],
+                [
+                    2443,
+                    4538
+                ],
+                [
+                    3536,
+                    4504
+                ],
+                [
+                    3542,
+                    4398
+                ],
+                [
+                    2443,
+                    4422
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "E. of Cann River Victoria",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    845,
+                    7181
+                ],
+                [
+                    845,
+                    7284
+                ],
+                [
+                    1094,
+                    7284
+                ],
+                [
+                    1094,
+                    7181
+                ],
+                [
+                    845,
+                    7181
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Spores",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1062,
+                    7324
+                ],
+                [
+                    1674,
+                    7286
+                ],
+                [
+                    1674,
+                    7231
+                ],
+                [
+                    1102,
+                    7255
+                ],
+                [
+                    1062,
+                    7324
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "taken for Culti-",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    834,
+                    7330
+                ],
+                [
+                    845,
+                    7410
+                ],
+                [
+                    1815,
+                    7358
+                ],
+                [
+                    1799,
+                    7282
+                ],
+                [
+                    834,
+                    7330
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "vation in Botanical Garden",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1028,
+                    7533
+                ],
+                [
+                    1028,
+                    7622
+                ],
+                [
+                    1471,
+                    7622
+                ],
+                [
+                    1471,
+                    7533
+                ],
+                [
+                    1028,
+                    7533
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "PENTTI ALANKO",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    830,
+                    7561
+                ],
+                [
+                    830,
+                    7664
+                ],
+                [
+                    949,
+                    7664
+                ],
+                [
+                    949,
+                    7561
+                ],
+                [
+                    830,
+                    7561
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "by",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    989,
+                    7628
+                ],
+                [
+                    989,
+                    7694
+                ],
+                [
+                    1646,
+                    7694
+                ],
+                [
+                    1646,
+                    7628
+                ],
+                [
+                    989,
+                    7628
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "University of Helsinki, Finland",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1654,
+                    7485
+                ],
+                [
+                    1654,
+                    7620
+                ],
+                [
+                    1833,
+                    7620
+                ],
+                [
+                    1833,
+                    7485
+                ],
+                [
+                    1654,
+                    7485
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "1980",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2578,
+                    6798
+                ],
+                [
+                    2578,
+                    7080
+                ],
+                [
+                    2646,
+                    7080
+                ],
+                [
+                    2646,
+                    6798
+                ],
+                [
+                    2578,
+                    6798
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Digitarium",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2936,
+                    6856
+                ],
+                [
+                    2936,
+                    6939
+                ],
+                [
+                    3510,
+                    6939
+                ],
+                [
+                    3510,
+                    6856
+                ],
+                [
+                    2936,
+                    6856
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "http://id.luomus.fi/",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3083,
+                    6953
+                ],
+                [
+                    3083,
+                    7017
+                ],
+                [
+                    3361,
+                    7017
+                ],
+                [
+                    3361,
+                    6953
+                ],
+                [
+                    3083,
+                    6953
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "EIG.2748",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3057,
+                    7033
+                ],
+                [
+                    3057,
+                    7104
+                ],
+                [
+                    3387,
+                    7104
+                ],
+                [
+                    3387,
+                    7033
+                ],
+                [
+                    3057,
+                    7033
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "2013-04-02",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2497,
+                    7166
+                ],
+                [
+                    2497,
+                    7233
+                ],
+                [
+                    3107,
+                    7233
+                ],
+                [
+                    3107,
+                    7166
+                ],
+                [
+                    2497,
+                    7166
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "MUSEUM BOTANICUM",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2503,
+                    7239
+                ],
+                [
+                    2503,
+                    7313
+                ],
+                [
+                    3113,
+                    7313
+                ],
+                [
+                    3113,
+                    7239
+                ],
+                [
+                    2503,
+                    7239
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "UNIV. (H), HELSINKI",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2566,
+                    7331
+                ],
+                [
+                    2566,
+                    7438
+                ],
+                [
+                    2960,
+                    7438
+                ],
+                [
+                    2960,
+                    7331
+                ],
+                [
+                    2566,
+                    7331
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "1280994",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2473,
+                    7472
+                ],
+                [
+                    2473,
+                    7591
+                ],
+                [
+                    2658,
+                    7591
+                ],
+                [
+                    2658,
+                    7472
+                ],
+                [
+                    2473,
+                    7472
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "QUADR.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3902,
+                    6639
+                ],
+                [
+                    3902,
+                    6737
+                ],
+                [
+                    5341,
+                    6737
+                ],
+                [
+                    5341,
+                    6639
+                ],
+                [
+                    3902,
+                    6639
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "MUSEUM BOTANICUM UNIVERSITATIS, HELSINKI",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3915,
+                    6845
+                ],
+                [
+                    3915,
+                    6976
+                ],
+                [
+                    5095,
+                    6976
+                ],
+                [
+                    5095,
+                    6845
+                ],
+                [
+                    3915,
+                    6845
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Athyrium australe C. Presl.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3910,
+                    7067
+                ],
+                [
+                    3910,
+                    7160
+                ],
+                [
+                    5470,
+                    7160
+                ],
+                [
+                    5470,
+                    7067
+                ],
+                [
+                    3910,
+                    7067
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Australia, Victoria, Head of Soda",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3915,
+                    7173
+                ],
+                [
+                    3915,
+                    7281
+                ],
+                [
+                    5487,
+                    7281
+                ],
+                [
+                    5487,
+                    7173
+                ],
+                [
+                    3915,
+                    7173
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Greck, Mt. Drummar, E of Cam River",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4891,
+                    7391
+                ],
+                [
+                    4891,
+                    7474
+                ],
+                [
+                    5213,
+                    7474
+                ],
+                [
+                    5213,
+                    7391
+                ],
+                [
+                    4891,
+                    7391
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "UTM grid:",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3927,
+                    7482
+                ],
+                [
+                    3927,
+                    7595
+                ],
+                [
+                    5490,
+                    7595
+                ],
+                [
+                    5490,
+                    7482
+                ],
+                [
+                    3927,
+                    7482
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Canberra Botanic Gardens seed list",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3887,
+                    7620
+                ],
+                [
+                    3887,
+                    7721
+                ],
+                [
+                    4368,
+                    7721
+                ],
+                [
+                    4368,
+                    7620
+                ],
+                [
+                    3887,
+                    7620
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "nr. 1597.",
+            "worker_version": null
+        }
+    ]
+}

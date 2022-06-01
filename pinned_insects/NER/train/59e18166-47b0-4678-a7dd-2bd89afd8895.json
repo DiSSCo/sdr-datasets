@@ -1,0 +1,35 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "7daad67d-bdb1-4a31-a20e-e0d3605e30e5",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/e63bb601-33fd-4299-a81c-9fe50cc49dfd",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/e63bb601-33fd-4299-a81c-9fe50cc49dfd/full/full/0/default.jpg"
+    },
+    "named_entities": [
+        {
+            "tags": "Chifawe O\n? O\nmirabilis O\nCal O\nRamme B-Determination\ndet I-Determination\n. I-Determination",
+            "worker_version_id": null
+        },
+        {
+            "tags": "NHMUK B-identifier\n012499064 I-identifier",
+            "worker_version_id": null
+        },
+        {
+            "tags": "1933 B-identifier\n- I-identifier\n166 I-identifier",
+            "worker_version_id": null
+        },
+        {
+            "tags": "S B-location_name\n. I-location_name\nCelebes I-location_name\nBawa I-location_name\n- I-location_name\nKaraeng I-location_name\n5000 B-location_name\n' I-location_name\nFeb B-date\n. I-date\n1896 I-date\nH B-person_name\n. I-person_name\nFruhstorfen I-person_name",
+            "worker_version_id": null
+        }
+    ],
+    "page": {
+        "id": "59e18166-47b0-4678-a7dd-2bd89afd8895",
+        "name": "012499064_71389_82914.2500x5792.jpeg",
+        "rotation_angle": 0
+    }
+}

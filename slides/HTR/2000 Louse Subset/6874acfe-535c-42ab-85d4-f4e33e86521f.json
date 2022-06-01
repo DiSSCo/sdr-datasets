@@ -1,0 +1,397 @@
+{
+    "dataset_id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+    "folder": {
+        "id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+        "name": "2000 Louse Subset"
+    },
+    "image": {
+        "id": "e5b8fd58-7d50-45ba-a91d-841718af6bb5",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/05999e41-2f54-4699-a880-0c4fdeb882e2",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/05999e41-2f54-4699-a880-0c4fdeb882e2/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "6874acfe-535c-42ab-85d4-f4e33e86521f",
+        "name": "93",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    6242,
+                    493
+                ],
+                [
+                    6242,
+                    969
+                ],
+                [
+                    8427,
+                    969
+                ],
+                [
+                    8427,
+                    493
+                ],
+                [
+                    6242,
+                    493
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Philandesia",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    5260,
+                    946
+                ],
+                [
+                    5260,
+                    2133
+                ],
+                [
+                    5577,
+                    2133
+                ],
+                [
+                    5577,
+                    946
+                ],
+                [
+                    5260,
+                    946
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Collection",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    5214,
+                    2345
+                ],
+                [
+                    5214,
+                    2504
+                ],
+                [
+                    5638,
+                    2504
+                ],
+                [
+                    5638,
+                    2345
+                ],
+                [
+                    5214,
+                    2345
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6446,
+                    939
+                ],
+                [
+                    6446,
+                    1302
+                ],
+                [
+                    8147,
+                    1302
+                ],
+                [
+                    8147,
+                    939
+                ],
+                [
+                    6446,
+                    939
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "townsendi",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    717,
+                    561
+                ],
+                [
+                    717,
+                    1226
+                ],
+                [
+                    2448,
+                    1226
+                ],
+                [
+                    2448,
+                    561
+                ],
+                [
+                    717,
+                    561
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Lagidium",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    5539,
+                    946
+                ],
+                [
+                    5539,
+                    1967
+                ],
+                [
+                    5819,
+                    1967
+                ],
+                [
+                    5819,
+                    946
+                ],
+                [
+                    5539,
+                    946
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Hopkins",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    5630,
+                    2451
+                ],
+                [
+                    5630,
+                    2874
+                ],
+                [
+                    5721,
+                    2874
+                ],
+                [
+                    5721,
+                    2451
+                ],
+                [
+                    5630,
+                    2451
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "010665279",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6212,
+                    1241
+                ],
+                [
+                    6212,
+                    1770
+                ],
+                [
+                    8495,
+                    1770
+                ],
+                [
+                    8495,
+                    1241
+                ],
+                [
+                    6212,
+                    1241
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Kellogg & Nakayama",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    1299,
+                    992
+                ],
+                [
+                    1299,
+                    1385
+                ],
+                [
+                    2364,
+                    1385
+                ],
+                [
+                    2364,
+                    992
+                ],
+                [
+                    1299,
+                    992
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "inca",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6900,
+                    1521
+                ],
+                [
+                    6900,
+                    2042
+                ],
+                [
+                    7739,
+                    2042
+                ],
+                [
+                    7739,
+                    1521
+                ],
+                [
+                    6900,
+                    1521
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "\u2642\u2640\u2640",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    868,
+                    1876
+                ],
+                [
+                    868,
+                    2216
+                ],
+                [
+                    2667,
+                    2216
+                ],
+                [
+                    2667,
+                    1876
+                ],
+                [
+                    868,
+                    1876
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Prov. Murillo",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6280,
+                    1997
+                ],
+                [
+                    6280,
+                    2466
+                ],
+                [
+                    8434,
+                    2466
+                ],
+                [
+                    8434,
+                    1997
+                ],
+                [
+                    6280,
+                    1997
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "TRIMENOPON",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    581,
+                    2156
+                ],
+                [
+                    581,
+                    2594
+                ],
+                [
+                    2939,
+                    2594
+                ],
+                [
+                    2939,
+                    2156
+                ],
+                [
+                    581,
+                    2156
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Dept. de La Paz, Bolivia",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    951,
+                    2488
+                ],
+                [
+                    951,
+                    2813
+                ],
+                [
+                    2780,
+                    2813
+                ],
+                [
+                    2780,
+                    2488
+                ],
+                [
+                    951,
+                    2488
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "F.L. Werneck",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        }
+    ]
+}

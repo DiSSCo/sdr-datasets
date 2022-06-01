@@ -1,0 +1,181 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "635f3d84-ced6-4b17-b64a-86be7aa87304",
+        "name": "Naturalis"
+    },
+    "image": {
+        "id": "32d4aa70-9616-489d-a1cc-bca957bec307",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FL.1142788.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FL.1142788.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "83cb004a-d0c5-4e89-951c-bda2833ba066",
+        "name": "L.1142788",
+        "rotation_angle": 180
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    204,
+                    2545
+                ],
+                [
+                    204,
+                    2700
+                ],
+                [
+                    852,
+                    2700
+                ],
+                [
+                    852,
+                    2545
+                ],
+                [
+                    204,
+                    2545
+                ]
+            ],
+            "rotation_angle": 180,
+            "transcription": "Pericopsis",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    56,
+                    2433
+                ],
+                [
+                    56,
+                    2545
+                ],
+                [
+                    863,
+                    2545
+                ],
+                [
+                    863,
+                    2433
+                ],
+                [
+                    56,
+                    2433
+                ]
+            ],
+            "rotation_angle": 180,
+            "transcription": "mooniana Thw.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    85,
+                    2307
+                ],
+                [
+                    85,
+                    2426
+                ],
+                [
+                    607,
+                    2426
+                ],
+                [
+                    607,
+                    2307
+                ],
+                [
+                    85,
+                    2307
+                ]
+            ],
+            "rotation_angle": 180,
+            "transcription": "Leg/Pap.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    128,
+                    2145
+                ],
+                [
+                    128,
+                    2304
+                ],
+                [
+                    885,
+                    2304
+                ],
+                [
+                    885,
+                    2145
+                ],
+                [
+                    128,
+                    2145
+                ]
+            ],
+            "rotation_angle": 180,
+            "transcription": "A/G.11554",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    553,
+                    1986
+                ],
+                [
+                    553,
+                    2138
+                ],
+                [
+                    863,
+                    2138
+                ],
+                [
+                    863,
+                    1986
+                ],
+                [
+                    553,
+                    1986
+                ]
+            ],
+            "rotation_angle": 180,
+            "transcription": "IV by",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    312,
+                    1774
+                ],
+                [
+                    312,
+                    1882
+                ],
+                [
+                    737,
+                    1882
+                ],
+                [
+                    737,
+                    1774
+                ],
+                [
+                    312,
+                    1774
+                ]
+            ],
+            "rotation_angle": 180,
+            "transcription": "L. 1142788",
+            "worker_version": null
+        }
+    ]
+}

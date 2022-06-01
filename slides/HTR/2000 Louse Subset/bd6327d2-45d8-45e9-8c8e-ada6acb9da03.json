@@ -1,0 +1,289 @@
+{
+    "dataset_id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+    "folder": {
+        "id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+        "name": "2000 Louse Subset"
+    },
+    "image": {
+        "id": "245e6696-c304-4872-ad44-cf18de281536",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/9eeacd52-2bec-49aa-9a8f-4603ab9999d8",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/9eeacd52-2bec-49aa-9a8f-4603ab9999d8/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "bd6327d2-45d8-45e9-8c8e-ada6acb9da03",
+        "name": "51",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    760,
+                    2668
+                ],
+                [
+                    1227,
+                    2695
+                ],
+                [
+                    1237,
+                    834
+                ],
+                [
+                    770,
+                    807
+                ],
+                [
+                    760,
+                    2668
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Ciconiphilus",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    7091,
+                    679
+                ],
+                [
+                    7157,
+                    2472
+                ],
+                [
+                    7596,
+                    2526
+                ],
+                [
+                    7530,
+                    733
+                ],
+                [
+                    7091,
+                    679
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "England.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    1236,
+                    487
+                ],
+                [
+                    1248,
+                    2682
+                ],
+                [
+                    1690,
+                    2671
+                ],
+                [
+                    1678,
+                    476
+                ],
+                [
+                    1236,
+                    487
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "decimfasciatus",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6779,
+                    715
+                ],
+                [
+                    6779,
+                    2202
+                ],
+                [
+                    7036,
+                    2202
+                ],
+                [
+                    7036,
+                    715
+                ],
+                [
+                    6779,
+                    715
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "cinerea.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    1730,
+                    2631
+                ],
+                [
+                    2103,
+                    2631
+                ],
+                [
+                    2146,
+                    528
+                ],
+                [
+                    1773,
+                    528
+                ],
+                [
+                    1730,
+                    2631
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "(Bois. & Lac.).",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    7531,
+                    781
+                ],
+                [
+                    7531,
+                    2305
+                ],
+                [
+                    7902,
+                    2233
+                ],
+                [
+                    7902,
+                    709
+                ],
+                [
+                    7531,
+                    781
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "xii.1952.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    2199,
+                    1295
+                ],
+                [
+                    2199,
+                    2249
+                ],
+                [
+                    2517,
+                    2249
+                ],
+                [
+                    2517,
+                    1295
+                ],
+                [
+                    2199,
+                    1295
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "1835",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6399,
+                    948
+                ],
+                [
+                    6423,
+                    2541
+                ],
+                [
+                    6754,
+                    2541
+                ],
+                [
+                    6730,
+                    948
+                ],
+                [
+                    6399,
+                    948
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Ardea c.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    7999,
+                    2005
+                ],
+                [
+                    7999,
+                    2134
+                ],
+                [
+                    8396,
+                    2134
+                ],
+                [
+                    8396,
+                    2005
+                ],
+                [
+                    7999,
+                    2005
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    8347,
+                    2103
+                ],
+                [
+                    8347,
+                    2556
+                ],
+                [
+                    8470,
+                    2556
+                ],
+                [
+                    8470,
+                    2103
+                ],
+                [
+                    8347,
+                    2103
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "010653027",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        }
+    ]
+}

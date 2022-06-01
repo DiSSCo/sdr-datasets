@@ -1,0 +1,154 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6ebebd79-2a28-464f-b60a-aa47a864a586",
+        "name": "test"
+    },
+    "image": {
+        "id": "b0551d67-8cb5-4005-a8ed-799e70a1a282",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/704e9a1a-104f-4775-9911-7d8b4078b14d",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/704e9a1a-104f-4775-9911-7d8b4078b14d/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "d336445e-a3ea-4278-a973-a14daefab229",
+        "name": "012539397_136808_1083186.2500x5792.jpeg",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    1711,
+                    671
+                ],
+                [
+                    1711,
+                    769
+                ],
+                [
+                    1888,
+                    769
+                ],
+                [
+                    1888,
+                    671
+                ],
+                [
+                    1711,
+                    671
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NO",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1677,
+                    889
+                ],
+                [
+                    1677,
+                    967
+                ],
+                [
+                    2096,
+                    967
+                ],
+                [
+                    2096,
+                    889
+                ],
+                [
+                    1677,
+                    889
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "W.R.B. Hynd",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1674,
+                    971
+                ],
+                [
+                    1674,
+                    1030
+                ],
+                [
+                    1970,
+                    1030
+                ],
+                [
+                    1970,
+                    971
+                ],
+                [
+                    1674,
+                    971
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Collection",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1677,
+                    1033
+                ],
+                [
+                    1677,
+                    1110
+                ],
+                [
+                    2221,
+                    1110
+                ],
+                [
+                    2221,
+                    1033
+                ],
+                [
+                    1677,
+                    1033
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BMNH(E) 1998-129",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1695,
+                    1414
+                ],
+                [
+                    1695,
+                    1496
+                ],
+                [
+                    2297,
+                    1496
+                ],
+                [
+                    2297,
+                    1414
+                ],
+                [
+                    1695,
+                    1414
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK 012539397",
+            "worker_version": null
+        }
+    ]
+}

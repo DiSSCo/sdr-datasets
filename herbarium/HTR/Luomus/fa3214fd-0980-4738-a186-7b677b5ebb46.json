@@ -1,0 +1,802 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "e28d3ac9-9c27-461f-a8d0-9f42d20da281",
+        "name": "Luomus"
+    },
+    "image": {
+        "id": "350ea822-2d07-4b9c-9b21-8dc0e4bffbb7",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FEIG.1442.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FEIG.1442.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "fa3214fd-0980-4738-a186-7b677b5ebb46",
+        "name": "EIG.1442",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    1391,
+                    6862
+                ],
+                [
+                    1391,
+                    7126
+                ],
+                [
+                    1478,
+                    7126
+                ],
+                [
+                    1478,
+                    6862
+                ],
+                [
+                    1391,
+                    6862
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Digitarium",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1777,
+                    6890
+                ],
+                [
+                    1777,
+                    6961
+                ],
+                [
+                    2357,
+                    6961
+                ],
+                [
+                    2357,
+                    6890
+                ],
+                [
+                    1777,
+                    6890
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "http : / / id . luomus . fi /",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1912,
+                    6965
+                ],
+                [
+                    1912,
+                    7031
+                ],
+                [
+                    2210,
+                    7031
+                ],
+                [
+                    2210,
+                    6965
+                ],
+                [
+                    1912,
+                    6965
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "EIG . 1442",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1881,
+                    7041
+                ],
+                [
+                    1881,
+                    7114
+                ],
+                [
+                    2220,
+                    7114
+                ],
+                [
+                    2220,
+                    7041
+                ],
+                [
+                    1881,
+                    7041
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "2013 - 03 - 27",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1728,
+                    7193
+                ],
+                [
+                    1728,
+                    7265
+                ],
+                [
+                    2386,
+                    7265
+                ],
+                [
+                    2386,
+                    7193
+                ],
+                [
+                    1728,
+                    7193
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "MUSEUM BOTANICUM",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1730,
+                    7267
+                ],
+                [
+                    1730,
+                    7350
+                ],
+                [
+                    2386,
+                    7350
+                ],
+                [
+                    2386,
+                    7267
+                ],
+                [
+                    1730,
+                    7267
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "UNIV . ( H ) . HELSINKI",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1807,
+                    7372
+                ],
+                [
+                    1807,
+                    7479
+                ],
+                [
+                    2226,
+                    7479
+                ],
+                [
+                    2226,
+                    7372
+                ],
+                [
+                    1807,
+                    7372
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "1 228046",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1714,
+                    7523
+                ],
+                [
+                    1714,
+                    7620
+                ],
+                [
+                    1952,
+                    7620
+                ],
+                [
+                    1952,
+                    7523
+                ],
+                [
+                    1714,
+                    7523
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "QUADR .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4279,
+                    5702
+                ],
+                [
+                    4279,
+                    5820
+                ],
+                [
+                    5619,
+                    5820
+                ],
+                [
+                    5619,
+                    5702
+                ],
+                [
+                    4279,
+                    5702
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Arachniodes quadripinnata ( Hayata )",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4282,
+                    5860
+                ],
+                [
+                    4282,
+                    5958
+                ],
+                [
+                    5619,
+                    5958
+                ],
+                [
+                    5619,
+                    5860
+                ],
+                [
+                    4282,
+                    5860
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "= Leptorumohra quadripinnara ( Hayata )",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    5305,
+                    5961
+                ],
+                [
+                    5305,
+                    6021
+                ],
+                [
+                    5599,
+                    6021
+                ],
+                [
+                    5599,
+                    5961
+                ],
+                [
+                    5305,
+                    5961
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Hito",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4683,
+                    6027
+                ],
+                [
+                    4683,
+                    6096
+                ],
+                [
+                    5536,
+                    6096
+                ],
+                [
+                    5536,
+                    6027
+                ],
+                [
+                    4683,
+                    6027
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "det . / rev . JAAKKO SARVELA 19 . 92 . .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4599,
+                    6096
+                ],
+                [
+                    4599,
+                    6154
+                ],
+                [
+                    5271,
+                    6154
+                ],
+                [
+                    5271,
+                    6096
+                ],
+                [
+                    4599,
+                    6096
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "University of Helsinki , Finland",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4017,
+                    6382
+                ],
+                [
+                    4017,
+                    6462
+                ],
+                [
+                    5072,
+                    6462
+                ],
+                [
+                    5072,
+                    6382
+                ],
+                [
+                    4017,
+                    6382
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "FLORA OF TAIWAN",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3654,
+                    6462
+                ],
+                [
+                    3654,
+                    6534
+                ],
+                [
+                    5366,
+                    6534
+                ],
+                [
+                    5366,
+                    6462
+                ],
+                [
+                    3654,
+                    6462
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERBARIUM , NATIONAL TAIWAN UNIVERSITY , TAIWAN . CHINA",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4034,
+                    6534
+                ],
+                [
+                    4034,
+                    6621
+                ],
+                [
+                    4657,
+                    6621
+                ],
+                [
+                    4657,
+                    6534
+                ],
+                [
+                    4034,
+                    6534
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Dryopteridaceae",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4723,
+                    6534
+                ],
+                [
+                    4723,
+                    6632
+                ],
+                [
+                    5276,
+                    6632
+                ],
+                [
+                    5276,
+                    6534
+                ],
+                [
+                    4723,
+                    6534
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Coll No . : 2127",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4170,
+                    6811
+                ],
+                [
+                    4170,
+                    6917
+                ],
+                [
+                    5487,
+                    6917
+                ],
+                [
+                    5487,
+                    6811
+                ],
+                [
+                    4170,
+                    6811
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Leptorumohra quadripinnata ( Hayata )",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    5170,
+                    6920
+                ],
+                [
+                    5170,
+                    6995
+                ],
+                [
+                    5484,
+                    6995
+                ],
+                [
+                    5484,
+                    6920
+                ],
+                [
+                    5170,
+                    6920
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "H . Ito",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4253,
+                    7099
+                ],
+                [
+                    4253,
+                    7232
+                ],
+                [
+                    5075,
+                    7232
+                ],
+                [
+                    5075,
+                    7099
+                ],
+                [
+                    4253,
+                    7099
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "TAITUNG 10 . : Tawushan",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4003,
+                    7122
+                ],
+                [
+                    4003,
+                    7214
+                ],
+                [
+                    4213,
+                    7214
+                ],
+                [
+                    4213,
+                    7122
+                ],
+                [
+                    4003,
+                    7122
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Loc :",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4012,
+                    7325
+                ],
+                [
+                    4012,
+                    7420
+                ],
+                [
+                    4214,
+                    7420
+                ],
+                [
+                    4214,
+                    7325
+                ],
+                [
+                    4012,
+                    7325
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Coll . :",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4280,
+                    7323
+                ],
+                [
+                    4280,
+                    7428
+                ],
+                [
+                    4692,
+                    7428
+                ],
+                [
+                    4692,
+                    7323
+                ],
+                [
+                    4280,
+                    7323
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "H . N . Yang",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4014,
+                    7436
+                ],
+                [
+                    4014,
+                    7530
+                ],
+                [
+                    4202,
+                    7530
+                ],
+                [
+                    4202,
+                    7436
+                ],
+                [
+                    4014,
+                    7436
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Date :",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4204,
+                    7460
+                ],
+                [
+                    4204,
+                    7573
+                ],
+                [
+                    4615,
+                    7573
+                ],
+                [
+                    4615,
+                    7460
+                ],
+                [
+                    4204,
+                    7460
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Feb . 15 , 1979",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4627,
+                    7466
+                ],
+                [
+                    4627,
+                    7553
+                ],
+                [
+                    4821,
+                    7553
+                ],
+                [
+                    4821,
+                    7466
+                ],
+                [
+                    4627,
+                    7466
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "DET . :",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4859,
+                    7474
+                ],
+                [
+                    4859,
+                    7573
+                ],
+                [
+                    5238,
+                    7573
+                ],
+                [
+                    5238,
+                    7474
+                ],
+                [
+                    4859,
+                    7474
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "C . M . Kuo",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4030,
+                    7575
+                ],
+                [
+                    4030,
+                    7692
+                ],
+                [
+                    5190,
+                    7692
+                ],
+                [
+                    5190,
+                    7575
+                ],
+                [
+                    4030,
+                    7575
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "\u570b\u7acb\u81fa\u7063\u5927\u5b78\u690d\u7269\u6a19\u672c\u9928",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4030,
+                    7575
+                ],
+                [
+                    4030,
+                    7692
+                ],
+                [
+                    5190,
+                    7692
+                ],
+                [
+                    5190,
+                    7575
+                ],
+                [
+                    4030,
+                    7575
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "\u570b\u7acb\u81fa\u7063\u5927\u5b78\u690d\u7269\u6a19\u672c\u9928",
+            "worker_version": null
+        }
+    ]
+}

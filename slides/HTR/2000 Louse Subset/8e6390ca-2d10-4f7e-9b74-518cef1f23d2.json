@@ -1,0 +1,397 @@
+{
+    "dataset_id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+    "folder": {
+        "id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+        "name": "2000 Louse Subset"
+    },
+    "image": {
+        "id": "7b6306bb-6e54-4385-bd23-2aec758fd9d8",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/10d748e6-4f2c-44d6-b93a-3374fdfe4d5c",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/10d748e6-4f2c-44d6-b93a-3374fdfe4d5c/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "8e6390ca-2d10-4f7e-9b74-518cef1f23d2",
+        "name": "80",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    3513,
+                    422
+                ],
+                [
+                    3513,
+                    796
+                ],
+                [
+                    3676,
+                    796
+                ],
+                [
+                    3676,
+                    422
+                ],
+                [
+                    3513,
+                    422
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    758,
+                    393
+                ],
+                [
+                    758,
+                    940
+                ],
+                [
+                    2284,
+                    940
+                ],
+                [
+                    2284,
+                    393
+                ],
+                [
+                    758,
+                    393
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Myrsidea",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6240,
+                    460
+                ],
+                [
+                    6240,
+                    873
+                ],
+                [
+                    7497,
+                    873
+                ],
+                [
+                    7497,
+                    460
+                ],
+                [
+                    6240,
+                    460
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Coereba",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    3148,
+                    739
+                ],
+                [
+                    3148,
+                    864
+                ],
+                [
+                    3561,
+                    864
+                ],
+                [
+                    3561,
+                    739
+                ],
+                [
+                    3148,
+                    739
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "010661613",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    825,
+                    892
+                ],
+                [
+                    825,
+                    1315
+                ],
+                [
+                    2841,
+                    1315
+                ],
+                [
+                    2841,
+                    892
+                ],
+                [
+                    825,
+                    892
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "coerebicola",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    8160,
+                    614
+                ],
+                [
+                    8160,
+                    1027
+                ],
+                [
+                    8380,
+                    1027
+                ],
+                [
+                    8380,
+                    614
+                ],
+                [
+                    8160,
+                    614
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "8",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    787,
+                    2361
+                ],
+                [
+                    787,
+                    2736
+                ],
+                [
+                    2832,
+                    2736
+                ],
+                [
+                    2832,
+                    2361
+                ],
+                [
+                    787,
+                    2361
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Paratypus \u2642\u2640",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6681,
+                    816
+                ],
+                [
+                    6681,
+                    1180
+                ],
+                [
+                    8102,
+                    1180
+                ],
+                [
+                    8102,
+                    816
+                ],
+                [
+                    6681,
+                    816
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "flaveola",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6230,
+                    1113
+                ],
+                [
+                    6230,
+                    1536
+                ],
+                [
+                    7891,
+                    1536
+                ],
+                [
+                    7891,
+                    1113
+                ],
+                [
+                    6230,
+                    1113
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Naparima",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6268,
+                    1459
+                ],
+                [
+                    6268,
+                    1852
+                ],
+                [
+                    8265,
+                    1852
+                ],
+                [
+                    8265,
+                    1459
+                ],
+                [
+                    6268,
+                    1459
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Mayaro Road,",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6249,
+                    1718
+                ],
+                [
+                    6249,
+                    2073
+                ],
+                [
+                    8284,
+                    2073
+                ],
+                [
+                    8284,
+                    1718
+                ],
+                [
+                    6249,
+                    1718
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Trinidad, W.I.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6268,
+                    2016
+                ],
+                [
+                    6268,
+                    2352
+                ],
+                [
+                    8179,
+                    2352
+                ],
+                [
+                    8179,
+                    2016
+                ],
+                [
+                    6268,
+                    2016
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "23. vii. 1968.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6259,
+                    2294
+                ],
+                [
+                    6259,
+                    2620
+                ],
+                [
+                    8140,
+                    2620
+                ],
+                [
+                    8140,
+                    2294
+                ],
+                [
+                    6259,
+                    2294
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "E.S.Tikasingh.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6240,
+                    2563
+                ],
+                [
+                    6240,
+                    2803
+                ],
+                [
+                    8188,
+                    2803
+                ],
+                [
+                    8188,
+                    2563
+                ],
+                [
+                    6240,
+                    2563
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Brit Mus 1974-636.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        }
+    ]
+}

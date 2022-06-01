@@ -1,0 +1,31 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "a134d4a4-5a40-4562-8a61-333a1851f656",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/2817c1df-6361-4b01-8afc-8e84bbd7975b",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/2817c1df-6361-4b01-8afc-8e84bbd7975b/full/full/0/default.jpg"
+    },
+    "named_entities": [
+        {
+            "tags": "NHMUK010610142 B-identifier",
+            "worker_version_id": null
+        },
+        {
+            "tags": "Dungeness B-location_name\nKent I-location_name\n7 B-date\n: I-date\n8 I-date\n: I-date\n1965 I-date\nD B-person_name\n. I-person_name\nG I-person_name\n. I-person_name\nMarsh I-person_name",
+            "worker_version_id": null
+        },
+        {
+            "tags": "Christie B-Collection/Donation\nColl I-Collection/Donation\n. I-Collection/Donation\nBMNH B-identifier\n( I-identifier\nE I-identifier\n) I-identifier\n2010 I-identifier\n- I-identifier\n62 I-identifier",
+            "worker_version_id": null
+        }
+    ],
+    "page": {
+        "id": "cfee01d4-5d13-42cb-b6fd-d9049c24d627",
+        "name": "010610142_151458_1083262.2500x5792.jpeg",
+        "rotation_angle": 0
+    }
+}

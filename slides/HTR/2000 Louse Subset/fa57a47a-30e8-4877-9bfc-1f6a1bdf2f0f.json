@@ -1,0 +1,343 @@
+{
+    "dataset_id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+    "folder": {
+        "id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+        "name": "2000 Louse Subset"
+    },
+    "image": {
+        "id": "a11a89df-1fe0-47ff-b357-863bdab09d69",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/819e835f-990e-409b-bcef-dfbd92fe83a1",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/819e835f-990e-409b-bcef-dfbd92fe83a1/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "fa57a47a-30e8-4877-9bfc-1f6a1bdf2f0f",
+        "name": "78",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    6931,
+                    297
+                ],
+                [
+                    6931,
+                    2832
+                ],
+                [
+                    7411,
+                    2832
+                ],
+                [
+                    7411,
+                    297
+                ],
+                [
+                    6931,
+                    297
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Garrulus glandarius",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    2630,
+                    451
+                ],
+                [
+                    2630,
+                    1545
+                ],
+                [
+                    3110,
+                    1545
+                ],
+                [
+                    3110,
+                    451
+                ],
+                [
+                    2630,
+                    451
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "2 \u2640 1 \u2642",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    3417,
+                    470
+                ],
+                [
+                    3417,
+                    576
+                ],
+                [
+                    3782,
+                    576
+                ],
+                [
+                    3782,
+                    470
+                ],
+                [
+                    3417,
+                    470
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    7699,
+                    297
+                ],
+                [
+                    7699,
+                    2832
+                ],
+                [
+                    8035,
+                    2832
+                ],
+                [
+                    8035,
+                    297
+                ],
+                [
+                    7699,
+                    297
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Marocco, Nov. 1938.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    1881,
+                    556
+                ],
+                [
+                    1881,
+                    1420
+                ],
+                [
+                    2352,
+                    1420
+                ],
+                [
+                    2352,
+                    556
+                ],
+                [
+                    1881,
+                    556
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "1866)",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    3772,
+                    528
+                ],
+                [
+                    3772,
+                    960
+                ],
+                [
+                    3878,
+                    960
+                ],
+                [
+                    3878,
+                    528
+                ],
+                [
+                    3772,
+                    528
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "010660608",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6403,
+                    556
+                ],
+                [
+                    6403,
+                    2572
+                ],
+                [
+                    6729,
+                    2572
+                ],
+                [
+                    6729,
+                    556
+                ],
+                [
+                    6403,
+                    556
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "MEINERTZHAGEN",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    1516,
+                    748
+                ],
+                [
+                    1516,
+                    2390
+                ],
+                [
+                    1948,
+                    2390
+                ],
+                [
+                    1948,
+                    748
+                ],
+                [
+                    1516,
+                    748
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "(Nitzsch,",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    8304,
+                    979
+                ],
+                [
+                    8304,
+                    1929
+                ],
+                [
+                    8611,
+                    1929
+                ],
+                [
+                    8611,
+                    979
+                ],
+                [
+                    8304,
+                    979
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "12471.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    787,
+                    1017
+                ],
+                [
+                    787,
+                    2793
+                ],
+                [
+                    1219,
+                    2793
+                ],
+                [
+                    1219,
+                    1017
+                ],
+                [
+                    787,
+                    1017
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Myrsidea",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    7305,
+                    988
+                ],
+                [
+                    7305,
+                    2313
+                ],
+                [
+                    7641,
+                    2313
+                ],
+                [
+                    7641,
+                    988
+                ],
+                [
+                    7305,
+                    988
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "theresae.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    1161,
+                    1238
+                ],
+                [
+                    1161,
+                    2649
+                ],
+                [
+                    1545,
+                    2649
+                ],
+                [
+                    1545,
+                    1238
+                ],
+                [
+                    1161,
+                    1238
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "indivisa",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        }
+    ]
+}

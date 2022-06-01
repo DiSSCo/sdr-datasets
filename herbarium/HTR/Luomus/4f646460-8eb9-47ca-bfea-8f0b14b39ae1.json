@@ -1,0 +1,316 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "e28d3ac9-9c27-461f-a8d0-9f42d20da281",
+        "name": "Luomus"
+    },
+    "image": {
+        "id": "2e9f9274-6338-4e4a-a96e-b00a98a0fdad",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FEIG.6714.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FEIG.6714.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "4f646460-8eb9-47ca-bfea-8f0b14b39ae1",
+        "name": "EIG.6714",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    1825,
+                    7252
+                ],
+                [
+                    1825,
+                    7513
+                ],
+                [
+                    1904,
+                    7513
+                ],
+                [
+                    1904,
+                    7252
+                ],
+                [
+                    1825,
+                    7252
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Digitarium",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2193,
+                    7297
+                ],
+                [
+                    2193,
+                    7363
+                ],
+                [
+                    2763,
+                    7363
+                ],
+                [
+                    2763,
+                    7297
+                ],
+                [
+                    2193,
+                    7297
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "http://id.luomus.fi/",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2323,
+                    7371
+                ],
+                [
+                    2323,
+                    7436
+                ],
+                [
+                    2624,
+                    7436
+                ],
+                [
+                    2624,
+                    7371
+                ],
+                [
+                    2323,
+                    7371
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "EIG.6714",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2297,
+                    7448
+                ],
+                [
+                    2297,
+                    7521
+                ],
+                [
+                    2632,
+                    7521
+                ],
+                [
+                    2632,
+                    7448
+                ],
+                [
+                    2297,
+                    7448
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "2013-04-08",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2965,
+                    7096
+                ],
+                [
+                    2965,
+                    7197
+                ],
+                [
+                    3658,
+                    7197
+                ],
+                [
+                    3658,
+                    7096
+                ],
+                [
+                    2965,
+                    7096
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "MUSEUM BOTANICUM",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2969,
+                    7201
+                ],
+                [
+                    2969,
+                    7271
+                ],
+                [
+                    3654,
+                    7271
+                ],
+                [
+                    3654,
+                    7201
+                ],
+                [
+                    2969,
+                    7201
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "UNIV. (H). HELSINKI",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3047,
+                    7286
+                ],
+                [
+                    3047,
+                    7383
+                ],
+                [
+                    3454,
+                    7383
+                ],
+                [
+                    3454,
+                    7286
+                ],
+                [
+                    3047,
+                    7286
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "1123172",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2956,
+                    7443
+                ],
+                [
+                    2956,
+                    7544
+                ],
+                [
+                    3175,
+                    7544
+                ],
+                [
+                    3175,
+                    7443
+                ],
+                [
+                    2956,
+                    7443
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "QUADR.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4186,
+                    7098
+                ],
+                [
+                    4186,
+                    7248
+                ],
+                [
+                    5316,
+                    7248
+                ],
+                [
+                    5316,
+                    7098
+                ],
+                [
+                    4186,
+                    7098
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Onoclea sensibilis. L.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4174,
+                    7254
+                ],
+                [
+                    4174,
+                    7452
+                ],
+                [
+                    5433,
+                    7452
+                ],
+                [
+                    5433,
+                    7254
+                ],
+                [
+                    4174,
+                    7254
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "New England, U.S.A.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4430,
+                    7474
+                ],
+                [
+                    4430,
+                    7662
+                ],
+                [
+                    5142,
+                    7662
+                ],
+                [
+                    5142,
+                    7474
+                ],
+                [
+                    4430,
+                    7474
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "J. Blake",
+            "worker_version": null
+        }
+    ]
+}

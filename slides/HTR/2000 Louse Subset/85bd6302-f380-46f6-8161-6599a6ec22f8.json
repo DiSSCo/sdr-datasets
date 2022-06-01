@@ -1,0 +1,289 @@
+{
+    "dataset_id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+    "folder": {
+        "id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+        "name": "2000 Louse Subset"
+    },
+    "image": {
+        "id": "f355cdec-c1d6-4e57-872f-9eefec658fed",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/c23012cc-46ed-4062-a010-289d3df3c23f",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/c23012cc-46ed-4062-a010-289d3df3c23f/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "85bd6302-f380-46f6-8161-6599a6ec22f8",
+        "name": "52",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    6307,
+                    250
+                ],
+                [
+                    6307,
+                    715
+                ],
+                [
+                    8522,
+                    715
+                ],
+                [
+                    8522,
+                    250
+                ],
+                [
+                    6307,
+                    250
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Aegypius monachus",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    562,
+                    324
+                ],
+                [
+                    562,
+                    603
+                ],
+                [
+                    2373,
+                    603
+                ],
+                [
+                    2373,
+                    324
+                ],
+                [
+                    562,
+                    324
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Colpocephalum",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    3554,
+                    446
+                ],
+                [
+                    3554,
+                    844
+                ],
+                [
+                    3658,
+                    844
+                ],
+                [
+                    3658,
+                    446
+                ],
+                [
+                    3554,
+                    446
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6259,
+                    1070
+                ],
+                [
+                    6259,
+                    1364
+                ],
+                [
+                    7427,
+                    1364
+                ],
+                [
+                    7427,
+                    1070
+                ],
+                [
+                    6259,
+                    1070
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "2757 Zoo",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    593,
+                    575
+                ],
+                [
+                    593,
+                    941
+                ],
+                [
+                    2753,
+                    941
+                ],
+                [
+                    2753,
+                    575
+                ],
+                [
+                    593,
+                    575
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "aegypii Tendeiro",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    3144,
+                    777
+                ],
+                [
+                    3144,
+                    966
+                ],
+                [
+                    3597,
+                    966
+                ],
+                [
+                    3597,
+                    777
+                ],
+                [
+                    3144,
+                    777
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "010654744",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6265,
+                    1394
+                ],
+                [
+                    6265,
+                    1749
+                ],
+                [
+                    7274,
+                    1749
+                ],
+                [
+                    7274,
+                    1394
+                ],
+                [
+                    6265,
+                    1394
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Eichler",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    562,
+                    1707
+                ],
+                [
+                    562,
+                    2098
+                ],
+                [
+                    2031,
+                    2098
+                ],
+                [
+                    2031,
+                    1707
+                ],
+                [
+                    562,
+                    1707
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Paratypes",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6240,
+                    2239
+                ],
+                [
+                    6252,
+                    2642
+                ],
+                [
+                    7598,
+                    2642
+                ],
+                [
+                    7586,
+                    2239
+                ],
+                [
+                    6240,
+                    2239
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "B.M.1979-4",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    2202,
+                    2184
+                ],
+                [
+                    2202,
+                    2526
+                ],
+                [
+                    2747,
+                    2526
+                ],
+                [
+                    2747,
+                    2184
+                ],
+                [
+                    2202,
+                    2184
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "\u2640\u2640",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        }
+    ]
+}

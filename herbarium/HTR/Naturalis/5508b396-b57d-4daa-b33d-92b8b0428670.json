@@ -1,0 +1,397 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "635f3d84-ced6-4b17-b64a-86be7aa87304",
+        "name": "Naturalis"
+    },
+    "image": {
+        "id": "d8dbeb09-9a7f-486c-9162-f05bc000d402",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FL.1669722.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FL.1669722.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "5508b396-b57d-4daa-b33d-92b8b0428670",
+        "name": "L.1669722",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    2374,
+                    130
+                ],
+                [
+                    2374,
+                    207
+                ],
+                [
+                    2801,
+                    207
+                ],
+                [
+                    2801,
+                    130
+                ],
+                [
+                    2374,
+                    130
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB. LUGD. BAT.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2863,
+                    128
+                ],
+                [
+                    2863,
+                    237
+                ],
+                [
+                    3377,
+                    237
+                ],
+                [
+                    3377,
+                    128
+                ],
+                [
+                    2863,
+                    128
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "\u2116908,174-....322",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2889,
+                    3681
+                ],
+                [
+                    2889,
+                    3761
+                ],
+                [
+                    3083,
+                    3761
+                ],
+                [
+                    3083,
+                    3681
+                ],
+                [
+                    2889,
+                    3681
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "L.1669722",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2842,
+                    4444
+                ],
+                [
+                    2842,
+                    4582
+                ],
+                [
+                    3371,
+                    4582
+                ],
+                [
+                    3371,
+                    4444
+                ],
+                [
+                    2842,
+                    4444
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "703 Sumatra",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2687,
+                    4614
+                ],
+                [
+                    2687,
+                    4887
+                ],
+                [
+                    3352,
+                    4887
+                ],
+                [
+                    3352,
+                    4614
+                ],
+                [
+                    2687,
+                    4614
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Tjantigea nervosa",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2623,
+                    5131
+                ],
+                [
+                    2623,
+                    5229
+                ],
+                [
+                    3178,
+                    5229
+                ],
+                [
+                    3178,
+                    5131
+                ],
+                [
+                    2623,
+                    5131
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herb. Lugd. Batav.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2221,
+                    5245
+                ],
+                [
+                    2221,
+                    5381
+                ],
+                [
+                    3055,
+                    5381
+                ],
+                [
+                    3055,
+                    5245
+                ],
+                [
+                    2221,
+                    5245
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Polygonum minus Huds.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2518,
+                    5389
+                ],
+                [
+                    2518,
+                    5469
+                ],
+                [
+                    3207,
+                    5469
+                ],
+                [
+                    3207,
+                    5389
+                ],
+                [
+                    2518,
+                    5389
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "v subcontinuum Meisn.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3256,
+                    5632
+                ],
+                [
+                    3256,
+                    5774
+                ],
+                [
+                    3438,
+                    5774
+                ],
+                [
+                    3438,
+                    5632
+                ],
+                [
+                    3256,
+                    5632
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "311",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2331,
+                    5686
+                ],
+                [
+                    2331,
+                    5752
+                ],
+                [
+                    2566,
+                    5752
+                ],
+                [
+                    2566,
+                    5686
+                ],
+                [
+                    2331,
+                    5686
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Sumatra",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2266,
+                    5047
+                ],
+                [
+                    2266,
+                    5157
+                ],
+                [
+                    2430,
+                    5157
+                ],
+                [
+                    2430,
+                    5047
+                ],
+                [
+                    2266,
+                    5047
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "159",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1714,
+                    5518
+                ],
+                [
+                    1714,
+                    5590
+                ],
+                [
+                    2169,
+                    5590
+                ],
+                [
+                    2169,
+                    5518
+                ],
+                [
+                    1714,
+                    5518
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "COMMODATA SUB",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1808,
+                    5602
+                ],
+                [
+                    1808,
+                    5674
+                ],
+                [
+                    2151,
+                    5674
+                ],
+                [
+                    2151,
+                    5602
+                ],
+                [
+                    1808,
+                    5602
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "\u2116 1,912-1",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1696,
+                    5688
+                ],
+                [
+                    1696,
+                    5786
+                ],
+                [
+                    2034,
+                    5786
+                ],
+                [
+                    2034,
+                    5688
+                ],
+                [
+                    1696,
+                    5688
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "200770",
+            "worker_version": null
+        }
+    ]
+}

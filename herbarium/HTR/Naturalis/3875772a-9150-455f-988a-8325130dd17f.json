@@ -1,0 +1,856 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "635f3d84-ced6-4b17-b64a-86be7aa87304",
+        "name": "Naturalis"
+    },
+    "image": {
+        "id": "687489c8-42cb-42b5-ba7b-b85dace8ae90",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FL.1794692.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FL.1794692.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "3875772a-9150-455f-988a-8325130dd17f",
+        "name": "L.1794692",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    2222,
+                    91
+                ],
+                [
+                    2222,
+                    160
+                ],
+                [
+                    2683,
+                    160
+                ],
+                [
+                    2683,
+                    91
+                ],
+                [
+                    2222,
+                    91
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB. LUGD. BAT.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2763,
+                    82
+                ],
+                [
+                    2763,
+                    163
+                ],
+                [
+                    3297,
+                    163
+                ],
+                [
+                    3297,
+                    82
+                ],
+                [
+                    2763,
+                    82
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "\u2116962.331 184",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2202,
+                    377
+                ],
+                [
+                    2202,
+                    503
+                ],
+                [
+                    2641,
+                    503
+                ],
+                [
+                    2641,
+                    377
+                ],
+                [
+                    2202,
+                    377
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Gesublimatiseerd",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2793,
+                    3338
+                ],
+                [
+                    2793,
+                    3416
+                ],
+                [
+                    2995,
+                    3416
+                ],
+                [
+                    2995,
+                    3338
+                ],
+                [
+                    2793,
+                    3338
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "l.1794692",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2485,
+                    3678
+                ],
+                [
+                    2485,
+                    3728
+                ],
+                [
+                    3190,
+                    3728
+                ],
+                [
+                    3190,
+                    3678
+                ],
+                [
+                    2485,
+                    3678
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERBARIUM BOGORIENSE",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2683,
+                    3736
+                ],
+                [
+                    2683,
+                    3785
+                ],
+                [
+                    3029,
+                    3785
+                ],
+                [
+                    3029,
+                    3736
+                ],
+                [
+                    2683,
+                    3736
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Bogor, Indonesia",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2246,
+                    3819
+                ],
+                [
+                    2246,
+                    3879
+                ],
+                [
+                    2737,
+                    3879
+                ],
+                [
+                    2737,
+                    3819
+                ],
+                [
+                    2246,
+                    3819
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Coll. Kostermans",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2252,
+                    3893
+                ],
+                [
+                    2252,
+                    3988
+                ],
+                [
+                    2584,
+                    3988
+                ],
+                [
+                    2584,
+                    3893
+                ],
+                [
+                    2252,
+                    3893
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "No. 18088",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3031,
+                    3857
+                ],
+                [
+                    3031,
+                    3964
+                ],
+                [
+                    3530,
+                    3964
+                ],
+                [
+                    3530,
+                    3857
+                ],
+                [
+                    3031,
+                    3857
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "dd. 12 April 1961",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2258,
+                    3996
+                ],
+                [
+                    2258,
+                    4073
+                ],
+                [
+                    2717,
+                    4073
+                ],
+                [
+                    2717,
+                    3996
+                ],
+                [
+                    2258,
+                    3996
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Fam. Lauraceae",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2260,
+                    4105
+                ],
+                [
+                    2260,
+                    4175
+                ],
+                [
+                    2610,
+                    4175
+                ],
+                [
+                    2610,
+                    4105
+                ],
+                [
+                    2260,
+                    4105
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Gen. Litsea",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2262,
+                    4179
+                ],
+                [
+                    2262,
+                    4280
+                ],
+                [
+                    2971,
+                    4280
+                ],
+                [
+                    2971,
+                    4179
+                ],
+                [
+                    2262,
+                    4179
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Spec. diversifolia Bl.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2260,
+                    4320
+                ],
+                [
+                    2260,
+                    4379
+                ],
+                [
+                    2355,
+                    4379
+                ],
+                [
+                    2355,
+                    4320
+                ],
+                [
+                    2260,
+                    4320
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Det.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2254,
+                    4413
+                ],
+                [
+                    2254,
+                    4481
+                ],
+                [
+                    2846,
+                    4481
+                ],
+                [
+                    2846,
+                    4413
+                ],
+                [
+                    2254,
+                    4413
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Vern. udu kedang",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2250,
+                    4507
+                ],
+                [
+                    2250,
+                    4582
+                ],
+                [
+                    2717,
+                    4582
+                ],
+                [
+                    2717,
+                    4507
+                ],
+                [
+                    2250,
+                    4507
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Island W. Sumbawa",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2240,
+                    4624
+                ],
+                [
+                    2240,
+                    4679
+                ],
+                [
+                    2359,
+                    4679
+                ],
+                [
+                    2359,
+                    4624
+                ],
+                [
+                    2240,
+                    4624
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Loc.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2248,
+                    4751
+                ],
+                [
+                    2248,
+                    4814
+                ],
+                [
+                    2433,
+                    4814
+                ],
+                [
+                    2433,
+                    4751
+                ],
+                [
+                    2248,
+                    4751
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Habitat",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2254,
+                    4926
+                ],
+                [
+                    2254,
+                    4991
+                ],
+                [
+                    2381,
+                    4991
+                ],
+                [
+                    2381,
+                    4926
+                ],
+                [
+                    2254,
+                    4926
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Notes",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3106,
+                    4789
+                ],
+                [
+                    3106,
+                    4888
+                ],
+                [
+                    3464,
+                    4888
+                ],
+                [
+                    3464,
+                    4789
+                ],
+                [
+                    3106,
+                    4789
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "600 m. alt.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2419,
+                    4628
+                ],
+                [
+                    2419,
+                    4677
+                ],
+                [
+                    3293,
+                    4677
+                ],
+                [
+                    3293,
+                    4628
+                ],
+                [
+                    2419,
+                    4628
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Batudulang, Batu lanteh Mt.;",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2421,
+                    4687
+                ],
+                [
+                    2421,
+                    4733
+                ],
+                [
+                    3051,
+                    4733
+                ],
+                [
+                    3051,
+                    4687
+                ],
+                [
+                    2421,
+                    4687
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "secondary vegetation",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2403,
+                    4958
+                ],
+                [
+                    2403,
+                    5029
+                ],
+                [
+                    3470,
+                    5029
+                ],
+                [
+                    3470,
+                    4958
+                ],
+                [
+                    2403,
+                    4958
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Tree 7 m, diam. 5 cm; bark smooth",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2411,
+                    5033
+                ],
+                [
+                    2411,
+                    5087
+                ],
+                [
+                    3249,
+                    5087
+                ],
+                [
+                    3249,
+                    5033
+                ],
+                [
+                    2411,
+                    5033
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "grey; fls. yellow. Common.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1802,
+                    5747
+                ],
+                [
+                    1802,
+                    5892
+                ],
+                [
+                    2141,
+                    5892
+                ],
+                [
+                    2141,
+                    5747
+                ],
+                [
+                    1802,
+                    5747
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "201020",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1335,
+                    4620
+                ],
+                [
+                    1482,
+                    4715
+                ],
+                [
+                    1611,
+                    4383
+                ],
+                [
+                    1476,
+                    4282
+                ],
+                [
+                    1335,
+                    4620
+                ]
+            ],
+            "rotation_angle": 180,
+            "transcription": "18088",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2270,
+                    5740
+                ],
+                [
+                    2270,
+                    5796
+                ],
+                [
+                    3466,
+                    5796
+                ],
+                [
+                    3466,
+                    5740
+                ],
+                [
+                    2270,
+                    5740
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Please notify Bogor Herbarium of new identification of this specimen",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2298,
+                    5547
+                ],
+                [
+                    2302,
+                    5589
+                ],
+                [
+                    3460,
+                    5576
+                ],
+                [
+                    3452,
+                    5529
+                ],
+                [
+                    2298,
+                    5547
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Dupl. sent to Herb. at: Leiden, Kew, Arn. Arb., Singapore, Manila,",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2266,
+                    5595
+                ],
+                [
+                    2268,
+                    5621
+                ],
+                [
+                    3458,
+                    5610
+                ],
+                [
+                    3460,
+                    5582
+                ],
+                [
+                    2266,
+                    5595
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Paris, Lae, Gen\u00e8ve, Sarawak, Ithaca, Sydney, New York, Br. Mus,",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2271,
+                    5627
+                ],
+                [
+                    2271,
+                    5663
+                ],
+                [
+                    3458,
+                    5651
+                ],
+                [
+                    3453,
+                    5618
+                ],
+                [
+                    2271,
+                    5627
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Hawaii, Calcutta, Kepong, Brisbane, Canberra, Sandakan, China,",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2266,
+                    5706
+                ],
+                [
+                    2845,
+                    5697
+                ],
+                [
+                    2856,
+                    5664
+                ],
+                [
+                    2273,
+                    5666
+                ],
+                [
+                    2266,
+                    5706
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Smithson, For. Res. Inst. Bogor.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2577,
+                    5342
+                ],
+                [
+                    2577,
+                    5439
+                ],
+                [
+                    3159,
+                    5439
+                ],
+                [
+                    3159,
+                    5342
+                ],
+                [
+                    2577,
+                    5342
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Leningrad, Gen\u00e8ve",
+            "worker_version": null
+        }
+    ]
+}

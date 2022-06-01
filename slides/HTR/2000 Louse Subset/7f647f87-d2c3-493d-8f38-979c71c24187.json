@@ -1,0 +1,235 @@
+{
+    "dataset_id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+    "folder": {
+        "id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+        "name": "2000 Louse Subset"
+    },
+    "image": {
+        "id": "1718e519-0e48-4223-9ec2-3ef7ba48ecce",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/27579e69-45a3-40d5-9526-92866467899e",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/27579e69-45a3-40d5-9526-92866467899e/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "7f647f87-d2c3-493d-8f38-979c71c24187",
+        "name": "19",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    6625,
+                    367
+                ],
+                [
+                    6625,
+                    2808
+                ],
+                [
+                    7051,
+                    2808
+                ],
+                [
+                    7051,
+                    367
+                ],
+                [
+                    6625,
+                    367
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Graculus eremita",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    5162,
+                    2251
+                ],
+                [
+                    5162,
+                    2367
+                ],
+                [
+                    5546,
+                    2367
+                ],
+                [
+                    5546,
+                    2251
+                ],
+                [
+                    5162,
+                    2251
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    7091,
+                    387
+                ],
+                [
+                    7091,
+                    2737
+                ],
+                [
+                    7481,
+                    2737
+                ],
+                [
+                    7481,
+                    387
+                ],
+                [
+                    7091,
+                    387
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "India D.D.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    5516,
+                    2327
+                ],
+                [
+                    5516,
+                    2778
+                ],
+                [
+                    5627,
+                    2778
+                ],
+                [
+                    5627,
+                    2327
+                ],
+                [
+                    5516,
+                    2327
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "010648234",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    7902,
+                    691
+                ],
+                [
+                    7902,
+                    2119
+                ],
+                [
+                    8190,
+                    2119
+                ],
+                [
+                    8190,
+                    691
+                ],
+                [
+                    7902,
+                    691
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "L. HARRISON.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    8226,
+                    762
+                ],
+                [
+                    8226,
+                    2099
+                ],
+                [
+                    8428,
+                    2099
+                ],
+                [
+                    8428,
+                    762
+                ],
+                [
+                    8226,
+                    762
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "MALLOPHAGA.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    5663,
+                    1147
+                ],
+                [
+                    5663,
+                    2727
+                ],
+                [
+                    6164,
+                    2727
+                ],
+                [
+                    6164,
+                    1147
+                ],
+                [
+                    5663,
+                    1147
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Philopterus",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6276,
+                    1309
+                ],
+                [
+                    6276,
+                    2226
+                ],
+                [
+                    6681,
+                    2226
+                ],
+                [
+                    6681,
+                    1309
+                ],
+                [
+                    6276,
+                    1309
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "\u2642\u2640",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        }
+    ]
+}

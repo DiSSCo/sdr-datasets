@@ -1,0 +1,910 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "e28d3ac9-9c27-461f-a8d0-9f42d20da281",
+        "name": "Luomus"
+    },
+    "image": {
+        "id": "0cb8a3fd-d50d-4864-b775-a5cc1c229b79",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FEIG.1651.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FEIG.1651.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "de384b96-8529-47df-b5cf-e3fcc3e3dc9e",
+        "name": "EIG.1651",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    2702,
+                    6756
+                ],
+                [
+                    2702,
+                    7042
+                ],
+                [
+                    2780,
+                    7042
+                ],
+                [
+                    2780,
+                    6756
+                ],
+                [
+                    2702,
+                    6756
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Digitarium",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    2702,
+                    6756
+                ],
+                [
+                    2702,
+                    7042
+                ],
+                [
+                    2780,
+                    7042
+                ],
+                [
+                    2780,
+                    6756
+                ],
+                [
+                    2702,
+                    6756
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Digitanum",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3077,
+                    6800
+                ],
+                [
+                    3077,
+                    6875
+                ],
+                [
+                    3638,
+                    6875
+                ],
+                [
+                    3638,
+                    6800
+                ],
+                [
+                    3077,
+                    6800
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "http : / / id . luomus . fi /",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3202,
+                    6877
+                ],
+                [
+                    3202,
+                    6950
+                ],
+                [
+                    3499,
+                    6950
+                ],
+                [
+                    3499,
+                    6877
+                ],
+                [
+                    3202,
+                    6877
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "EIG.1651",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3202,
+                    6877
+                ],
+                [
+                    3202,
+                    6950
+                ],
+                [
+                    3499,
+                    6950
+                ],
+                [
+                    3499,
+                    6877
+                ],
+                [
+                    3202,
+                    6877
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "EIG . 1651",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3142,
+                    6958
+                ],
+                [
+                    3142,
+                    7044
+                ],
+                [
+                    3523,
+                    7044
+                ],
+                [
+                    3523,
+                    6958
+                ],
+                [
+                    3142,
+                    6958
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "2013-03-27",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3142,
+                    6958
+                ],
+                [
+                    3142,
+                    7044
+                ],
+                [
+                    3523,
+                    7044
+                ],
+                [
+                    3523,
+                    6958
+                ],
+                [
+                    3142,
+                    6958
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "2013 - 03 - 27",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2665,
+                    7073
+                ],
+                [
+                    2665,
+                    7159
+                ],
+                [
+                    3358,
+                    7159
+                ],
+                [
+                    3358,
+                    7073
+                ],
+                [
+                    2665,
+                    7073
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "MUSEUM BOTANICUM",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    2665,
+                    7073
+                ],
+                [
+                    2665,
+                    7159
+                ],
+                [
+                    3358,
+                    7159
+                ],
+                [
+                    3358,
+                    7073
+                ],
+                [
+                    2665,
+                    7073
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "MUSEUM BOTANIS31",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2665,
+                    7163
+                ],
+                [
+                    2665,
+                    7238
+                ],
+                [
+                    3370,
+                    7238
+                ],
+                [
+                    3370,
+                    7163
+                ],
+                [
+                    2665,
+                    7163
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "UNIV. (H). HELSINKI",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    2665,
+                    7163
+                ],
+                [
+                    2665,
+                    7238
+                ],
+                [
+                    3370,
+                    7238
+                ],
+                [
+                    3370,
+                    7163
+                ],
+                [
+                    2665,
+                    7163
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "UNIV . ( H ) . HELSINKI",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2762,
+                    7242
+                ],
+                [
+                    2762,
+                    7349
+                ],
+                [
+                    3192,
+                    7349
+                ],
+                [
+                    3192,
+                    7242
+                ],
+                [
+                    2762,
+                    7242
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "1018996",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    2762,
+                    7242
+                ],
+                [
+                    2762,
+                    7349
+                ],
+                [
+                    3192,
+                    7349
+                ],
+                [
+                    3192,
+                    7242
+                ],
+                [
+                    2762,
+                    7242
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "1018996",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2663,
+                    7379
+                ],
+                [
+                    2663,
+                    7519
+                ],
+                [
+                    2863,
+                    7519
+                ],
+                [
+                    2863,
+                    7379
+                ],
+                [
+                    2663,
+                    7379
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "QUADR.",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    2663,
+                    7379
+                ],
+                [
+                    2663,
+                    7519
+                ],
+                [
+                    2863,
+                    7519
+                ],
+                [
+                    2863,
+                    7379
+                ],
+                [
+                    2663,
+                    7379
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "QUADR .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4667,
+                    7624
+                ],
+                [
+                    4667,
+                    7747
+                ],
+                [
+                    5200,
+                    7747
+                ],
+                [
+                    5200,
+                    7624
+                ],
+                [
+                    4667,
+                    7624
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Date 7/6/70",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    4667,
+                    7624
+                ],
+                [
+                    4667,
+                    7747
+                ],
+                [
+                    5200,
+                    7747
+                ],
+                [
+                    5200,
+                    7624
+                ],
+                [
+                    4667,
+                    7624
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Date 7 / 6 / 70",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3803,
+                    7396
+                ],
+                [
+                    3803,
+                    7475
+                ],
+                [
+                    4447,
+                    7475
+                ],
+                [
+                    4447,
+                    7396
+                ],
+                [
+                    3803,
+                    7396
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Windler & Keenan",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3803,
+                    7396
+                ],
+                [
+                    3803,
+                    7475
+                ],
+                [
+                    4447,
+                    7475
+                ],
+                [
+                    4447,
+                    7396
+                ],
+                [
+                    3803,
+                    7396
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Windler & Keenan",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3910,
+                    7481
+                ],
+                [
+                    3910,
+                    7546
+                ],
+                [
+                    4100,
+                    7546
+                ],
+                [
+                    4100,
+                    7481
+                ],
+                [
+                    3910,
+                    7481
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "3113",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3910,
+                    7481
+                ],
+                [
+                    3910,
+                    7546
+                ],
+                [
+                    4100,
+                    7546
+                ],
+                [
+                    4100,
+                    7481
+                ],
+                [
+                    3910,
+                    7481
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "3113",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3808,
+                    6967
+                ],
+                [
+                    3808,
+                    7072
+                ],
+                [
+                    5420,
+                    7072
+                ],
+                [
+                    5420,
+                    6967
+                ],
+                [
+                    3808,
+                    6967
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Polystichum acrostichoides (Michaux) Schott",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3808,
+                    6967
+                ],
+                [
+                    3808,
+                    7072
+                ],
+                [
+                    5420,
+                    7072
+                ],
+                [
+                    5420,
+                    6967
+                ],
+                [
+                    3808,
+                    6967
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Polystichum acrostichoides ( Michaux ) Schott",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3990,
+                    7119
+                ],
+                [
+                    3990,
+                    7196
+                ],
+                [
+                    5237,
+                    7196
+                ],
+                [
+                    5237,
+                    7119
+                ],
+                [
+                    3990,
+                    7119
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Moist shaded hillside, Deer Creek",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3990,
+                    7119
+                ],
+                [
+                    3990,
+                    7196
+                ],
+                [
+                    5237,
+                    7196
+                ],
+                [
+                    5237,
+                    7119
+                ],
+                [
+                    3990,
+                    7119
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Moist shaded hillside , Deer Creek",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3990,
+                    7198
+                ],
+                [
+                    3990,
+                    7268
+                ],
+                [
+                    5051,
+                    7268
+                ],
+                [
+                    5051,
+                    7198
+                ],
+                [
+                    3990,
+                    7198
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "State Park, Rocks, Maryland.",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3990,
+                    7198
+                ],
+                [
+                    3990,
+                    7268
+                ],
+                [
+                    5051,
+                    7268
+                ],
+                [
+                    5051,
+                    7198
+                ],
+                [
+                    3990,
+                    7198
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "State Park , Rocks , Maryland .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4226,
+                    6778
+                ],
+                [
+                    4226,
+                    6873
+                ],
+                [
+                    5057,
+                    6873
+                ],
+                [
+                    5057,
+                    6778
+                ],
+                [
+                    4226,
+                    6778
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Harford Co., Maryland",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    4226,
+                    6778
+                ],
+                [
+                    4226,
+                    6873
+                ],
+                [
+                    5057,
+                    6873
+                ],
+                [
+                    5057,
+                    6778
+                ],
+                [
+                    4226,
+                    6778
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Harford Co . , Maryland",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4170,
+                    6500
+                ],
+                [
+                    4170,
+                    6602
+                ],
+                [
+                    5399,
+                    6602
+                ],
+                [
+                    5399,
+                    6500
+                ],
+                [
+                    4170,
+                    6500
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "The Herbarium of Towson State College",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    4170,
+                    6500
+                ],
+                [
+                    4170,
+                    6602
+                ],
+                [
+                    5399,
+                    6602
+                ],
+                [
+                    5399,
+                    6500
+                ],
+                [
+                    4170,
+                    6500
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "The Herbarium of Towson State College",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4458,
+                    6602
+                ],
+                [
+                    4458,
+                    6681
+                ],
+                [
+                    5126,
+                    6681
+                ],
+                [
+                    5126,
+                    6602
+                ],
+                [
+                    4458,
+                    6602
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Baltimore, Maryland",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    4458,
+                    6602
+                ],
+                [
+                    4458,
+                    6681
+                ],
+                [
+                    5126,
+                    6681
+                ],
+                [
+                    5126,
+                    6602
+                ],
+                [
+                    4458,
+                    6602
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Baltimore , Maryland",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        }
+    ]
+}

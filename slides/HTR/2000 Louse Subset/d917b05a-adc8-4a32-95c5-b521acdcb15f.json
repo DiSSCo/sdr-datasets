@@ -1,0 +1,343 @@
+{
+    "dataset_id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+    "folder": {
+        "id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+        "name": "2000 Louse Subset"
+    },
+    "image": {
+        "id": "060b6c93-4653-46f8-9531-535f6ffffb78",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/d5c28f1c-ec0c-4474-82a1-ef1a822fd030",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/d5c28f1c-ec0c-4474-82a1-ef1a822fd030/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "d917b05a-adc8-4a32-95c5-b521acdcb15f",
+        "name": "79",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    2035,
+                    451
+                ],
+                [
+                    2035,
+                    1276
+                ],
+                [
+                    2544,
+                    1276
+                ],
+                [
+                    2544,
+                    451
+                ],
+                [
+                    2035,
+                    451
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "1896).",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6643,
+                    739
+                ],
+                [
+                    6643,
+                    2304
+                ],
+                [
+                    6960,
+                    2304
+                ],
+                [
+                    6960,
+                    739
+                ],
+                [
+                    6643,
+                    739
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "brachyrhynchos",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    5318,
+                    2246
+                ],
+                [
+                    5318,
+                    2371
+                ],
+                [
+                    5692,
+                    2371
+                ],
+                [
+                    5692,
+                    2246
+                ],
+                [
+                    5318,
+                    2246
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    1219,
+                    691
+                ],
+                [
+                    1219,
+                    2486
+                ],
+                [
+                    1718,
+                    2486
+                ],
+                [
+                    1718,
+                    691
+                ],
+                [
+                    1219,
+                    691
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "interrupta",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6451,
+                    969
+                ],
+                [
+                    6451,
+                    2265
+                ],
+                [
+                    6662,
+                    2265
+                ],
+                [
+                    6662,
+                    969
+                ],
+                [
+                    6451,
+                    969
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Corvus corone",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    5673,
+                    2313
+                ],
+                [
+                    5673,
+                    2745
+                ],
+                [
+                    5788,
+                    2745
+                ],
+                [
+                    5788,
+                    2313
+                ],
+                [
+                    5673,
+                    2313
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "010660626",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    1699,
+                    892
+                ],
+                [
+                    1699,
+                    2313
+                ],
+                [
+                    2102,
+                    2313
+                ],
+                [
+                    2102,
+                    892
+                ],
+                [
+                    1699,
+                    892
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "(Osborn,",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    8227,
+                    969
+                ],
+                [
+                    8227,
+                    2304
+                ],
+                [
+                    8448,
+                    2304
+                ],
+                [
+                    8448,
+                    969
+                ],
+                [
+                    8227,
+                    969
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "B.M. 1950-32.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    672,
+                    1267
+                ],
+                [
+                    672,
+                    2755
+                ],
+                [
+                    1248,
+                    2755
+                ],
+                [
+                    1248,
+                    1267
+                ],
+                [
+                    672,
+                    1267
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Myrsidea",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6940,
+                    1056
+                ],
+                [
+                    6940,
+                    2131
+                ],
+                [
+                    7180,
+                    2131
+                ],
+                [
+                    7180,
+                    1056
+                ],
+                [
+                    6940,
+                    1056
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Barton Co.,",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    7468,
+                    1200
+                ],
+                [
+                    7468,
+                    2227
+                ],
+                [
+                    7756,
+                    2227
+                ],
+                [
+                    7756,
+                    1200
+                ],
+                [
+                    7468,
+                    1200
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "1.xi.1949.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    7209,
+                    1305
+                ],
+                [
+                    7209,
+                    2035
+                ],
+                [
+                    7459,
+                    2035
+                ],
+                [
+                    7459,
+                    1305
+                ],
+                [
+                    7209,
+                    1305
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Kansas.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        }
+    ]
+}

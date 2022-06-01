@@ -1,0 +1,922 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "479c24a2-d399-4074-b47f-7c82c51a95d8",
+        "name": "RBGE"
+    },
+    "image": {
+        "id": "e777211d-ff50-4ca4-b5f2-dc083a827502",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FE00015443.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FE00015443.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "3a8ac892-fc2b-4f75-9757-11f94c8e3ad9",
+        "name": "E00015443",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    3121,
+                    7060
+                ],
+                [
+                    3121,
+                    7214
+                ],
+                [
+                    4584,
+                    7214
+                ],
+                [
+                    4584,
+                    7060
+                ],
+                [
+                    3121,
+                    7060
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Flora from Kunming Institute, China",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3121,
+                    7060
+                ],
+                [
+                    3121,
+                    7214
+                ],
+                [
+                    4584,
+                    7214
+                ],
+                [
+                    4584,
+                    7060
+                ],
+                [
+                    3121,
+                    7060
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Flora from Kunming Institute, China",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3121,
+                    7060
+                ],
+                [
+                    3121,
+                    7214
+                ],
+                [
+                    4584,
+                    7214
+                ],
+                [
+                    4584,
+                    7060
+                ],
+                [
+                    3121,
+                    7060
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Flora from Kunming Institute , China",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4574,
+                    6957
+                ],
+                [
+                    4574,
+                    7111
+                ],
+                [
+                    4800,
+                    7111
+                ],
+                [
+                    4800,
+                    6957
+                ],
+                [
+                    4574,
+                    6957
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "116",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3110,
+                    7194
+                ],
+                [
+                    3110,
+                    7276
+                ],
+                [
+                    3749,
+                    7276
+                ],
+                [
+                    3749,
+                    7194
+                ],
+                [
+                    3110,
+                    7194
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Corydalis",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3110,
+                    7194
+                ],
+                [
+                    3110,
+                    7276
+                ],
+                [
+                    3749,
+                    7276
+                ],
+                [
+                    3749,
+                    7194
+                ],
+                [
+                    3110,
+                    7194
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Corydalis sp",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3821,
+                    7204
+                ],
+                [
+                    3821,
+                    7348
+                ],
+                [
+                    4563,
+                    7348
+                ],
+                [
+                    4563,
+                    7204
+                ],
+                [
+                    3821,
+                    7204
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "smithiana Fedde",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3821,
+                    7204
+                ],
+                [
+                    3821,
+                    7348
+                ],
+                [
+                    4563,
+                    7348
+                ],
+                [
+                    4563,
+                    7204
+                ],
+                [
+                    3821,
+                    7204
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "smithiana Recole",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4553,
+                    7225
+                ],
+                [
+                    4553,
+                    7400
+                ],
+                [
+                    4790,
+                    7400
+                ],
+                [
+                    4790,
+                    7225
+                ],
+                [
+                    4553,
+                    7225
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "M.L.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3090,
+                    7287
+                ],
+                [
+                    3090,
+                    7359
+                ],
+                [
+                    3626,
+                    7359
+                ],
+                [
+                    3626,
+                    7287
+                ],
+                [
+                    3090,
+                    7287
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Fumariaceae",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3090,
+                    7287
+                ],
+                [
+                    3090,
+                    7359
+                ],
+                [
+                    3626,
+                    7359
+                ],
+                [
+                    3626,
+                    7287
+                ],
+                [
+                    3090,
+                    7287
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Fumariaceae",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3090,
+                    7287
+                ],
+                [
+                    3090,
+                    7359
+                ],
+                [
+                    3626,
+                    7359
+                ],
+                [
+                    3626,
+                    7287
+                ],
+                [
+                    3090,
+                    7287
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Fumariaceae",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3069,
+                    7369
+                ],
+                [
+                    3069,
+                    7482
+                ],
+                [
+                    3687,
+                    7482
+                ],
+                [
+                    3687,
+                    7369
+                ],
+                [
+                    3069,
+                    7369
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "B & L 12,228",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3069,
+                    7369
+                ],
+                [
+                    3069,
+                    7482
+                ],
+                [
+                    3687,
+                    7482
+                ],
+                [
+                    3687,
+                    7369
+                ],
+                [
+                    3069,
+                    7369
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "B & L 12,228",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3069,
+                    7369
+                ],
+                [
+                    3069,
+                    7482
+                ],
+                [
+                    3687,
+                    7482
+                ],
+                [
+                    3687,
+                    7369
+                ],
+                [
+                    3069,
+                    7369
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "B & L 12 , 228",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3141,
+                    7555
+                ],
+                [
+                    3141,
+                    7668
+                ],
+                [
+                    3811,
+                    7668
+                ],
+                [
+                    3811,
+                    7555
+                ],
+                [
+                    3141,
+                    7555
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "September 1987",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3141,
+                    7555
+                ],
+                [
+                    3141,
+                    7668
+                ],
+                [
+                    3811,
+                    7668
+                ],
+                [
+                    3811,
+                    7555
+                ],
+                [
+                    3141,
+                    7555
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "September 1987",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3141,
+                    7555
+                ],
+                [
+                    3141,
+                    7668
+                ],
+                [
+                    3811,
+                    7668
+                ],
+                [
+                    3811,
+                    7555
+                ],
+                [
+                    3141,
+                    7555
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "September 1987",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3955,
+                    7482
+                ],
+                [
+                    3955,
+                    7616
+                ],
+                [
+                    4821,
+                    7616
+                ],
+                [
+                    4821,
+                    7482
+                ],
+                [
+                    3955,
+                    7482
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Gang-Ho Ba, Lijiang",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3955,
+                    7482
+                ],
+                [
+                    3955,
+                    7616
+                ],
+                [
+                    4821,
+                    7616
+                ],
+                [
+                    4821,
+                    7482
+                ],
+                [
+                    3955,
+                    7482
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Gang-Ho Ba, Lijiang",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3955,
+                    7482
+                ],
+                [
+                    3955,
+                    7616
+                ],
+                [
+                    4821,
+                    7616
+                ],
+                [
+                    4821,
+                    7482
+                ],
+                [
+                    3955,
+                    7482
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Gang - Ho Ba , Lijiang",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3761,
+                    45
+                ],
+                [
+                    3761,
+                    317
+                ],
+                [
+                    4972,
+                    317
+                ],
+                [
+                    4972,
+                    45
+                ],
+                [
+                    3761,
+                    45
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB. HORT. EDINB.",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3761,
+                    45
+                ],
+                [
+                    3761,
+                    317
+                ],
+                [
+                    4972,
+                    317
+                ],
+                [
+                    4972,
+                    45
+                ],
+                [
+                    3761,
+                    45
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB. HORT. EDINB.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3761,
+                    45
+                ],
+                [
+                    3761,
+                    317
+                ],
+                [
+                    4972,
+                    317
+                ],
+                [
+                    4972,
+                    45
+                ],
+                [
+                    3761,
+                    45
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB . HORT . EDINB .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3188,
+                    6730
+                ],
+                [
+                    3201,
+                    6766
+                ],
+                [
+                    3700,
+                    6750
+                ],
+                [
+                    3689,
+                    6668
+                ],
+                [
+                    3195,
+                    6691
+                ],
+                [
+                    3188,
+                    6730
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ROYAL BOTANIC GARDEN",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3188,
+                    6730
+                ],
+                [
+                    3201,
+                    6766
+                ],
+                [
+                    3700,
+                    6750
+                ],
+                [
+                    3689,
+                    6668
+                ],
+                [
+                    3195,
+                    6691
+                ],
+                [
+                    3188,
+                    6730
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ROYAL BOTANIC GARDEN",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3188,
+                    6730
+                ],
+                [
+                    3201,
+                    6766
+                ],
+                [
+                    3700,
+                    6750
+                ],
+                [
+                    3689,
+                    6668
+                ],
+                [
+                    3195,
+                    6691
+                ],
+                [
+                    3188,
+                    6730
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ROYAL BOTANIC GARDEN",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3315,
+                    6759
+                ],
+                [
+                    3317,
+                    6800
+                ],
+                [
+                    3575,
+                    6795
+                ],
+                [
+                    3559,
+                    6745
+                ],
+                [
+                    3315,
+                    6759
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "EDINBURGH",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3315,
+                    6759
+                ],
+                [
+                    3317,
+                    6800
+                ],
+                [
+                    3575,
+                    6795
+                ],
+                [
+                    3559,
+                    6745
+                ],
+                [
+                    3315,
+                    6759
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "EDINBURGH",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3315,
+                    6759
+                ],
+                [
+                    3317,
+                    6800
+                ],
+                [
+                    3575,
+                    6795
+                ],
+                [
+                    3559,
+                    6745
+                ],
+                [
+                    3315,
+                    6759
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "EDINBURGH",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3229,
+                    6936
+                ],
+                [
+                    3235,
+                    6995
+                ],
+                [
+                    3664,
+                    6981
+                ],
+                [
+                    3659,
+                    6927
+                ],
+                [
+                    3229,
+                    6936
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "E00015443",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3229,
+                    6936
+                ],
+                [
+                    3235,
+                    6995
+                ],
+                [
+                    3664,
+                    6981
+                ],
+                [
+                    3659,
+                    6927
+                ],
+                [
+                    3229,
+                    6936
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "E00015443",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3229,
+                    6936
+                ],
+                [
+                    3235,
+                    6995
+                ],
+                [
+                    3664,
+                    6981
+                ],
+                [
+                    3659,
+                    6927
+                ],
+                [
+                    3229,
+                    6936
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "E00015443",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        }
+    ]
+}

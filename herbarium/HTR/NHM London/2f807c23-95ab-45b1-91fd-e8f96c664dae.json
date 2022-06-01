@@ -1,0 +1,694 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "01461701-dd48-4a27-ab96-27ee9853e15d",
+        "name": "NHM London"
+    },
+    "image": {
+        "id": "21c00513-b1aa-4715-ac76-75989634b11a",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FBM000782325.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FBM000782325.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "2f807c23-95ab-45b1-91fd-e8f96c664dae",
+        "name": "BM000782325",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    599,
+                    10
+                ],
+                [
+                    599,
+                    16
+                ],
+                [
+                    765,
+                    16
+                ],
+                [
+                    765,
+                    10
+                ],
+                [
+                    599,
+                    10
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "THE NATURAL HISTORY MUSEUM, LONDON",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    632,
+                    20
+                ],
+                [
+                    632,
+                    27
+                ],
+                [
+                    740,
+                    27
+                ],
+                [
+                    740,
+                    20
+                ],
+                [
+                    632,
+                    20
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "DEPARTMENT OF BOTANY",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    639,
+                    68
+                ],
+                [
+                    639,
+                    78
+                ],
+                [
+                    727,
+                    78
+                ],
+                [
+                    727,
+                    68
+                ],
+                [
+                    639,
+                    68
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BM000782325",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    157,
+                    13
+                ],
+                [
+                    157,
+                    46
+                ],
+                [
+                    563,
+                    46
+                ],
+                [
+                    563,
+                    13
+                ],
+                [
+                    157,
+                    13
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "FLORA OF LONDON BOMBED SITES 1950",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    257,
+                    52
+                ],
+                [
+                    257,
+                    72
+                ],
+                [
+                    465,
+                    72
+                ],
+                [
+                    465,
+                    52
+                ],
+                [
+                    257,
+                    52
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB. MUSEI BRITANNICI",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    252,
+                    96
+                ],
+                [
+                    252,
+                    116
+                ],
+                [
+                    444,
+                    116
+                ],
+                [
+                    444,
+                    96
+                ],
+                [
+                    252,
+                    96
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Trifolium pratense Linn.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    169,
+                    144
+                ],
+                [
+                    169,
+                    168
+                ],
+                [
+                    513,
+                    168
+                ],
+                [
+                    513,
+                    144
+                ],
+                [
+                    169,
+                    144
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "V.-C. 21 MIDDLESEX: Holborn B-S AA38",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    340,
+                    177
+                ],
+                [
+                    340,
+                    199
+                ],
+                [
+                    525,
+                    199
+                ],
+                [
+                    525,
+                    177
+                ],
+                [
+                    340,
+                    177
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "abundant in a few places",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    450,
+                    230
+                ],
+                [
+                    450,
+                    250
+                ],
+                [
+                    531,
+                    250
+                ],
+                [
+                    531,
+                    230
+                ],
+                [
+                    450,
+                    230
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "June-July",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    169,
+                    237
+                ],
+                [
+                    169,
+                    256
+                ],
+                [
+                    290,
+                    256
+                ],
+                [
+                    290,
+                    237
+                ],
+                [
+                    169,
+                    237
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "J. WHITTAKER",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    169,
+                    259
+                ],
+                [
+                    169,
+                    274
+                ],
+                [
+                    256,
+                    274
+                ],
+                [
+                    256,
+                    259
+                ],
+                [
+                    169,
+                    259
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "No. 278A",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    137,
+                    308
+                ],
+                [
+                    137,
+                    334
+                ],
+                [
+                    178,
+                    334
+                ],
+                [
+                    178,
+                    308
+                ],
+                [
+                    137,
+                    308
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "DP",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1205,
+                    596
+                ],
+                [
+                    1205,
+                    606
+                ],
+                [
+                    1373,
+                    606
+                ],
+                [
+                    1373,
+                    596
+                ],
+                [
+                    1205,
+                    596
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "THE NATURAL HISTORY MUSEUM, LONDON",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1238,
+                    607
+                ],
+                [
+                    1238,
+                    620
+                ],
+                [
+                    1343,
+                    620
+                ],
+                [
+                    1343,
+                    607
+                ],
+                [
+                    1238,
+                    607
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "DEPARTMENT OF BOTANY",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1244,
+                    656
+                ],
+                [
+                    1244,
+                    669
+                ],
+                [
+                    1333,
+                    669
+                ],
+                [
+                    1333,
+                    656
+                ],
+                [
+                    1244,
+                    656
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BM000782326",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1309,
+                    1533
+                ],
+                [
+                    1309,
+                    1569
+                ],
+                [
+                    1378,
+                    1569
+                ],
+                [
+                    1378,
+                    1533
+                ],
+                [
+                    1309,
+                    1533
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "vc 21",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    957,
+                    1651
+                ],
+                [
+                    957,
+                    1679
+                ],
+                [
+                    1364,
+                    1679
+                ],
+                [
+                    1364,
+                    1651
+                ],
+                [
+                    957,
+                    1651
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "FLORA OF LONDON BOMBED SITES 1950",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1063,
+                    1684
+                ],
+                [
+                    1063,
+                    1707
+                ],
+                [
+                    1257,
+                    1707
+                ],
+                [
+                    1257,
+                    1684
+                ],
+                [
+                    1063,
+                    1684
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB. MUSEI BRITANNICI",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1054,
+                    1725
+                ],
+                [
+                    1054,
+                    1749
+                ],
+                [
+                    1248,
+                    1749
+                ],
+                [
+                    1248,
+                    1725
+                ],
+                [
+                    1054,
+                    1725
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Trifolium pratense Linn.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    973,
+                    1777
+                ],
+                [
+                    973,
+                    1803
+                ],
+                [
+                    1332,
+                    1803
+                ],
+                [
+                    1332,
+                    1777
+                ],
+                [
+                    973,
+                    1777
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "V.-C. 21 MIDDLESEX: Holborn B-S AA23",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1140,
+                    1813
+                ],
+                [
+                    1140,
+                    1834
+                ],
+                [
+                    1325,
+                    1834
+                ],
+                [
+                    1325,
+                    1813
+                ],
+                [
+                    1140,
+                    1813
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "on sites AA17, B, BB, H.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    969,
+                    1865
+                ],
+                [
+                    969,
+                    1887
+                ],
+                [
+                    1094,
+                    1887
+                ],
+                [
+                    1094,
+                    1865
+                ],
+                [
+                    969,
+                    1865
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "J. WHITTAKER",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    970,
+                    1889
+                ],
+                [
+                    970,
+                    1909
+                ],
+                [
+                    1039,
+                    1909
+                ],
+                [
+                    1039,
+                    1889
+                ],
+                [
+                    970,
+                    1889
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "No. 458",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1246,
+                    1878
+                ],
+                [
+                    1246,
+                    1902
+                ],
+                [
+                    1312,
+                    1902
+                ],
+                [
+                    1312,
+                    1878
+                ],
+                [
+                    1246,
+                    1878
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "18 July",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1358,
+                    1970
+                ],
+                [
+                    1358,
+                    1994
+                ],
+                [
+                    1383,
+                    1994
+                ],
+                [
+                    1383,
+                    1970
+                ],
+                [
+                    1358,
+                    1970
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "2",
+            "worker_version": null
+        }
+    ]
+}

@@ -1,0 +1,559 @@
+{
+    "dataset_id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+    "folder": {
+        "id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+        "name": "2000 Louse Subset"
+    },
+    "image": {
+        "id": "c3def915-4ef3-4bc8-8606-54683f3b9908",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/2a27b617-b20c-4448-a672-b2620d007955",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/2a27b617-b20c-4448-a672-b2620d007955/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "3547416c-9ace-4c2c-9f06-e45aa80053ae",
+        "name": "90",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    6086,
+                    430
+                ],
+                [
+                    6086,
+                    720
+                ],
+                [
+                    8356,
+                    720
+                ],
+                [
+                    8356,
+                    430
+                ],
+                [
+                    6086,
+                    430
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Coll. F. L. WERNECK",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    603,
+                    603
+                ],
+                [
+                    603,
+                    924
+                ],
+                [
+                    2984,
+                    924
+                ],
+                [
+                    2984,
+                    603
+                ],
+                [
+                    603,
+                    603
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Instituto Oswaldo Cruz",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    5835,
+                    753
+                ],
+                [
+                    5835,
+                    2350
+                ],
+                [
+                    6046,
+                    2350
+                ],
+                [
+                    6046,
+                    753
+                ],
+                [
+                    5835,
+                    753
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "G.B.THOMPSON",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6099,
+                    859
+                ],
+                [
+                    6099,
+                    1136
+                ],
+                [
+                    7973,
+                    1136
+                ],
+                [
+                    7973,
+                    859
+                ],
+                [
+                    6099,
+                    859
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "CUMMINGSIA",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    1660,
+                    1095
+                ],
+                [
+                    1660,
+                    1490
+                ],
+                [
+                    2888,
+                    1490
+                ],
+                [
+                    2888,
+                    1095
+                ],
+                [
+                    1660,
+                    1095
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "2095",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    5650,
+                    845
+                ],
+                [
+                    5650,
+                    2271
+                ],
+                [
+                    5815,
+                    2271
+                ],
+                [
+                    5815,
+                    845
+                ],
+                [
+                    5650,
+                    845
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "COLLECTION.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6640,
+                    1109
+                ],
+                [
+                    6640,
+                    1334
+                ],
+                [
+                    8349,
+                    1334
+                ],
+                [
+                    8349,
+                    1109
+                ],
+                [
+                    6640,
+                    1109
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "INTERMEDIA",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    1427,
+                    1144
+                ],
+                [
+                    1427,
+                    1490
+                ],
+                [
+                    1518,
+                    1490
+                ],
+                [
+                    1518,
+                    1144
+                ],
+                [
+                    1427,
+                    1144
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6073,
+                    1327
+                ],
+                [
+                    6073,
+                    1644
+                ],
+                [
+                    8363,
+                    1644
+                ],
+                [
+                    8363,
+                    1327
+                ],
+                [
+                    6073,
+                    1327
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "S/MARMOSA INCANA",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    570,
+                    1265
+                ],
+                [
+                    570,
+                    1629
+                ],
+                [
+                    934,
+                    1629
+                ],
+                [
+                    934,
+                    1265
+                ],
+                [
+                    570,
+                    1265
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "N.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6106,
+                    1644
+                ],
+                [
+                    6106,
+                    1875
+                ],
+                [
+                    7452,
+                    1875
+                ],
+                [
+                    7452,
+                    1644
+                ],
+                [
+                    6106,
+                    1644
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "PAULENSIS",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    1037,
+                    1487
+                ],
+                [
+                    1037,
+                    1573
+                ],
+                [
+                    1444,
+                    1573
+                ],
+                [
+                    1444,
+                    1487
+                ],
+                [
+                    1037,
+                    1487
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "010665230",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6106,
+                    1855
+                ],
+                [
+                    6106,
+                    2079
+                ],
+                [
+                    8409,
+                    2079
+                ],
+                [
+                    8409,
+                    1855
+                ],
+                [
+                    6106,
+                    1855
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ITATIAYA. EST. Rio. BRASIL",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    581,
+                    1639
+                ],
+                [
+                    581,
+                    2141
+                ],
+                [
+                    2834,
+                    2141
+                ],
+                [
+                    2834,
+                    1639
+                ],
+                [
+                    581,
+                    1639
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Divis\u00e3o 25",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    7736,
+                    1967
+                ],
+                [
+                    7736,
+                    2574
+                ],
+                [
+                    8488,
+                    2574
+                ],
+                [
+                    8488,
+                    1967
+                ],
+                [
+                    7736,
+                    1967
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "22",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    613,
+                    2173
+                ],
+                [
+                    613,
+                    2675
+                ],
+                [
+                    2824,
+                    2675
+                ],
+                [
+                    2824,
+                    2173
+                ],
+                [
+                    613,
+                    2173
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Caixa 70",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6449,
+                    2106
+                ],
+                [
+                    6449,
+                    2422
+                ],
+                [
+                    7749,
+                    2422
+                ],
+                [
+                    7749,
+                    2106
+                ],
+                [
+                    6449,
+                    2106
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "PARATYPO",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    827,
+                    2654
+                ],
+                [
+                    827,
+                    2878
+                ],
+                [
+                    2354,
+                    2878
+                ],
+                [
+                    2354,
+                    2654
+                ],
+                [
+                    827,
+                    2654
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "B.M.1980-40",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    8099,
+                    2449
+                ],
+                [
+                    8099,
+                    2700
+                ],
+                [
+                    8409,
+                    2700
+                ],
+                [
+                    8409,
+                    2449
+                ],
+                [
+                    8099,
+                    2449
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "\u2640",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    6093,
+                    2482
+                ],
+                [
+                    6093,
+                    2726
+                ],
+                [
+                    7327,
+                    2726
+                ],
+                [
+                    7327,
+                    2482
+                ],
+                [
+                    6093,
+                    2482
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "F.L.W. DET",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        }
+    ]
+}

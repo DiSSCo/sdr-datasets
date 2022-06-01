@@ -1,0 +1,1480 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "6395c279-8d51-4fc2-b77e-eb65a3f9fcd0",
+        "name": "Kew"
+    },
+    "image": {
+        "id": "85533f68-10f7-44a8-a2d1-10d1d331af20",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FK000232911.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FK000232911.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "cc29ca8c-01d8-4103-a93b-65e906e3d2eb",
+        "name": "K000232911",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    1043,
+                    191
+                ],
+                [
+                    1043,
+                    267
+                ],
+                [
+                    2034,
+                    267
+                ],
+                [
+                    2034,
+                    191
+                ],
+                [
+                    1043,
+                    191
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ROYAL BOTANIC GARDENS KEW",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    1268,
+                    458
+                ],
+                [
+                    1268,
+                    547
+                ],
+                [
+                    1812,
+                    547
+                ],
+                [
+                    1812,
+                    458
+                ],
+                [
+                    1268,
+                    458
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "K000232911",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    2780,
+                    4555
+                ],
+                [
+                    2780,
+                    4636
+                ],
+                [
+                    3300,
+                    4636
+                ],
+                [
+                    3300,
+                    4555
+                ],
+                [
+                    2780,
+                    4555
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HOLOTYPE",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    2018,
+                    4639
+                ],
+                [
+                    2018,
+                    4806
+                ],
+                [
+                    3923,
+                    4806
+                ],
+                [
+                    3923,
+                    4639
+                ],
+                [
+                    2018,
+                    4639
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "of Kalanchoe latisepala N.E.Br.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2018,
+                    4639
+                ],
+                [
+                    2018,
+                    4806
+                ],
+                [
+                    3923,
+                    4806
+                ],
+                [
+                    3923,
+                    4639
+                ],
+                [
+                    2018,
+                    4639
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "of Kalanches latisspala N.E.Br.",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    2119,
+                    4824
+                ],
+                [
+                    2119,
+                    5009
+                ],
+                [
+                    3903,
+                    5009
+                ],
+                [
+                    3903,
+                    4824
+                ],
+                [
+                    2119,
+                    4824
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "is. bull Hisc. Kif. Kee. 1965: 435. (1900)",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3811,
+                    9126
+                ],
+                [
+                    3811,
+                    9246
+                ],
+                [
+                    4635,
+                    9246
+                ],
+                [
+                    4635,
+                    9126
+                ],
+                [
+                    3811,
+                    9126
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Type Specimen.",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    4131,
+                    9465
+                ],
+                [
+                    4131,
+                    9527
+                ],
+                [
+                    4448,
+                    9527
+                ],
+                [
+                    4448,
+                    9465
+                ],
+                [
+                    4131,
+                    9465
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Seen for",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3948,
+                    9535
+                ],
+                [
+                    3948,
+                    9614
+                ],
+                [
+                    4636,
+                    9614
+                ],
+                [
+                    4636,
+                    9535
+                ],
+                [
+                    3948,
+                    9535
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Flora Zambesiaca\"",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    5770,
+                    8796
+                ],
+                [
+                    5770,
+                    8958
+                ],
+                [
+                    6286,
+                    8958
+                ],
+                [
+                    6286,
+                    8796
+                ],
+                [
+                    5770,
+                    8796
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Type !",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    5770,
+                    8796
+                ],
+                [
+                    5770,
+                    8958
+                ],
+                [
+                    6286,
+                    8958
+                ],
+                [
+                    6286,
+                    8796
+                ],
+                [
+                    5770,
+                    8796
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Type!",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    5010,
+                    9197
+                ],
+                [
+                    5010,
+                    9315
+                ],
+                [
+                    6420,
+                    9315
+                ],
+                [
+                    6420,
+                    9197
+                ],
+                [
+                    5010,
+                    9197
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "in Kew Bull. 1908, p. 435",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    5010,
+                    9197
+                ],
+                [
+                    5010,
+                    9315
+                ],
+                [
+                    6420,
+                    9315
+                ],
+                [
+                    6420,
+                    9197
+                ],
+                [
+                    5010,
+                    9197
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "in Kew Bull. 1908, p. 435",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    6700,
+                    9121
+                ],
+                [
+                    6700,
+                    9231
+                ],
+                [
+                    7160,
+                    9231
+                ],
+                [
+                    7160,
+                    9121
+                ],
+                [
+                    6700,
+                    9121
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "411-05",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    6700,
+                    9121
+                ],
+                [
+                    6700,
+                    9231
+                ],
+                [
+                    7160,
+                    9231
+                ],
+                [
+                    7160,
+                    9121
+                ],
+                [
+                    6700,
+                    9121
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "411-05",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    6713,
+                    9247
+                ],
+                [
+                    6713,
+                    9336
+                ],
+                [
+                    7134,
+                    9336
+                ],
+                [
+                    7134,
+                    9247
+                ],
+                [
+                    6713,
+                    9247
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "B. c. a.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    6713,
+                    9247
+                ],
+                [
+                    6713,
+                    9336
+                ],
+                [
+                    7134,
+                    9336
+                ],
+                [
+                    7134,
+                    9247
+                ],
+                [
+                    6713,
+                    9247
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "B. c. a.",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    5020,
+                    9541
+                ],
+                [
+                    6835,
+                    9462
+                ],
+                [
+                    6829,
+                    9361
+                ],
+                [
+                    5030,
+                    9420
+                ],
+                [
+                    5020,
+                    9541
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Hew Gardend March 22. 1907",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    5020,
+                    9541
+                ],
+                [
+                    6835,
+                    9462
+                ],
+                [
+                    6829,
+                    9361
+                ],
+                [
+                    5030,
+                    9420
+                ],
+                [
+                    5020,
+                    9541
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Kew Gardens March 22. 1907",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    5014,
+                    9672
+                ],
+                [
+                    7224,
+                    9541
+                ],
+                [
+                    7211,
+                    9456
+                ],
+                [
+                    5030,
+                    9570
+                ],
+                [
+                    5014,
+                    9672
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Raisea from seecls sent from Nyasaland",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    5014,
+                    9672
+                ],
+                [
+                    7224,
+                    9541
+                ],
+                [
+                    7211,
+                    9456
+                ],
+                [
+                    5030,
+                    9570
+                ],
+                [
+                    5014,
+                    9672
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Raised from seeds sent from Nyasaland",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    5023,
+                    9793
+                ],
+                [
+                    6681,
+                    9707
+                ],
+                [
+                    6659,
+                    9600
+                ],
+                [
+                    5027,
+                    9688
+                ],
+                [
+                    5023,
+                    9793
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "in 1903 by J. Te Clounie",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    5023,
+                    9793
+                ],
+                [
+                    6681,
+                    9707
+                ],
+                [
+                    6659,
+                    9600
+                ],
+                [
+                    5027,
+                    9688
+                ],
+                [
+                    5023,
+                    9793
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "in 1905 by J. Mc Clounie",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    5046,
+                    9155
+                ],
+                [
+                    7120,
+                    9089
+                ],
+                [
+                    7100,
+                    8946
+                ],
+                [
+                    5059,
+                    9014
+                ],
+                [
+                    5046,
+                    9155
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Kalanchoe latisepala N.E.Br.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    5046,
+                    9155
+                ],
+                [
+                    7120,
+                    9089
+                ],
+                [
+                    7100,
+                    8946
+                ],
+                [
+                    5059,
+                    9014
+                ],
+                [
+                    5046,
+                    9155
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Kalanchve latisepala NBr.",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    2547,
+                    139
+                ],
+                [
+                    4912,
+                    118
+                ],
+                [
+                    4917,
+                    34
+                ],
+                [
+                    2552,
+                    55
+                ],
+                [
+                    2547,
+                    139
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "986. Kalanch\u00f6e latisepala, N. E . Brown ( Crassulaceae ) ; affinis",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    2489,
+                    160
+                ],
+                [
+                    2489,
+                    227
+                ],
+                [
+                    4900,
+                    201
+                ],
+                [
+                    4896,
+                    130
+                ],
+                [
+                    2489,
+                    160
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "K. Dyeri, N. E. Br., sed foliis sessilibus et foribus fere duplo",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    2469,
+                    240
+                ],
+                [
+                    2476,
+                    308
+                ],
+                [
+                    3571,
+                    305
+                ],
+                [
+                    3568,
+                    227
+                ],
+                [
+                    2469,
+                    240
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "minoribus facile distinguitur.",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    2581,
+                    415
+                ],
+                [
+                    4906,
+                    392
+                ],
+                [
+                    4913,
+                    310
+                ],
+                [
+                    2597,
+                    333
+                ],
+                [
+                    2581,
+                    415
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herba succulenta erecta, 60 cm. alta. Cautis 1-3-1-5 cm. crassus,",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    2483,
+                    490
+                ],
+                [
+                    4923,
+                    464
+                ],
+                [
+                    4926,
+                    399
+                ],
+                [
+                    2489,
+                    412
+                ],
+                [
+                    2483,
+                    490
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "inferne glaber, superne (parte forifera) glanduloso-pubescens.",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    2493,
+                    503
+                ],
+                [
+                    2496,
+                    566
+                ],
+                [
+                    4916,
+                    543
+                ],
+                [
+                    4916,
+                    477
+                ],
+                [
+                    2493,
+                    503
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Folia sessilia, usque ad 11-12 cm. longa et 8 -9 cm. lata , obovata,",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    2486,
+                    588
+                ],
+                [
+                    2486,
+                    660
+                ],
+                [
+                    4923,
+                    621
+                ],
+                [
+                    4919,
+                    562
+                ],
+                [
+                    2486,
+                    588
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "apice obtuse rotundata, basi cuneata ; inferiora irregulariter crenata",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    2493,
+                    673
+                ],
+                [
+                    2493,
+                    736
+                ],
+                [
+                    4916,
+                    706
+                ],
+                [
+                    4919,
+                    644
+                ],
+                [
+                    2493,
+                    673
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "vel subcrenato-dentata, plana, glabra, viridia ; superiora (secundum",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    2496,
+                    752
+                ],
+                [
+                    2499,
+                    821
+                ],
+                [
+                    4923,
+                    801
+                ],
+                [
+                    4913,
+                    719
+                ],
+                [
+                    2496,
+                    752
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "pedunculum ? vel partem foriferam) supra convexa, subtus,",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    2496,
+                    837
+                ],
+                [
+                    2496,
+                    896
+                ],
+                [
+                    4932,
+                    880
+                ],
+                [
+                    4923,
+                    811
+                ],
+                [
+                    2496,
+                    837
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "concava, glanduloso-pubesceutia. Cymae terminales, pluriflores,",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    2488,
+                    907
+                ],
+                [
+                    2491,
+                    979
+                ],
+                [
+                    4921,
+                    959
+                ],
+                [
+                    4921,
+                    887
+                ],
+                [
+                    2488,
+                    907
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "glanduloso-pubescentes, ramis 4 -8 mm. longis. Bracteae parvae,",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    2498,
+                    1061
+                ],
+                [
+                    2501,
+                    1061
+                ],
+                [
+                    2501,
+                    992
+                ],
+                [
+                    4924,
+                    963
+                ],
+                [
+                    4927,
+                    1041
+                ],
+                [
+                    2498,
+                    1061
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "elliptico-oblongae, apiculatae vel acutae. Pedicelli 5 - 10 mm . longi .",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    2491,
+                    1074
+                ],
+                [
+                    2491,
+                    1136
+                ],
+                [
+                    4927,
+                    1113
+                ],
+                [
+                    4921,
+                    1048
+                ],
+                [
+                    2491,
+                    1074
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Catycis tabus 45 mm. longus, lobi 7-10 mm. longi, 6 mm. latt,",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    2494,
+                    1218
+                ],
+                [
+                    4944,
+                    1195
+                ],
+                [
+                    4934,
+                    1123
+                ],
+                [
+                    2498,
+                    1152
+                ],
+                [
+                    2494,
+                    1218
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "coblongi vel ovato-oblongi, acuti, virides. Corolla alba, extra",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    2498,
+                    1237
+                ],
+                [
+                    2498,
+                    1306
+                ],
+                [
+                    4944,
+                    1273
+                ],
+                [
+                    4937,
+                    1205
+                ],
+                [
+                    2498,
+                    1237
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "glanduloso-pubescens ; tubus 3-33 cm . longus, 4-angularis, basi",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    2501,
+                    1381
+                ],
+                [
+                    4931,
+                    1355
+                ],
+                [
+                    4934,
+                    1283
+                ],
+                [
+                    2504,
+                    1319
+                ],
+                [
+                    2501,
+                    1381
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "leviter inflatus ; lobi 4, patentes 12 cm. longi, 8-9 mm. lati, ovati",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    2498,
+                    1391
+                ],
+                [
+                    2498,
+                    1460
+                ],
+                [
+                    4924,
+                    1430
+                ],
+                [
+                    4931,
+                    1371
+                ],
+                [
+                    2498,
+                    1391
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "vel elliptico-ovati, acuti, apiculati. Stamina superiora breviter",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    2491,
+                    1479
+                ],
+                [
+                    2498,
+                    1538
+                ],
+                [
+                    4944,
+                    1528
+                ],
+                [
+                    4941,
+                    1443
+                ],
+                [
+                    2491,
+                    1479
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "exserta ; antherae luteae. Glandulae hypogynae 6 -T mm. longae,",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    2504,
+                    1555
+                ],
+                [
+                    2504,
+                    1620
+                ],
+                [
+                    4911,
+                    1594
+                ],
+                [
+                    4911,
+                    1532
+                ],
+                [
+                    2504,
+                    1555
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Hineares. Carpella 12-13 cm, longa ; styli 2 cm. longi, exserti.",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    2583,
+                    1649
+                ],
+                [
+                    2589,
+                    1721
+                ],
+                [
+                    4947,
+                    1708
+                ],
+                [
+                    4941,
+                    1640
+                ],
+                [
+                    2583,
+                    1649
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "TROPICAL AFRICA. Nyasaland, raised from seed sent by",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    2514,
+                    1803
+                ],
+                [
+                    4705,
+                    1787
+                ],
+                [
+                    4702,
+                    1721
+                ],
+                [
+                    2517,
+                    1731
+                ],
+                [
+                    2514,
+                    1803
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Mr. J. MeClounie to Kew in 1905, fowered in March, 1907 .",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    2373,
+                    9133
+                ],
+                [
+                    2860,
+                    9167
+                ],
+                [
+                    2868,
+                    9086
+                ],
+                [
+                    2575,
+                    9031
+                ],
+                [
+                    2384,
+                    9063
+                ],
+                [
+                    2373,
+                    9133
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "H.639/73",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    2473,
+                    9309
+                ],
+                [
+                    2475,
+                    9384
+                ],
+                [
+                    2753,
+                    9371
+                ],
+                [
+                    2734,
+                    9293
+                ],
+                [
+                    2473,
+                    9309
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "KEWwt",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    2543,
+                    9473
+                ],
+                [
+                    2794,
+                    9494
+                ],
+                [
+                    2810,
+                    9413
+                ],
+                [
+                    2549,
+                    9387
+                ],
+                [
+                    2543,
+                    9473
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "EEWf",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    2203,
+                    9170
+                ],
+                [
+                    2282,
+                    9206
+                ],
+                [
+                    2290,
+                    9157
+                ],
+                [
+                    2337,
+                    9081
+                ],
+                [
+                    2423,
+                    9039
+                ],
+                [
+                    2554,
+                    9008
+                ],
+                [
+                    2700,
+                    9016
+                ],
+                [
+                    2815,
+                    9044
+                ],
+                [
+                    2894,
+                    9099
+                ],
+                [
+                    2920,
+                    9191
+                ],
+                [
+                    2991,
+                    9175
+                ],
+                [
+                    2944,
+                    9063
+                ],
+                [
+                    2847,
+                    8987
+                ],
+                [
+                    2711,
+                    8963
+                ],
+                [
+                    2546,
+                    8955
+                ],
+                [
+                    2373,
+                    8997
+                ],
+                [
+                    2261,
+                    9052
+                ],
+                [
+                    2203,
+                    9170
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BBaRR",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    2334,
+                    8971
+                ],
+                [
+                    2360,
+                    9016
+                ],
+                [
+                    2549,
+                    8958
+                ],
+                [
+                    2732,
+                    8950
+                ],
+                [
+                    2891,
+                    8979
+                ],
+                [
+                    3053,
+                    9060
+                ],
+                [
+                    3095,
+                    9005
+                ],
+                [
+                    2915,
+                    8911
+                ],
+                [
+                    2753,
+                    8879
+                ],
+                [
+                    2509,
+                    8893
+                ],
+                [
+                    2334,
+                    8971
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "SOrETon. GanDer",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        }
+    ]
+}

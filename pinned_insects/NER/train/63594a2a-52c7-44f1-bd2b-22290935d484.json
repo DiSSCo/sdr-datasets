@@ -1,0 +1,35 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "3233e12b-b8d8-4fc4-bb41-497c80c84513",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/56c1cf9a-f088-4cea-84f7-5bfafc5a4dc4",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/56c1cf9a-f088-4cea-84f7-5bfafc5a4dc4/full/full/0/default.jpg"
+    },
+    "named_entities": [
+        {
+            "tags": "MONMOUTHSHIRE B-location_name\n: I-location_name\nAbertillary I-location_name\n370m I-location_name\n. I-location_name\n12 B-date\n. I-date\nvii I-date\n. I-date\n1977 I-date",
+            "worker_version_id": null
+        },
+        {
+            "tags": "J B-person_name\n. I-person_name\nD I-person_name\n. I-person_name\nBradley I-person_name\n& O\nD B-person_name\n. I-person_name\nS I-person_name\n. I-person_name\nFletcher I-person_name\nBM B-identifier\n1977\u2014396 I-identifier",
+            "worker_version_id": null
+        },
+        {
+            "tags": "Pyla B-taxon_name\nfusca I-taxon_name\nHaw B-person_name\n. I-person_name\ndet B-Determination\n. I-Determination\nJ I-Determination\n. I-Determination\nD I-Determination\n. I-Determination\nBradley I-Determination\n, I-Determination\n1977 I-Determination",
+            "worker_version_id": null
+        },
+        {
+            "tags": "NHMUK010616530 B-identifier",
+            "worker_version_id": null
+        }
+    ],
+    "page": {
+        "id": "63594a2a-52c7-44f1-bd2b-22290935d484",
+        "name": "010616530_151495_1084648.2500x5792.jpeg",
+        "rotation_angle": 0
+    }
+}

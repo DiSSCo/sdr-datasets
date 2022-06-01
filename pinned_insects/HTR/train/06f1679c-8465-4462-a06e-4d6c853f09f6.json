@@ -1,0 +1,235 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "3af7886a-aa02-455e-8b54-96a206082bd7",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/23e5edf0-6a7b-4a86-95fc-9956dbbed969",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/23e5edf0-6a7b-4a86-95fc-9956dbbed969/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "06f1679c-8465-4462-a06e-4d6c853f09f6",
+        "name": "010617658_137018_1084171.2500x5792.jpeg",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    1693,
+                    1343
+                ],
+                [
+                    1693,
+                    1391
+                ],
+                [
+                    2153,
+                    1373
+                ],
+                [
+                    2152,
+                    1327
+                ],
+                [
+                    1693,
+                    1343
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK010617658",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1662,
+                    911
+                ],
+                [
+                    1664,
+                    967
+                ],
+                [
+                    2368,
+                    954
+                ],
+                [
+                    2364,
+                    892
+                ],
+                [
+                    1662,
+                    911
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "R.E.M.Pilcher",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1664,
+                    973
+                ],
+                [
+                    1665,
+                    1027
+                ],
+                [
+                    2214,
+                    1018
+                ],
+                [
+                    2211,
+                    967
+                ],
+                [
+                    1664,
+                    973
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Collection",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1662,
+                    1038
+                ],
+                [
+                    1662,
+                    1100
+                ],
+                [
+                    2270,
+                    1081
+                ],
+                [
+                    2268,
+                    1024
+                ],
+                [
+                    1662,
+                    1038
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "B.M.1990-19",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1693,
+                    567
+                ],
+                [
+                    1699,
+                    638
+                ],
+                [
+                    2070,
+                    617
+                ],
+                [
+                    2062,
+                    549
+                ],
+                [
+                    1693,
+                    567
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "S.Thoresby",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1786,
+                    633
+                ],
+                [
+                    1790,
+                    689
+                ],
+                [
+                    1987,
+                    678
+                ],
+                [
+                    1982,
+                    621
+                ],
+                [
+                    1786,
+                    633
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Lincs.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1738,
+                    695
+                ],
+                [
+                    1741,
+                    759
+                ],
+                [
+                    2078,
+                    737
+                ],
+                [
+                    2073,
+                    674
+                ],
+                [
+                    1738,
+                    695
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "13-7-1983",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1671,
+                    766
+                ],
+                [
+                    1673,
+                    825
+                ],
+                [
+                    2132,
+                    797
+                ],
+                [
+                    2128,
+                    739
+                ],
+                [
+                    1671,
+                    766
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "R.E.M.Pilcher",
+            "worker_version": null
+        }
+    ]
+}

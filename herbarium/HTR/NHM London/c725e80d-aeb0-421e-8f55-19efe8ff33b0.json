@@ -1,0 +1,316 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "01461701-dd48-4a27-ab96-27ee9853e15d",
+        "name": "NHM London"
+    },
+    "image": {
+        "id": "eab070e1-aad8-4010-9d28-1cd7065ecaf2",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FBM000796649.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FBM000796649.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "c725e80d-aeb0-421e-8f55-19efe8ff33b0",
+        "name": "BM000796649",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    110,
+                    1088
+                ],
+                [
+                    110,
+                    1106
+                ],
+                [
+                    382,
+                    1106
+                ],
+                [
+                    382,
+                    1088
+                ],
+                [
+                    110,
+                    1088
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "THE NATURAL HISTORY MUSEUM, LONDON",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    159,
+                    1106
+                ],
+                [
+                    159,
+                    1125
+                ],
+                [
+                    328,
+                    1125
+                ],
+                [
+                    328,
+                    1106
+                ],
+                [
+                    159,
+                    1106
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "DEPARTMENT OF BOTANY",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    173,
+                    1182
+                ],
+                [
+                    173,
+                    1207
+                ],
+                [
+                    320,
+                    1207
+                ],
+                [
+                    320,
+                    1182
+                ],
+                [
+                    173,
+                    1182
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BM000796649",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    219,
+                    1239
+                ],
+                [
+                    219,
+                    1275
+                ],
+                [
+                    435,
+                    1275
+                ],
+                [
+                    435,
+                    1239
+                ],
+                [
+                    219,
+                    1239
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HOLOTYPE",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    68,
+                    1279
+                ],
+                [
+                    68,
+                    1343
+                ],
+                [
+                    571,
+                    1343
+                ],
+                [
+                    571,
+                    1279
+                ],
+                [
+                    68,
+                    1279
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Acacia intricata S.Moore",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    77,
+                    1346
+                ],
+                [
+                    77,
+                    1404
+                ],
+                [
+                    345,
+                    1404
+                ],
+                [
+                    345,
+                    1346
+                ],
+                [
+                    77,
+                    1346
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "DET. B R Maslin",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    659,
+                    1502
+                ],
+                [
+                    659,
+                    1544
+                ],
+                [
+                    1009,
+                    1544
+                ],
+                [
+                    1009,
+                    1502
+                ],
+                [
+                    659,
+                    1502
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "WEST AUSTRALIA: 1916.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    744,
+                    1547
+                ],
+                [
+                    744,
+                    1588
+                ],
+                [
+                    956,
+                    1588
+                ],
+                [
+                    956,
+                    1547
+                ],
+                [
+                    744,
+                    1547
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Dr. F. STOWARD.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    575,
+                    1588
+                ],
+                [
+                    575,
+                    1647
+                ],
+                [
+                    696,
+                    1647
+                ],
+                [
+                    696,
+                    1588
+                ],
+                [
+                    575,
+                    1588
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "No. 756",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    575,
+                    1651
+                ],
+                [
+                    575,
+                    1693
+                ],
+                [
+                    895,
+                    1693
+                ],
+                [
+                    895,
+                    1651
+                ],
+                [
+                    575,
+                    1651
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Locality Mt. Marshall.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    51,
+                    1659
+                ],
+                [
+                    51,
+                    1735
+                ],
+                [
+                    374,
+                    1735
+                ],
+                [
+                    374,
+                    1659
+                ],
+                [
+                    51,
+                    1659
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Type Specimen",
+            "worker_version": null
+        }
+    ]
+}

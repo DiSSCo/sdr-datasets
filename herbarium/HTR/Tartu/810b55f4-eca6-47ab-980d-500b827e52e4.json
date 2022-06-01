@@ -1,0 +1,945 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "70771f04-7915-4ea6-ab09-1ef9009105f3",
+        "name": "Tartu"
+    },
+    "image": {
+        "id": "18ebaebb-76af-4d72-9f36-afb42f1b5597",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FTU251451.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FTU251451.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "810b55f4-eca6-47ab-980d-500b827e52e4",
+        "name": "TU251451",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    2634,
+                    243
+                ],
+                [
+                    2640,
+                    325
+                ],
+                [
+                    4080,
+                    294
+                ],
+                [
+                    4083,
+                    219
+                ],
+                [
+                    2634,
+                    243
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERBARIUM MUSEI BOTANICI",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2634,
+                    243
+                ],
+                [
+                    2640,
+                    325
+                ],
+                [
+                    4080,
+                    294
+                ],
+                [
+                    4083,
+                    219
+                ],
+                [
+                    2634,
+                    243
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "AERBARIUM MUSEI BOTANICI",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2631,
+                    346
+                ],
+                [
+                    2631,
+                    412
+                ],
+                [
+                    4077,
+                    370
+                ],
+                [
+                    4071,
+                    303
+                ],
+                [
+                    2631,
+                    346
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "UNIVERSITATIS TARTUENSIS",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2631,
+                    346
+                ],
+                [
+                    2631,
+                    412
+                ],
+                [
+                    4077,
+                    370
+                ],
+                [
+                    4071,
+                    303
+                ],
+                [
+                    2631,
+                    346
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "UNIVERSITATYS TARTUENSIS",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    5289,
+                    7855
+                ],
+                [
+                    5289,
+                    7963
+                ],
+                [
+                    5922,
+                    7963
+                ],
+                [
+                    5922,
+                    7855
+                ],
+                [
+                    5289,
+                    7855
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "TU251451",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    5289,
+                    7855
+                ],
+                [
+                    5289,
+                    7963
+                ],
+                [
+                    5922,
+                    7963
+                ],
+                [
+                    5922,
+                    7855
+                ],
+                [
+                    5289,
+                    7855
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "TU251454",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4441,
+                    8238
+                ],
+                [
+                    6204,
+                    8259
+                ],
+                [
+                    6213,
+                    8169
+                ],
+                [
+                    4444,
+                    8145
+                ],
+                [
+                    4441,
+                    8238
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Flora Estonica exsiccata.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4441,
+                    8238
+                ],
+                [
+                    6204,
+                    8259
+                ],
+                [
+                    6213,
+                    8169
+                ],
+                [
+                    4444,
+                    8145
+                ],
+                [
+                    4441,
+                    8238
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Flora Estonica exsiccata .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4682,
+                    8057
+                ],
+                [
+                    6120,
+                    8078
+                ],
+                [
+                    6117,
+                    8018
+                ],
+                [
+                    4691,
+                    8006
+                ],
+                [
+                    4682,
+                    8057
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERBARIUM MUSEI BOTANICI",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4682,
+                    8057
+                ],
+                [
+                    6120,
+                    8078
+                ],
+                [
+                    6117,
+                    8018
+                ],
+                [
+                    4691,
+                    8006
+                ],
+                [
+                    4682,
+                    8057
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERBARIUM MUSEI BOTANIC",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4688,
+                    8139
+                ],
+                [
+                    6087,
+                    8163
+                ],
+                [
+                    6078,
+                    8105
+                ],
+                [
+                    4691,
+                    8081
+                ],
+                [
+                    4688,
+                    8139
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "UNIVERSITATIS TARTUENSIS",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4688,
+                    8139
+                ],
+                [
+                    6087,
+                    8163
+                ],
+                [
+                    6078,
+                    8105
+                ],
+                [
+                    4691,
+                    8081
+                ],
+                [
+                    4688,
+                    8139
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "UNIVERSITATIS TARTUENSIS",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4637,
+                    8310
+                ],
+                [
+                    4637,
+                    8512
+                ],
+                [
+                    6186,
+                    8545
+                ],
+                [
+                    6189,
+                    8359
+                ],
+                [
+                    4637,
+                    8310
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Carex tenella Schkuhr",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4637,
+                    8310
+                ],
+                [
+                    4637,
+                    8512
+                ],
+                [
+                    6186,
+                    8545
+                ],
+                [
+                    6189,
+                    8359
+                ],
+                [
+                    4637,
+                    8310
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Carex tenella Schreehr .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4278,
+                    8942
+                ],
+                [
+                    6463,
+                    8981
+                ],
+                [
+                    6466,
+                    8840
+                ],
+                [
+                    4290,
+                    8794
+                ],
+                [
+                    4278,
+                    8942
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "In silva humida et umbrosa mixta.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4278,
+                    8942
+                ],
+                [
+                    6463,
+                    8981
+                ],
+                [
+                    6466,
+                    8840
+                ],
+                [
+                    4290,
+                    8794
+                ],
+                [
+                    4278,
+                    8942
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Insilva humida ef umbrosa mixta",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4293,
+                    8951
+                ],
+                [
+                    4296,
+                    9087
+                ],
+                [
+                    4293,
+                    9087
+                ],
+                [
+                    6053,
+                    9111
+                ],
+                [
+                    6047,
+                    8981
+                ],
+                [
+                    4293,
+                    8951
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "\"Sintva\" dicta prope W\u00f5ue-",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4293,
+                    8951
+                ],
+                [
+                    4296,
+                    9087
+                ],
+                [
+                    4293,
+                    9087
+                ],
+                [
+                    6053,
+                    9111
+                ],
+                [
+                    6047,
+                    8981
+                ],
+                [
+                    4293,
+                    8951
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Lintua dicta prope worn",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    5565,
+                    9168
+                ],
+                [
+                    5574,
+                    9220
+                ],
+                [
+                    6029,
+                    9232
+                ],
+                [
+                    6032,
+                    9171
+                ],
+                [
+                    5565,
+                    9168
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Leg . et det .",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    5565,
+                    9168
+                ],
+                [
+                    5574,
+                    9220
+                ],
+                [
+                    6029,
+                    9232
+                ],
+                [
+                    6032,
+                    9171
+                ],
+                [
+                    5565,
+                    9168
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Leg . et det .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    5321,
+                    9238
+                ],
+                [
+                    5321,
+                    9328
+                ],
+                [
+                    6243,
+                    9343
+                ],
+                [
+                    6246,
+                    9256
+                ],
+                [
+                    5321,
+                    9238
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Dr . W . Reinthal",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    5321,
+                    9238
+                ],
+                [
+                    5321,
+                    9328
+                ],
+                [
+                    6243,
+                    9343
+                ],
+                [
+                    6246,
+                    9256
+                ],
+                [
+                    5321,
+                    9238
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Dr . W . Reinthal",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    5625,
+                    9346
+                ],
+                [
+                    5628,
+                    9412
+                ],
+                [
+                    5939,
+                    9424
+                ],
+                [
+                    5933,
+                    9349
+                ],
+                [
+                    5625,
+                    9346
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Estonia .",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    5625,
+                    9346
+                ],
+                [
+                    5628,
+                    9412
+                ],
+                [
+                    5939,
+                    9424
+                ],
+                [
+                    5933,
+                    9349
+                ],
+                [
+                    5625,
+                    9346
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Estonia .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4249,
+                    9242
+                ],
+                [
+                    4249,
+                    9313
+                ],
+                [
+                    4365,
+                    9313
+                ],
+                [
+                    4365,
+                    9242
+                ],
+                [
+                    4249,
+                    9242
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "19",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4541,
+                    9189
+                ],
+                [
+                    4541,
+                    9351
+                ],
+                [
+                    4716,
+                    9351
+                ],
+                [
+                    4716,
+                    9189
+                ],
+                [
+                    4541,
+                    9189
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "26",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4380,
+                    9294
+                ],
+                [
+                    4380,
+                    9398
+                ],
+                [
+                    4498,
+                    9398
+                ],
+                [
+                    4498,
+                    9294
+                ],
+                [
+                    4380,
+                    9294
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "VI",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4370,
+                    9130
+                ],
+                [
+                    4370,
+                    9275
+                ],
+                [
+                    4507,
+                    9275
+                ],
+                [
+                    4507,
+                    9130
+                ],
+                [
+                    4370,
+                    9130
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "18",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    231,
+                    8881
+                ],
+                [
+                    231,
+                    9118
+                ],
+                [
+                    1872,
+                    9118
+                ],
+                [
+                    1872,
+                    8881
+                ],
+                [
+                    231,
+                    8881
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Carex disperma Dewey",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    231,
+                    8881
+                ],
+                [
+                    231,
+                    9118
+                ],
+                [
+                    1872,
+                    9118
+                ],
+                [
+                    1872,
+                    8881
+                ],
+                [
+                    231,
+                    8881
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Carex disperma Dewey",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    210,
+                    9319
+                ],
+                [
+                    210,
+                    9471
+                ],
+                [
+                    1059,
+                    9471
+                ],
+                [
+                    1059,
+                    9319
+                ],
+                [
+                    210,
+                    9319
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "DET K. Orav",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    210,
+                    9319
+                ],
+                [
+                    210,
+                    9471
+                ],
+                [
+                    1059,
+                    9471
+                ],
+                [
+                    1059,
+                    9319
+                ],
+                [
+                    210,
+                    9319
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "DET . . . K . Orav",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1492,
+                    9239
+                ],
+                [
+                    1492,
+                    9392
+                ],
+                [
+                    2003,
+                    9392
+                ],
+                [
+                    2003,
+                    9239
+                ],
+                [
+                    1492,
+                    9239
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "16.07.2008",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1492,
+                    9239
+                ],
+                [
+                    1492,
+                    9392
+                ],
+                [
+                    2003,
+                    9392
+                ],
+                [
+                    2003,
+                    9239
+                ],
+                [
+                    1492,
+                    9239
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "16 . 07 . 2008",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        }
+    ]
+}

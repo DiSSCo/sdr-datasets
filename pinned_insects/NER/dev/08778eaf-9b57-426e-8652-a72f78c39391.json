@@ -1,0 +1,31 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "698eca92-2431-40db-b926-2bbd49e5a6e4",
+        "name": "dev"
+    },
+    "image": {
+        "id": "ceee082b-69f5-4de7-9940-919527e2ccbf",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/52b56071-9811-45dc-9de0-d235e0992b52",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/52b56071-9811-45dc-9de0-d235e0992b52/full/full/0/default.jpg"
+    },
+    "named_entities": [
+        {
+            "tags": "NHMUK010806366 B-identifier",
+            "worker_version_id": null
+        },
+        {
+            "tags": "K B-Collection/Donation\n. I-Collection/Donation\nU I-Collection/Donation\n. I-Collection/Donation\nClarke I-Collection/Donation\ncoll I-Collection/Donation\n. I-Collection/Donation\nBMNH B-identifier\n- I-identifier\nENT I-identifier\n- I-identifier\n2011 I-identifier\n- I-identifier\n160 I-identifier",
+            "worker_version_id": null
+        },
+        {
+            "tags": "Clumber B-location_name\nPark I-location_name\n4 B-date\nJuy I-date\n62 I-date",
+            "worker_version_id": null
+        }
+    ],
+    "page": {
+        "id": "08778eaf-9b57-426e-8652-a72f78c39391",
+        "name": "010806366__.2500x5792.jpeg",
+        "rotation_angle": 0
+    }
+}

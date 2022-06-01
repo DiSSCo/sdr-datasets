@@ -1,0 +1,31 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "70b43665-b402-4dfb-93d6-0cef8aeeefc7",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/adcc9d3e-e50e-4db4-8e95-8e2cdba3b5ef",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/adcc9d3e-e50e-4db4-8e95-8e2cdba3b5ef/full/full/0/default.jpg"
+    },
+    "named_entities": [
+        {
+            "tags": "C B-Collection/Donation\n. I-Collection/Donation\nL I-Collection/Donation\n. I-Collection/Donation\nChan I-Collection/Donation\nCollection I-Collection/Donation\nBMNH B-identifier\n( I-identifier\nE I-identifier\n) I-identifier\n2015 I-identifier\n- I-identifier\n144 I-identifier",
+            "worker_version_id": null
+        },
+        {
+            "tags": "NHMUK012497522 B-identifier",
+            "worker_version_id": null
+        },
+        {
+            "tags": "BORNEO B-location_name\n, I-location_name\nSarawak I-location_name\nMulu I-location_name\nNational I-location_name\nPark I-location_name\nGunung I-location_name\nMulu I-location_name\nTrail I-location_name\n15 B-date\n- I-date\n16 I-date\nMarch I-date\n1994 I-date\nColl O\n. O\nC B-person_name\n. I-person_name\nL I-person_name\n. I-person_name\nChan I-person_name\n& O\nPoon B-person_name",
+            "worker_version_id": null
+        }
+    ],
+    "page": {
+        "id": "67a33d8e-9f1a-4a74-8296-0e95e2725078",
+        "name": "012497522_72666_87272.2500x8688.jpeg",
+        "rotation_angle": 0
+    }
+}

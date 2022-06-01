@@ -1,0 +1,31 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "698eca92-2431-40db-b926-2bbd49e5a6e4",
+        "name": "dev"
+    },
+    "image": {
+        "id": "5d91d14d-5b68-41b6-ae68-ba0ce0116537",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/1ec99d09-2d29-4b91-9667-9a2cde4c0edc",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/1ec99d09-2d29-4b91-9667-9a2cde4c0edc/full/full/0/default.jpg"
+    },
+    "named_entities": [
+        {
+            "tags": "Christie B-Collection/Donation\nColl I-Collection/Donation\n. I-Collection/Donation\nBMNH B-identifier\n( I-identifier\nE I-identifier\n) I-identifier\n2010 I-identifier\n- I-identifier\n62 I-identifier",
+            "worker_version_id": null
+        },
+        {
+            "tags": "NHMUK010616245 B-identifier",
+            "worker_version_id": null
+        },
+        {
+            "tags": "CHALFORD B-location_name\nI B-date\n. I-date\nV I-date\n. I-date\n49 I-date",
+            "worker_version_id": null
+        }
+    ],
+    "page": {
+        "id": "72afd030-706a-45d0-8781-1a8628c51564",
+        "name": "010616245_151512_1084656.2500x5792.jpeg",
+        "rotation_angle": 0
+    }
+}

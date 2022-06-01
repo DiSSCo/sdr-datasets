@@ -1,0 +1,960 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "40737841-bfc1-4187-b1f6-3328e53d3aa3",
+        "name": "MeiseBG"
+    },
+    "image": {
+        "id": "60be6832-c08c-41e7-9020-63360ef0fd9c",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FBR0000005619498.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FBR0000005619498.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "c111bcaf-4b7d-4342-a032-755c86981509",
+        "name": "BR0000005619498",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    3796,
+                    8336
+                ],
+                [
+                    3796,
+                    8694
+                ],
+                [
+                    5612,
+                    8694
+                ],
+                [
+                    5612,
+                    8336
+                ],
+                [
+                    3796,
+                    8336
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Galium lanceolatum",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3796,
+                    8336
+                ],
+                [
+                    3796,
+                    8694
+                ],
+                [
+                    5612,
+                    8694
+                ],
+                [
+                    5612,
+                    8336
+                ],
+                [
+                    3796,
+                    8336
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "by alium lanceolatum or",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3799,
+                    8843
+                ],
+                [
+                    3799,
+                    9040
+                ],
+                [
+                    4748,
+                    9040
+                ],
+                [
+                    4748,
+                    8843
+                ],
+                [
+                    3799,
+                    8843
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "White Plains",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3799,
+                    8843
+                ],
+                [
+                    3799,
+                    9040
+                ],
+                [
+                    4748,
+                    9040
+                ],
+                [
+                    4748,
+                    8843
+                ],
+                [
+                    3799,
+                    8843
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "White hains",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3719,
+                    9216
+                ],
+                [
+                    3719,
+                    9479
+                ],
+                [
+                    5696,
+                    9479
+                ],
+                [
+                    5696,
+                    9216
+                ],
+                [
+                    3719,
+                    9216
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Communic. H.J. Clark 1857",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    3719,
+                    9216
+                ],
+                [
+                    3719,
+                    9479
+                ],
+                [
+                    5696,
+                    9479
+                ],
+                [
+                    5696,
+                    9216
+                ],
+                [
+                    3719,
+                    9216
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Communic . ZI . Clark 18s",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4234,
+                    9651
+                ],
+                [
+                    4234,
+                    9749
+                ],
+                [
+                    5178,
+                    9749
+                ],
+                [
+                    5178,
+                    9651
+                ],
+                [
+                    4234,
+                    9651
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERBARIUM MARTII.",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    4234,
+                    9651
+                ],
+                [
+                    4234,
+                    9749
+                ],
+                [
+                    5178,
+                    9749
+                ],
+                [
+                    5178,
+                    9651
+                ],
+                [
+                    4234,
+                    9651
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERBARIUM MARTIL",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2113,
+                    7771
+                ],
+                [
+                    2113,
+                    7870
+                ],
+                [
+                    3438,
+                    7870
+                ],
+                [
+                    3438,
+                    7771
+                ],
+                [
+                    2113,
+                    7771
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herb. Horti Bot. Nat. Belg. (BR)",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    2113,
+                    7771
+                ],
+                [
+                    2113,
+                    7870
+                ],
+                [
+                    3438,
+                    7870
+                ],
+                [
+                    3438,
+                    7771
+                ],
+                [
+                    2113,
+                    7771
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herb . Horti Bot . Nat . Belg . ( BR )",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2923,
+                    7899
+                ],
+                [
+                    2923,
+                    8008
+                ],
+                [
+                    3343,
+                    8008
+                ],
+                [
+                    3343,
+                    7899
+                ],
+                [
+                    2923,
+                    7899
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BR - S.P.",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    2923,
+                    7899
+                ],
+                [
+                    2923,
+                    8008
+                ],
+                [
+                    3343,
+                    8008
+                ],
+                [
+                    3343,
+                    7899
+                ],
+                [
+                    2923,
+                    7899
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BR - S . P .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2854,
+                    8103
+                ],
+                [
+                    2854,
+                    8253
+                ],
+                [
+                    3419,
+                    8253
+                ],
+                [
+                    3419,
+                    8103
+                ],
+                [
+                    2854,
+                    8103
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "561 949",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    2854,
+                    8103
+                ],
+                [
+                    2854,
+                    8253
+                ],
+                [
+                    3419,
+                    8253
+                ],
+                [
+                    3419,
+                    8103
+                ],
+                [
+                    2854,
+                    8103
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "561 949",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1923,
+                    8406
+                ],
+                [
+                    1923,
+                    8473
+                ],
+                [
+                    3113,
+                    8473
+                ],
+                [
+                    3113,
+                    8406
+                ],
+                [
+                    1923,
+                    8406
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herbier du jardin botanique de l'Etat",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    1923,
+                    8406
+                ],
+                [
+                    1923,
+                    8473
+                ],
+                [
+                    3113,
+                    8473
+                ],
+                [
+                    3113,
+                    8406
+                ],
+                [
+                    1923,
+                    8406
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herbier du jardin botanique de l ' Etaj",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2309,
+                    8496
+                ],
+                [
+                    2309,
+                    8560
+                ],
+                [
+                    2768,
+                    8560
+                ],
+                [
+                    2768,
+                    8496
+                ],
+                [
+                    2309,
+                    8496
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "RRUXELLES.",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    2309,
+                    8496
+                ],
+                [
+                    2309,
+                    8560
+                ],
+                [
+                    2768,
+                    8560
+                ],
+                [
+                    2768,
+                    8496
+                ],
+                [
+                    2309,
+                    8496
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "RRUXELLES .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1618,
+                    8821
+                ],
+                [
+                    1769,
+                    9017
+                ],
+                [
+                    1805,
+                    8880
+                ],
+                [
+                    2331,
+                    8875
+                ],
+                [
+                    2361,
+                    8915
+                ],
+                [
+                    2389,
+                    8864
+                ],
+                [
+                    2836,
+                    8872
+                ],
+                [
+                    2826,
+                    8760
+                ],
+                [
+                    1754,
+                    8767
+                ],
+                [
+                    1634,
+                    8818
+                ],
+                [
+                    1618,
+                    8821
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Galium circaezans Michx var. lanceolatum DC",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    1618,
+                    8821
+                ],
+                [
+                    1769,
+                    9017
+                ],
+                [
+                    1805,
+                    8880
+                ],
+                [
+                    2331,
+                    8875
+                ],
+                [
+                    2361,
+                    8915
+                ],
+                [
+                    2389,
+                    8864
+                ],
+                [
+                    2836,
+                    8872
+                ],
+                [
+                    2826,
+                    8760
+                ],
+                [
+                    1754,
+                    8767
+                ],
+                [
+                    1634,
+                    8818
+                ],
+                [
+                    1618,
+                    8821
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Galuni ver . cercalz lanceolatum aus Mehis DC",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1618,
+                    8821
+                ],
+                [
+                    1769,
+                    9017
+                ],
+                [
+                    1805,
+                    8880
+                ],
+                [
+                    2331,
+                    8875
+                ],
+                [
+                    2361,
+                    8915
+                ],
+                [
+                    2389,
+                    8864
+                ],
+                [
+                    2836,
+                    8872
+                ],
+                [
+                    2826,
+                    8760
+                ],
+                [
+                    1754,
+                    8767
+                ],
+                [
+                    1634,
+                    8818
+                ],
+                [
+                    1618,
+                    8821
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Galium circaezans Michx",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1907,
+                    8931
+                ],
+                [
+                    1912,
+                    8943
+                ],
+                [
+                    1907,
+                    8995
+                ],
+                [
+                    2862,
+                    8982
+                ],
+                [
+                    2831,
+                    8890
+                ],
+                [
+                    2474,
+                    8897
+                ],
+                [
+                    2389,
+                    8903
+                ],
+                [
+                    2371,
+                    8936
+                ],
+                [
+                    2152,
+                    8943
+                ],
+                [
+                    2160,
+                    8908
+                ],
+                [
+                    2131,
+                    8905
+                ],
+                [
+                    2108,
+                    8938
+                ],
+                [
+                    1907,
+                    8931
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "var. lanceolatum DC",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    658,
+                    8747
+                ],
+                [
+                    658,
+                    8819
+                ],
+                [
+                    1307,
+                    8819
+                ],
+                [
+                    1307,
+                    8747
+                ],
+                [
+                    658,
+                    8747
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Databased and imaged",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    658,
+                    8747
+                ],
+                [
+                    658,
+                    8819
+                ],
+                [
+                    1307,
+                    8819
+                ],
+                [
+                    1307,
+                    8747
+                ],
+                [
+                    658,
+                    8747
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Databased and imaged",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    908,
+                    8826
+                ],
+                [
+                    908,
+                    8898
+                ],
+                [
+                    1061,
+                    8898
+                ],
+                [
+                    1061,
+                    8826
+                ],
+                [
+                    908,
+                    8826
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "GPI",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    908,
+                    8826
+                ],
+                [
+                    908,
+                    8898
+                ],
+                [
+                    1061,
+                    8898
+                ],
+                [
+                    1061,
+                    8826
+                ],
+                [
+                    908,
+                    8826
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "GPI",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    908,
+                    8913
+                ],
+                [
+                    908,
+                    8977
+                ],
+                [
+                    1054,
+                    8977
+                ],
+                [
+                    1054,
+                    8913
+                ],
+                [
+                    908,
+                    8913
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "2011",
+            "worker_version": "a5d2eae0-0c00-4f85-a7a5-9251674752a0"
+        },
+        {
+            "polygon": [
+                [
+                    908,
+                    8913
+                ],
+                [
+                    908,
+                    8977
+                ],
+                [
+                    1054,
+                    8977
+                ],
+                [
+                    1054,
+                    8913
+                ],
+                [
+                    908,
+                    8913
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "2011",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    0,
+                    9120
+                ],
+                [
+                    0,
+                    9352
+                ],
+                [
+                    1453,
+                    9352
+                ],
+                [
+                    1453,
+                    9120
+                ],
+                [
+                    0,
+                    9120
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Galium lanceolatu",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    197,
+                    9411
+                ],
+                [
+                    197,
+                    9649
+                ],
+                [
+                    879,
+                    9649
+                ],
+                [
+                    879,
+                    9411
+                ],
+                [
+                    197,
+                    9411
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "W D",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2011,
+                    8257
+                ],
+                [
+                    2011,
+                    8311
+                ],
+                [
+                    2826,
+                    8311
+                ],
+                [
+                    2826,
+                    8257
+                ],
+                [
+                    2011,
+                    8257
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "0 000005 61949 8",
+            "worker_version": null
+        }
+    ]
+}

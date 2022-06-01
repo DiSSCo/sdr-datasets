@@ -1,0 +1,235 @@
+{
+    "dataset_id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+    "folder": {
+        "id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+        "name": "2000 Louse Subset"
+    },
+    "image": {
+        "id": "b97240a4-0c8e-4bd3-8cea-0e45573f72ec",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fsynthesys%2Fslides_images%2F7bc8bd71-0015-4d26-9f7a-3d3ad45ef86f.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fsynthesys%2Fslides_images%2F7bc8bd71-0015-4d26-9f7a-3d3ad45ef86f.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "7bc8bd71-0015-4d26-9f7a-3d3ad45ef86f",
+        "name": "110",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    411,
+                    5126
+                ],
+                [
+                    411,
+                    5263
+                ],
+                [
+                    849,
+                    5263
+                ],
+                [
+                    849,
+                    5126
+                ],
+                [
+                    411,
+                    5126
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "010671704",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    821,
+                    191
+                ],
+                [
+                    821,
+                    561
+                ],
+                [
+                    1890,
+                    561
+                ],
+                [
+                    1890,
+                    191
+                ],
+                [
+                    821,
+                    191
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "11489.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    260,
+                    753
+                ],
+                [
+                    260,
+                    1109
+                ],
+                [
+                    2699,
+                    1109
+                ],
+                [
+                    2699,
+                    753
+                ],
+                [
+                    260,
+                    753
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Orkney. Aug. 1938.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    342,
+                    5194
+                ],
+                [
+                    342,
+                    5592
+                ],
+                [
+                    479,
+                    5592
+                ],
+                [
+                    479,
+                    5194
+                ],
+                [
+                    342,
+                    5194
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    1233,
+                    1082
+                ],
+                [
+                    1233,
+                    1397
+                ],
+                [
+                    2082,
+                    1397
+                ],
+                [
+                    2082,
+                    1082
+                ],
+                [
+                    1233,
+                    1082
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "livia.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    808,
+                    1342
+                ],
+                [
+                    808,
+                    1699
+                ],
+                [
+                    2726,
+                    1699
+                ],
+                [
+                    2726,
+                    1342
+                ],
+                [
+                    808,
+                    1342
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Columba l.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    1124,
+                    1659
+                ],
+                [
+                    1124,
+                    2029
+                ],
+                [
+                    1932,
+                    2029
+                ],
+                [
+                    1932,
+                    1659
+                ],
+                [
+                    1124,
+                    1659
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ad. \u2640",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    479,
+                    2124
+                ],
+                [
+                    479,
+                    2412
+                ],
+                [
+                    2535,
+                    2412
+                ],
+                [
+                    2535,
+                    2124
+                ],
+                [
+                    479,
+                    2124
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "MEINERTZHAGEN",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "6d31599c-2ddf-437b-8e0b-421b8e0017ec",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/c7b10983-f3c1-449a-a521-39dc95e1abe9",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/c7b10983-f3c1-449a-a521-39dc95e1abe9/full/full/0/default.jpg"
+    },
+    "named_entities": [
+        {
+            "tags": "NHMUK012498163 B-identifier",
+            "worker_version_id": null
+        },
+        {
+            "tags": "MALAYA B-location_name\n, I-location_name\nUlu I-location_name\nGombak I-location_name\nFor I-location_name\n. I-location_name\nRes I-location_name\n. I-location_name\n, O\n8 B-date\n. I-date\nix I-date\n. I-date\n1967 I-date",
+            "worker_version_id": null
+        },
+        {
+            "tags": "MALAYA B-location_name\n: I-location_name\n30 I-location_name\nmls I-location_name\n. I-location_name\nN I-location_name\n. I-location_name\nE I-location_name\n. I-location_name\nof I-location_name\nKuala I-location_name\nLumpur I-location_name\n, I-location_name\nUlu I-location_name\nGombak I-location_name\nForest I-location_name\nReserve I-location_name\n. I-location_name\n8 B-date\n. I-date\nix I-date\n. I-date\n1967 I-date\nN B-person_name\n. I-person_name\nD I-person_name\n. I-person_name\nJago I-person_name\n. I-person_name\nB B-identifier\n. I-identifier\nM I-identifier\n. I-identifier\n1971 I-identifier\n- I-identifier\n25 I-identifier",
+            "worker_version_id": null
+        },
+        {
+            "tags": "coll B-Collection/Donation\n. I-Collection/Donation\nN I-Collection/Donation\n. I-Collection/Donation\nD I-Collection/Donation\n. I-Collection/Donation\nJago I-Collection/Donation",
+            "worker_version_id": null
+        }
+    ],
+    "page": {
+        "id": "ba0bbd2f-27c1-403a-9cef-cd07433e0f6f",
+        "name": "012498163_72122_85663.2500x5792.jpeg",
+        "rotation_angle": 0
+    }
+}

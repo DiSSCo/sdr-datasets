@@ -1,0 +1,27 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "2f8da6ce-c526-49f4-b588-9ff51df6defa",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/3bc6057b-1ff4-477b-9cd8-506ae95288f7",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/3bc6057b-1ff4-477b-9cd8-506ae95288f7/full/full/0/default.jpg"
+    },
+    "named_entities": [
+        {
+            "tags": "NHMUK011236532 B-identifier",
+            "worker_version_id": null
+        },
+        {
+            "tags": "Colchester B-location_name\n. I-location_name\n* O\n19 B-date",
+            "worker_version_id": null
+        }
+    ],
+    "page": {
+        "id": "644eabd4-533c-47b9-9550-cf9627cc8bc7",
+        "name": "011236532_151492_1084301.2500x5792.jpeg",
+        "rotation_angle": 0
+    }
+}

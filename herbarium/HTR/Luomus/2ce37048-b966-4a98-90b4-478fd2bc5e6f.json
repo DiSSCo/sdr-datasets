@@ -1,0 +1,586 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "e28d3ac9-9c27-461f-a8d0-9f42d20da281",
+        "name": "Luomus"
+    },
+    "image": {
+        "id": "0d3a6a7f-5d60-4181-8b17-313d161461b6",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FEIG.1561.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FEIG.1561.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "2ce37048-b966-4a98-90b4-478fd2bc5e6f",
+        "name": "EIG.1561",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    2535,
+                    6930
+                ],
+                [
+                    2535,
+                    7187
+                ],
+                [
+                    2636,
+                    7187
+                ],
+                [
+                    2636,
+                    6930
+                ],
+                [
+                    2535,
+                    6930
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Digitarium",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2932,
+                    6938
+                ],
+                [
+                    2932,
+                    7017
+                ],
+                [
+                    3503,
+                    7017
+                ],
+                [
+                    3503,
+                    6938
+                ],
+                [
+                    2932,
+                    6938
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "http : / / id . luomus . fi /",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3064,
+                    7021
+                ],
+                [
+                    3064,
+                    7086
+                ],
+                [
+                    3356,
+                    7086
+                ],
+                [
+                    3356,
+                    7021
+                ],
+                [
+                    3064,
+                    7021
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "EIG . 1561",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3029,
+                    7096
+                ],
+                [
+                    3029,
+                    7173
+                ],
+                [
+                    3392,
+                    7173
+                ],
+                [
+                    3392,
+                    7096
+                ],
+                [
+                    3029,
+                    7096
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "2013 - 03 - 27",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2486,
+                    7221
+                ],
+                [
+                    2486,
+                    7294
+                ],
+                [
+                    3104,
+                    7294
+                ],
+                [
+                    3104,
+                    7221
+                ],
+                [
+                    2486,
+                    7221
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "MUSEUM BOTANICUM",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2486,
+                    7294
+                ],
+                [
+                    2486,
+                    7363
+                ],
+                [
+                    3116,
+                    7363
+                ],
+                [
+                    3116,
+                    7294
+                ],
+                [
+                    2486,
+                    7294
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "UNIV . ( H ) HELSINKI",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2549,
+                    7404
+                ],
+                [
+                    2549,
+                    7501
+                ],
+                [
+                    3037,
+                    7501
+                ],
+                [
+                    3037,
+                    7404
+                ],
+                [
+                    2549,
+                    7404
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "1726 108 . .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2468,
+                    7540
+                ],
+                [
+                    2468,
+                    7665
+                ],
+                [
+                    2758,
+                    7665
+                ],
+                [
+                    2758,
+                    7540
+                ],
+                [
+                    2468,
+                    7540
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "QUADR .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4043,
+                    6640
+                ],
+                [
+                    4043,
+                    6727
+                ],
+                [
+                    5089,
+                    6727
+                ],
+                [
+                    5089,
+                    6640
+                ],
+                [
+                    4043,
+                    6640
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Ex Herbarium , Institute of Botany ,",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4047,
+                    6729
+                ],
+                [
+                    4047,
+                    6798
+                ],
+                [
+                    4937,
+                    6798
+                ],
+                [
+                    4937,
+                    6729
+                ],
+                [
+                    4047,
+                    6729
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Academia Sinica , Beijing ( PE )",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4049,
+                    6802
+                ],
+                [
+                    4049,
+                    6887
+                ],
+                [
+                    5097,
+                    6887
+                ],
+                [
+                    5097,
+                    6802
+                ],
+                [
+                    4049,
+                    6802
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "\u4e2d\u56fd\u79d1\u5b66\u9662\u690d\u7269\u7814\u7a76\u6240\u6807\u672c\u9986 ( PE )",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4049,
+                    6802
+                ],
+                [
+                    4049,
+                    6887
+                ],
+                [
+                    5097,
+                    6887
+                ],
+                [
+                    5097,
+                    6802
+                ],
+                [
+                    4049,
+                    6802
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "\u4e2d\u56fd\u79d1\u5b66\u9662\u690d\u7269\u7814\u7a76\u6240\u6807\u672c\u9986 (PE)",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    4241,
+                    6966
+                ],
+                [
+                    4241,
+                    7029
+                ],
+                [
+                    4813,
+                    7029
+                ],
+                [
+                    4813,
+                    6966
+                ],
+                [
+                    4241,
+                    6966
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "FLORA OF CHINA",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4081,
+                    7075
+                ],
+                [
+                    4081,
+                    7150
+                ],
+                [
+                    4967,
+                    7150
+                ],
+                [
+                    4967,
+                    7075
+                ],
+                [
+                    4081,
+                    7075
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Drynaria fortunei ( Kze . ) J . Sm .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4243,
+                    7154
+                ],
+                [
+                    4243,
+                    7227
+                ],
+                [
+                    4835,
+                    7227
+                ],
+                [
+                    4835,
+                    7154
+                ],
+                [
+                    4243,
+                    7154
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "( POLYPODIACEAE )",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4051,
+                    7264
+                ],
+                [
+                    4051,
+                    7339
+                ],
+                [
+                    5236,
+                    7339
+                ],
+                [
+                    5236,
+                    7264
+                ],
+                [
+                    4051,
+                    7264
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Loc . : Jiangxi Prov . Wuning Co . Wuningyan",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4239,
+                    7345
+                ],
+                [
+                    4239,
+                    7414
+                ],
+                [
+                    4667,
+                    7414
+                ],
+                [
+                    4667,
+                    7345
+                ],
+                [
+                    4239,
+                    7345
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "alt . 450m , herb",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4239,
+                    7426
+                ],
+                [
+                    4239,
+                    7499
+                ],
+                [
+                    4912,
+                    7499
+                ],
+                [
+                    4912,
+                    7426
+                ],
+                [
+                    4239,
+                    7426
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "in moist place in valley",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4055,
+                    7499
+                ],
+                [
+                    4055,
+                    7576
+                ],
+                [
+                    4851,
+                    7576
+                ],
+                [
+                    4851,
+                    7499
+                ],
+                [
+                    4055,
+                    7499
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Leg . : Tan Ce - ming 9611152",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4233,
+                    7586
+                ],
+                [
+                    4233,
+                    7661
+                ],
+                [
+                    4785,
+                    7661
+                ],
+                [
+                    4785,
+                    7586
+                ],
+                [
+                    4233,
+                    7586
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "29 November 1996",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    5100,
+                    73
+                ],
+                [
+                    5100,
+                    203
+                ],
+                [
+                    5512,
+                    203
+                ],
+                [
+                    5512,
+                    73
+                ],
+                [
+                    5100,
+                    73
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "\u013caunuo",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        }
+    ]
+}

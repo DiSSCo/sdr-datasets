@@ -1,0 +1,31 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "990ce551-5713-4f38-b032-7e6ed8c03e12",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/b67a60db-d6eb-4bf8-b1d5-8d19b5ecfbb0",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/b67a60db-d6eb-4bf8-b1d5-8d19b5ecfbb0/full/full/0/default.jpg"
+    },
+    "named_entities": [
+        {
+            "tags": "[ B-location_name\nMalaysia I-location_name\n] I-location_name\nCameron I-location_name\nHighland I-location_name\nX B-date\n- I-date\nXII I-date\n. I-date\n1985 I-date\n. I-date\nfrom B-Collection/Donation\nK I-Collection/Donation\n. I-Collection/Donation\nC I-Collection/Donation\n. I-Collection/Donation\nLiew I-Collection/Donation",
+            "worker_version_id": null
+        },
+        {
+            "tags": "NHMUK012500375 B-identifier",
+            "worker_version_id": null
+        },
+        {
+            "tags": "Inoue B-Collection/Donation\ncoll I-Collection/Donation\n. I-Collection/Donation\nBM B-identifier\n1992 I-identifier\n- I-identifier\n71 I-identifier",
+            "worker_version_id": null
+        }
+    ],
+    "page": {
+        "id": "5ccba1f6-98f9-4b4f-8bad-30f5e8be140f",
+        "name": "012500375_899959_1381481.2500x5792.jpeg",
+        "rotation_angle": 0
+    }
+}

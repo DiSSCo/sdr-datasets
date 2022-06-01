@@ -1,0 +1,235 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "7e2c2919-cb05-4284-8c8d-5c1a51ef76e3",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/e616def0-101e-4005-9ed6-2dcd9fcf519b",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/e616def0-101e-4005-9ed6-2dcd9fcf519b/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "6ac2db87-6569-4290-8fd6-b2ee2fc6be7a",
+        "name": "010811477__.2500x5792.jpeg",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    1655,
+                    680
+                ],
+                [
+                    1655,
+                    762
+                ],
+                [
+                    1947,
+                    762
+                ],
+                [
+                    1947,
+                    680
+                ],
+                [
+                    1655,
+                    680
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "LANCS",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1607,
+                    741
+                ],
+                [
+                    1607,
+                    846
+                ],
+                [
+                    1982,
+                    846
+                ],
+                [
+                    1982,
+                    741
+                ],
+                [
+                    1607,
+                    741
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Roanhead",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1598,
+                    829
+                ],
+                [
+                    1598,
+                    917
+                ],
+                [
+                    1973,
+                    917
+                ],
+                [
+                    1973,
+                    829
+                ],
+                [
+                    1598,
+                    829
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "nr Barrow",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1626,
+                    914
+                ],
+                [
+                    1626,
+                    1021
+                ],
+                [
+                    1954,
+                    1021
+                ],
+                [
+                    1954,
+                    914
+                ],
+                [
+                    1626,
+                    914
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "4 Aug 63",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1611,
+                    1081
+                ],
+                [
+                    1611,
+                    1142
+                ],
+                [
+                    1968,
+                    1142
+                ],
+                [
+                    1968,
+                    1081
+                ],
+                [
+                    1611,
+                    1081
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "K.U. Clarke coll.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1609,
+                    1130
+                ],
+                [
+                    1609,
+                    1199
+                ],
+                [
+                    1916,
+                    1199
+                ],
+                [
+                    1916,
+                    1130
+                ],
+                [
+                    1609,
+                    1130
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BMNH-ENT-",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1611,
+                    1187
+                ],
+                [
+                    1611,
+                    1250
+                ],
+                [
+                    1870,
+                    1250
+                ],
+                [
+                    1870,
+                    1187
+                ],
+                [
+                    1611,
+                    1187
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "2011-160",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1703,
+                    1465
+                ],
+                [
+                    1703,
+                    1524
+                ],
+                [
+                    2236,
+                    1524
+                ],
+                [
+                    2236,
+                    1465
+                ],
+                [
+                    1703,
+                    1465
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK010811477",
+            "worker_version": null
+        }
+    ]
+}

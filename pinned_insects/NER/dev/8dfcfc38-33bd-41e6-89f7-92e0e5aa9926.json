@@ -1,0 +1,31 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "698eca92-2431-40db-b926-2bbd49e5a6e4",
+        "name": "dev"
+    },
+    "image": {
+        "id": "80761c69-5a44-4145-80df-9f885d116ec9",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/0935c281-3e15-4079-af54-8da075b03645",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/0935c281-3e15-4079-af54-8da075b03645/full/full/0/default.jpg"
+    },
+    "named_entities": [
+        {
+            "tags": "Pres B-Collection/Donation\n. I-Collection/Donation\nby I-Collection/Donation\nImp I-Collection/Donation\n. I-Collection/Donation\nInst I-Collection/Donation\n. I-Collection/Donation\nEnt I-Collection/Donation\n. I-Collection/Donation\nB B-identifier\n. I-identifier\nM I-identifier\n. I-identifier\n1939 I-identifier\n- I-identifier\n197 I-identifier\n. I-identifier",
+            "worker_version_id": null
+        },
+        {
+            "tags": "Malaya B-location_name\nKlang I-location_name\nGates I-location_name\n22 B-date\n. I-date\nx I-date\n. I-date\n1933 I-date\nN B-person_name\n. I-person_name\nC I-person_name\n. I-person_name\nE I-person_name\n. I-person_name\nMiller I-person_name",
+            "worker_version_id": null
+        },
+        {
+            "tags": "Creobroter B-taxon_name\ngranulicollis I-taxon_name\nSauss B-person_name\n. I-person_name\nDet B-Determination\n. I-Determination\nN I-Determination\n. I-Determination\nC I-Determination\n. I-Determination\nE I-Determination\n. I-Determination\nMiller I-Determination",
+            "worker_version_id": null
+        }
+    ],
+    "page": {
+        "id": "8dfcfc38-33bd-41e6-89f7-92e0e5aa9926",
+        "name": "012496461_71045_81948.2500x5792.jpeg",
+        "rotation_angle": 0
+    }
+}

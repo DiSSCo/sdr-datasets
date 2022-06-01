@@ -1,0 +1,814 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "479c24a2-d399-4074-b47f-7c82c51a95d8",
+        "name": "RBGE"
+    },
+    "image": {
+        "id": "1b724294-c481-499e-a998-5ff20aead9e0",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FE00177150.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FE00177150.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "86e428b8-f6e8-4e67-a2e4-93448b2fb4c4",
+        "name": "E00177150",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    4477,
+                    55
+                ],
+                [
+                    4477,
+                    219
+                ],
+                [
+                    6088,
+                    229
+                ],
+                [
+                    6081,
+                    55
+                ],
+                [
+                    4477,
+                    55
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB . HORT . EDINB .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    5072,
+                    6513
+                ],
+                [
+                    5072,
+                    6824
+                ],
+                [
+                    6102,
+                    6824
+                ],
+                [
+                    6102,
+                    6513
+                ],
+                [
+                    5072,
+                    6513
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Sheet 3 .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    5072,
+                    6513
+                ],
+                [
+                    5072,
+                    6824
+                ],
+                [
+                    6102,
+                    6824
+                ],
+                [
+                    6102,
+                    6513
+                ],
+                [
+                    5072,
+                    6513
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Sheet 3 .",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    3959,
+                    6817
+                ],
+                [
+                    3959,
+                    6948
+                ],
+                [
+                    5224,
+                    6948
+                ],
+                [
+                    5224,
+                    6817
+                ],
+                [
+                    3959,
+                    6817
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "FLORA OF BORNEO",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4028,
+                    6955
+                ],
+                [
+                    4028,
+                    7080
+                ],
+                [
+                    5141,
+                    7080
+                ],
+                [
+                    5141,
+                    6955
+                ],
+                [
+                    4028,
+                    6955
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Collected by Axel D . Poulsen",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3198,
+                    7225
+                ],
+                [
+                    3198,
+                    7322
+                ],
+                [
+                    3398,
+                    7322
+                ],
+                [
+                    3398,
+                    7225
+                ],
+                [
+                    3198,
+                    7225
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "130",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    5487,
+                    7170
+                ],
+                [
+                    5487,
+                    7349
+                ],
+                [
+                    6027,
+                    7349
+                ],
+                [
+                    6027,
+                    7170
+                ],
+                [
+                    5487,
+                    7170
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Zingiberaceae",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3194,
+                    7363
+                ],
+                [
+                    3194,
+                    7467
+                ],
+                [
+                    3574,
+                    7467
+                ],
+                [
+                    3574,
+                    7363
+                ],
+                [
+                    3194,
+                    7363
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Etlingera",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3216,
+                    7484
+                ],
+                [
+                    3216,
+                    7564
+                ],
+                [
+                    4358,
+                    7564
+                ],
+                [
+                    4358,
+                    7484
+                ],
+                [
+                    3216,
+                    7484
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "det . Smith , R . M . ( E ) , Dec . 1991 .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3222,
+                    7595
+                ],
+                [
+                    3222,
+                    7692
+                ],
+                [
+                    4400,
+                    7692
+                ],
+                [
+                    4400,
+                    7595
+                ],
+                [
+                    3222,
+                    7595
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Province TEMBURONG , BRUNEI",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3202,
+                    7695
+                ],
+                [
+                    3222,
+                    7744
+                ],
+                [
+                    3222,
+                    7799
+                ],
+                [
+                    3878,
+                    7791
+                ],
+                [
+                    5878,
+                    7787
+                ],
+                [
+                    5889,
+                    7692
+                ],
+                [
+                    4254,
+                    7706
+                ],
+                [
+                    3202,
+                    7695
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Batu Apoi Forest Reserve . Setap shale formation . Ridge W . of Kuala Belalong",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3218,
+                    7806
+                ],
+                [
+                    3218,
+                    7897
+                ],
+                [
+                    5609,
+                    7897
+                ],
+                [
+                    5609,
+                    7806
+                ],
+                [
+                    3218,
+                    7806
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Field Studies Center slope . Near Danish Plot , mixed dipterocarp forest .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3238,
+                    7980
+                ],
+                [
+                    3238,
+                    8107
+                ],
+                [
+                    4585,
+                    8107
+                ],
+                [
+                    4585,
+                    7980
+                ],
+                [
+                    3238,
+                    7980
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "( 115\u00b0 009 ' E 004\u00b0 033 ' N ) Alt . 220 m .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    5534,
+                    7980
+                ],
+                [
+                    5534,
+                    8075
+                ],
+                [
+                    6032,
+                    8075
+                ],
+                [
+                    6032,
+                    7980
+                ],
+                [
+                    5534,
+                    7980
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "27 Mar 1991",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3230,
+                    8135
+                ],
+                [
+                    3230,
+                    8237
+                ],
+                [
+                    5909,
+                    8237
+                ],
+                [
+                    5909,
+                    8135
+                ],
+                [
+                    3230,
+                    8135
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Life form : terrestrial herb . Inflorescence basal from underground shoot ; flowers",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3230,
+                    8257
+                ],
+                [
+                    3230,
+                    8348
+                ],
+                [
+                    4621,
+                    8348
+                ],
+                [
+                    4621,
+                    8257
+                ],
+                [
+                    3230,
+                    8257
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "purple - red . Belongs to the Punicea - group .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3234,
+                    8348
+                ],
+                [
+                    3234,
+                    8423
+                ],
+                [
+                    4309,
+                    8423
+                ],
+                [
+                    4309,
+                    8348
+                ],
+                [
+                    3234,
+                    8348
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Material at : BRUN , K , AAU , \u00c9",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3522,
+                    8467
+                ],
+                [
+                    3522,
+                    8550
+                ],
+                [
+                    5704,
+                    8550
+                ],
+                [
+                    5704,
+                    8467
+                ],
+                [
+                    3522,
+                    8467
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Institute of Biological Sciences , Department of Systematic Botany ,",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4071,
+                    8554
+                ],
+                [
+                    4071,
+                    8637
+                ],
+                [
+                    5198,
+                    8637
+                ],
+                [
+                    5198,
+                    8554
+                ],
+                [
+                    4071,
+                    8554
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Aarhus University ( AAU ) , Denmark",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3795,
+                    8633
+                ],
+                [
+                    3795,
+                    8728
+                ],
+                [
+                    5542,
+                    8728
+                ],
+                [
+                    5542,
+                    8633
+                ],
+                [
+                    3795,
+                    8633
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "in collaboration with Universiti Brunei Darussalam and",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3716,
+                    8743
+                ],
+                [
+                    3716,
+                    8830
+                ],
+                [
+                    5589,
+                    8830
+                ],
+                [
+                    5589,
+                    8743
+                ],
+                [
+                    3716,
+                    8743
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Royal Geographical Society ( Rain Forest Project 1991 - 92 )",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1994,
+                    9366
+                ],
+                [
+                    1994,
+                    9466
+                ],
+                [
+                    2385,
+                    9466
+                ],
+                [
+                    2385,
+                    9366
+                ],
+                [
+                    1994,
+                    9366
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ISOTYPE",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1285,
+                    9459
+                ],
+                [
+                    1285,
+                    9670
+                ],
+                [
+                    3229,
+                    9670
+                ],
+                [
+                    3229,
+                    9459
+                ],
+                [
+                    1285,
+                    9459
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Ettingera belalongensis A . D . Poulsen",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1285,
+                    9459
+                ],
+                [
+                    1285,
+                    9670
+                ],
+                [
+                    3229,
+                    9670
+                ],
+                [
+                    3229,
+                    9459
+                ],
+                [
+                    1285,
+                    9459
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Etlingera belalongensis A.D.Poulsen",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1175,
+                    9677
+                ],
+                [
+                    1175,
+                    9826
+                ],
+                [
+                    3001,
+                    9826
+                ],
+                [
+                    3001,
+                    9677
+                ],
+                [
+                    1175,
+                    9677
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Nordis J . Bot . 19 : 14 ) . 1999",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1175,
+                    9677
+                ],
+                [
+                    1175,
+                    9826
+                ],
+                [
+                    3001,
+                    9826
+                ],
+                [
+                    3001,
+                    9677
+                ],
+                [
+                    1175,
+                    9677
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Nordic J . Bot . 19 : 141. 1999",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    241,
+                    9535
+                ],
+                [
+                    894,
+                    9525
+                ],
+                [
+                    894,
+                    9462
+                ],
+                [
+                    244,
+                    9462
+                ],
+                [
+                    241,
+                    9535
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ROYAL BOTANIC GARDEN",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    414,
+                    9535
+                ],
+                [
+                    414,
+                    9590
+                ],
+                [
+                    735,
+                    9590
+                ],
+                [
+                    735,
+                    9535
+                ],
+                [
+                    414,
+                    9535
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "EDINBURGH",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    313,
+                    9767
+                ],
+                [
+                    313,
+                    9853
+                ],
+                [
+                    835,
+                    9853
+                ],
+                [
+                    835,
+                    9767
+                ],
+                [
+                    313,
+                    9767
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "E00177150",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        }
+    ]
+}

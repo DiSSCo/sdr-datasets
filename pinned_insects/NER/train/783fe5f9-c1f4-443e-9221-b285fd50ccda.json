@@ -1,0 +1,35 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6b1d5ef6-aa0f-42b4-9155-2eebcc2c3ec5",
+        "name": "train"
+    },
+    "image": {
+        "id": "d5bb8e86-4a03-4142-a328-6a9079d9ec9f",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/0e79c885-09be-4753-97de-3d357d633700",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/0e79c885-09be-4753-97de-3d357d633700/full/full/0/default.jpg"
+    },
+    "named_entities": [
+        {
+            "tags": "Ex B-Collection/Donation\nOberth\u00fcr I-Collection/Donation\nColl I-Collection/Donation\n. O\nBrit B-identifier\n. I-identifier\nMus I-identifier\n: I-identifier\n1927 I-identifier\n- I-identifier\n3 I-identifier\n. O",
+            "worker_version_id": null
+        },
+        {
+            "tags": "PARA B-type_status\n- I-type_status\nLECTO I-type_status\n- I-type_status\nTYPE I-type_status",
+            "worker_version_id": null
+        },
+        {
+            "tags": "NHMUK010620630 B-identifier",
+            "worker_version_id": null
+        },
+        {
+            "tags": "Madagascar B-taxon_name\nFianarantsoa I-taxon_name\nex O\nLamberton B-location_name\n, O\n1922 B-date",
+            "worker_version_id": null
+        }
+    ],
+    "page": {
+        "id": "783fe5f9-c1f4-443e-9221-b285fd50ccda",
+        "name": "010620630_D_Culapa_houlbertiana_Oberthur_1923_2.32.4.12.2500x3456.jpeg",
+        "rotation_angle": 0
+    }
+}

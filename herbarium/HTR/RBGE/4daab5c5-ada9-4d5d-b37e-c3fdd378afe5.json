@@ -1,0 +1,837 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "479c24a2-d399-4074-b47f-7c82c51a95d8",
+        "name": "RBGE"
+    },
+    "image": {
+        "id": "e3a91ef4-dfbf-4791-b313-1a8031d9d287",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FE00284633.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FE00284633.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "4daab5c5-ada9-4d5d-b37e-c3fdd378afe5",
+        "name": "E00284633",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    5955,
+                    75
+                ],
+                [
+                    5955,
+                    272
+                ],
+                [
+                    6104,
+                    272
+                ],
+                [
+                    6104,
+                    75
+                ],
+                [
+                    5955,
+                    75
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "N",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    69,
+                    7579
+                ],
+                [
+                    82,
+                    7834
+                ],
+                [
+                    1539,
+                    7742
+                ],
+                [
+                    1520,
+                    7579
+                ],
+                [
+                    69,
+                    7579
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Indigofera decora Linday",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    69,
+                    7579
+                ],
+                [
+                    82,
+                    7834
+                ],
+                [
+                    1539,
+                    7742
+                ],
+                [
+                    1520,
+                    7579
+                ],
+                [
+                    69,
+                    7579
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Indigofera decora Lindley",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    111,
+                    7945
+                ],
+                [
+                    117,
+                    8052
+                ],
+                [
+                    1797,
+                    7971
+                ],
+                [
+                    1787,
+                    7830
+                ],
+                [
+                    111,
+                    7945
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Det . M - Sanja ppu E B . Scherine",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    111,
+                    7945
+                ],
+                [
+                    117,
+                    8052
+                ],
+                [
+                    1797,
+                    7971
+                ],
+                [
+                    1787,
+                    7830
+                ],
+                [
+                    111,
+                    7945
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Det. M - Sanjappu & B. Scherine",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    444,
+                    8065
+                ],
+                [
+                    447,
+                    8059
+                ],
+                [
+                    447,
+                    8205
+                ],
+                [
+                    1050,
+                    8205
+                ],
+                [
+                    1047,
+                    8055
+                ],
+                [
+                    444,
+                    8065
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "3000 1999",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    444,
+                    8065
+                ],
+                [
+                    447,
+                    8059
+                ],
+                [
+                    447,
+                    8205
+                ],
+                [
+                    1050,
+                    8205
+                ],
+                [
+                    1047,
+                    8055
+                ],
+                [
+                    444,
+                    8065
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "30/06/1999",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    265,
+                    8336
+                ],
+                [
+                    265,
+                    8434
+                ],
+                [
+                    998,
+                    8434
+                ],
+                [
+                    998,
+                    8336
+                ],
+                [
+                    265,
+                    8336
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Type Specimen",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    265,
+                    8336
+                ],
+                [
+                    265,
+                    8434
+                ],
+                [
+                    998,
+                    8434
+                ],
+                [
+                    998,
+                    8336
+                ],
+                [
+                    265,
+                    8336
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Type Specimen",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    59,
+                    8554
+                ],
+                [
+                    59,
+                    8698
+                ],
+                [
+                    1605,
+                    8698
+                ],
+                [
+                    1605,
+                    8554
+                ],
+                [
+                    59,
+                    8554
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "No . 3082 ARNOLD ARBORETUM .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    59,
+                    8554
+                ],
+                [
+                    59,
+                    8698
+                ],
+                [
+                    1605,
+                    8698
+                ],
+                [
+                    1605,
+                    8554
+                ],
+                [
+                    59,
+                    8554
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "No. 3082 ARNOLD ARBORETUM.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    599,
+                    8721
+                ],
+                [
+                    599,
+                    8825
+                ],
+                [
+                    1714,
+                    8825
+                ],
+                [
+                    1714,
+                    8721
+                ],
+                [
+                    599,
+                    8721
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "EXPEDITION TO CHINA , 1907 - 09 .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    599,
+                    8721
+                ],
+                [
+                    599,
+                    8825
+                ],
+                [
+                    1714,
+                    8825
+                ],
+                [
+                    1714,
+                    8721
+                ],
+                [
+                    599,
+                    8721
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "EXPEDITION TO CHINA, 1907 - 09.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    860,
+                    8871
+                ],
+                [
+                    860,
+                    8966
+                ],
+                [
+                    1503,
+                    8966
+                ],
+                [
+                    1503,
+                    8871
+                ],
+                [
+                    860,
+                    8871
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Western Hupeh .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    860,
+                    8871
+                ],
+                [
+                    860,
+                    8966
+                ],
+                [
+                    1503,
+                    8966
+                ],
+                [
+                    1503,
+                    8871
+                ],
+                [
+                    860,
+                    8871
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Western Hupeh.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    49,
+                    9019
+                ],
+                [
+                    49,
+                    9237
+                ],
+                [
+                    2328,
+                    9237
+                ],
+                [
+                    2328,
+                    9019
+                ],
+                [
+                    49,
+                    9019
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "digofera schangensis Craib .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    49,
+                    9019
+                ],
+                [
+                    49,
+                    9237
+                ],
+                [
+                    2328,
+                    9237
+                ],
+                [
+                    2328,
+                    9019
+                ],
+                [
+                    49,
+                    9019
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "indigofera ichangensis Craib.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    111,
+                    9286
+                ],
+                [
+                    111,
+                    9505
+                ],
+                [
+                    1914,
+                    9505
+                ],
+                [
+                    1914,
+                    9286
+                ],
+                [
+                    111,
+                    9286
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "f . calvescens bracb .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    111,
+                    9286
+                ],
+                [
+                    111,
+                    9505
+                ],
+                [
+                    1914,
+                    9505
+                ],
+                [
+                    1914,
+                    9286
+                ],
+                [
+                    111,
+                    9286
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "f. calvescens Craib.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    254,
+                    9619
+                ],
+                [
+                    254,
+                    9717
+                ],
+                [
+                    916,
+                    9717
+                ],
+                [
+                    916,
+                    9619
+                ],
+                [
+                    254,
+                    9619
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Coll . E . H . Wilson",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    254,
+                    9619
+                ],
+                [
+                    254,
+                    9717
+                ],
+                [
+                    916,
+                    9717
+                ],
+                [
+                    916,
+                    9619
+                ],
+                [
+                    254,
+                    9619
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Coll. E. H. Wilson",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1523,
+                    9563
+                ],
+                [
+                    1523,
+                    9622
+                ],
+                [
+                    1673,
+                    9622
+                ],
+                [
+                    1673,
+                    9563
+                ],
+                [
+                    1523,
+                    9563
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Alt .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1523,
+                    9563
+                ],
+                [
+                    1523,
+                    9622
+                ],
+                [
+                    1673,
+                    9622
+                ],
+                [
+                    1673,
+                    9563
+                ],
+                [
+                    1523,
+                    9563
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Alt.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    916,
+                    9730
+                ],
+                [
+                    916,
+                    9893
+                ],
+                [
+                    1268,
+                    9893
+                ],
+                [
+                    1268,
+                    9730
+                ],
+                [
+                    916,
+                    9730
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "5/07.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2681,
+                    9819
+                ],
+                [
+                    2681,
+                    9889
+                ],
+                [
+                    3046,
+                    9889
+                ],
+                [
+                    3046,
+                    9819
+                ],
+                [
+                    2681,
+                    9819
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "E00284633",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2681,
+                    9819
+                ],
+                [
+                    2681,
+                    9889
+                ],
+                [
+                    3046,
+                    9889
+                ],
+                [
+                    3046,
+                    9819
+                ],
+                [
+                    2681,
+                    9819
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "E00284633",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2722,
+                    9529
+                ],
+                [
+                    2722,
+                    9592
+                ],
+                [
+                    3038,
+                    9592
+                ],
+                [
+                    3038,
+                    9529
+                ],
+                [
+                    2722,
+                    9529
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "EDINBURGH",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2722,
+                    9529
+                ],
+                [
+                    2722,
+                    9592
+                ],
+                [
+                    3038,
+                    9592
+                ],
+                [
+                    3038,
+                    9529
+                ],
+                [
+                    2722,
+                    9529
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "EDINBURGH",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2555,
+                    9474
+                ],
+                [
+                    2555,
+                    9529
+                ],
+                [
+                    3208,
+                    9529
+                ],
+                [
+                    3208,
+                    9474
+                ],
+                [
+                    2555,
+                    9474
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ROYAL BOTANIC GARDEN",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2555,
+                    9474
+                ],
+                [
+                    2555,
+                    9529
+                ],
+                [
+                    3208,
+                    9529
+                ],
+                [
+                    3208,
+                    9474
+                ],
+                [
+                    2555,
+                    9474
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ROYAL BOTANIC GARDEN",
+            "worker_version": null
+        }
+    ]
+}

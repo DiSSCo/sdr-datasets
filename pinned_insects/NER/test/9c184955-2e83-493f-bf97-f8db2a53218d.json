@@ -1,0 +1,27 @@
+{
+    "dataset_id": "07133415-f249-4d77-8137-e615fc508fa8",
+    "folder": {
+        "id": "6ebebd79-2a28-464f-b60a-aa47a864a586",
+        "name": "test"
+    },
+    "image": {
+        "id": "9df60da8-eb51-4b27-be81-98ea11e032a7",
+        "iiif_base_url": "https://arkindex.teklia.com/uploads/iiif/2/84a57e6a-6497-4dd7-aaa3-3a87127fb2f5",
+        "url": "https://arkindex.teklia.com/uploads/iiif/2/84a57e6a-6497-4dd7-aaa3-3a87127fb2f5/full/full/0/default.jpg"
+    },
+    "named_entities": [
+        {
+            "tags": "NHMUK B-identifier\n012539905 I-identifier",
+            "worker_version_id": null
+        },
+        {
+            "tags": "ESSEX B-location_name\nWallasea I-location_name\nIsl I-location_name\n. I-location_name\n22 B-date\n. I-date\nvi I-date\n. I-date\n75 I-date\nP B-person_name\n. I-person_name\nC I-person_name\n. I-person_name\nBernard I-person_name",
+            "worker_version_id": null
+        }
+    ],
+    "page": {
+        "id": "9c184955-2e83-493f-bf97-f8db2a53218d",
+        "name": "012539905_136808_1083186.2500x5792.jpeg",
+        "rotation_angle": 0
+    }
+}

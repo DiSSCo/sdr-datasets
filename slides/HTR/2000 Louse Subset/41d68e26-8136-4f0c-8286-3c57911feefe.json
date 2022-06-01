@@ -1,0 +1,451 @@
+{
+    "dataset_id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+    "folder": {
+        "id": "853a2c11-adbc-4690-aa79-b59285cdb3bb",
+        "name": "2000 Louse Subset"
+    },
+    "image": {
+        "id": "49f2878e-dc7c-4db4-b24f-ddb1cd34eaff",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fsynthesys%2Fslides_images%2F41d68e26-8136-4f0c-8286-3c57911feefe.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fsynthesys%2Fslides_images%2F41d68e26-8136-4f0c-8286-3c57911feefe.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "41d68e26-8136-4f0c-8286-3c57911feefe",
+        "name": "113",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    2105,
+                    246
+                ],
+                [
+                    2105,
+                    2540
+                ],
+                [
+                    2367,
+                    2540
+                ],
+                [
+                    2367,
+                    246
+                ],
+                [
+                    2105,
+                    246
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "P. Morrison .400",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    504,
+                    5030
+                ],
+                [
+                    504,
+                    5554
+                ],
+                [
+                    691,
+                    5554
+                ],
+                [
+                    691,
+                    5030
+                ],
+                [
+                    504,
+                    5030
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Para-",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    2133,
+                    6087
+                ],
+                [
+                    2133,
+                    7622
+                ],
+                [
+                    2432,
+                    7622
+                ],
+                [
+                    2432,
+                    6087
+                ],
+                [
+                    2133,
+                    6087
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "PARATYPE \u2642\u2640",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    2283,
+                    5011
+                ],
+                [
+                    2283,
+                    5148
+                ],
+                [
+                    2657,
+                    5148
+                ],
+                [
+                    2657,
+                    5011
+                ],
+                [
+                    2283,
+                    5011
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "NHMUK",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    2648,
+                    5076
+                ],
+                [
+                    2648,
+                    5498
+                ],
+                [
+                    2759,
+                    5498
+                ],
+                [
+                    2759,
+                    5076
+                ],
+                [
+                    2648,
+                    5076
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "010671897",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    1113,
+                    6153
+                ],
+                [
+                    1113,
+                    7791
+                ],
+                [
+                    1384,
+                    7791
+                ],
+                [
+                    1384,
+                    6153
+                ],
+                [
+                    1113,
+                    6153
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "novaeseelandiae",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    710,
+                    5048
+                ],
+                [
+                    710,
+                    5526
+                ],
+                [
+                    897,
+                    5526
+                ],
+                [
+                    897,
+                    5048
+                ],
+                [
+                    710,
+                    5048
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "type",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    720,
+                    256
+                ],
+                [
+                    720,
+                    2549
+                ],
+                [
+                    1010,
+                    2549
+                ],
+                [
+                    1010,
+                    256
+                ],
+                [
+                    720,
+                    256
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "novaezealandiae",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    776,
+                    6312
+                ],
+                [
+                    776,
+                    7838
+                ],
+                [
+                    1085,
+                    7838
+                ],
+                [
+                    1085,
+                    6312
+                ],
+                [
+                    776,
+                    6312
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Patellinirmus",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    345,
+                    265
+                ],
+                [
+                    345,
+                    2549
+                ],
+                [
+                    804,
+                    2549
+                ],
+                [
+                    804,
+                    265
+                ],
+                [
+                    345,
+                    265
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Hemiphaga n.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    1459,
+                    340
+                ],
+                [
+                    1459,
+                    2540
+                ],
+                [
+                    1749,
+                    2540
+                ],
+                [
+                    1749,
+                    340
+                ],
+                [
+                    1459,
+                    340
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "New Zealand.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    1403,
+                    6312
+                ],
+                [
+                    1403,
+                    7435
+                ],
+                [
+                    1665,
+                    7435
+                ],
+                [
+                    1665,
+                    6312
+                ],
+                [
+                    1403,
+                    6312
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Tendeiro",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    2320,
+                    443
+                ],
+                [
+                    2320,
+                    2530
+                ],
+                [
+                    2573,
+                    2530
+                ],
+                [
+                    2573,
+                    443
+                ],
+                [
+                    2320,
+                    443
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Univ. Canterbury",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    2535,
+                    565
+                ],
+                [
+                    2535,
+                    2530
+                ],
+                [
+                    2723,
+                    2530
+                ],
+                [
+                    2723,
+                    565
+                ],
+                [
+                    2535,
+                    565
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Brit Mus 1974-201.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    1094,
+                    612
+                ],
+                [
+                    1094,
+                    2549
+                ],
+                [
+                    1487,
+                    2549
+                ],
+                [
+                    1487,
+                    612
+                ],
+                [
+                    1094,
+                    612
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Wellington ,",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        },
+        {
+            "polygon": [
+                [
+                    1777,
+                    817
+                ],
+                [
+                    1777,
+                    2540
+                ],
+                [
+                    2096,
+                    2540
+                ],
+                [
+                    2096,
+                    817
+                ],
+                [
+                    1777,
+                    817
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "18.ix.1969.",
+            "worker_version": "c09bab46-b6ff-4286-8f99-a9e83c80b6d0"
+        }
+    ]
+}

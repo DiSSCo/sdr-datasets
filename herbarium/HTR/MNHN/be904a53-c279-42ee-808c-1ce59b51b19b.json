@@ -1,0 +1,829 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "c301e3ce-a988-469d-afb1-5af714a7123b",
+        "name": "MNHN"
+    },
+    "image": {
+        "id": "c18caf85-1740-4a6a-bef9-e28271c22397",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FP00078507.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FP00078507.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "be904a53-c279-42ee-808c-1ce59b51b19b",
+        "name": "P00078507",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    1448,
+                    174
+                ],
+                [
+                    1448,
+                    314
+                ],
+                [
+                    2459,
+                    314
+                ],
+                [
+                    2459,
+                    174
+                ],
+                [
+                    1448,
+                    174
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERBIER AUG . CHEVALIER",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1448,
+                    174
+                ],
+                [
+                    1448,
+                    314
+                ],
+                [
+                    2459,
+                    314
+                ],
+                [
+                    2459,
+                    174
+                ],
+                [
+                    1448,
+                    174
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERBIER AUG . CHEVALIER",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    373,
+                    3979
+                ],
+                [
+                    373,
+                    4096
+                ],
+                [
+                    1188,
+                    4096
+                ],
+                [
+                    1188,
+                    3979
+                ],
+                [
+                    373,
+                    3979
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Clematis hirsuta Guill. et Perr.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    373,
+                    3979
+                ],
+                [
+                    373,
+                    4096
+                ],
+                [
+                    1188,
+                    4096
+                ],
+                [
+                    1188,
+                    3979
+                ],
+                [
+                    373,
+                    3979
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Clematis hirsuta Guill . os Pern",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    835,
+                    4382
+                ],
+                [
+                    835,
+                    4425
+                ],
+                [
+                    1232,
+                    4425
+                ],
+                [
+                    1232,
+                    4382
+                ],
+                [
+                    835,
+                    4382
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Det . AUG . CHEVALIER",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    835,
+                    4382
+                ],
+                [
+                    835,
+                    4425
+                ],
+                [
+                    1232,
+                    4425
+                ],
+                [
+                    1232,
+                    4382
+                ],
+                [
+                    835,
+                    4382
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Det . AUG . CHEVALIER",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1072,
+                    4437
+                ],
+                [
+                    1072,
+                    4494
+                ],
+                [
+                    1241,
+                    4494
+                ],
+                [
+                    1241,
+                    4437
+                ],
+                [
+                    1072,
+                    4437
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "V 1906",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1072,
+                    4437
+                ],
+                [
+                    1072,
+                    4494
+                ],
+                [
+                    1241,
+                    4494
+                ],
+                [
+                    1241,
+                    4437
+                ],
+                [
+                    1072,
+                    4437
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": ". . . 190 . 6 .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    382,
+                    4536
+                ],
+                [
+                    382,
+                    4676
+                ],
+                [
+                    991,
+                    4676
+                ],
+                [
+                    991,
+                    4536
+                ],
+                [
+                    382,
+                    4536
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "N\u00ba 2.536",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    382,
+                    4536
+                ],
+                [
+                    382,
+                    4676
+                ],
+                [
+                    991,
+                    4676
+                ],
+                [
+                    991,
+                    4536
+                ],
+                [
+                    382,
+                    4536
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "U GE DE",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    335,
+                    4766
+                ],
+                [
+                    335,
+                    4889
+                ],
+                [
+                    887,
+                    4889
+                ],
+                [
+                    887,
+                    4766
+                ],
+                [
+                    335,
+                    4766
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Niayes (S\u00e9n\u00e9gal)",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    335,
+                    4766
+                ],
+                [
+                    335,
+                    4889
+                ],
+                [
+                    887,
+                    4889
+                ],
+                [
+                    887,
+                    4766
+                ],
+                [
+                    335,
+                    4766
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "\u0645\u062d\u0627\u0643 \u0645\u0639 \u0644\u064a \u0627\u0644\u0645\u062f\u0639",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    337,
+                    4892
+                ],
+                [
+                    337,
+                    4994
+                ],
+                [
+                    761,
+                    4994
+                ],
+                [
+                    761,
+                    4892
+                ],
+                [
+                    337,
+                    4892
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "D\u00e9cemb. 1899.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    337,
+                    4892
+                ],
+                [
+                    337,
+                    4994
+                ],
+                [
+                    761,
+                    4994
+                ],
+                [
+                    761,
+                    4892
+                ],
+                [
+                    337,
+                    4892
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Decemb . 1899 .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1798,
+                    4539
+                ],
+                [
+                    1798,
+                    4580
+                ],
+                [
+                    2166,
+                    4580
+                ],
+                [
+                    2166,
+                    4539
+                ],
+                [
+                    1798,
+                    4539
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herb . Mus\u00e9um Paris",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1798,
+                    4539
+                ],
+                [
+                    1798,
+                    4580
+                ],
+                [
+                    2166,
+                    4580
+                ],
+                [
+                    2166,
+                    4539
+                ],
+                [
+                    1798,
+                    4539
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herb . Mus\u00e9um Paris",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1877,
+                    4692
+                ],
+                [
+                    1877,
+                    4741
+                ],
+                [
+                    2098,
+                    4741
+                ],
+                [
+                    2098,
+                    4692
+                ],
+                [
+                    1877,
+                    4692
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "P00078507",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    1877,
+                    4692
+                ],
+                [
+                    1877,
+                    4741
+                ],
+                [
+                    2098,
+                    4741
+                ],
+                [
+                    2098,
+                    4692
+                ],
+                [
+                    1877,
+                    4692
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "P00078507",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2355,
+                    4356
+                ],
+                [
+                    2355,
+                    4484
+                ],
+                [
+                    2652,
+                    4484
+                ],
+                [
+                    2652,
+                    4356
+                ],
+                [
+                    2355,
+                    4356
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "N\u00ba 2.536",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2355,
+                    4356
+                ],
+                [
+                    2355,
+                    4484
+                ],
+                [
+                    2652,
+                    4484
+                ],
+                [
+                    2652,
+                    4356
+                ],
+                [
+                    2355,
+                    4356
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "2 . 536",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2728,
+                    4394
+                ],
+                [
+                    2728,
+                    4485
+                ],
+                [
+                    3276,
+                    4485
+                ],
+                [
+                    3276,
+                    4394
+                ],
+                [
+                    2728,
+                    4394
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB . MUS . PARIS .",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2728,
+                    4394
+                ],
+                [
+                    2728,
+                    4485
+                ],
+                [
+                    3276,
+                    4485
+                ],
+                [
+                    3276,
+                    4394
+                ],
+                [
+                    2728,
+                    4394
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB . MUS . PARIS .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2566,
+                    4553
+                ],
+                [
+                    2566,
+                    4666
+                ],
+                [
+                    3405,
+                    4666
+                ],
+                [
+                    3405,
+                    4553
+                ],
+                [
+                    2566,
+                    4553
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Clematis hirsuta Guill. et Perr.",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2566,
+                    4553
+                ],
+                [
+                    2566,
+                    4666
+                ],
+                [
+                    3405,
+                    4666
+                ],
+                [
+                    3405,
+                    4553
+                ],
+                [
+                    2566,
+                    4553
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Clematis hirsuta Guill . it Perr .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2801,
+                    4676
+                ],
+                [
+                    2801,
+                    4777
+                ],
+                [
+                    3440,
+                    4777
+                ],
+                [
+                    3440,
+                    4676
+                ],
+                [
+                    2801,
+                    4676
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "var. glabrescens A. Chev",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2801,
+                    4676
+                ],
+                [
+                    2801,
+                    4777
+                ],
+                [
+                    3440,
+                    4777
+                ],
+                [
+                    3440,
+                    4676
+                ],
+                [
+                    2801,
+                    4676
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "var . glabrescens a Cher",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2592,
+                    4800
+                ],
+                [
+                    2592,
+                    4908
+                ],
+                [
+                    2891,
+                    4908
+                ],
+                [
+                    2891,
+                    4800
+                ],
+                [
+                    2592,
+                    4800
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ISOTYPE",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2592,
+                    4800
+                ],
+                [
+                    2592,
+                    4908
+                ],
+                [
+                    2891,
+                    4908
+                ],
+                [
+                    2891,
+                    4800
+                ],
+                [
+                    2592,
+                    4800
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ISOTYPE",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2470,
+                    5042
+                ],
+                [
+                    2470,
+                    5110
+                ],
+                [
+                    2659,
+                    5110
+                ],
+                [
+                    2659,
+                    5042
+                ],
+                [
+                    2470,
+                    5042
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Entr\u00e9 le",
+            "worker_version": null
+        },
+        {
+            "polygon": [
+                [
+                    2470,
+                    5042
+                ],
+                [
+                    2470,
+                    5110
+                ],
+                [
+                    2659,
+                    5110
+                ],
+                [
+                    2659,
+                    5042
+                ],
+                [
+                    2470,
+                    5042
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Entr\u00e9 le",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        }
+    ]
+}

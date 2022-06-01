@@ -1,0 +1,3648 @@
+{
+    "dataset_id": "503d7e35-a2cd-4d98-a272-930519fc29b5",
+    "folder": {
+        "id": "40737841-bfc1-4187-b1f6-3328e53d3aa3",
+        "name": "MeiseBG"
+    },
+    "image": {
+        "id": "84b5d817-850c-445a-b58c-ce3cb2933aee",
+        "iiif_base_url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FBR0000025760798V.jpg",
+        "url": "https://europe-gamma.iiif.teklia.com/iiif/2/synthesys%2Fmlb-data%2Fsynthesys%2Fherbarium_2%2FBR0000025760798V.jpg/full/full/0/default.jpg"
+    },
+    "page": {
+        "id": "23382497-27f0-41b6-88fa-9a41cdce0cb5",
+        "name": "BR0000025760798V",
+        "rotation_angle": 0
+    },
+    "transcriptions": [
+        {
+            "polygon": [
+                [
+                    4525,
+                    4195
+                ],
+                [
+                    4525,
+                    4255
+                ],
+                [
+                    4987,
+                    4255
+                ],
+                [
+                    4987,
+                    4195
+                ],
+                [
+                    4525,
+                    4195
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ex - herb . BRVU",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4525,
+                    4195
+                ],
+                [
+                    4525,
+                    4255
+                ],
+                [
+                    4987,
+                    4255
+                ],
+                [
+                    4987,
+                    4195
+                ],
+                [
+                    4525,
+                    4195
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ex-herb . BRVU",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    4525,
+                    4195
+                ],
+                [
+                    4525,
+                    4255
+                ],
+                [
+                    4987,
+                    4255
+                ],
+                [
+                    4987,
+                    4195
+                ],
+                [
+                    4525,
+                    4195
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "ex - herb . BRVU",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    4542,
+                    4280
+                ],
+                [
+                    4542,
+                    4348
+                ],
+                [
+                    5004,
+                    4348
+                ],
+                [
+                    5004,
+                    4280
+                ],
+                [
+                    4542,
+                    4280
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BR acc . 2016 - 76",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4542,
+                    4280
+                ],
+                [
+                    4542,
+                    4348
+                ],
+                [
+                    5004,
+                    4348
+                ],
+                [
+                    5004,
+                    4280
+                ],
+                [
+                    4542,
+                    4280
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BR acc. 2016-76",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    4542,
+                    4280
+                ],
+                [
+                    4542,
+                    4348
+                ],
+                [
+                    5004,
+                    4348
+                ],
+                [
+                    5004,
+                    4280
+                ],
+                [
+                    4542,
+                    4280
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BR acc . 2016 - 76",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    4426,
+                    4478
+                ],
+                [
+                    4426,
+                    4523
+                ],
+                [
+                    5076,
+                    4523
+                ],
+                [
+                    5076,
+                    4478
+                ],
+                [
+                    4426,
+                    4478
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB . PLANTENTUIN MEISE",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4426,
+                    4478
+                ],
+                [
+                    4426,
+                    4523
+                ],
+                [
+                    5076,
+                    4523
+                ],
+                [
+                    5076,
+                    4478
+                ],
+                [
+                    4426,
+                    4478
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB. PLANTENTUIN MEISE",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    4426,
+                    4478
+                ],
+                [
+                    4426,
+                    4523
+                ],
+                [
+                    5076,
+                    4523
+                ],
+                [
+                    5076,
+                    4478
+                ],
+                [
+                    4426,
+                    4478
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "HERB . PLANTENTUIN MEISE",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    4476,
+                    4726
+                ],
+                [
+                    4476,
+                    4783
+                ],
+                [
+                    5039,
+                    4783
+                ],
+                [
+                    5039,
+                    4726
+                ],
+                [
+                    4476,
+                    4726
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BR0000025760798V",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4476,
+                    4726
+                ],
+                [
+                    4476,
+                    4783
+                ],
+                [
+                    5039,
+                    4783
+                ],
+                [
+                    5039,
+                    4726
+                ],
+                [
+                    4476,
+                    4726
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BR0000025760798V",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    4476,
+                    4726
+                ],
+                [
+                    4476,
+                    4783
+                ],
+                [
+                    5039,
+                    4783
+                ],
+                [
+                    5039,
+                    4726
+                ],
+                [
+                    4476,
+                    4726
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "BR0000025760798V",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    3551,
+                    5049
+                ],
+                [
+                    4114,
+                    5116
+                ],
+                [
+                    4163,
+                    5088
+                ],
+                [
+                    4779,
+                    5070
+                ],
+                [
+                    4771,
+                    5000
+                ],
+                [
+                    3881,
+                    4931
+                ],
+                [
+                    3556,
+                    4998
+                ],
+                [
+                    3572,
+                    4995
+                ],
+                [
+                    3551,
+                    5049
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Familie Familie Polypodiaceae",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3551,
+                    5049
+                ],
+                [
+                    4114,
+                    5116
+                ],
+                [
+                    4163,
+                    5088
+                ],
+                [
+                    4779,
+                    5070
+                ],
+                [
+                    4771,
+                    5000
+                ],
+                [
+                    3881,
+                    4931
+                ],
+                [
+                    3556,
+                    4998
+                ],
+                [
+                    3572,
+                    4995
+                ],
+                [
+                    3551,
+                    5049
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Famie Polypediaceae",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3546,
+                    5119
+                ],
+                [
+                    3549,
+                    5181
+                ],
+                [
+                    4023,
+                    5217
+                ],
+                [
+                    4088,
+                    5181
+                ],
+                [
+                    5186,
+                    5183
+                ],
+                [
+                    5179,
+                    5183
+                ],
+                [
+                    5210,
+                    5106
+                ],
+                [
+                    4217,
+                    5103
+                ],
+                [
+                    4137,
+                    5132
+                ],
+                [
+                    3752,
+                    5083
+                ],
+                [
+                    3546,
+                    5119
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Naam Pol Anderwe bulace be",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3546,
+                    5119
+                ],
+                [
+                    3549,
+                    5181
+                ],
+                [
+                    4023,
+                    5217
+                ],
+                [
+                    4088,
+                    5181
+                ],
+                [
+                    5186,
+                    5183
+                ],
+                [
+                    5179,
+                    5183
+                ],
+                [
+                    5210,
+                    5106
+                ],
+                [
+                    4217,
+                    5103
+                ],
+                [
+                    4137,
+                    5132
+                ],
+                [
+                    3752,
+                    5083
+                ],
+                [
+                    3546,
+                    5119
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Naam Palypadiuu vutgare L.",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    4059,
+                    5235
+                ],
+                [
+                    4095,
+                    5189
+                ],
+                [
+                    5282,
+                    5189
+                ],
+                [
+                    5292,
+                    5256
+                ],
+                [
+                    5292,
+                    5245
+                ],
+                [
+                    4059,
+                    5235
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "laubsp . prionodes CAzchen . ) Rothm .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4059,
+                    5235
+                ],
+                [
+                    4095,
+                    5189
+                ],
+                [
+                    5282,
+                    5189
+                ],
+                [
+                    5292,
+                    5256
+                ],
+                [
+                    5292,
+                    5245
+                ],
+                [
+                    4059,
+                    5235
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "suetosp. pkid oder (Ajckels .) Pothn.",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3533,
+                    5294
+                ],
+                [
+                    4810,
+                    5302
+                ],
+                [
+                    4815,
+                    5292
+                ],
+                [
+                    4820,
+                    5248
+                ],
+                [
+                    4304,
+                    5253
+                ],
+                [
+                    3556,
+                    5212
+                ],
+                [
+                    3533,
+                    5294
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Milieu \u0635\u0628\u0627\u062d\u0627\u0627\u0627 . . . \u0645\u064a\u0627 . . . . . . \u062f\u0639\u0627",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3533,
+                    5294
+                ],
+                [
+                    4810,
+                    5302
+                ],
+                [
+                    4815,
+                    5292
+                ],
+                [
+                    4820,
+                    5248
+                ],
+                [
+                    4304,
+                    5253
+                ],
+                [
+                    3556,
+                    5212
+                ],
+                [
+                    3533,
+                    5294
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Milieu ratewansm bos.",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3531,
+                    5356
+                ],
+                [
+                    3536,
+                    5397
+                ],
+                [
+                    5197,
+                    5413
+                ],
+                [
+                    5197,
+                    5364
+                ],
+                [
+                    3538,
+                    5348
+                ],
+                [
+                    3531,
+                    5356
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "bedekking % : boomlaag , struiklaag , kruidlaag , moslaag",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3531,
+                    5356
+                ],
+                [
+                    3536,
+                    5397
+                ],
+                [
+                    5197,
+                    5413
+                ],
+                [
+                    5197,
+                    5364
+                ],
+                [
+                    3538,
+                    5348
+                ],
+                [
+                    3531,
+                    5356
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "bedekking 0o : boomlaag struiklaag kruidlaag moslaag",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3538,
+                    5431
+                ],
+                [
+                    4952,
+                    5446
+                ],
+                [
+                    4954,
+                    5441
+                ],
+                [
+                    4972,
+                    5418
+                ],
+                [
+                    3546,
+                    5403
+                ],
+                [
+                    3538,
+                    5431
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "verzameld specimen : dominant , abundant , frequent , zeldzaam .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3538,
+                    5431
+                ],
+                [
+                    4952,
+                    5446
+                ],
+                [
+                    4954,
+                    5441
+                ],
+                [
+                    4972,
+                    5418
+                ],
+                [
+                    3546,
+                    5403
+                ],
+                [
+                    3538,
+                    5431
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "verzameld specimen : dominant, abundant, frequent, zeldzaam.",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3538,
+                    5431
+                ],
+                [
+                    4952,
+                    5446
+                ],
+                [
+                    4954,
+                    5441
+                ],
+                [
+                    4972,
+                    5418
+                ],
+                [
+                    3546,
+                    5403
+                ],
+                [
+                    3538,
+                    5431
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "verzameld specimen : dominant , abundant , frequent , zeldzaam .",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    3544,
+                    5503
+                ],
+                [
+                    4304,
+                    5498
+                ],
+                [
+                    4299,
+                    5506
+                ],
+                [
+                    4341,
+                    5446
+                ],
+                [
+                    3562,
+                    5444
+                ],
+                [
+                    3544,
+                    5503
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "samen met ' nrs : 82 . 25 . 4",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3544,
+                    5503
+                ],
+                [
+                    4304,
+                    5498
+                ],
+                [
+                    4299,
+                    5506
+                ],
+                [
+                    4341,
+                    5446
+                ],
+                [
+                    3562,
+                    5444
+                ],
+                [
+                    3544,
+                    5503
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "samen met nrs: 82. 2f. 0",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3538,
+                    5506
+                ],
+                [
+                    3551,
+                    5568
+                ],
+                [
+                    4567,
+                    5570
+                ],
+                [
+                    4555,
+                    5563
+                ],
+                [
+                    4583,
+                    5506
+                ],
+                [
+                    3538,
+                    5506
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "helling : % , expositie : . . . . . .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3538,
+                    5506
+                ],
+                [
+                    3551,
+                    5568
+                ],
+                [
+                    4567,
+                    5570
+                ],
+                [
+                    4555,
+                    5563
+                ],
+                [
+                    4583,
+                    5506
+                ],
+                [
+                    3538,
+                    5506
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "helling: 2/0 , expositie : NE.",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3510,
+                    5640
+                ],
+                [
+                    5205,
+                    5653
+                ],
+                [
+                    5210,
+                    5655
+                ],
+                [
+                    5217,
+                    5612
+                ],
+                [
+                    3518,
+                    5596
+                ],
+                [
+                    3510,
+                    5640
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "terrestrisch : sintel , zavel , grint , zand , leem - zand , leem , leem - klei , klei , veen",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3510,
+                    5640
+                ],
+                [
+                    5205,
+                    5653
+                ],
+                [
+                    5210,
+                    5655
+                ],
+                [
+                    5217,
+                    5612
+                ],
+                [
+                    3518,
+                    5596
+                ],
+                [
+                    3510,
+                    5640
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "terrestrisch : sintel, zavel, grint, zand, leem-zand, leem, leem-klei, Klei, veen",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3830,
+                    5684
+                ],
+                [
+                    5199,
+                    5697
+                ],
+                [
+                    5199,
+                    5710
+                ],
+                [
+                    5212,
+                    5666
+                ],
+                [
+                    3840,
+                    5648
+                ],
+                [
+                    3830,
+                    5684
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Humeus vijver , . Afgestoken , beekwand , pad , boomvoet , akker , bodem",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3830,
+                    5684
+                ],
+                [
+                    5199,
+                    5697
+                ],
+                [
+                    5199,
+                    5710
+                ],
+                [
+                    5212,
+                    5666
+                ],
+                [
+                    3840,
+                    5648
+                ],
+                [
+                    3830,
+                    5684
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Humeus. Atgestoken, beekwand, pad, bo\u00f6mvoet, akker, bodem",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3820,
+                    5694
+                ],
+                [
+                    5006,
+                    5704
+                ],
+                [
+                    5009,
+                    5738
+                ],
+                [
+                    5014,
+                    5733
+                ],
+                [
+                    3822,
+                    5725
+                ],
+                [
+                    3820,
+                    5694
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "talud , brandvlak , grond op rots / stronk , wortel .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3820,
+                    5694
+                ],
+                [
+                    5006,
+                    5704
+                ],
+                [
+                    5009,
+                    5738
+                ],
+                [
+                    5014,
+                    5733
+                ],
+                [
+                    3822,
+                    5725
+                ],
+                [
+                    3820,
+                    5694
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "viiver, talud, brandvlak, grond op rotsistronk, wortel.",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3804,
+                    5733
+                ],
+                [
+                    3804,
+                    5766
+                ],
+                [
+                    4658,
+                    5777
+                ],
+                [
+                    4673,
+                    5777
+                ],
+                [
+                    4671,
+                    5738
+                ],
+                [
+                    3804,
+                    5733
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Z . vochtig , vochtig , droog , z . droog .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3804,
+                    5733
+                ],
+                [
+                    3804,
+                    5766
+                ],
+                [
+                    4658,
+                    5777
+                ],
+                [
+                    4673,
+                    5777
+                ],
+                [
+                    4671,
+                    5738
+                ],
+                [
+                    3804,
+                    5733
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "2. vochtig, vochtig, droog, 2. droog.",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3510,
+                    5792
+                ],
+                [
+                    3513,
+                    5857
+                ],
+                [
+                    5032,
+                    5864
+                ],
+                [
+                    5034,
+                    5859
+                ],
+                [
+                    5055,
+                    5797
+                ],
+                [
+                    3510,
+                    5792
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "epifytisch : boom ( beuk , eik , berk , es , populier , wilg , den , spar ,",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3510,
+                    5792
+                ],
+                [
+                    3513,
+                    5857
+                ],
+                [
+                    5032,
+                    5864
+                ],
+                [
+                    5034,
+                    5859
+                ],
+                [
+                    5055,
+                    5797
+                ],
+                [
+                    3510,
+                    5792
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "epifytisch : boom (beuk, eik, berk, es, populier, wilg, den, spar,",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3510,
+                    5792
+                ],
+                [
+                    3513,
+                    5857
+                ],
+                [
+                    5032,
+                    5864
+                ],
+                [
+                    5034,
+                    5859
+                ],
+                [
+                    5055,
+                    5797
+                ],
+                [
+                    3510,
+                    5792
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "epifytisch : boom ( beuk , eik , berk , es , populier , wilg , den , spar ,",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    3745,
+                    5949
+                ],
+                [
+                    3747,
+                    5983
+                ],
+                [
+                    5189,
+                    5998
+                ],
+                [
+                    5197,
+                    5998
+                ],
+                [
+                    5202,
+                    5944
+                ],
+                [
+                    3745,
+                    5949
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "op stam , tak , blad , h . . . . . . . boomvoet , wortel ,",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3745,
+                    5949
+                ],
+                [
+                    3747,
+                    5983
+                ],
+                [
+                    5189,
+                    5998
+                ],
+                [
+                    5197,
+                    5998
+                ],
+                [
+                    5202,
+                    5944
+                ],
+                [
+                    3745,
+                    5949
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "op stam, tak, blad, h. boomvoet, wortel,",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3781,
+                    6027
+                ],
+                [
+                    3791,
+                    5988
+                ],
+                [
+                    5189,
+                    6004
+                ],
+                [
+                    5197,
+                    6045
+                ],
+                [
+                    5202,
+                    6040
+                ],
+                [
+                    3781,
+                    6027
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "kruidige stengel . Dood , levend , rottend . Zaagvlak , holte ,",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3781,
+                    6027
+                ],
+                [
+                    3791,
+                    5988
+                ],
+                [
+                    5189,
+                    6004
+                ],
+                [
+                    5197,
+                    6045
+                ],
+                [
+                    5202,
+                    6040
+                ],
+                [
+                    3781,
+                    6027
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "kruidige stengel. Dood, levend, rottend. Zaagvlak, holte,",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3781,
+                    6027
+                ],
+                [
+                    3791,
+                    5988
+                ],
+                [
+                    5189,
+                    6004
+                ],
+                [
+                    5197,
+                    6045
+                ],
+                [
+                    5202,
+                    6040
+                ],
+                [
+                    3781,
+                    6027
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "kruidige stengel . Dood , levend , rottend . Zaagvlak , holte ,",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    3765,
+                    6034
+                ],
+                [
+                    3768,
+                    6076
+                ],
+                [
+                    4580,
+                    6065
+                ],
+                [
+                    4591,
+                    6068
+                ],
+                [
+                    4588,
+                    6040
+                ],
+                [
+                    3765,
+                    6034
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "regenspoor , korstspleet , korstbult .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3765,
+                    6034
+                ],
+                [
+                    3768,
+                    6076
+                ],
+                [
+                    4580,
+                    6065
+                ],
+                [
+                    4591,
+                    6068
+                ],
+                [
+                    4588,
+                    6040
+                ],
+                [
+                    3765,
+                    6034
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "regenspoor, korstspleet, korstbult.",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3765,
+                    6034
+                ],
+                [
+                    3768,
+                    6076
+                ],
+                [
+                    4580,
+                    6065
+                ],
+                [
+                    4591,
+                    6068
+                ],
+                [
+                    4588,
+                    6040
+                ],
+                [
+                    3765,
+                    6034
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "regenspoor , korstspleet , korstbult .",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    3768,
+                    6102
+                ],
+                [
+                    3771,
+                    6140
+                ],
+                [
+                    5011,
+                    6148
+                ],
+                [
+                    5006,
+                    6161
+                ],
+                [
+                    5042,
+                    6094
+                ],
+                [
+                    3768,
+                    6102
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "aard van korst : . . . . . , omtrek stam ( 1 m h . )",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3768,
+                    6102
+                ],
+                [
+                    3771,
+                    6140
+                ],
+                [
+                    5011,
+                    6148
+                ],
+                [
+                    5006,
+                    6161
+                ],
+                [
+                    5042,
+                    6094
+                ],
+                [
+                    3768,
+                    6102
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "aard van korst : omtrek stam (1 m h.).",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3541,
+                    6169
+                ],
+                [
+                    3541,
+                    6220
+                ],
+                [
+                    5125,
+                    6228
+                ],
+                [
+                    5132,
+                    6218
+                ],
+                [
+                    5148,
+                    6187
+                ],
+                [
+                    3541,
+                    6169
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "epilithisch : primair , secundair , tertiair gesteente . Kalksteen , schiefer .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3541,
+                    6169
+                ],
+                [
+                    3541,
+                    6220
+                ],
+                [
+                    5125,
+                    6228
+                ],
+                [
+                    5132,
+                    6218
+                ],
+                [
+                    5148,
+                    6187
+                ],
+                [
+                    3541,
+                    6169
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "epilithisch : primair, secundair, tertiair gesteente. Kalksteen, schiefer.",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3541,
+                    6169
+                ],
+                [
+                    3541,
+                    6220
+                ],
+                [
+                    5125,
+                    6228
+                ],
+                [
+                    5132,
+                    6218
+                ],
+                [
+                    5148,
+                    6187
+                ],
+                [
+                    3541,
+                    6169
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "epilithisch : primair , secundair , tertiair gesteente . Kalksteen , schiefer .",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    3794,
+                    6261
+                ],
+                [
+                    3801,
+                    6228
+                ],
+                [
+                    5060,
+                    6241
+                ],
+                [
+                    5063,
+                    6280
+                ],
+                [
+                    5065,
+                    6267
+                ],
+                [
+                    3794,
+                    6261
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Teisteen , kwartsiet , psammiet , zandsteen , mergel , krijt ,",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3794,
+                    6261
+                ],
+                [
+                    3801,
+                    6228
+                ],
+                [
+                    5060,
+                    6241
+                ],
+                [
+                    5063,
+                    6280
+                ],
+                [
+                    5065,
+                    6267
+                ],
+                [
+                    3794,
+                    6261
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "leisteen, kwartsiet, psammiet, zandsteen, mergel, kriit,",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3783,
+                    6267
+                ],
+                [
+                    3791,
+                    6308
+                ],
+                [
+                    4751,
+                    6305
+                ],
+                [
+                    4756,
+                    6316
+                ],
+                [
+                    4761,
+                    6280
+                ],
+                [
+                    3783,
+                    6267
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "beton , eternit , baksteen , cement , arduin .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3783,
+                    6267
+                ],
+                [
+                    3791,
+                    6308
+                ],
+                [
+                    4751,
+                    6305
+                ],
+                [
+                    4756,
+                    6316
+                ],
+                [
+                    4761,
+                    6280
+                ],
+                [
+                    3783,
+                    6267
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "beton, eternit, baksteen, cement, arduin.",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3783,
+                    6267
+                ],
+                [
+                    3791,
+                    6308
+                ],
+                [
+                    4751,
+                    6305
+                ],
+                [
+                    4756,
+                    6316
+                ],
+                [
+                    4761,
+                    6280
+                ],
+                [
+                    3783,
+                    6267
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "beton , eternit , baksteen , cement , arduin .",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    3796,
+                    6336
+                ],
+                [
+                    3799,
+                    6378
+                ],
+                [
+                    5143,
+                    6398
+                ],
+                [
+                    5143,
+                    6390
+                ],
+                [
+                    5135,
+                    6344
+                ],
+                [
+                    3796,
+                    6336
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Rotsblok , > 4m > 1 m < 1 m . Vrijliggend , zwerfsteen ,",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3796,
+                    6336
+                ],
+                [
+                    3799,
+                    6378
+                ],
+                [
+                    5143,
+                    6398
+                ],
+                [
+                    5143,
+                    6390
+                ],
+                [
+                    5135,
+                    6344
+                ],
+                [
+                    3796,
+                    6336
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Rotsblok, X 4m 5im S1m. Vriiliggend, zwertsteen,",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3791,
+                    6439
+                ],
+                [
+                    4341,
+                    6432
+                ],
+                [
+                    4343,
+                    6439
+                ],
+                [
+                    4333,
+                    6401
+                ],
+                [
+                    3794,
+                    6398
+                ],
+                [
+                    3791,
+                    6439
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "dagzoom . Ge\u00ebrodeerd .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3791,
+                    6439
+                ],
+                [
+                    4341,
+                    6432
+                ],
+                [
+                    4343,
+                    6439
+                ],
+                [
+                    4333,
+                    6401
+                ],
+                [
+                    3794,
+                    6398
+                ],
+                [
+                    3791,
+                    6439
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "dagzoom. Ge\u00earodeerd.",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3520,
+                    6509
+                ],
+                [
+                    5176,
+                    6532
+                ],
+                [
+                    5186,
+                    6527
+                ],
+                [
+                    5168,
+                    6476
+                ],
+                [
+                    3531,
+                    6476
+                ],
+                [
+                    3520,
+                    6509
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "water : stilstaand ( meer , vijver , poel , plas ) stromend ( rivier , bron ) traag .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3520,
+                    6509
+                ],
+                [
+                    5176,
+                    6532
+                ],
+                [
+                    5186,
+                    6527
+                ],
+                [
+                    5168,
+                    6476
+                ],
+                [
+                    3531,
+                    6476
+                ],
+                [
+                    3520,
+                    6509
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "water : stilstaand (meer, viiver, poel, plas) stromend (rivier, bron) traag,",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3696,
+                    6558
+                ],
+                [
+                    5184,
+                    6576
+                ],
+                [
+                    5186,
+                    6568
+                ],
+                [
+                    5217,
+                    6540
+                ],
+                [
+                    3709,
+                    6517
+                ],
+                [
+                    3696,
+                    6558
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "snel , vertikaal , horizontaal . Ondergedoken , diepte cm ,",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3696,
+                    6558
+                ],
+                [
+                    5184,
+                    6576
+                ],
+                [
+                    5186,
+                    6568
+                ],
+                [
+                    5217,
+                    6540
+                ],
+                [
+                    3709,
+                    6517
+                ],
+                [
+                    3696,
+                    6558
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "snel, vertikaal, horizontaal. Ondergedoken, diept\u00e9 cm ,",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3724,
+                    6563
+                ],
+                [
+                    3724,
+                    6599
+                ],
+                [
+                    4859,
+                    6602
+                ],
+                [
+                    4854,
+                    6599
+                ],
+                [
+                    4864,
+                    6576
+                ],
+                [
+                    3724,
+                    6563
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "permanent , tijdelijk , spatzone . Niet ondergedoken .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3724,
+                    6563
+                ],
+                [
+                    3724,
+                    6599
+                ],
+                [
+                    4859,
+                    6602
+                ],
+                [
+                    4854,
+                    6599
+                ],
+                [
+                    4864,
+                    6576
+                ],
+                [
+                    3724,
+                    6563
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "permanent, tijdelijk, spatzone. Niet ondergedoken.",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3724,
+                    6563
+                ],
+                [
+                    3724,
+                    6599
+                ],
+                [
+                    4859,
+                    6602
+                ],
+                [
+                    4854,
+                    6599
+                ],
+                [
+                    4864,
+                    6576
+                ],
+                [
+                    3724,
+                    6563
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "permanent , tijdelijk , spatzone . Niet ondergedoken .",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    3476,
+                    6668
+                ],
+                [
+                    4048,
+                    6724
+                ],
+                [
+                    4629,
+                    6703
+                ],
+                [
+                    4623,
+                    6700
+                ],
+                [
+                    4635,
+                    6621
+                ],
+                [
+                    3577,
+                    6632
+                ],
+                [
+                    3476,
+                    6668
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "zuurtegraad : pH sacl",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3476,
+                    6668
+                ],
+                [
+                    4048,
+                    6724
+                ],
+                [
+                    4629,
+                    6703
+                ],
+                [
+                    4623,
+                    6700
+                ],
+                [
+                    4635,
+                    6621
+                ],
+                [
+                    3577,
+                    6632
+                ],
+                [
+                    3476,
+                    6668
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "zuurtegraad : PHcaci 6.3 kalk",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3538,
+                    6765
+                ],
+                [
+                    3544,
+                    6718
+                ],
+                [
+                    4025,
+                    6739
+                ],
+                [
+                    4137,
+                    6727
+                ],
+                [
+                    4561,
+                    6730
+                ],
+                [
+                    4535,
+                    6774
+                ],
+                [
+                    4546,
+                    6759
+                ],
+                [
+                    3538,
+                    6765
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "licht : zonnig , open , halfschaduw , schaduw .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3538,
+                    6765
+                ],
+                [
+                    3544,
+                    6718
+                ],
+                [
+                    4025,
+                    6739
+                ],
+                [
+                    4137,
+                    6727
+                ],
+                [
+                    4561,
+                    6730
+                ],
+                [
+                    4535,
+                    6774
+                ],
+                [
+                    4546,
+                    6759
+                ],
+                [
+                    3538,
+                    6765
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "licht : zonnig, open, haltschaduw, schaduw.",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3538,
+                    6780
+                ],
+                [
+                    3541,
+                    6818
+                ],
+                [
+                    4219,
+                    6815
+                ],
+                [
+                    4231,
+                    6821
+                ],
+                [
+                    4225,
+                    6777
+                ],
+                [
+                    3538,
+                    6780
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "wind : ge\u00ebxposeerd , beschut .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3538,
+                    6780
+                ],
+                [
+                    3541,
+                    6818
+                ],
+                [
+                    4219,
+                    6815
+                ],
+                [
+                    4231,
+                    6821
+                ],
+                [
+                    4225,
+                    6777
+                ],
+                [
+                    3538,
+                    6780
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "wind : ge\u00e9xposeerd, beschut.",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3512,
+                    6933
+                ],
+                [
+                    5174,
+                    6918
+                ],
+                [
+                    5177,
+                    6918
+                ],
+                [
+                    5154,
+                    6800
+                ],
+                [
+                    3527,
+                    6836
+                ],
+                [
+                    3512,
+                    6933
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "1 . F . B . L . G6 . 3 . 6 . 3 . 3 . . . . . Hoogte 18 am",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3512,
+                    6933
+                ],
+                [
+                    5174,
+                    6918
+                ],
+                [
+                    5177,
+                    6918
+                ],
+                [
+                    5154,
+                    6800
+                ],
+                [
+                    3527,
+                    6836
+                ],
+                [
+                    3512,
+                    6933
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "IFBL 66 3633 Hoogte 180 m",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3515,
+                    7025
+                ],
+                [
+                    3527,
+                    6954
+                ],
+                [
+                    5272,
+                    6936
+                ],
+                [
+                    5260,
+                    7045
+                ],
+                [
+                    5266,
+                    7045
+                ],
+                [
+                    3515,
+                    7025
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Vindplaats Fond de Morv\u00e1 orna . Moda",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3515,
+                    7025
+                ],
+                [
+                    3527,
+                    6954
+                ],
+                [
+                    5272,
+                    6936
+                ],
+                [
+                    5260,
+                    7045
+                ],
+                [
+                    5266,
+                    7045
+                ],
+                [
+                    3515,
+                    7025
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Vindplaats Fond de Herv\u00e4, Tlodave",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    4087,
+                    7027
+                ],
+                [
+                    4087,
+                    7072
+                ],
+                [
+                    5313,
+                    7107
+                ],
+                [
+                    5313,
+                    7110
+                ],
+                [
+                    5319,
+                    7057
+                ],
+                [
+                    4087,
+                    7027
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "R . Ryde in de richting van Pourde Bovine",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    4087,
+                    7027
+                ],
+                [
+                    4087,
+                    7072
+                ],
+                [
+                    5313,
+                    7107
+                ],
+                [
+                    5313,
+                    7110
+                ],
+                [
+                    5319,
+                    7057
+                ],
+                [
+                    4087,
+                    7027
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "R; eide inderichting var Poird\u00e9Boriue",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3518,
+                    7157
+                ],
+                [
+                    4933,
+                    7204
+                ],
+                [
+                    5171,
+                    7175
+                ],
+                [
+                    5177,
+                    7166
+                ],
+                [
+                    5174,
+                    7116
+                ],
+                [
+                    4069,
+                    7083
+                ],
+                [
+                    4042,
+                    7045
+                ],
+                [
+                    3535,
+                    7086
+                ],
+                [
+                    3518,
+                    7157
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "( Prov . / Depart . tuule u . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . , Belgik . . .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3518,
+                    7157
+                ],
+                [
+                    4933,
+                    7204
+                ],
+                [
+                    5171,
+                    7175
+                ],
+                [
+                    5177,
+                    7166
+                ],
+                [
+                    5174,
+                    7116
+                ],
+                [
+                    4069,
+                    7083
+                ],
+                [
+                    4042,
+                    7045
+                ],
+                [
+                    3535,
+                    7086
+                ],
+                [
+                    3518,
+                    7157
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "(Prov. / Depart. Suitzmacnchiin s palgin",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3532,
+                    7228
+                ],
+                [
+                    3535,
+                    7284
+                ],
+                [
+                    3901,
+                    7278
+                ],
+                [
+                    3895,
+                    7219
+                ],
+                [
+                    3535,
+                    7216
+                ],
+                [
+                    3532,
+                    7228
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Opmerkingen",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3532,
+                    7228
+                ],
+                [
+                    3535,
+                    7284
+                ],
+                [
+                    3901,
+                    7278
+                ],
+                [
+                    3895,
+                    7219
+                ],
+                [
+                    3535,
+                    7216
+                ],
+                [
+                    3532,
+                    7228
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Opmerkingen",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3532,
+                    7228
+                ],
+                [
+                    3535,
+                    7284
+                ],
+                [
+                    3901,
+                    7278
+                ],
+                [
+                    3895,
+                    7219
+                ],
+                [
+                    3535,
+                    7216
+                ],
+                [
+                    3532,
+                    7228
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Opmerkingen",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    3485,
+                    7302
+                ],
+                [
+                    3506,
+                    7393
+                ],
+                [
+                    5201,
+                    7396
+                ],
+                [
+                    5207,
+                    7396
+                ],
+                [
+                    5207,
+                    7322
+                ],
+                [
+                    3485,
+                    7302
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Levensvorm : P nP Epi Ch Hem Hel G Hyd Th",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3485,
+                    7302
+                ],
+                [
+                    3506,
+                    7393
+                ],
+                [
+                    5201,
+                    7396
+                ],
+                [
+                    5207,
+                    7396
+                ],
+                [
+                    5207,
+                    7322
+                ],
+                [
+                    3485,
+                    7302
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Levensvorm : P mP Epi Ch Hem Hel G. Hyd Th.",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3544,
+                    7473
+                ],
+                [
+                    5183,
+                    7481
+                ],
+                [
+                    5186,
+                    7481
+                ],
+                [
+                    5198,
+                    7411
+                ],
+                [
+                    3562,
+                    7402
+                ],
+                [
+                    3544,
+                    7473
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Groeivorm : Cu , cu , T , t , Wh , D , M , Th , tr , Sp , Pi , ( Tr . Brit . Bryol . Soc . 1 , 4 ,",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3544,
+                    7473
+                ],
+                [
+                    5183,
+                    7481
+                ],
+                [
+                    5186,
+                    7481
+                ],
+                [
+                    5198,
+                    7411
+                ],
+                [
+                    3562,
+                    7402
+                ],
+                [
+                    3544,
+                    7473
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Groeivorm : CH. CU, T. L. Wh. D, M, Th, tr, Sp, Pi, (Tr. Brit. Bryol. Soc. 1, 4.",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3818,
+                    7481
+                ],
+                [
+                    4110,
+                    7484
+                ],
+                [
+                    4081,
+                    7520
+                ],
+                [
+                    4087,
+                    7514
+                ],
+                [
+                    3830,
+                    7517
+                ],
+                [
+                    3818,
+                    7481
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "330 , 1950 ) .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3818,
+                    7481
+                ],
+                [
+                    4110,
+                    7484
+                ],
+                [
+                    4081,
+                    7520
+                ],
+                [
+                    4087,
+                    7514
+                ],
+                [
+                    3830,
+                    7517
+                ],
+                [
+                    3818,
+                    7481
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "330 , 1950).",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    3818,
+                    7481
+                ],
+                [
+                    4110,
+                    7484
+                ],
+                [
+                    4081,
+                    7520
+                ],
+                [
+                    4087,
+                    7514
+                ],
+                [
+                    3830,
+                    7517
+                ],
+                [
+                    3818,
+                    7481
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "330 , 1950 ) .",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    3479,
+                    7682
+                ],
+                [
+                    5198,
+                    7694
+                ],
+                [
+                    5198,
+                    7697
+                ],
+                [
+                    5221,
+                    7523
+                ],
+                [
+                    4573,
+                    7526
+                ],
+                [
+                    4146,
+                    7543
+                ],
+                [
+                    3768,
+                    7529
+                ],
+                [
+                    3485,
+                    7508
+                ],
+                [
+                    3479,
+                    7682
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "N 82 . 25 . B . . . Datum febrnam 19 . 8 2",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    3479,
+                    7682
+                ],
+                [
+                    5198,
+                    7694
+                ],
+                [
+                    5198,
+                    7697
+                ],
+                [
+                    5221,
+                    7523
+                ],
+                [
+                    4573,
+                    7526
+                ],
+                [
+                    4146,
+                    7543
+                ],
+                [
+                    3768,
+                    7529
+                ],
+                [
+                    3485,
+                    7508
+                ],
+                [
+                    3479,
+                    7682
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "N. 82.25. B Dalum febmrani 1932",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    1132,
+                    7565
+                ],
+                [
+                    1132,
+                    7641
+                ],
+                [
+                    2052,
+                    7641
+                ],
+                [
+                    2052,
+                    7565
+                ],
+                [
+                    1132,
+                    7565
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herbarium Nico KOEDAM",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1132,
+                    7565
+                ],
+                [
+                    1132,
+                    7641
+                ],
+                [
+                    2052,
+                    7641
+                ],
+                [
+                    2052,
+                    7565
+                ],
+                [
+                    1132,
+                    7565
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herbarium Nico KOEDAM",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    1132,
+                    7565
+                ],
+                [
+                    1132,
+                    7641
+                ],
+                [
+                    2052,
+                    7641
+                ],
+                [
+                    2052,
+                    7565
+                ],
+                [
+                    1132,
+                    7565
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Herbarium Nico KOEDAM",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    1338,
+                    7385
+                ],
+                [
+                    1338,
+                    7447
+                ],
+                [
+                    1916,
+                    7447
+                ],
+                [
+                    1916,
+                    7385
+                ],
+                [
+                    1338,
+                    7385
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "en Natuurbeheer",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1338,
+                    7385
+                ],
+                [
+                    1338,
+                    7447
+                ],
+                [
+                    1916,
+                    7447
+                ],
+                [
+                    1916,
+                    7385
+                ],
+                [
+                    1338,
+                    7385
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "en Natuurbeheer",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    1338,
+                    7385
+                ],
+                [
+                    1338,
+                    7447
+                ],
+                [
+                    1916,
+                    7447
+                ],
+                [
+                    1916,
+                    7385
+                ],
+                [
+                    1338,
+                    7385
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "en Natuurbeheer",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    973,
+                    7288
+                ],
+                [
+                    973,
+                    7361
+                ],
+                [
+                    2284,
+                    7361
+                ],
+                [
+                    2284,
+                    7288
+                ],
+                [
+                    973,
+                    7288
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Laboratorium voor Algemene Plantkunde",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    973,
+                    7288
+                ],
+                [
+                    973,
+                    7361
+                ],
+                [
+                    2284,
+                    7361
+                ],
+                [
+                    2284,
+                    7288
+                ],
+                [
+                    973,
+                    7288
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Laboratorium voor Algemene Plantkunde",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    973,
+                    7288
+                ],
+                [
+                    973,
+                    7361
+                ],
+                [
+                    2284,
+                    7361
+                ],
+                [
+                    2284,
+                    7288
+                ],
+                [
+                    973,
+                    7288
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Laboratorium voor Algemene Plantkunde",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    1173,
+                    7126
+                ],
+                [
+                    1173,
+                    7179
+                ],
+                [
+                    2093,
+                    7179
+                ],
+                [
+                    2093,
+                    7126
+                ],
+                [
+                    1173,
+                    7126
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "VRIJE UNIVERSITEIT BRUSSEL",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1173,
+                    7126
+                ],
+                [
+                    1173,
+                    7179
+                ],
+                [
+                    2093,
+                    7179
+                ],
+                [
+                    2093,
+                    7126
+                ],
+                [
+                    1173,
+                    7126
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "VRIJE UNIVERSITEIT BRUSSEL",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    1173,
+                    7126
+                ],
+                [
+                    1173,
+                    7179
+                ],
+                [
+                    2093,
+                    7179
+                ],
+                [
+                    2093,
+                    7126
+                ],
+                [
+                    1173,
+                    7126
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "VRIJE UNIVERSITEIT BRUSSEL",
+            "worker_version": "a8b0bee6-cd35-4d11-873c-a382f26bc75c"
+        },
+        {
+            "polygon": [
+                [
+                    2161,
+                    6907
+                ],
+                [
+                    2161,
+                    6975
+                ],
+                [
+                    2529,
+                    6975
+                ],
+                [
+                    2529,
+                    6907
+                ],
+                [
+                    2161,
+                    6907
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Rothm .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    2161,
+                    6907
+                ],
+                [
+                    2161,
+                    6975
+                ],
+                [
+                    2529,
+                    6975
+                ],
+                [
+                    2529,
+                    6907
+                ],
+                [
+                    2161,
+                    6907
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Cothin.",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    1129,
+                    6916
+                ],
+                [
+                    2452,
+                    6884
+                ],
+                [
+                    2458,
+                    6878
+                ],
+                [
+                    2438,
+                    6819
+                ],
+                [
+                    1152,
+                    6813
+                ],
+                [
+                    1129,
+                    6916
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "subs prionodes ( Anchos . )",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    1129,
+                    6916
+                ],
+                [
+                    2452,
+                    6884
+                ],
+                [
+                    2458,
+                    6878
+                ],
+                [
+                    2438,
+                    6819
+                ],
+                [
+                    1152,
+                    6813
+                ],
+                [
+                    1129,
+                    6916
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "subospr prionodes (Adids.)",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    858,
+                    6801
+                ],
+                [
+                    2594,
+                    6801
+                ],
+                [
+                    2585,
+                    6719
+                ],
+                [
+                    1182,
+                    6689
+                ],
+                [
+                    896,
+                    6731
+                ],
+                [
+                    878,
+                    6739
+                ],
+                [
+                    858,
+                    6801
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Nom : Pelayan . slims . bucet . q auha",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    858,
+                    6801
+                ],
+                [
+                    2594,
+                    6801
+                ],
+                [
+                    2585,
+                    6719
+                ],
+                [
+                    1182,
+                    6689
+                ],
+                [
+                    896,
+                    6731
+                ],
+                [
+                    878,
+                    6739
+                ],
+                [
+                    858,
+                    6801
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Nom : Palujaodium uelgoul.",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        },
+        {
+            "polygon": [
+                [
+                    864,
+                    6592
+                ],
+                [
+                    1462,
+                    6630
+                ],
+                [
+                    2249,
+                    6601
+                ],
+                [
+                    2240,
+                    6610
+                ],
+                [
+                    2320,
+                    6548
+                ],
+                [
+                    1194,
+                    6462
+                ],
+                [
+                    887,
+                    6536
+                ],
+                [
+                    864,
+                    6592
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Fam . : Polypoaliaceae .",
+            "worker_version": "3314991d-c1b3-4a8b-9074-eacefa832fac"
+        },
+        {
+            "polygon": [
+                [
+                    864,
+                    6592
+                ],
+                [
+                    1462,
+                    6630
+                ],
+                [
+                    2249,
+                    6601
+                ],
+                [
+                    2240,
+                    6610
+                ],
+                [
+                    2320,
+                    6548
+                ],
+                [
+                    1194,
+                    6462
+                ],
+                [
+                    887,
+                    6536
+                ],
+                [
+                    864,
+                    6592
+                ]
+            ],
+            "rotation_angle": 0,
+            "transcription": "Fam . : Polypodiacede",
+            "worker_version": "08a4ead7-4223-4294-a98a-9d131f812992"
+        }
+    ]
+}
